@@ -3,6 +3,15 @@ HeroesIIISwedish
 
 Heroes på svenska. Lite anvisningar:
 
+Installation
+============
+
+Man behöver inte alls paja sin nuvarande installation för att spela Heroes på svenska. Tanka bara ned zip-filen med .txt filerna och packa upp den i "Data"-mappen på din heroes-installation. Inga filer kommer behöva skrivas över. Om du inte längre vill spela med svensk text, ta bort filerna eller flytta dem till annan plats på datan.
+
+
+Allmänt om redigering
+=====================
+
 I textfilerna finns det några magiska tecken som måste vara kvar. Det handlar om	tab
 radbryt
 och följande symboler (kanske några till, men ni fattar) {}%s%d
