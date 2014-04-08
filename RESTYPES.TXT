@@ -1,8 +1,8 @@
-Wood
-Mercury
-Ore
-Sulfur
-Crystal
-Gems
-Gold
-Abandoned
+Trä
+Kvicksilver
+Malm
+Svavel
+Kristall
+Ädelstenar
+Guld
+Övergiven
