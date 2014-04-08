@@ -101,208 +101,208 @@ Sjöjungfrun har besökts +1"
 "
 Samlingsflaggan har besökts +1"
 "
-Grundläggande tur +1"
+Grundläggande Tur +1"
 "
-Avancerad tur +2"
+Avancerad Tur +2"
 "
-Bemästrad tur +3"
+Bemästrad Tur +3"
 "
 None"
 "
--%d Temporary until next battle"
+-%d Temporärt till nästa strid"
 "
-+%d Temporary until next battle"
++%d Temporärt till nästa strid"
 "
 Modets medaljong"
 "
 Inga tureffekter på förhäxad mark"
 "
-%s suppresses all luck"
+%s förtrycker all tur"
 "
-Creature of neutral town alignment on Clover Field +2"
+Varelse från en stad med neutral inriktning på klöverbeklädd mark +2"
 cMoraleInfo
 "{Good Morale}
 
-Good morale may give your armies extra attacks in combat."
+God moral kan ge dina arméer extra attacker i strid."
 "{Neutral Morale}
 
-Neutral morale means your armies will neither be blessed with extra attacks or freeze in combat."
+Neutral moral innebär att dina arméer varken kommer få extra attacker, eller riskera att förstenas av skräck i strid."
 "{Bad Morale}
 
-Bad morale may cause your armies to freeze in combat."
+Dålig moral kan få dina arméer att förstenas av skräck i strid."
 "%s
 
 
 {Current Morale Modifiers:}"
 "
-Still Eye of the Dragon +1"
+Drakens stilla öga +1"
 "
-Badge of Courage +1"
+Modets emblem +1"
 "
-Crest of Valor +1"
+Tapperhetens vapen +1"
 "
-Glyph of Gallantry +1"
+Tapperhetens symbol +1"
 "
-Idol of Fortune Visited +1"
+Avguden av välgång har besökts +1"
 "
-Buoy Visited +1"
+Bojen har besökts +1"
 "
-Oasis Visited +1"
+Oasen hhar besökts +1"
 "
-Temple Visited +1"
+Templet har besökts +1"
 "
-Temple Visited on Sunday +2"
+Templet har besökts på en söndag! +2"
 "
-Sepulcher Visited -1"
+Graven har besökts -1"
 "
-Shipwreck Visited -1"
+Det förlista skeppet har besökts -1"
 "
-Watering Hole Visited +1"
+Vattenhålet har besökts +1"
 "
-Derelict Ship Visited -1"
+Det herrelösa skeppet har besökts -1"
 "
-Rally Flag Visited +1"
+Samlingsflaggan har besökts +1"
 "
-Fountain of Youth Visited +1"
+Ungdomens källa har besökts +1"
 "
-Warrior Tomb Visited -3"
+Krigarens grav har besökts -3"
 "
-Basic Leadership +1"
+Grundläggande Ledarskap +1"
 "
-Advanced Leadership +2"
+Avancerat Ledarskap +2"
 "
-Expert Leadership +3"
+Bemästrat Ledarskap +3"
 "
 None"
 "
--%d Temporary until next battle"
+-%d Temporärt till nästa strid"
 "
-+%d Temporary until next battle"
++%d Temporärt till nästa strid"
 "
-Pendant of Courage +3"
+Modets medaljong +3"
 "
-No morale effects on cursed ground"
+Ingen moraleffekt på förhäxad mark"
 "
-Unaffected by morale"
+Oberörd av moral"
 "
-Troops of %d alignments %d"
+Trupper av %d inriktningar %d"
 "
-All troops of one alignment +1"
+ALla trupper är av en inriktning +1"
 "
-Undead in group -1"
+Odöda i gruppen -1"
 "
-%s in group +1"
+%s i gruppen +1"
 "
-Facing %s -1"
+Vänd mot %s -1"
 "
-%s suppresses good morale"
+%s Förtrycker god moral"
 "
-%s always have positive morale"
+%s har alltid god moral"
 "
-Spells %+d"
+Förtrollningar %+d"
 "
-On native terrain +1"
+På födelseterrängen +1"
 "
-Creature of good town alignment on Holy Ground +1"
+Varelse av god inriktning på Helig mark +1"
 "
-Creature of evil town alignment on Holy Ground -1"
+Varelse av ond inriktning på Helig mark -1"
 "
-Creature of evil town alignment on Evil Fog +1"
+Varelse av god inriktning på Ond dimma +1"
 "
-Creature of good town alignment on Evil Fog -1"
+Varelse av god inriktning på Ond dimma -1"
 cNewTurn
-"%s, you only have %d days left to capture a town or you will be banished from this land."
-"%s, this is your last day to capture a town or you will be banished from this land."
-"Astrologers proclaim month of the %s.
+"%s, du har bara %d dagar på dig att överta en stad, annars kommer du bli bannlyst från detta land."
+"%s, detta är sista dagen för dig att överta en stad, annars kommer du bli bannlyst från detta land."
+"Astrologer förutspår att detta är månaden för %s.
 
-All dwellings increase population."
-"Astrologers proclaim month of the %s.
+Alla bons population ökar."
+"Astrologer förutspår att detta är månaden för %s.
 
-%s population doubles!
+%s population fördubblas!
 
-All dwellings increase population."
-"Astrologers proclaim month of the PLAGUE!
+Alla bons population ökar."
+"Astrologer förutspår att detta är månaden för PESTEN!
 
-All populations are halved."
-"Astrologers proclaim week of the %s.
+Alla populationer halveras."
+"Astrologer förutspår att detta är månaden för %s.
 
-All dwellings increase population."
-"Astrologers proclaim week of the %s.
+Alla bons population ökar."
+"Astrologer förutspår att detta är veckan för %s.
 
-%s growth +5.
+%s Växer till +5.
 
-All dwellings increase population."
-"Astrologers proclaim week of the %s.
+Alla bons population ökar."
+"Astrologer förutspår att detta är veckan för %s.
 
-%s growth %+d.
-%s growth %+d.
+%s växer till %+d.
+%s växer till %+d.
 
-All dwellings increase in population."
+Alla bons population ökar."
 cMapSize
-Small
+Liten
 Medium
-Large
-Extra Large
+Stor
+Extra Stor
 cDifficulty
-Easy
+Lätt
 Normal
-Hard
+Svår
 Expert
-Impossible
+Omöjlig
 cDirections
-northern
-northeastern
-eastern
-southeastern
-southern
-southwestern
-western
-northwestern
-central
+norra
+nordöstra
+östra
+sydöstra
+södra
+sydvästra
+västra
+nordvästra
+centrala
 cRumourTerrainDescriptions
-in the dirt.
-under a desert drift.
-on a grassy plain.
-in the driven snow.
-in a murky swamp.
-in a parched wasteland.
-in an underground cavern
-buried in barren lava.
-in the murky depths of the ocean.
-under a rock.
+i smutsen.
+unden en sanddyn.
+på den gräsbeklädda ängen.
+i snödrivan.
+i ett mörkt träsk.
+i ödemarken.
+i den mörka underjorden.
+begravd i lava.
+i havets mörkaste djup.
+under en sten.
 cPersonality
-Warrior
-Builder
-Explorer
-Human
+Krigare
+Byggare
+Upptäckare
+Människa
 gArmySizeNames
-Few
-A few
-a few
-Several
-Several
-several
+Få
+Några Få
+några Få
+Flera
+Flera
+Flera
 Pack
-A pack of
-a pack of
-Lots
-Lots of
-lots of
-Horde
-A Horde of
-a horde of
-Throng
-A Throng of
-a throng of
-Swarm
-A Swarm of
-a swarm of
-Zounds
-Zounds...
-zounds of
+Ett Pack av
+ett Pack av
+Massor
+Massor av
+massor av
+Hord
+En Hord av
+en Hord av
+Vimmel
+Ett vimmel av
+ett vimmel av
+Svärm
+En svärm av
+en svärm av
+Helt sjukt många
+Helt sjukt många...
+Helt sjukt många
 Legion
-A Legion of
-a legion of
+En Legion av
+en Legion av
 const_wise_tree_price_text
  (+1 level)
  (+1 level for 2000 gold)
@@ -310,66 +310,66 @@ const_wise_tree_price_text
 HumanCPU
 "Human
 or CPU"
-Human
-CPU
+Människa
+Dator
 HandiText
-No Handicap
-Mild Handicap
-Severe Handicap
+Inget handikapp
+Milt handikapp
+Svårt handikapp
 AGRText
-Artifact
-Gold
-Resource
+Artefakt
+Guld
+Resurs
 gTownTypeNames
 Neutral
-Castle
-Rampart
-Tower
+Borg
+Fästningsvall
+Torn
 Inferno
-Necropolis
-Dungeon
-Stronghold
-Fortress
-Conflux
+Nekroborg
+Håla
+Fäste
+Fästning
+Sammanflöde
 NewLoadSave
-Select a Scenario to Play
-Load a Saved Game
-Save the Current Game
+Välj ett Scenario att Spela
+Ladda ett Sparat spel
+Spara ditt Nuvarande spel
 Army Speed Names
-Immobile
-Super Slow
-Ultra Slow
-Very Slow
-Extra Slow
-Slow
-Swift
-Extra Swift
-Very Swift
-Ultra Swift
-Super Swift
-Quick
-Extra Quick
-Very Quick
-Ultra Quick
-Super Quick
-Fast
-Extra Fast
-Very Fast
-Ultra Fast
-Super Fast
+Orörlig
+Superlångsam
+Ultralångsam
+Väldigt långsam
+Extra långsam
+Långsam
+Snabb
+Extra snabb
+Väldigt snabb
+Uldrasnabb
+Supersnabb
+Snabb
+Extra snabb
+Väldigt snabb
+Ultrasnabb
+Supersnabb
+Snabb
+Extra snabb
+Väldigt snabb
+Ultrasnabb
+Supersnabb
 Town Size Names
-Village
-Town
-City
-Capitol
+By
+Stad
+Storstad
+Huvudstad
 Moat Names
-Moat
-Bramble Hedge
-Land Mines
+Vallgrav
+Björnbärshäck
+Landminor
 Lava
-Boneyard
-Boiling Oil
-Spike Barrier
-Boiling Tar
-Moat
+Benfåra
+Kokande olja
+Spikbarriär
+Kokande tjära
+Vallgrav
 Insert all data before this line. Do not alter or delete this line.
