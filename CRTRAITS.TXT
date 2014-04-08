@@ -71,8 +71,7 @@ Arch Devil	Arch Devils	0	2	0	0	0	0	4500	5243	7115	1	0	200	17	26	28	30	40	0	0	3	8
 Skeleton	Skeletons	0	0	0	0	0	0	60	75	60	12	6	6	4	5	4	1	3	0	0	20	50	Undead.	IS_UNDEAD
 Skeleton Warrior	Skeleton Warriors	0	0	0	0	0	0	70	85	85	12	6	6	5	6	6	1	3	0	0	20	30	Undead.	IS_UNDEAD
 Walking Dead	Walking Dead	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Undead.	IS_UNDEAD
-Zombie	Zombies	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	"Undead.
-Disease."	IS_UNDEAD
+Zombie	Zombies	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	"Undead.Disease."	IS_UNDEAD
 Wight	Wights	0	0	0	0	0	0	200	231	252	7	0	18	5	7	7	3	5	0	0	12	25	Undead.  Regenerating.	FLYING_ARMY | IS_UNDEAD
 Wraith	Wraiths	0	0	0	0	0	0	230	252	315	7	0	18	7	7	7	3	5	0	0	12	20	"Undead.  Regenerating.Drains enemy mana."	FLYING_ARMY | IS_UNDEAD
 Vampire	Vampires	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	"Undead.No enemy retaliation."	FLYING_ARMY | IS_UNDEAD
@@ -89,8 +88,7 @@ Ghost Dragon	Ghost Dragons	0	1	0	0	0	0	3000	3228	4696	1	0	200	14	19	17	25	50	0	0
 Troglodyte	Troglodytes	0	0	0	0	0	0	50	73	59	14	7	5	4	4	3	1	3	0	0	20	50	Immune to Blinding.	0
 Infernal Troglodyte	Infernal Troglodytes	0	0	0	0	0	0	65	84	84	14	7	6	5	5	4	1	3	0	0	20	30	Immune to Blinding.	0
 Harpy	Harpies	0	0	0	0	0	0	130	140	154	8	0	14	6	6	5	1	4	0	0	16	30	Strike and return.	FLYING_ARMY
-Harpy Hag	Harpy Hags	0	0	0	0	0	0	170	196	238	8	0	14	9	6	6	1	4	0	0	16	25	"Strike and return.
-No enemy retaliation."	FLYING_ARMY
+Harpy Hag	Harpy Hags	0	0	0	0	0	0	170	196	238	8	0	14	9	6	6	1	4	0	0	16	25	"Strike and return.No enemy retaliation."	FLYING_ARMY
 Beholder	Beholders	0	0	0	0	0	0	250	240	336	7	0	22	5	9	7	3	5	12	0	12	25	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
 Evil Eye	Evil Eyes	0	0	0	0	0	0	280	245	367	7	0	22	7	10	8	3	5	24	0	12	20	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
 Medusa	Medusas	0	0	0	0	0	0	300	379	517	4	0	25	5	9	9	6	8	4	0	10	20	"No melee penalty.Stone gaze."	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
