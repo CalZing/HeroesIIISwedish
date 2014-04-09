@@ -8,10 +8,10 @@ Anfallsförmåga är en bonus som läggs till anfallsförmågan hos varje trupp 
 Försvarsförmåga är en bonus som läggs till försvarsförmågan hos varje trupp som din hjälte kontrollerar, så att de kan utstå mer skada i strid."
 "{Spell Power}
 
-Förtrollningskraften bestämmer styrkan på din förtrollning och hur länge den ska verka."
+Trollformelskraften bestämmer styrkan på din trollformel och hur länge den ska verka."
 "{Knowledge}
 
-Kunskapen bestämmer hur många förtrollningspoäng din hjälte kan ha. Under normala omständigheter har din hjälte 10 förtrollningspoäng för varje nivå kunskap."
+Kunskapen bestämmer hur många trollformelspoäng din hjälte kan ha. Under normala omständigheter har din hjälte 10 trollformelspoäng för varje nivå kunskap."
 gLuckText
 Förhäxad
 Jättedålig
@@ -81,11 +81,11 @@ När du har dålig tur slår dina arméer ibland oturslag mot fienden, vilket g�
 "
 Drakens stilla öga +1"
 "
-Klövern av välgång +1"
+Välgångens klöver +1"
 "
 Profetians kort +1"
 "
-Nyckelpigan av tur +1"
+Turens nyckelpiga +1"
 "
 Svandammen har besökts +2"
 "
@@ -105,7 +105,7 @@ Grundläggande Tur +1"
 "
 Avancerad Tur +2"
 "
-Professionell Tur +3"
+Sofistikerad Tur +3"
 "
 None"
 "
@@ -171,7 +171,7 @@ Grundläggande Ledarskap +1"
 "
 Avancerat Ledarskap +2"
 "
-Professionellt Ledarskap +3"
+Sofistikerat Ledarskap +3"
 "
 None"
 "
@@ -187,7 +187,7 @@ Oberörd av moral"
 "
 Trupper av %d inriktningar %d"
 "
-ALla trupper är av en inriktning +1"
+Alla trupper är av en inriktning +1"
 "
 Odöda i gruppen -1"
 "
@@ -215,29 +215,29 @@ cNewTurn
 "%s, detta är sista dagen för dig att överta en stad, annars kommer du bli bannlyst från detta land."
 "Astrologer utlyser att detta är månaden för %s.
 
-Alla bons population ökar."
+Alla bons populationer ökar."
 "Astrologer utlyser att detta är månaden för %s.
 
 Alla populationer med %s fördubblas!
 
-Alla bons population ökar."
+Alla bons populationer ökar."
 "Astrologer utlyser att detta är månaden för PESTEN!
 
 Alla populationer halveras."
 "Astrologer utlyser att detta är månaden för %s.
 
-Alla bons population ökar."
+Alla bons populationer ökar."
 "Astrologer utlyser att detta är veckan för %s.
 
 %s Växer med +5.
 
-Alla bons population ökar."
+Alla bons populationer ökar."
 "Astrologer utlyser att detta är veckan för %s.
 
 %s växer med %+d.
 %s växer med %+d.
 
-Alla bons population ökar."
+Alla bons populationer ökar."
 cMapSize
 Liten
 Medium
@@ -297,7 +297,7 @@ ett myller av
 Svärm
 En svärm av
 en svärm av
-Sjukt
+Helt sjukt många
 Helt sjukt många...
 Helt sjukt många
 Legion
