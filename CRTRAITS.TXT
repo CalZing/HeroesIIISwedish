@@ -79,7 +79,7 @@ Skeleton Warrior	Skeleton Warriors	0	0	0	0	0	0	70	85	85	12	6	6	5	6	6	1	3	0	0	20	
 Walking Dead	Walking Dead	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Undead.	IS_UNDEAD
 Zombie	Zombies	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	"Undead.
 Disease."	IS_UNDEAD
-Ond Ande	Onda Andar	0	0	0	0	0	0	200	231	252	7	0	18	5	7	7	3	5	0	0	12	25	Undead.  Regenerating.	FLYING_ARMY | IS_UNDEAD
+Gast	Gastar	0	0	0	0	0	0	200	231	252	7	0	18	5	7	7	3	5	0	0	12	25	Undead.  Regenerating.	FLYING_ARMY | IS_UNDEAD
 Vålnad	Vålnader	0	0	0	0	0	0	230	252	315	7	0	18	7	7	7	3	5	0	0	12	20	"Undead.  Regenerating.
 Drains enemy mana."	FLYING_ARMY | IS_UNDEAD
 Vampire	Vampires	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	"Undead.
