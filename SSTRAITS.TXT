@@ -70,62 +70,62 @@ Grundläggande Tur ökar din hjältes tur med 1."	"{Avancerad Tur}
 Avancerad Tur ökar din hjältes tur med 2."	"{Sofistikerad Tur}
 
 Sofistikerad Tur ökar din hjältes tur med 3."
-Ballistik	"{Basic Ballistics}
+Ballistik	"{Grundläggande Ballistik}
 
-Basic Ballistics gives control of the catapult to the hero, allowing aimed shots with increased damage."	"{Advanced Ballistics}
+Grundläggande Ballistik ger hjälten kontrollen över katapulten, vilket tillåter riktade skott med ökad skada."	"{Avancerad Ballistik}
 
-Advanced Ballistics gives control of the catapult to the hero, allowing two aimed shots with increased damage."	"{Expert Ballistics}
+Avancerad Ballistik ger hjälten kontrollen över katapulten, vilket tillåter två riktade skott med ökad skada."	"{Sofistikerad Ballistik}
 
-Expert Ballistics gives control of the catapult to the hero, allowing two aimed shots at maximum damage."
-Eagle Eye	"{Basic Eagle Eye}
+Sofistikerad Ballistik ger hjälten kontrollen över katapulten, vilket tillåter två riktade skott med maximal skada."
+Skarpögdhet	"{Grundläggande Skarpögdhet}
 
-Basic Eagle Eye gives your hero a 40% chance to learn any 1st or 2nd level spell used in combat."	"{Advanced Eagle Eye}
+Grundläggande Skarpögdhet ger hjälten 40% chans att lära sig trollformler av nivå 1 och 2 som kastas under strid."	"{Avancerad Skarpögdhet}
 
-Advanced Eagle Eye gives your hero a 50% chance to learn any spell up to 3rd level used in combat."	"{Expert Eagle Eye}
+Avancerad Skarpögdhet ger hjälten 50% chans att lära sig trollformler upp till nivå 3 som kastas under strid."	"{Sofistikerad Skarpögdhet}
 
-Expert Eagle Eye gives your hero a 60% chance to learn any spell up to 4th level used in combat."
-Necromancy	"{Basic Necromancy}
+Sofistikerad Skarpögdhet ger hjälten 60% chans att lära sig trollformler upp till nivå 4 som kastas under strid."
+Dödsmagi	"{Grundläggande Dödsmagi}
 
-Basic Necromancy allows 10% of the creatures killed in combat to be brought back from the dead as Skeletons."	"{Advanced Necromancy}
+Grundläggande Dödsmagi låter 10% av alla varelser som dödats i en strid uppstå som Skelett."	"{Avancerad Dödsmagi}
 
-Advanced Necromancy allows 20% of the creatures killed in combat to be brought back from the dead as Skeletons."	"{Expert Necromancy}
+Avancerad Dödsmagi låter 20% av alla varelser som dödats i en strid uppstå som Skelett."	"{Sofistikerad Dödsmagi}
 
-Expert Necromancy allows 30% of the creatures killed in combat to be brought back from the dead as Skeletons."
-Estates	"{Basic Estates}
+Sofistikerad Dödsmagi låter 30% av alla varelser som dödats i en strid uppstå som Skelett."
+Egendomar	"{Grundläggande Egendomar}
 
-With Eestates, a hero contributes 125 gold per day to your cause."	"{Advanced Estates}
+Med Grundläggande Egendomar tjänar din hjälte 125 guld om dagen."	"{Avancerade Egendomar}
 
-With Estates, a hero contributes 250 gold per day to your cause."	"{Expert Estates}
+Med Avancerade Egendomar tjänar din hjälte 250 guld om dagen."	"{Sofistikerad Egendomar}
 
-With Estates, a hero contributes 500 gold per day to your cause."
-Fire Magic	"{Basic Fire Magic}
+Med Sofistikerade Egendomar tjänar din hjälte 500 guld om dagen."
+Eldmagi	"{Grundläggande Eldmagi}
 
-Basic Fire Magic allows your hero to cast Fire spells at reduced cost."	"{Advanced Fire Magic}
+Grundläggande Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad."	"{Avancerad Eldmagi}
 
-Advanced Fire Magic allows your hero to cast Fire spells at reduced cost and increased effectiveness."	"{Expert Fire Magic}
+Avancerad Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Eldmagi}
 
-Expert Fire Magic allows your hero to cast Fire spells at reduced cost and maximum effectiveness."
-Air Magic	"{Basic Air Magic}
+Sofistikerad Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad och med maximal effektivitet."
+Luftmagi	"{Grundläggande Luftmagi}
 
-Basic Air Magic allows your hero to cast Air spells at reduced cost."	"{Advanced Air Magic}
+Grundläggande Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad."	"{Avancerad Luftmagi}
 
-Advanced Air Magic allows your hero to cast Air spells at reduced cost and increased effectiveness."	"{Expert Air Magic}
+Avancerad Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Luftmagi}
 
-Expert Air Magic allows your hero to cast Air spells at reduced cost and maximum effectiveness."
-Water Magic	"{Basic Water Magic}
+Sofistikerad Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad och med maximal effektivitet."
+Vattenmagi	"{Grundläggande Vattenmagi}
 
-Basic Water Magic allows your hero to cast Water spells at reduced cost."	"{Advanced Water Magic}
+Grundläggande Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad."	"{Avancerad Vattenmagi}
 
-Advanced Water Magic allows your hero to cast Water spells at reduced cost and increased effectiveness."	"{Expert Water Magic}
+Avancerad Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Vattenmagi}
 
-Expert Water Magic allows your hero to cast Water spells at reduced cost and maximum effectiveness."
-Earth Magic	"{Basic Earth Magic}
+Sofistikerad Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad och med maximal effektivitet."
+Jordmagi	"{Grundläggande Jordmagi}
 
-Basic Earth Magic allows your hero to cast Earth spells at reduced cost."	"{Advanced Earth Magic}
+Grundläggande Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad."	"{Grundläggande Jordmagi}
 
-Advanced Earth Magic allows your hero to cast Earth spells at reduced cost and increased effectiveness."	"{Expert Earth Magic}
+Avancerad Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Jordmagi}
 
-Expert Earth Magic allows your hero to cast Earth spells at reduced cost and maximum effectiveness."
+Sofistikerad Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad och med maximal effektivitet."
 Scholar	"{Basic Scholar}
 
 Basic Scholar allows heroes to teach each other 1st and 2nd level spells, effectively trading spells between spell books."	"{Advanced Scholar}
