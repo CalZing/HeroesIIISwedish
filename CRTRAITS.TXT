@@ -1,17 +1,17 @@
 Name		Cost															Damage				Adv. Map			
 Singular	Plural	Wood	Mercury	Ore	Sulfur	Crystal	Gems	Gold	Fight Value	AI Value	Growth	Horde Growth	Hit Points	Speed	Attack	Defense	Low	High	Shots	Spells	Low	High	Ability Text	"Attributes (Reference only, do not change these values)"
-Pikeman	Pikemen	0	0	0	0	0	0	60	100	80	14	0	10	4	4	5	1	3	0	0	20	50		0
-Halberdier	Halberdiers	0	0	0	0	0	0	75	115	115	14	0	10	5	6	5	2	3	0	0	20	30		0
-Archer	Archers	0	0	0	0	0	0	100	115	126	9	0	10	4	6	3	2	3	12	0	16	30		SHOOTING_ARMY
-Marksman	Marksmen	0	0	0	0	0	0	150	115	184	9	0	10	6	6	3	2	3	24	0	16	25	Shoots twice.	const_two_attacks | SHOOTING_ARMY
-Griffin	Griffins	0	0	0	0	0	0	200	324	351	7	3	25	6	8	8	3	6	0	0	12	25	Retaliates twice.	DOUBLE_WIDE | FLYING_ARMY
-Royal Griffin	Royal Griffins	0	0	0	0	0	0	240	364	448	7	3	25	9	9	9	3	6	0	0	12	20	Unlimited retaliations.	DOUBLE_WIDE|FLYING_ARMY
-Swordsman	Swordsmen	0	0	0	0	0	0	300	445	445	4	0	35	5	10	12	6	9	0	0	10	20		0
-Crusader	Crusaders	0	0	0	0	0	0	400	588	588	4	0	35	6	12	12	7	10	0	0	10	16	Strikes twice.	const_two_attacks
-Monk	Monks	0	0	0	0	0	0	400	485	485	3	0	30	5	12	7	10	12	12	0	8	16		SHOOTING_ARMY
-Zealot	Zealots	0	0	0	0	0	0	450	500	750	3	0	30	7	12	10	10	12	24	0	8	12	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
-Cavalier	Cavaliers	0	0	0	0	0	0	1000	1668	1946	2	0	100	7	15	15	15	25	0	0	5	12	Jousting bonus.	DOUBLE_WIDE | const_jousting
-Champion	Champions	0	0	0	0	0	0	1200	1800	2100	2	0	100	9	16	16	20	25	0	0	5	10	Jousting bonus.	DOUBLE_WIDE | const_jousting
+Pikenerare	Pikenerare	0	0	0	0	0	0	60	100	80	14	0	10	4	4	5	1	3	0	0	20	50		0
+hillebardjär	hillebardjärer	0	0	0	0	0	0	75	115	115	14	0	10	5	6	5	2	3	0	0	20	30		0
+Bågskytt	Bågskyttar	0	0	0	0	0	0	100	115	126	9	0	10	4	6	3	2	3	12	0	16	30		SHOOTING_ARMY
+Prickskytt	Prickskyttar	0	0	0	0	0	0	150	115	184	9	0	10	6	6	3	2	3	24	0	16	25	Shoots twice.	const_two_attacks | SHOOTING_ARMY
+Grip	Gripar	0	0	0	0	0	0	200	324	351	7	3	25	6	8	8	3	6	0	0	12	25	Retaliates twice.	DOUBLE_WIDE | FLYING_ARMY
+Kungagrip	Kungagripar	0	0	0	0	0	0	240	364	448	7	3	25	9	9	9	3	6	0	0	12	20	Unlimited retaliations.	DOUBLE_WIDE|FLYING_ARMY
+Fäktare	Fäktare	0	0	0	0	0	0	300	445	445	4	0	35	5	10	12	6	9	0	0	10	20		0
+Korsfarare	Korsfarare	0	0	0	0	0	0	400	588	588	4	0	35	6	12	12	7	10	0	0	10	16	Strikes twice.	const_two_attacks
+Munk	Munkar	0	0	0	0	0	0	400	485	485	3	0	30	5	12	7	10	12	12	0	8	16		SHOOTING_ARMY
+Selot	Seloter	0	0	0	0	0	0	450	500	750	3	0	30	7	12	10	10	12	24	0	8	12	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
+Ryttare	Ryttare	0	0	0	0	0	0	1000	1668	1946	2	0	100	7	15	15	15	25	0	0	5	12	Jousting bonus.	DOUBLE_WIDE | const_jousting
+Tornerare	Tornerare	0	0	0	0	0	0	1200	1800	2100	2	0	100	9	16	16	20	25	0	0	5	10	Jousting bonus.	DOUBLE_WIDE | const_jousting
 Ängel	Änglar	0	0	0	0	0	1	3000	3585	5019	1	0	200	12	20	20	50	50	0	0	4	10	Hates Devils.	FLYING_ARMY | const_raises_morale | KING_2
 Ärkeängel	Ärkeänglar	0	0	0	0	0	3	5000	6033	8776	1	0	250	18	30	30	50	50	0	1	3	8	"+1 morale.  Hates Devils.
 Resurrects allies."	DOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2
@@ -24,10 +24,10 @@ Dvärg	Dvärgar	0	0	0	0	0	0	120	194	138	8	4	20	3	6	7	2	4	0	0	16	30	20% magic res
 Stridsdvärg	Stridsdvärgar	0	0	0	0	0	0	150	209	209	8	4	20	5	7	7	2	4	0	0	16	25	40% magic resistance.	0
 Skogsalv	Skogsalver	0	0	0	0	0	0	200	195	234	7	0	15	6	9	5	3	5	24	0	12	25		SHOOTING_ARMY
 Storalv	Storalver	0	0	0	0	0	0	225	195	331	7	0	15	7	9	5	3	5	24	0	12	20	Shoots twice.	SHOOTING_ARMY | const_two_attacks
-Pegasus	Pegasi	0	0	0	0	0	0	250	407	518	5	0	30	8	9	8	5	9	0	0	10	20	Magic damper.	DOUBLE_WIDE | FLYING_ARMY
-Silver Pegasus	Silver Pegasi	0	0	0	0	0	0	275	418	532	5	0	30	12	9	10	5	9	0	0	10	16	Magic damper.	DOUBLE_WIDE | FLYING_ARMY
-Dendroid Guard	Dendroid Guards	0	0	0	0	0	0	350	690	517	3	2	55	3	9	12	10	14	0	0	8	16	Binds enemies in place.	0
-Dendroid Soldier	Dendroid Soldiers	0	0	0	0	0	0	425	765	803	3	2	65	4	9	12	10	14	0	0	8	12	Binds enemies in place.	0
+Pegas	Pegaser	0	0	0	0	0	0	250	407	518	5	0	30	8	9	8	5	9	0	0	10	20	Magic damper.	DOUBLE_WIDE | FLYING_ARMY
+Silverpegas	Silverpegaser	0	0	0	0	0	0	275	418	532	5	0	30	12	9	10	5	9	0	0	10	16	Magic damper.	DOUBLE_WIDE | FLYING_ARMY
+Dendroidvakt	Dendroidvakter	0	0	0	0	0	0	350	690	517	3	2	55	3	9	12	10	14	0	0	8	16	Binds enemies in place.	0
+Dendroidsoldat	Dendroidsoldater	0	0	0	0	0	0	425	765	803	3	2	65	4	9	12	10	14	0	0	8	12	Binds enemies in place.	0
 Enhörning	Enhörningar	0	0	0	0	0	0	850	1548	1806	2	0	90	7	15	14	18	22	0	0	5	12	Aura of magic resistance.  Blinding attack.	DOUBLE_WIDE
 Stridssenhörning	Stridsenhörningar	0	0	0	0	0	0	950	1740	2030	2	0	110	9	15	14	18	22	0	0	5	10	Aura of magic resistance. Blinding attack.	DOUBLE_WIDE
 Gröndrake	Gröndrakar	0	0	0	0	1	0	2400	3654	4872	1	0	180	10	18	18	40	50	0	0	4	10	Immune to spell levels 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
@@ -39,36 +39,36 @@ Småtomte	Småtomtar	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
 Mästarsmåtomte	Mästarsmåtomtar	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Ranged attacker.	SHOOTING_ARMY
 Stenskråpuk	Stenskråpukar	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30		FLYING_ARMY
 Obsidianskråpuk	Obsidianskråpukar	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25		FLYING_ARMY
-Stone Golem	Stone Golems	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Damage from spells reduced 50%.	0
-Iron Golem	Iron Golems	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Damage from spells reduced 75%.	0
-Mage	Magi	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	"No melee penalty.
+Stengolem	Stengolemer	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Damage from spells reduced 50%.	0
+Järngolem	Järngolemer	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Damage from spells reduced 75%.	0
+Magiker	Magiker	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	"No melee penalty.
 Hero spells cost less."	SHOOTING_ARMY | const_no_melee_penalty
-Arch Mage	Arch Magi	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	"No melee penalty.
+Ärkemagiker	Ärkemagiker	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	"No melee penalty.
 Hero spells cost less."	SHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty
-Lampande	Lampandar	0	0	0	0	0	0	550	680	884	3	0	40	7	12	12	13	16	0	0	8	16	Hates Efreet.	FLYING_ARMY
-Mästarlampande	Mästarlampandar	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	"Spellcaster: Random benefit.
+Djinn	Djinner	0	0	0	0	0	0	550	680	884	3	0	40	7	12	12	13	16	0	0	8	16	Hates Efreet.	FLYING_ARMY
+Mästardjinn	Mästardjinner	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	"Spellcaster: Random benefit.
 Hates Efreet."	FLYING_ARMY
-Naga	Nagas	0	0	0	0	0	0	1100	2016	2016	2	0	110	5	16	13	20	20	0	0	5	12	No enemy retaliation.	DOUBLE_WIDE
-Naga Queen	Naga Queens	0	0	0	0	0	0	1600	2485	2840	2	0	110	7	16	13	30	30	0	0	5	10	No enemy retaliation.	DOUBLE_WIDE
+Naga	Naga	0	0	0	0	0	0	1100	2016	2016	2	0	110	5	16	13	20	20	0	0	5	12	No enemy retaliation.	DOUBLE_WIDE
+Nagadrottning	Nagadrottningar	0	0	0	0	0	0	1600	2485	2840	2	0	110	7	16	13	30	30	0	0	5	10	No enemy retaliation.	DOUBLE_WIDE
 Jätte	Jättar	0	0	0	0	0	1	2000	3146	3718	1	0	150	7	19	16	40	60	0	0	4	10	Mind spell immunity	KING_3
 Titan	Titaner	0	0	0	0	0	2	5000	5000	7500	1	0	300	11	24	24	40	60	24	0	3	8	No melee penalty. Mind spell immunity.  Hates Black Dragons.	SHOOTING_ARMY | const_no_melee_penalty | KING_3
                                    																								
 																								
 																								
-Imp	Imps	0	0	0	0	0	0	50	50	50	15	8	4	5	2	3	1	2	0	0	20	50		0
-Familiar	Familiars	0	0	0	0	0	0	60	60	60	15	8	4	7	4	4	1	2	0	0	20	30	Magic channel.	0
-Gog	Gogs	0	0	0	0	0	0	125	145	159	8	0	13	4	6	4	2	4	12	0	16	30		SHOOTING_ARMY
-Magog	Magogs	0	0	0	0	0	0	175	210	240	8	0	13	6	7	4	2	4	24	0	16	25	Fireball attack.	SHOOTING_ARMY
+Imp	Impar	0	0	0	0	0	0	50	50	50	15	8	4	5	2	3	1	2	0	0	20	50		0
+Bjära	Bjäror	0	0	0	0	0	0	60	60	60	15	8	4	7	4	4	1	2	0	0	20	30	Magic channel.	0
+Gog	Gogar	0	0	0	0	0	0	125	145	159	8	0	13	4	6	4	2	4	12	0	16	30		SHOOTING_ARMY
+Magog	Magogar	0	0	0	0	0	0	175	210	240	8	0	13	6	7	4	2	4	24	0	16	25	Fireball attack.	SHOOTING_ARMY
 Helveteshund	Helveteshundar	0	0	0	0	0	0	200	275	357	5	3	25	7	10	6	2	7	0	0	12	25		DOUBLE_WIDE | FLYING_ARMY
 Cerberus	Cerberi	0	0	0	0	0	0	250	308	392	5	3	25	8	10	8	2	7	0	0	12	20	"3-headed attack.
 Enemies cannot retaliate."	DOUBLE_WIDE | FLYING_ARMY
 Demon	Demoner	0	0	0	0	0	0	250	445	445	4	0	35	5	10	10	7	9	0	0	10	20		0
 Behornad Demon	Behornade Demoner	0	0	0	0	0	0	270	480	480	4	0	40	6	10	10	7	9	0	0	10	16		0
-Pit Fiend	Pit Fiends	0	0	0	0	0	0	500	765	765	3	0	45	6	13	13	13	17	0	0	8	16		0
-Pit Lord	Pit Lords	0	0	0	0	0	0	700	1071	1224	3	0	45	7	13	13	13	17	0	1	8	12	"Summon demons from
+Avgrundsbövel	Avgrundsbövlar	0	0	0	0	0	0	500	765	765	3	0	45	6	13	13	13	17	0	0	8	16		0
+Avgrundsmästare	Avgrundsmästare	0	0	0	0	0	0	700	1071	1224	3	0	45	7	13	13	13	17	0	1	8	12	"Summon demons from
 a dead ally."	0
-Efreeti	Efreet	0	0	0	0	0	0	900	1413	1670	2	0	90	9	16	12	16	24	0	0	5	12	Immune to fire.  Hates Genies.	0
-Efreet Sultan	Efreet Sultans	0	0	0	0	0	0	1100	1584	1848	2	0	90	13	16	14	16	24	0	0	5	10	Fire shield.  Immune to fire.  Hates Genies.	0
+Ifrit	Ifriter	0	0	0	0	0	0	900	1413	1670	2	0	90	9	16	12	16	24	0	0	5	12	Immune to fire.  Hates Genies.	0
+Ifritsultan	Ifritsultaner	0	0	0	0	0	0	1100	1584	1848	2	0	90	13	16	14	16	24	0	0	5	10	Fire shield.  Immune to fire.  Hates Genies.	0
 Djävul	Djävlar	0	1	0	0	0	0	2700	3759	5101	1	0	160	11	19	21	30	40	0	0	4	10	-1 enemy luck. No enemy retaliation. Hates Angels.	FLYING_ARMY | KING_2
 Ärkedjävul	Ärkedjävlar	0	2	0	0	0	0	4500	5243	7115	1	0	200	17	26	28	30	40	0	0	3	8	-1 enemy luck. No enemy retaliation. Hates Angels.	FLYING_ARMY | KING_2
 																								
@@ -76,8 +76,8 @@ Djävul	Djävlar	0	1	0	0	0	0	2700	3759	5101	1	0	160	11	19	21	30	40	0	0	4	10	-1 e
 																								
 Skelett	Skelett	0	0	0	0	0	0	60	75	60	12	6	6	4	5	4	1	3	0	0	20	50	Undead.	IS_UNDEAD
 Skelettkrigare	Skelettkrigare	0	0	0	0	0	0	70	85	85	12	6	6	5	6	6	1	3	0	0	20	30	Undead.	IS_UNDEAD
-Draug	Draugar	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Undead.	IS_UNDEAD
-Zombie	Zombier	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	"Undead.
+Dödgångare	Dödgångare	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Undead.	IS_UNDEAD
+Draug	Draugar	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	"Undead.
 Disease."	IS_UNDEAD
 Gast	Gastar	0	0	0	0	0	0	200	231	252	7	0	18	5	7	7	3	5	0	0	12	25	Undead.  Regenerating.	FLYING_ARMY | IS_UNDEAD
 Vålnad	Vålnader	0	0	0	0	0	0	230	252	315	7	0	18	7	7	7	3	5	0	0	12	20	"Undead.  Regenerating.
@@ -86,8 +86,8 @@ Vampyr	Vampyrer	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	"Undead.
 No enemy retaliation."	FLYING_ARMY | IS_UNDEAD
 Vampyrgreve	Vampyrgrevar	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	"Undead.  Drains life.
 No enemy retaliation."	FLYING_ARMY | IS_UNDEAD
-Lich	Liches	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
-Power Lich	Power Liches	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
+Häxmästare	Häxmästare	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
+Storhäxmästare	Storhäxmästare	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
 Svartriddare	Svartriddare	0	0	0	0	0	0	1200	1753	2087	2	0	120	7	16	16	15	30	0	0	5	12	Undead.  Curses enemies.	DOUBLE_WIDE | IS_UNDEAD
 Skräckriddare	Skräckriddare	0	0	0	0	0	0	1500	2029	2382	2	0	120	9	18	18	15	30	0	0	5	10	"Undead.  Curses enemies.  
 Death Blow attack."	DOUBLE_WIDE | IS_UNDEAD
@@ -98,8 +98,8 @@ Spökdrake	Spökdrakar	0	1	0	0	0	0	3000	3228	4696	1	0	200	14	19	17	25	50	0	0	3	8
 																								
 Troglodyte	Troglodytes	0	0	0	0	0	0	50	73	59	14	7	5	4	4	3	1	3	0	0	20	50	Immune to Blinding.	0
 Infernal Troglodyte	Infernal Troglodytes	0	0	0	0	0	0	65	84	84	14	7	6	5	5	4	1	3	0	0	20	30	Immune to Blinding.	0
-Harpyja	Harpies	0	0	0	0	0	0	130	140	154	8	0	14	6	6	5	1	4	0	0	16	30	Strike and return.	FLYING_ARMY
-Vildvittra	Harpy Hags	0	0	0	0	0	0	170	196	238	8	0	14	9	6	6	1	4	0	0	16	25	"Strike and return.
+Harpyja	Harpyjor	0	0	0	0	0	0	130	140	154	8	0	14	6	6	5	1	4	0	0	16	30	Strike and return.	FLYING_ARMY
+Vildvittra	Vildvittror	0	0	0	0	0	0	170	196	238	8	0	14	9	6	6	1	4	0	0	16	25	"Strike and return.
 No enemy retaliation."	FLYING_ARMY
 Beholder	Beholders	0	0	0	0	0	0	250	240	336	7	0	22	5	9	7	3	5	12	0	12	25	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
 Evil Eye	Evil Eyes	0	0	0	0	0	0	280	245	367	7	0	22	7	10	8	3	5	24	0	12	20	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
