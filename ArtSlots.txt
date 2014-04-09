@@ -7,13 +7,13 @@ Torso
 Höger Rind
 Vänster Ring
 Fötter
-Övrigt 1
-Övrigt 2
-Övrigt 3
-Övrigt 4
+Diverse 1
+Diverse 2
+Diverse 3
+Diverse 4
 Krigsmaskin 1
 Krigsmaskin 2
 Krigsmaskin 3
 Krigsmaskin 4
 Trollformelsbok
-Övrigt 5
+Diverse 5
