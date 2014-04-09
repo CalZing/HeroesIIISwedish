@@ -35,41 +35,41 @@ Grundläggande Medling låter dig förhandla med monster som är svagare än din
 Avancerad Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 40%."	"{Sofistikerad Medling}
 
 Sofistikerad Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 60%."
-Navigation	"{Basic Navigation}
+Navigation	"{Grundläggande Navigation}
 
-Basic Navigation increases your hero's movement points at sea by 50%."	"{Advanced Navigation}
+Grundläggande Navigation ökar din hjältes förflyttningspoäng över havet med 50%."	"{Avancerad Navigation}
 
-Advanced Navigation doubles your hero's movement points at sea."	"{Expert Navigation}
+Avancerad Navigation fördubblar din hjältes förflyttningspoäng över havet."	"{Sofistikerad Navigation}
 
-Expert Navigation increases your hero's movement points at sea by 150%."
-Leadership	"{Basic Leadership}
+Sofistikerad Navigation ökar din hjältes förflyttningspoäng över havet med 150%."
+Ledarskap	"{Grundläggande Ledarskap}
 
-Basic Leadership increases your hero's troops' morale by 1."	"{Advanced Leadership}
+Grundläggande Ledarskap ökar dina truppers moral med 1."	"{Avancerat Ledarskap}
 
-Advanced Leadership increases your hero's troops' morale by 2."	"{Expert Leadership}
+Avancerat Ledarskap ökar dina truppers moral med 2."	"{Sofistikerat Ledarskap}
 
-Expert Leadership increases your hero's troops' morale by 3."
-Wisdom	"{Basic Wisdom}
+Sofistikerat Ledarskap ökar dina truppers moral med 3."
+Visdom	"{Grundläggande Visdom}
 
-Basic Wisdom allows your hero to learn third level spells."	"{Advanced Wisdom}
+Grundläggande Visdom låter din hjälte lära sig trollformler av tredje nivån."	"{Avancerad Visdom}
 
-Advanced Wisdom allows your hero to learn fourth level spells."	"{Expert Wisdom}
+Avancerad Visdom låter din hjälte lära sig trollformler av fjärde nivån."	"{Sofistikerad Visdom}
 
-Expert Wisdom allows your hero to learn fifth level spells."
-Mysticism	"{Basic Mysticism}
+Visdom låter din hjälte lära sig trollformler av femte nivån."
+Mystik	"{Grundläggande Mystik}
 
-Basic Mysticism allows your hero to regenerate 2 spell points per day."	"{Advanced Mysticism}
+Grundläggande Mystik låter din hjälte återhämta 2 trollformelspoäng per dag."	"{Avancerad Mystik}
 
-Advanced Mysticism allows your hero to regenerate 3 spell points per day."	"{Expert Mysticism}
+Avancerad Mystik låter din hjälte återhämta 3 trollformelspoäng per dag."	"{Sofistikerad Mystik}
 
-Expert Mysticism allows your hero to regenerate 4 spell points per day."
-Luck	"{Basic Luck}
+Sofistikerad Mystik låter din hjälte återhämta 4 trollformelspoäng per dag."
+Tur	"{Grundläggande Tur}
 
-Basic Luck increases your hero's luck by 1."	"{Advanced Luck}
+Grundläggande Tur ökar din hjältes tur med 1."	"{Avancerad Tur}
 
-Advanced Luck increases your hero's luck by 2."	"{Expert Luck}
+Avancerad Tur ökar din hjältes tur med 2."	"{Sofistikerad Tur}
 
-Expert Luck increases your hero's luck by 3."
+Sofistikerad Tur ökar din hjältes tur med 3."
 Ballistics	"{Basic Ballistics}
 
 Basic Ballistics gives control of the catapult to the hero, allowing aimed shots with increased damage."	"{Advanced Ballistics}
