@@ -1,5 +1,5 @@
 	Description		
-Name	Basic	Advanced	Expert
+Name	Grundläggande	Avancerad	Sofistikerad
 Pathfinding	"{Basic Pathfinding}
 
 Basic Pathfinding reduces the movement penalty for rough terrain by 25%."	"{Advanced Pathfinding}
