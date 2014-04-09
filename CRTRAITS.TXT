@@ -74,25 +74,25 @@ Djävul	Djävlar	0	1	0	0	0	0	2700	3759	5101	1	0	160	11	19	21	30	40	0	0	4	10	-1 e
 																								
 																								
 																								
-Skeleton	Skeletons	0	0	0	0	0	0	60	75	60	12	6	6	4	5	4	1	3	0	0	20	50	Undead.	IS_UNDEAD
-Skeleton Warrior	Skeleton Warriors	0	0	0	0	0	0	70	85	85	12	6	6	5	6	6	1	3	0	0	20	30	Undead.	IS_UNDEAD
-Walking Dead	Walking Dead	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Undead.	IS_UNDEAD
-Draug	Draugar	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	"Undead.
+Skelett	Skelett	0	0	0	0	0	0	60	75	60	12	6	6	4	5	4	1	3	0	0	20	50	Undead.	IS_UNDEAD
+Skelettkrigare	Skelettkrigare	0	0	0	0	0	0	70	85	85	12	6	6	5	6	6	1	3	0	0	20	30	Undead.	IS_UNDEAD
+Draug	Draugar	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Undead.	IS_UNDEAD
+Zombie	Zombier	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	"Undead.
 Disease."	IS_UNDEAD
 Gast	Gastar	0	0	0	0	0	0	200	231	252	7	0	18	5	7	7	3	5	0	0	12	25	Undead.  Regenerating.	FLYING_ARMY | IS_UNDEAD
 Vålnad	Vålnader	0	0	0	0	0	0	230	252	315	7	0	18	7	7	7	3	5	0	0	12	20	"Undead.  Regenerating.
 Drains enemy mana."	FLYING_ARMY | IS_UNDEAD
-Vampire	Vampires	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	"Undead.
+Vampyr	Vampyrer	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	"Undead.
 No enemy retaliation."	FLYING_ARMY | IS_UNDEAD
-Vampire Lord	Vampire Lords	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	"Undead.  Drains life.
+Vampyrgreve	Vampyrgrevar	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	"Undead.  Drains life.
 No enemy retaliation."	FLYING_ARMY | IS_UNDEAD
 Lich	Liches	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
 Power Lich	Power Liches	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
 Svartriddare	Svartriddare	0	0	0	0	0	0	1200	1753	2087	2	0	120	7	16	16	15	30	0	0	5	12	Undead.  Curses enemies.	DOUBLE_WIDE | IS_UNDEAD
 Skräckriddare	Skräckriddare	0	0	0	0	0	0	1500	2029	2382	2	0	120	9	18	18	15	30	0	0	5	10	"Undead.  Curses enemies.  
 Death Blow attack."	DOUBLE_WIDE | IS_UNDEAD
-Bone Dragon	Bone Dragons	0	0	0	0	0	0	1800	2420	3388	1	0	150	9	17	15	25	50	0	0	4	10	Undead.  -1 to enemy morale.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
-Ghost Dragon	Ghost Dragons	0	1	0	0	0	0	3000	3228	4696	1	0	200	14	19	17	25	50	0	0	3	8	Undead.  -1 to enemy morale.  Attack ages enemies.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
+Bendrake	Bendrakar	0	0	0	0	0	0	1800	2420	3388	1	0	150	9	17	15	25	50	0	0	4	10	Undead.  -1 to enemy morale.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
+Spökdrake	Spökdrakar	0	1	0	0	0	0	3000	3228	4696	1	0	200	14	19	17	25	50	0	0	3	8	Undead.  -1 to enemy morale.  Attack ages enemies.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
 																								
 																								
 																								
@@ -105,7 +105,7 @@ Beholder	Beholders	0	0	0	0	0	0	250	240	336	7	0	22	5	9	7	3	5	12	0	12	25	No melee 
 Evil Eye	Evil Eyes	0	0	0	0	0	0	280	245	367	7	0	22	7	10	8	3	5	24	0	12	20	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
 Medusa	Medusas	0	0	0	0	0	0	300	379	517	4	0	25	5	9	9	6	8	4	0	10	20	"No melee penalty.
 Stone gaze."	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
-Medusa Queen	Medusa Queens	0	0	0	0	0	0	330	423	577	4	0	30	6	10	10	6	8	8	0	10	16	"No melee penalty.
+Medusadrottning	Medusadrottningar	0	0	0	0	0	0	330	423	577	4	0	30	6	10	10	6	8	8	0	10	16	"No melee penalty.
 Stone gaze."	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
 Minotaur	Minotaurer	0	0	0	0	0	0	500	835	835	3	0	50	6	14	12	12	20	0	0	8	16	Good morale.	0
 Minotaurkung	Minotaurkungar	0	0	0	0	0	0	575	890	1068	3	0	50	8	15	15	12	20	0	0	8	12	Good morale.	0
@@ -133,16 +133,16 @@ Urtida Behemot	Urtida Behemoter	0	0	0	0	1	0	3000	5397	6168	1	0	300	9	19	19	30	50
 																								
 																								
 																								
-Gnoll	Gnolls	0	0	0	0	0	0	50	70	56	12	6	6	4	3	5	2	3	0	0	20	50		0
-Gnoll Marauder	Gnoll Marauders	0	0	0	0	0	0	70	90	90	12	6	6	5	4	6	2	3	0	0	20	30		0
+Krokutaur	Krokutaurer	0	0	0	0	0	0	50	70	56	12	6	6	4	3	5	2	3	0	0	20	50		0
+Krokutaurmarodör	Krokutaurmarodörer	0	0	0	0	0	0	70	90	90	12	6	6	5	4	6	2	3	0	0	20	30		0
 Ödleman	Ödlemän	0	0	0	0	0	0	110	115	126	9	0	14	4	5	6	2	3	12	0	16	30		SHOOTING_ARMY
 Ödlekrigare	Ödlekrigare	0	0	0	0	0	0	140	130	156	9	0	15	5	6	8	2	5	24	0	16	25		SHOOTING_ARMY
-Gorgon	Gorgons	0	0	0	0	0	0	525	890	890	3	0	70	5	10	14	12	16	0	0	12	25		DOUBLE_WIDE
-Mighty Gorgon	Mighty Gorgons	0	0	0	0	0	0	600	1028	1028	3	0	70	6	11	16	12	16	0	0	12	20	Death stare.	DOUBLE_WIDE
-Serpent Fly	Serpent Flies	0	0	0	0	0	0	220	215	268	8	0	20	9	7	9	2	5	0	0	10	20	Dispels beneficial spells.	FLYING_ARMY
-Dragon Fly	Dragon Flies	0	0	0	0	0	0	240	250	312	8	0	20	13	8	10	2	5	0	0	10	16	Dispels beneficial spells.  Weakens enemies.	FLYING_ARMY
-Basilisk	Basilisks	0	0	0	0	0	0	325	506	552	4	0	35	5	11	11	6	10	0	0	8	16	Petrifying attack.	DOUBLE_WIDE
-Greater Basilisk	Greater Basilisks	0	0	0	0	0	0	400	561	714	4	0	40	7	12	12	6	10	0	0	8	12	Petrifying attack.	DOUBLE_WIDE
+Gorgon	Gorgoner	0	0	0	0	0	0	525	890	890	3	0	70	5	10	14	12	16	0	0	12	25		DOUBLE_WIDE
+Mäktig Gorgon	Mäktiga Gorgoner	0	0	0	0	0	0	600	1028	1028	3	0	70	6	11	16	12	16	0	0	12	20	Death stare.	DOUBLE_WIDE
+Dagsslända	Dagssländor	0	0	0	0	0	0	220	215	268	8	0	20	9	7	9	2	5	0	0	10	20	Dispels beneficial spells.	FLYING_ARMY
+Trollslända	Trollsländor	0	0	0	0	0	0	240	250	312	8	0	20	13	8	10	2	5	0	0	10	16	Dispels beneficial spells.  Weakens enemies.	FLYING_ARMY
+Basilisk	Basilisker	0	0	0	0	0	0	325	506	552	4	0	35	5	11	11	6	10	0	0	8	16	Petrifying attack.	DOUBLE_WIDE
+Bättre Basilisk	Bättre Basilisker	0	0	0	0	0	0	400	561	714	4	0	40	7	12	12	6	10	0	0	8	12	Petrifying attack.	DOUBLE_WIDE
 Lindorm	Lindormar	0	0	0	0	0	0	800	1050	1350	2	0	70	7	14	14	14	18	0	0	5	12		DOUBLE_WIDE | FLYING_ARMY
 Lindormsmonark	Lindormsmonarker	0	0	0	0	0	0	1100	1181	1518	2	0	70	11	14	14	18	22	0	0	5	10	Poisonous.	DOUBLE_WIDE | FLYING_ARMY
 Hydra	Hydror	0	0	0	0	0	0	2200	4120	4120	1	0	175	5	16	18	25	45	0	0	4	10	Attacks all adjacent enemies.  Enemies cannot retaliate.	DOUBLE_WIDE | KING_1
