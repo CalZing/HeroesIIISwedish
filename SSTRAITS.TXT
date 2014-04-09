@@ -1,40 +1,40 @@
 	Description		
 Name	Grundläggande	Avancerad	Sofistikerad
-Pathfinding	"{Basic Pathfinding}
+Stigfinnare	"{Grundläggande Stigfinnare}
 
-Basic Pathfinding reduces the movement penalty for rough terrain by 25%."	"{Advanced Pathfinding}
+Grundläggande Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 25%."	"{Avancerad Stigfinnare}
 
-Advanced Pathfinding reduces the movement penalty for rough terrain by 50%."	"{Expert Pathfinding}
+Avancerad Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 50%."	"{Sofistikerad Stigfinnare}
 
-Expert Pathfinding reduces the movement penalty for rough terrain by 75%."
-Archery	"{Basic Archery}
+Sofistikerad Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 75%."
+Bågskytte	"{Grundläggande Bågskytte}
 
-Basic Archery increases the damage done by range attacking creatures by 10%."	"{Advanced Archery}
+Grundläggande Bågskytte ökar skadan från varelser som attackerar med projektiler med 10%."	"{Avancerat Bågskytte}
 
-Advanced Archery increases the damage done by range attacking creatures by 25%."	"{Expert Archery}
+Avancerat Bågskytte ökar skadan från varelser som attackerar med projektiler med 25%."	"{Sofistikerat Bågskytte}
 
-Expert Archery increases the damage done by range attacking creatures by 50%."
-Logistics	"{Basic Logistics}
+Sofistikerat Bågskytte ökar skadan från varelser som attackerar med projektiler med 50%."
+Logistik	"{Grundläggande Logistik}
 
-Basic Logistics increases your hero's movement points over land by 10%."	"{Advanced Logistics}
+Grundläggande Logistik ökar din hjältes förflyttningspoäng på land med 10%."	"{Avancerad Logistik}
 
-Advanced Logistics increases your hero's movement points over land by 20%."	"{Expert Logistics}
+Avancerad Logistik ökar din hjältes förflyttningspoäng på land med 20%."	"{Sofistikerad Logistik}
 
-Expert Logistics increases your hero's movement points over land by 30%."
-Scouting	"{Basic Scouting}
+Sofistikerad Logistik ökar din hjältes förflyttningspoäng på land med 30%."
+Scouting	"{Grundläggande Scouting}
 
-Basic Scouting allows your hero to see 1 square further into the shroud."	"{Advanced Scouting}
+Grundläggande Scouting låter din hjälte se 1 ruta längre ut i mörkret."	"{Avancerad Scouting}
 
-Advanced Scouting allows your hero to see 2 squares further into the shroud."	"{Expert Scouting}
+Avancerad Scouting låter din hjälte se 2 rutor längre ut i mörkret."	"{Sofistikerad Scouting}
 
-Expert Scouting allows your hero to see 3 squares further into the shroud."
-Diplomacy	"{Basic Diplomacy}
+Sofistikerad Scouting låter din hjälte se 3 ruta längre ut i mörkret."
+Medling	"{Grundläggande Medling}
 
-Basic Diplomacy allows you to negotiate with monsters who are weaker than your group, and reduces the cost of surrendering by 20%."	"{Advanced Diplomacy}
+Grundläggande Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 20%."	"{Avancerad Medling}
 
-Advanced Diplomacy allows you to negotiate with monsters who are weaker than your group, and reduces the cost of surrendering by 40%."	"{Expert Diplomacy}
+Avancerad Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 40%."	"{Sofistikerad Medling}
 
-Expert Diplomacy allows you to negotiate with monsters who are weaker than your group, and reduces the cost of surrendering by 60%."
+Sofistikerad Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 60%."
 Navigation	"{Basic Navigation}
 
 Basic Navigation increases your hero's movement points at sea by 50%."	"{Advanced Navigation}
