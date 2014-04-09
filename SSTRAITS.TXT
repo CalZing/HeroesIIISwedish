@@ -70,7 +70,7 @@ Grundläggande Tur ökar din hjältes tur med 1."	"{Avancerad Tur}
 Avancerad Tur ökar din hjältes tur med 2."	"{Sofistikerad Tur}
 
 Sofistikerad Tur ökar din hjältes tur med 3."
-Ballistics	"{Basic Ballistics}
+Ballistik	"{Basic Ballistics}
 
 Basic Ballistics gives control of the catapult to the hero, allowing aimed shots with increased damage."	"{Advanced Ballistics}
 
