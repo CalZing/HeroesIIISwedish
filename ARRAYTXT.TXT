@@ -105,7 +105,7 @@ Grundläggande Tur +1"
 "
 Avancerad Tur +2"
 "
-Bemästrad Tur +3"
+Professionell Tur +3"
 "
 None"
 "
@@ -171,7 +171,7 @@ Grundläggande Ledarskap +1"
 "
 Avancerat Ledarskap +2"
 "
-Bemästrat Ledarskap +3"
+Professionellt Ledarskap +3"
 "
 None"
 "
@@ -282,9 +282,9 @@ några Få
 Flera
 Flera
 Flera
-Pack
-Ett Pack av
-ett Pack av
+Gäng
+Ett Gäng av
+ett Gäng av
 Massor
 Massor av
 massor av
@@ -330,7 +330,7 @@ Nekroborg
 Håla
 Fäste
 Fästning
-Sammanflöde
+Sammankomsten
 NewLoadSave
 Välj ett Scenario att Spela
 Ladda ett Sparat spel
