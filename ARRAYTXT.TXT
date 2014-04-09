@@ -277,17 +277,17 @@ Upptäckare
 Människa
 gArmySizeNames
 Få
-Några Få
-några Få
+Några få
+några få
 Flera
-Flera
-Flera
+Flera stycken
+flera stycken
 Grupp
 En Grupp
 en grupp
 Massor
-Massor med
-massor med
+Massor av
+massor av
 Hord
 En Hord av
 en Hord av
@@ -297,12 +297,12 @@ ett myller av
 Svärm
 En svärm av
 en svärm av
-Helt sjukt många
+Sjukt
 Helt sjukt många...
 Helt sjukt många
 Legion
-En Legion av
-en Legion av
+En Legion
+en Legion
 const_wise_tree_price_text
  (+1 nivå)
  (+1 nivå för 2000 guld)
