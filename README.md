@@ -6,7 +6,7 @@ Heroes på svenska. Lite anvisningar:
 Installation
 ============
 
-Man behöver inte alls paja sin nuvarande installation för att spela Heroes på svenska. Tanka bara ned zip-filen med .txt filerna och packa upp den i "Data"-mappen på din heroes-installation. Inga filer kommer behöva skrivas över. Om du inte längre vill spela med svensk text, ta bort filerna eller flytta dem till annan plats på datan.
+Man behöver inte alls paja sin nuvarande installation för att spela Heroes på svenska. Tanka bara ned zip-filen med .txt filerna och packa upp den i "Data"-mappen på din heroes-installation. Det är rekommenderat att bara kopeiera över de filer som är markerade som "Användbar", annars kan allt möjligt hända. Inga filer kommer behöva skrivas över. Om du inte längre vill spela med svensk text, ta bort filerna eller flytta dem till annan plats på datan.
 
 
 Allmänt om redigering
@@ -27,6 +27,6 @@ För att ändra en fil klickar du filens namn och sedan edit. Behöver väl inte
 Administration
 ==============
 
-För att underlätta administrativt: Vill du översätta en fil, klicka först edit, ändra sedan bara ett tecken till ett annat, skriv i rubrikfältet i "Commit changes" något i stil med "Pax Tobias" och gör commit. På så sätt kan vi undvika att flera sitter och ändrar i samma fil och lägger ned onödigt jobb på att översätta samma sak. Efter att detta är gjort, klicka naturligtvis edit igen och ändra filen efter eget behag. När du fått nog av översättning, skriv "Ledig" eller "Klar", beroende på hur långt du kommit, i rubrikfältet som commitmeddelande. Då kan andra kan ta vid där du slutade. Skriv gärna en förklaring om du orkar i "extended description" vad som är gjort, vad som är kvar och tveksamma översättningar.
+För att underlätta administrativt: Vill du översätta en fil, klicka först edit, ändra sedan bara ett tecken till ett annat, skriv i rubrikfältet i "Commit changes" något i stil med "Pax Tobias" och gör commit. På så sätt kan vi undvika att flera sitter och ändrar i samma fil och lägger ned onödigt jobb på att översätta samma sak. Efter att detta är gjort, klicka naturligtvis edit igen och ändra filen efter eget behag. När du fått nog av översättning, skriv "Ledig" eller "Klar", beroende på hur långt du kommit, i rubrikfältet som commitmeddelande. Då kan andra kan ta vid där du slutade. Skriv gärna en förklaring om du orkar i "extended description" vad som är gjort, vad som är kvar och tveksamma översättningar. När en fil är markerad "Klar" behöver den putsas till manuellt för att kunna användas. Det handlar bland annat om åäö som kodas fel gentemot Heroes, plus vissa fel som kan uppstå med rabrytningar. När detta är gjort markeras filen som "Användbar" av den som "putsade" till den.
 
 Lycka till!
