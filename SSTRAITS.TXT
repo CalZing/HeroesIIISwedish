@@ -133,7 +133,7 @@ Basic Scholar allows heroes to teach each other 1st and 2nd level spells, effect
 Advanced Scholar allows heroes to teach each other any spell up to 3rd level, effectively trading spells between spell books."	"{Expert Scholar}
 
 Expert Scholar allows heroes to teach each other any spell up to 4th level, effectively trading spells between spell books."
-Tactics	"{Basic Tactics}
+Strategi	"{Grundläggande Strategi}
 
 Basic Tactics allows you to rearrange your troops just before combat, within three hex rows of the commanding hero."	"{Advanced Tactics}
 
