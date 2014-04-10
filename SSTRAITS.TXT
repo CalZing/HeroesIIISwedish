@@ -126,55 +126,55 @@ Grundläggande Jordmagi låter din hjälte kasta Jordtrollformler till en lägre
 Avancerad Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Jordmagi}
 
 Sofistikerad Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad och med maximal effektivitet."
-Scholar	"{Basic Scholar}
+Lärare	"{Grundläggande Lärare}
 
-Basic Scholar allows heroes to teach each other 1st and 2nd level spells, effectively trading spells between spell books."	"{Advanced Scholar}
+Grundläggande Lärare låter dina hjältar lära varandra trollformler av första och andra nivån."	"{Avancerad Lärare}
 
-Advanced Scholar allows heroes to teach each other any spell up to 3rd level, effectively trading spells between spell books."	"{Expert Scholar}
+Avancerad Lärare låter dina hjältar lära varandra trollformler upp till tredje nivån"	"{Sofistikerad Lärare}
 
-Expert Scholar allows heroes to teach each other any spell up to 4th level, effectively trading spells between spell books."
+Sofistikerad Lärare låter dina hjältar lära varandra trollformler upp till fjärde nivån."
 Strategi	"{Grundläggande Strategi}
 
-Basic Tactics allows you to rearrange your troops just before combat, within three hex rows of the commanding hero."	"{Advanced Tactics}
+Grundläggande Strategi låter dig arrangera dina trupper innan strid, inom tre rutor från din hjälte."	"{Avancerad Strategi}
 
-Advanced Tactics allows you to rearrange your troops just before combat, within five hex rows of the commanding hero."	"{Expert Tactics}
+Avancerad Strategi låter dig arrangera dina trupper innan strid, inom fem rutor från din hjälte."	"{Sofistikerad Strategi}
 
-Expert Tactics allows you to rearrange your troops just before combat, within seven hex rows of the commanding hero."
-Artillery	"{Basic Artillery}
+Sofistikerad Strategi låter dig arrangera dina trupper innan strid, inom sju rutor från din hjälte."
+Artilleri	"{Grundläggande Artilleri}
 
-Basic Artillery gives control of the ballista to the hero, allowing two shots with a 50% chance to inflict double damage."	"{Advanced Artillery}
+Grunläggande Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med 50% chans att utdela dubbel skada."	"{Avancerad Artilleri}
 
-Advanced Artillery gives control of the ballista to the hero, allowing two shots with a 75% chance to inflict double damage."	"{Expert Artillery}
+Avancerat Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med 75% chans att utdela dubbel skada."	"{Sofistikerat Artilleri}
 
-Expert Artillery gives control of the ballista to the hero, allowing two shots which inflict double damage."
-Learning	"{Basic Learning}
+Sofistikerat Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med dubbel skada."
+Lärande	"{Grundläggande Lärande}
 
-Basic Learning increases a hero's earned experience by 5%."	"{Advanced Learning}
+Grundläggande Lärande ökar din hjältes intjänade erfarenhetspoäng med 5%."	"{Avancerat Lärande}
 
-Advanced Learning increases a hero's earned experience by 10%."	"{Expert Learning}
+Avancerat Lärande ökar din hjältes intjänade erfarenhetspoäng med 10%."	"{Sofistikerat Lärande}
 
-Expert Learning increases a hero's earned experience by 15%."
-Offense	"{Basic Offense}
+Sofistikerat Lärande ökar din hjältes intjänade erfarenhetspoäng med 15%."
+Offensiv	"{Grundläggande Offensiv}
 
-Basic Offense increases all hand-to-hand damage inflicted by the hero's troops by 10%."	"{Advanced Offense}
+Grundläggande Offensiv ökar dina truppers slagkraft med 10%."	"{Avancerad Offensiv}
 
-Advanced Offense increases all hand-to-hand damage inflicted by the hero's troops by 20%."	"{Expert Offense}
+Avancerad Offensiv ökar dina truppers slagkraft med 20%."	"{Sofistikerad Offense}
 
-Expert Offense increases all hand-to-hand damage inflicted by the hero's troops by 30%."
-Armorer	"{Basic Armorer}
+Sofistikerad Offensiv ökar dina truppers slagkraft med 30%."
+Rustningsmed	"{Grundläggande Rustningsmed}
 
-Basic Armorer reduces all damage inflicted against the hero's troops by 5%."	"{Advanced Armorer}
+Grundläggande Rustningsmed reducerar all skada som åsamkas dina trupper med 5%."	"{Avancerad Rustningsmed}
 
-Advanced Armorer reduces all damage inflicted against the hero's troops by 10%."	"{Expert Armorer}
+Avancerad Rustningsmed reducerar all skada som åsamkas dina trupper med 10%."	"{Sofistikerad Rustningsmed}
 
-Expert Armorer reduces all damage inflicted against the hero's troops by 15%."
-Intelligence	"{Basic Intelligence}
+Sofistikerad Rustningsmed reducerar all skada som åsamkas dina trupper med 15%."
+Intelligens	"{Grundläggande Intelligens}
 
-Basic Intelligence increases a hero's normal maximum spell points by 25%."	"{Advanced Intelligence}
+Grundläggande Intelligens ökar din hjältes maximala mängd av trollformelspoäng med 25%."	"{Avancerad Intelligens}
 
-Advanced Intelligence increases a hero's normal maximum spell points by 50%."	"{Expert Intelligence}
+Avancerad Intelligens ökar din hjältes maximala mängd av trollformelspoäng med 50%."	"{Sofistikerad Intelligens}
 
-Expert Intelligence doubles a hero's normal maximum spell points."
+Sofistikerad Intelligens fördubblar din hjältes maximala mängd av trollformelspoäng."
 Sorcery	"{Basic Sorcery}
 
 Basic Sorcery causes a hero's spells to inflict an additional 5% damage in combat."	"{Advanced Sorcery}
