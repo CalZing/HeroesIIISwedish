@@ -1,8 +1,8 @@
-Mage Guild Level 1	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Mage Guild Level 2	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Mage Guild Level 3	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Mage Guild Level 4	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Mage Guild Level 5	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Magiskrå Nivå 1	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Magiskrå Nivå 2	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Magiskrå Nivå 3	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Magiskrå Nivå 4	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Magiskrå Nivå 5	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
 Tavern	The Tavern increases morale for troops defending the city.
 Shipyard	The Shipyard allows you to purchase ships.
 Fort	The Fort provides your town with defensive walls.
