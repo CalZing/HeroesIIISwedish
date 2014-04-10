@@ -86,8 +86,8 @@ Vampyr	Vampyrer	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	"Undead.
 No enemy retaliation."	FLYING_ARMY | IS_UNDEAD
 Vampyrgreve	Vampyrgrevar	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	"Undead.  Drains life.
 No enemy retaliation."	FLYING_ARMY | IS_UNDEAD
-Häxmästare	Häxmästare	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
-Storhäxmästare	Storhäxmästare	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
+Likhäxa	Likhäxor	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
+Kraftfull Likhäxa	Kraftfulla Likhäxor	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Undead.  Death cloud attack.	SHOOTING_ARMY | IS_UNDEAD
 Svartriddare	Svartriddare	0	0	0	0	0	0	1200	1753	2087	2	0	120	7	16	16	15	30	0	0	5	12	Undead.  Curses enemies.	DOUBLE_WIDE | IS_UNDEAD
 Skräckriddare	Skräckriddare	0	0	0	0	0	0	1500	2029	2382	2	0	120	9	18	18	15	30	0	0	5	10	"Undead.  Curses enemies.  
 Death Blow attack."	DOUBLE_WIDE | IS_UNDEAD
@@ -98,7 +98,7 @@ Spökdrake	Spökdrakar	0	1	0	0	0	0	3000	3228	4696	1	0	200	14	19	17	25	50	0	0	3	8
 																								
 Troglodyte	Troglodytes	0	0	0	0	0	0	50	73	59	14	7	5	4	4	3	1	3	0	0	20	50	Immune to Blinding.	0
 Infernal Troglodyte	Infernal Troglodytes	0	0	0	0	0	0	65	84	84	14	7	6	5	5	4	1	3	0	0	20	30	Immune to Blinding.	0
-Harpyja	Harpyjor	0	0	0	0	0	0	130	140	154	8	0	14	6	6	5	1	4	0	0	16	30	Strike and return.	FLYING_ARMY
+Harpya	Harpyor	0	0	0	0	0	0	130	140	154	8	0	14	6	6	5	1	4	0	0	16	30	Strike and return.	FLYING_ARMY
 Vildvittra	Vildvittror	0	0	0	0	0	0	170	196	238	8	0	14	9	6	6	1	4	0	0	16	25	"Strike and return.
 No enemy retaliation."	FLYING_ARMY
 Beholder	Beholders	0	0	0	0	0	0	250	240	336	7	0	22	5	9	7	3	5	12	0	12	25	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
