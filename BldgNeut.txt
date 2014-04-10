@@ -1,9 +1,9 @@
-Magiskrå Nivå 1	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Magiskrå Nivå 2	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Magiskrå Nivå 3	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Magiskrå Nivå 4	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Magiskrå Nivå 5	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Tavern	The Tavern increases morale for troops defending the city.
+Magiskrå Nivå 1	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 2	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 3	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 4	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 5	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Taverna	Tavernan ökar moralen hos trupper som försvarar staden.
 Shipyard	The Shipyard allows you to purchase ships.
 Fort	The Fort provides your town with defensive walls.
 Citadel	"Including a 50% increase to base creature growth, the Citadel adds a keep, and other terrain obstacles, to a town's defenses."
