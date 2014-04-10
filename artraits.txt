@@ -1,5 +1,5 @@
 		Hero Slots																				
-Name	Cost	Spell Book	War Machine 4	War Machine 3	War Machine 2	War Machine 1	Misc 5	Misc 4	Misc 3	Misc 2	Misc 1	Feet	Left Ring	Right Ring	Torso	Left Hand	Right Hand	Neck	Shoulders	Head	"Class (S,T,N,J,R)"	Description
+Name	Cost	Trollformelsbok	Krigsmaskin 4	Krigsmaskin 3	Krigsmaskin 2	Krigsmaskin 1	Övrigt 5	Övrigt 4	Övrigt 3	Övrigt 2	Övrigt 1	Fötter	Vänster Ring	Höger Ring	Torso	Vänster Hand	Höger Hand	Nacke	Axlar	Huvud	"Class (S,T,N,J,R)"	Beskrivning
 Spell Book	0	x	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Spell Book}
 
 Left-click on the spell book to view your spells."
