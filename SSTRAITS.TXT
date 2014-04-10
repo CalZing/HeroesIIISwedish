@@ -175,24 +175,24 @@ Grundläggande Intelligens ökar din hjältes maximala mängd av trollformelspo�
 Avancerad Intelligens ökar din hjältes maximala mängd av trollformelspoäng med 50%."	"{Sofistikerad Intelligens}
 
 Sofistikerad Intelligens fördubblar din hjältes maximala mängd av trollformelspoäng."
-Sorcery	"{Basic Sorcery}
+Trolldom	"{Grundläggande Trolldom}
 
-Basic Sorcery causes a hero's spells to inflict an additional 5% damage in combat."	"{Advanced Sorcery}
+Grundläggande Trolldom gör att din hjältes troillformler åsamkar 5% extra skada i strid."	"{Avancerad Trolldom}
 
-Advanced Sorcery causes a hero's spells to inflict an additional 10% damage in combat."	"{Expert Sorcery}
+Avancerad Trolldom gör att din hjältes troillformler åsamkar 10% extra skada i strid."	"{Sofistikerad Trolldom}
 
-Expert Sorcery causes a hero's spells to inflict an additional 15% damage in combat."
-Resistance	"{Basic Resistance}
+Sofistikerad Trolldom gör att din hjältes troillformler åsamkar 15% extra skada i strid."
+Motståndskraft	"{Grundläggande Motståndskraft}
 
-Basic Resistance endows a hero's troops with 5% magic resistance."	"{Advanced Resistance}
+Grundläggande Motståndskraft ger 5% motståndskraft till din hjältes trupper."	"{Avancerad Motståndskraft}
 
-Advanced Resistance endows a hero's troops with 10% magic resistance."	"{Expert Resistance}
+Avancerad Motståndskraft ger 10% motståndskraft till din hjältes trupper."	"{Sofistikerad Moståndskraft}
 
-Expert Resistance endows a hero's troops with 20% magic resistance."
-First Aid	"{Basic First Aid}
+Sofistikerad Motståndskraft ger 20% motståndskraft till din hjältes trupper."
+Första Hjälpen	"{Grundläggande Första Hjälpen}
 
-Basic First Aid gives control of the first aid tent to the hero, healing 50 points of damage to the first unit of the selected stack."	"{Advanced First Aid}
+Grundläggande Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 50 poäng av skada hos en valfri varelse i strid."	"{Avancerad Första Hjälpen}
 
-Advanced First Aid gives control of the first aid tent to the hero, healing 75 points of damage to the first unit of the selected stack."	"{Expert First Aid}
+Avancerad Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 75 poäng av skada hos en valfri varelse i strid."	"{Sofistikerad Första Hjälpen}
 
-Expert First Aid gives control of the first aid tent to the hero, healing 100 points of damage to the first unit of the selected stack."
+Sofistikerad Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 100 poäng av skada hos en valfri varelse i strid."
