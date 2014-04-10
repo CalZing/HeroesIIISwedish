@@ -1,59 +1,59 @@
 		Hero Slots																				
 Name	Cost	Trollformelsbok	Krigsmaskin 4	Krigsmaskin 3	Krigsmaskin 2	Krigsmaskin 1	Övrigt 5	Övrigt 4	Övrigt 3	Övrigt 2	Övrigt 1	Fötter	Vänster Ring	Höger Ring	Torso	Vänster Hand	Höger Hand	Nacke	Axlar	Huvud	"Class (S,T,N,J,R)"	Beskrivning
-Spell Book	0	x	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Spell Book}
+Trollformelsbok	0	x	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Trollformelsbok}
 
-Left-click on the spell book to view your spells."
-Spell Scroll	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Spell Scroll}
+Vänsterklicka på Trollformelsboken för att se dina trollformler."
+Trollformelsbokrulle	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Trollformelsbokrulle}
 
-This scroll contains the [spell name] spell which is added into your spell book for as long as you carry the scroll."
-The Grail	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{The Grail}
+Denna rulle innehåller [spell name]-trollformelm som nu kommer finnas i din Trollformelsbok så länge du bär med dig denna rulle."
+Gralen	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Gralen}
 
-Carry the Grail to the city of your choice and the populace there will build a fantastic structure which will provide a tremendous advantage to the city's owner."
-Catapult	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Catapult}
+Bär Gralen till den stad du vill så ska de som bor där bygga ett stort monument som ger stora fördelar till din stadens ägare!."
+Katapult	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Katapult}
 
-Use this war machine to target your enemy's fortifications in combat."
+Använd denna krigsmaskin för att skjuta ner fiendens försvarsmurar i strid."
 Ballista	2500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Ballista}
 
-Use this war machine to target your enemy's troops in combat."
-Ammo Cart	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Ammo Cart}
+Använd denna krigsmaskin för att skjuta ner dina fiender i strid."
+Ammonutionskärran	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Ammonutionskärran}
 
-The Ammo Cart ensures that your missile troops will never run out of ammunition in combat."
-First Aid Tent	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{First Aid Tent}
+Ammonutionskärran försäkrar att dina trupper aldrig kan få slut på skott i strid."
+Första Hjälpen-tältet	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Första Hjälpen-tältet}
 
-The First Aid Tent provides healing to your troops during each round of combat."
-Centaurs Axe	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	T	"{Centaur's Axe}
+Första Hjälpen-tältet tillåter helande av dina trupper en gång varje runda under strid."
+Kentaurens Yxa	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	T	"{Kentaurens Yxa}
 
-This right handed weapon increases your Attack skill by +2."
-Blackshard of the Dead Knight	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Blackshard of the Dead Knight}
+Detta högerhandsvapen ökar din Attackförmåga med +2."
+Den Döde knektens Skärva av mörker	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Den Döde knektens Skärva av mörker}
 
-This right handed weapon increases your Attack skill by +3."
-Greater Gnoll's Flail	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Greater Gnoll's Flail}
+Detta högerhandsvapen ökar din Attackförmåga med +3."
+Den store Krokotaurens stridsgissel	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Den store Krokotaurens stridsgissel}
 
-This right handed weapon increases your Attack skill by +4."
-Ogre's Club of Havoc	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Ogre's Club of Havoc}
+Detta högerhandsvapen ökar din Attackförmåga med +4."
+Kaosets Oggreklubba	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Kaosets Oggreklubba}
 
-This right handed weapon increases your Attack skill by +5."
-Sword of Hellfire	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Sword of Hellfire}
+Detta högerhandsvapen ökar din Attackförmåga med +5."
+Helveteseldens klinga	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Helveteseldens klinga}
 
-This right handed weapon increases your Attack skill by +6."
-Titan's Gladius	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Titan's Gladius}
+Detta högerhandsvapen ökar din Attackförmåga med by +6."
+Titanens klinga	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Titanens klinga}
 
-Held with the right hand, this massive relic increases your Attack skill by +12, but reduces your Defense skill by -3."
-Shield of the Dwarven Lords	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	T	"{Shield of the Dwarven Lords}
+När denna massiva relik hålls i din högra hand ökar din Attackförmåga med +12, men din Försvarsförmåga minskar med -3."
+Dvärghärskarnas sköld	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	T	"{Dvärghärskarnas sköld}
 
-This left handed item increases your Defense skill by +2."
-Shield of the Yawning Dead	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Shield of the Yawning Dead}
+Detta vänsterhandsvapen ökar din Försvarsförmåga med +2."
+Den gäspande dödens sköld	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Den gäspande dödens sköld}
 
-This left handed item increases your Defense skill by +3."
-Buckler of the Gnoll King	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Buckler of the Gnoll King}
+Detta vänsterhandsvapen ökar din Försvarsförmåga med +3."
+Krokotaurkungens sköld	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Krokotaurkungens sköld}
 
-This left handed item increases your Defense skill by +4."
+Detta vänsterhandsvapen ökar din Försvarsförmåga med +4."
 Targ of the Rampaging Ogre	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Targ of the Rampaging Ogre}
 
-This left handed item increases your Defense skill by +5."
+Detta vänsterhandsvapen ökar din Försvarsförmåga med +5."
 Shield of the Damned	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Shield of the Damned}
 
-This left handed item increases your Defense skill by +6."
+Detta vänsterhandsvapen ökar din Försvarsförmåga med +6."
 Sentinel's Shield	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Sentinel's Shield}
 
 Held with the left hand, this relic increases your Defense skill by +12, but reduces your Attack skill by -3."
