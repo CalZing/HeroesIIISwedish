@@ -1,4 +1,4 @@
-Guardhouse	The Guardhouse allows you to recruit Pikemen.
+Vaktpost	The Guardhouse allows you to recruit Pikemen.
 Archers' Tower	The Archers' Tower allows you to recruit Archers.
 Griffin Tower	The Griffin Tower allows you to recruit Griffins.
 Barracks	The Barracks allow you to recruit Swordsmen.
