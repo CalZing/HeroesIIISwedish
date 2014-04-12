@@ -30,7 +30,7 @@ Detta högerhandsvapen ökar din Attackförmåga med +3."
 Den store Krokotaurens stridsgissel	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Den store Krokotaurens stridsgissel}
 
 Detta högerhandsvapen ökar din Attackförmåga med +4."
-Kaosets Oggreklubba	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Kaosets Oggreklubba}
+Kaosets Reseklubba	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Kaosets Reseklubba}
 
 Detta högerhandsvapen ökar din Attackförmåga med +5."
 Helveteseldens klinga	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Helveteseldens klinga}
@@ -38,121 +38,121 @@ Helveteseldens klinga	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Helveteselde
 Detta högerhandsvapen ökar din Attackförmåga med by +6."
 Titanens klinga	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Titanens klinga}
 
-När denna massiva relik hålls i din högra hand ökar din Attackförmåga med +12, men din Försvarsförmåga minskar med -3."
+När denna massiva relik hålls i din högra hand ökar din Attackförmåga med +12, men din Försvarsförmåga minskar med -3. Ganka bja."
 Dvärghärskarnas sköld	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	T	"{Dvärghärskarnas sköld}
 
 Detta vänsterhandsvapen ökar din Försvarsförmåga med +2."
 Den gäspande dödens sköld	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Den gäspande dödens sköld}
 
 Detta vänsterhandsvapen ökar din Försvarsförmåga med +3."
-Krokotaurkungens sköld	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Krokotaurkungens sköld}
+Krokotaurkungens sköldbuckla	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Krokotaurkungens sköldbuckla}
 
 Detta vänsterhandsvapen ökar din Försvarsförmåga med +4."
-Targ of the Rampaging Ogre	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Targ of the Rampaging Ogre}
+Berserkande resens sköldbuckla	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Berserkande resens sköldbuckla}
 
 Detta vänsterhandsvapen ökar din Försvarsförmåga med +5."
-Shield of the Damned	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Shield of the Damned}
+Den förbannade skölden	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Den förbannade skölden}
 
 Detta vänsterhandsvapen ökar din Försvarsförmåga med +6."
-Sentinel's Shield	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Sentinel's Shield}
+Vaktens sköld	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Vaktens sköld}
 
-Held with the left hand, this relic increases your Defense skill by +12, but reduces your Attack skill by -3."
-Helm of the Alabaster Unicorn	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Helm of the Alabaster Unicorn}
+När denna massiva relik hålls i din vänstra hand ökar din Försvarsförmåga med +12, men din Attackförmåga minskar med -3. Ganka bja."
+Den vita enhörningens hjälm	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Den vita enhörningens hjälm}
 
-Worn on the head, this item increases your Knowledge skill by +1."
-Skull Helmet	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Skull Helmet}
+När du bär denna på ditt huvud ökas din Kunskapsförmåga med +1."
+Kraniets hjälm	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Kraniets hjälm}
 
-Worn on the head, this item increases your Knowledge skill by +2."
-Helm of Chaos	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Helm of Chaos}
+När du bär denna på ditt huvud ökas din Kunskapsförmåga med +2."
+Hjälmen av Kaos	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Hjälmen av Kaos}
 
-Worn on the head, this item increases your Knowledge skill by +3."
-Crown of the Supreme Magi	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Crown of the Supreme Magi}
+När du bär denna på ditt huvud ökas din Kunskapsförmåga med +3."
+Övermagins Krona	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Övermagins Krona}
 
-Worn on the head, this item increases your Knowledge skill by +4."
-Hellstorm Helmet	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	J	"{Hellstorm Helmet}
+När du bär denna på ditt huvud ökas din Kunskapsförmåga med +4."
+Helvetesstormens hjälm	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	J	"{Helvetesstormens hjälm}
 
-Worn on the head, this item increases your Knowledge skill by +5."
-Thunder Helmet	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Thunder Helmet}
+När du bär denna på ditt huvud ökas din Kunskapsförmåga med +5."
+Åskhjälmen	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Åskhjälmen}
 
-When worn, this relic increases your Knowledge skill by +10, but reduces your Power skill by -2."
-Breastplate of Petrified Wood	1000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	T	"{Breastplate of Petrified Wood}
+När du bär denna relik ökar din Kunskapsförmåga med +10, men din Trollformelskraft minskar med -2. Ganka bja."
+Bröstplattan av förstenat trä	1000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	T	"{Bröstplattan av förstenat trä}
 
-Worn on the torso, this item increases your Power skill by +1."
-Rib Cage	3000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Rib Cage}
+När du bär denna på din torso ökar din Trollformelskraft med +1."
+Revbensburen	3000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Revbensburen}
 
-Worn on the torso, this item increases your Power skill by +2."
-Scales of the Greater Basilisk	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Scales of the Greater Basilisk}
+När du bär denna på din torso ökar din Trollformelskraft med +2."
+Den Bättre Basiliskens fjäll	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Den Bättre Basiliskens fjäll}
 
-Worn on the torso, this item increases your Power skill by +3."
-Tunic of the Cyclops King	5000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Tunic of the Cyclops King}
+När du bär denna på din torso ökar din Trollformelskraft med +3."
+Cyklopkungens Tunika	5000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Cyklopkungens Tunika}
 
-Worn on the torso, this item increases your Power skill by +4."
-Breastplate of Brimstone	6000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Breastplate of Brimstone}
+När du bär denna på din torso ökar din Trollformelskraft med +4."
+Svavlets Bröstplatta	6000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Svavlets Bröstplatta}
 
-Worn on the torso, this item increases your Power skill by +5."
-Titan's Cuirass	10000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Titan's Cuirass}
+När du bär denna på din torso ökar din Trollformelskraft med +5."
+Titanens Harnesk	10000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Titanens Harnesk}
 
-When worn, this massive relic increases your Power skill by +10, but reduces your Knowledge skill by -2."
-Armor of Wonder	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Armor of Wonder}
+När du bär denna massiva relik ökar din Trollformelskraft med +10, men din Kunskap minskar med -2. Ganka bja."
+Undrens Rustning	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Armor of Wonder}
 
-Worn on the torso, the Armor of Wonder increases all four primary skills by +1."
-Sandals of the Saint	8000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Sandals of the Saint}
+När du bär denna på din torso ökar Undrens Rustning alla dina primära förmågor med +1."
+Helgonets Sandaler	8000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Helgonets Sandaler}
 
-Worn on the feet, the Sandals of the Saint increase all four primary skills by +2."
-Celestial Necklace of Bliss	12000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	R	"{Celestial Necklace of Bliss}
+När du bär dessa på dina fötter ökar Helgonets Sandaler alla dina primära förmågor med +2."
+Det Himmelska halsbandet av Salighet	12000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	R	"{Det Himmelska halsbandet av Salighet}
 
-Worn about the neck, the Celestial Necklace of Bliss increases all four primary skills by +3."
-Lion's Shield of Courage	16000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Lion's Shield of Courage}
+När du bär detta kring din hals ökar Det Himmelska halsbandet av Salighet alla dina primära förmågor med +3."
+Det modiga Lejonets Sköld	16000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Lion's Shield of Courage}
 
-Held with the left hand, the Lion's Shield of Courage increases all four primary skills by +4."
-Sword of Judgement	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Sword of Judgement}
+När du håller detta i din vänstra hand ökar Det modiga Lejonets Sköld alla dina primära förmågor med +4."
+Domedagssvärdet	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Sword of Judgement}
 
-Held with the right hand, the Sword of Judgement increases all four primary skills by +5."
-Helm of Heavenly Enlightenment	24000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Helm of Heavenly Enlightenment}
+När du håller detta i din högra hand ökar Domedagssvärdet alla dina primära förmågor med +5."
+Den himmelska Upplysningens hjälm	24000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Helm of Heavenly Enlightenment}
 
-Worn on the head, the Helm of Heavenly Enlightenment increases all four primary skills by +6."
-Quiet Eye of the Dragon	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Quiet Eye of the Dragon}
+När du bär denna på ditt huvud ökar Den himmelska Upplysningens hjälm alla dina primära förmågor med +6."
+Tysta Drakens Öga	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Tysta Drakens Öga}
 
-Worn on a finger, this item increases your Attack and Defense skills by +1."
-Red Dragon Flame Tongue	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Red Dragon Flame Tongue}
+När du bär detta på ditt finger ökar din Attack- och Försvarsförmåga med +1."
+Den Röda drakens Eldtunga	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Den Röda drakens Eldtunga}
 
-Held with the right hand, this item increases your Attack and Defense skills by +2."
-Dragon Scale Shield	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Dragon Scale Shield}
+När du håller detta i din högra hand ökar din Attack- och Försvarsförmåga med +2."
+Drakfjällsskölden	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Drakfjällsskölden}
 
-Held with the left hand, this item increases your Attack and Defense skills by +3."
-Dragon Scale Armor	8000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Dragon Scale Armor}
+När du håller detta i din vänstra hand ökar din Attack- och Försvarsförmåga med +3."
+Drakfjällsrustningen	8000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Drakfjällsrustningen}
 
-Worn on a torso, this item increases your Attack and Defense skills by +4."
-Dragonbone Greaves	2000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	T	"{Dragonbone Greaves}
+När du bär detta på din torso ökar din Attack- och Försvarsförmåga med +4."
+Benskenor av Drakben	2000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	T	"{Benskenor av Drakben}
 
-Worn on the feet, this item increases your Knowledge and Power skills by +1."
-Dragon Wing Tabard	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Dragon Wing Tabard}
+När du håller detta i din högra hand ökar din Attack- och Försvarsförmåga med +1."
+Tabard av Drakvingar	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Tabard av Drakvingar}
 
-Worn on the shoulders, this item increases your Knowledge and Power skills by +2."
-Necklace of Dragonteeth	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Necklace of Dragonteeth}
+När du bär denna över dina axlar ökar din Kunskapsförmåga av Trollformelskraft med +2."
+Halsband av Draktänder	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Halsband av Draktänder}
 
-Worn about the neck, this item increases your Knowledge and Power skills by +3."
-Crown of Dragontooth	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Crown of Dragontooth}
+När du bär detta kring halsen ökar din Kunskapsförmåga av Trollformelskraft med +3."
+Krona av Draktänder	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Krona av Draktänder}
 
-Worn on the head, this item increases your Knowledge and Power skills by +4."
-Still Eye of the Dragon	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Still Eye of the Dragon}
+När du bär detta på ditt huvud ökar din Kunskapsförmåga av Trollformelskraft med +4."
+Stilla drakens öga	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Stilla drakens öga}
 
-Worn on the finger, this item increases your Luck and Morale by +1."
-Clover of Fortune	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Clover of Fortune}
+När du bär detta på ditt finger ökas din Tur och Moral med +1."
+Turens Klöver	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Turens Klöver}
 
-The Clover of Fortune increases your Luck by +1."
-Cards of Prophecy	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Cards of Prophecy}
+Turens Klöver ökar din tur med +1."
+Profetians kort	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Profetians kort}
 
-The Cards of Prophecy increase your Luck by +1."
-Ladybird of Luck	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Ladybird of Luck}
+Profetians kort ökar din tur med +1."
+Turens Nyckelpiga	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Turens Nyckelpiga}
 
-The Ladybird of Luck increases your Luck by +1."
-Badge of Courage	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Badge of Courage}
+Turens Nyckelpiga ökar din tur med +1."
+Badge of Courage	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Modets Emblem}
 
-The Badge of Courage increases your Morale by +1."
-Crest of Valor	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Crest of Valor}
+Modets Emblem ökar din moral med +1."
+Modets sköld	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Modets sköld}
 
-The Crest of Valor increases your Morale by +1."
+Modets sköld ökar din moral med +1."
 Glyph of Gallantry	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Glyph of Gallantry}
 
 The Glyph of Gallantry increases your Morale by +1."
