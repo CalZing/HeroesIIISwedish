@@ -5,35 +5,35 @@ Barack	Baracken låter dig rekrytera Fäktare.
 Kloster	Klostret låter dig rekrytera Munkar.
 Träningsområde	Träningsområdet låter dig rekrytera Ryttare.
 Pärleport	Pärleporten låter dig rekrytera Änglar.
-Upg. Vaktpost	The Guardhouse allows you to recruit Halberdiers.
-Upg. Bågskyttstorn	The Archers' Tower allows you to recruit Marksmen.
-Upg. Griptorn	The Griffin Tower allows you to recruit Royal Griffins.
-Upg. Barack	The Barracks allow you to recruit Crusaders.
-Upg. Kloster	The Monastery allows you to recruit Zealots.
-Upg. Träningsområde	The Training Grounds allow you to recruit Champions.
-Upg. Pärleport	The Portal of Glory allows you to recruit Arch Angels.
-Kentaurstall	The Centaur Stables allow you to recruit Centaurs.
-Dvärgstuga	The Dwarf Cottage allows you to recruit Dwarves.
-Hemman	The Homestead allows you to recruit Wood Elves.
-Förtrollad källa	The Enchanted Spring allows you to recruit Pegasi.
-Dendroidglänta	The Dendroid Arches allow you to recruit Dendroid Guards.
-Enhörningsdunge	The Unicorn Glade allows you to recruit Unicorns.
-Drakklippa	The Dragon Cliffs allow you to recruit Green Dragons.
-Upg. Kentaurstall	The Centaur Stables allow you to recruit Centaur Captains.
-Upg. Dvärgstuga	The Dwarf Cottage allows you to recruit Battle Dwarves.
-Upg. Hemman	The Homestead allows you to recruit Grand Elves.
-Upg. Förtrollad Källa	The Enchanted Spring allows you to recruit Silver Pegasi.
-Upg. Dendroidglänta	The Dendroid Arches allow you to recruit Dendroid Soldiers.
-Upg. Enhörningsdunge	The Unicorn Glade allows you to recruit War Unicorns.
-Upg. Drakklippa	The Dragon Cliffs allow you to recruit Gold Dragons.
-Verkstad	The Workshop allows you to recruit Gremlins.
-Balustrad	The Parapet allows you to recruit Stone Gargoyles.
-Golemfabrik	The Golem Factory allows you to recruit Stone Golems.
-Magikertorn	The Mage Tower allows you to recruit Magi.
-Önskealtare	The Altar of Wishes allows you to recruit Genies.
-Guldpaviljon	The Golden Pavilion allows you to recruit Nagas.
-Molntempel	The Cloud Temple allows you to recruit Giants.
-Upg. Verkstad	The Workshop allows you to recruit Master Gremlins.
+Upg. Vaktpost	Vaktposten låter dig rekrytera Hillebardjärer.
+Upg. Bågskyttstorn	Bågskyttetornet låter dig rekrytera Prickskyttar.
+Upg. Griptorn	Griptornet låter dig rekrytera Kungagripar.
+Upg. Barack	Baracken låter dig rekrytera Korsfarare.
+Upg. Kloster	Klostret låter dig rekrytera Seloter.
+Upg. Träningsområde	Träningsområdet låter dig rekrytera Tornerare.
+Upg. Pärleport	Pärleporten låter dig rekrytera Ärkeänglar.
+Kentaurstall	Kentaurstallet låter dig rekrytera Kentaurer.
+Dvärgstuga	Dvärgstugan låter dig rekrytera Dvärgar.
+Hemman	Hemmanen låter dig rekrytera Skogsalver.
+Förtrollad källa	Den Förtrollade Källan låter dig rekrytera Pegaser.
+Dendroidglänta	Dendroidgläntan låter dig rekrytera Dendroidvakter.
+Enhörningsdunge	Enhörningsdungen låter dig rekrytera Enhörningar.
+Drakklippa	Drakklippan låter dig rekrytera Gröndrakar.
+Upg. Kentaurstall	Kentaurstallen låter dig rekrytera Kentaurkaptener.
+Upg. Dvärgstuga	Dvärgstugan låter dig rekrytera Stridsdvärgar.
+Upg. Hemman	Hemmanen låter dig rekrytera Storalver.
+Upg. Förtrollad Källa	Den Förtrollade Källan låter dig rekrytera Silverpegaser.
+Upg. Dendroidglänta	Dendroidgläntan låter dig rekrytera Dendroidsoldater.
+Upg. Enhörningsdunge	Enhörningsdungen låter dig rekrytera Stridsenhörningar.
+Upg. Drakklippa	Drakklippan låter dig rekrytera Gulddrakar.
+Verkstad	Verkstaden låter dig rekrytera Småtomtar.
+Balustrad	Balustraden låter dig rekrytera Stenfilurer.
+Golemfabrik	Golemfabriken låter dig rekrytera Stengolemer.
+Magikertorn	Magikertornet låter dig rekrytera Magiker.
+Önskealtare	Önskealtaret låter dig rekrytera Djinn.
+Guldpaviljon	Guldpaviljongen låter dig rekrytera Naga.
+Molntempel	Molntemplet låter dig rekrytera Jättar.
+Upg. Verkstad	Verkstaden låter dig rekrytera Stortomtar.
 Upg. Balustrad	The Parapet allows you to recruit Obsidian Gargoyles.
 Upg. Golemfabrik	The Golem Factory allows you to recruit Iron Golems.
 Upg. Magikertorn	The Mage Tower allows you to recruit Arch Magi.
