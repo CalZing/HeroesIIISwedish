@@ -1,17 +1,17 @@
-Lighthouse	The lighthouse grants additional mobility to any ships you control.	
-Griffin Bastion	The Griffin Bastion increases Griffin production by 3 per week.	
-Griffin Bastion	The Griffin Bastion increases Royal Griffin production by 3 per week.	
-Shipyard	The Shipyard allows you to purchase ships.	
-Stables	The Stables increase the land movement rate of any visiting hero.	
-Brotherhood of the Sword	"During a siege, the Brotherhood of the Sword increases troop morale by +2."	
+Fyr	Fyren ger ökad förflyttning till de fartyg som du kontrolerar.	
+Grip Bastion	Grip Bastionen ökar produktionen av gripar med 3 per vecka.	
+Grip Bastion	Grip Bastionen ökar produktionen av kungagripar med 3 per vecka.	
+Varv	Varvet tillåter dig att köpa fartyg.	
+Stall	Stallet ökar förflyttningspoängen för besökande hjältar.	
+Svärdets Brödrarskap	"Under en belägring så ökar Svärdets Brödrarskap dina truppers moral med +2"	
 		
 		
 		
-Colossus	"The presence of the Colossus increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the morale of all allied heroes by +2."	
-Resource Silo	The Resource Silo provides you with an additional +1 wood and +1 ore each day.	
-Mystic Pond	The Mystic Pond produces a small random number of resources each week.	
-Miners' Guild	The Miners' Guild increases Dwarf production by 4 per week.	
-Miners' Guild	The Miners' Guild increases Battle Dwarf production by 4 per week.	
+Kolossen	"Kolossens närvaro ökar den veckoliga tillväxten av varelser med 50%, ökar din dagliga inkomst av guld med 5000, och ökar alla allierade hjältars moral med +2."	
+Resurs Silo	Resurs silon förser dig med +1 ved och +1 sten varje dag.	
+Mystisk Damm	Den Mystiska Dammen producerar en liten slumpd mängd resurser varje vecka.	
+Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Dvärgar med 4 per vecka.
+Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Strids Dvärgar med 4 per vecka.	
 		
 Fountain of Fortune	The Fountain of Fortune increases the luck of the garrison hero by +2 when defending against a siege.	
 Treasury	The Treasury earns you 10% interest on any gold you have at the start of each week.	
