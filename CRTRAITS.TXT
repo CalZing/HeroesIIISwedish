@@ -3,50 +3,50 @@ Singular	Plural	Wood	Mercury	Ore	Sulfur	Crystal	Gems	Gold	Fight Value	AI Value	G
 Pikenerare	Pikenerare	0	0	0	0	0	0	60	100	80	14	0	10	4	4	5	1	3	0	0	20	50		0
 Hillebardjär	Hillebardjärer	0	0	0	0	0	0	75	115	115	14	0	10	5	6	5	2	3	0	0	20	30		0
 Bågskytt	Bågskyttar	0	0	0	0	0	0	100	115	126	9	0	10	4	6	3	2	3	12	0	16	30		SHOOTING_ARMY
-Prickskytt	Prickskyttar	0	0	0	0	0	0	150	115	184	9	0	10	6	6	3	2	3	24	0	16	25	Shoots twice.	const_two_attacks | SHOOTING_ARMY
-Grip	Gripar	0	0	0	0	0	0	200	324	351	7	3	25	6	8	8	3	6	0	0	12	25	Retaliates twice.	DOUBLE_WIDE | FLYING_ARMY
-Kungagrip	Kungagripar	0	0	0	0	0	0	240	364	448	7	3	25	9	9	9	3	6	0	0	12	20	Unlimited retaliations.	DOUBLE_WIDE|FLYING_ARMY
+Prickskytt	Prickskyttar	0	0	0	0	0	0	150	115	184	9	0	10	6	6	3	2	3	24	0	16	25	Skuter två gånger.	const_two_attacks | SHOOTING_ARMY
+Grip	Gripar	0	0	0	0	0	0	200	324	351	7	3	25	6	8	8	3	6	0	0	12	25	Två återslag.	DOUBLE_WIDE | FLYING_ARMY
+Kungagrip	Kungagripar	0	0	0	0	0	0	240	364	448	7	3	25	9	9	9	3	6	0	0	12	20	Obegränsat antal återslag.	DOUBLE_WIDE|FLYING_ARMY
 Fäktare	Fäktare	0	0	0	0	0	0	300	445	445	4	0	35	5	10	12	6	9	0	0	10	20		0
-Korsfarare	Korsfarare	0	0	0	0	0	0	400	588	588	4	0	35	6	12	12	7	10	0	0	10	16	Strikes twice.	const_two_attacks
+Korsfarare	Korsfarare	0	0	0	0	0	0	400	588	588	4	0	35	6	12	12	7	10	0	0	10	16	Slår två gånger.	const_two_attacks
 Munk	Munkar	0	0	0	0	0	0	400	485	485	3	0	30	5	12	7	10	12	12	0	8	16		SHOOTING_ARMY
 Selot	Seloter	0	0	0	0	0	0	450	500	750	3	0	30	7	12	10	10	12	24	0	8	12	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
-Ryttare	Ryttare	0	0	0	0	0	0	1000	1668	1946	2	0	100	7	15	15	15	25	0	0	5	12	Jousting bonus.	DOUBLE_WIDE | const_jousting
-Tornerare	Tornerare	0	0	0	0	0	0	1200	1800	2100	2	0	100	9	16	16	20	25	0	0	5	10	Jousting bonus.	DOUBLE_WIDE | const_jousting
-Ängel	Änglar	0	0	0	0	0	1	3000	3585	5019	1	0	200	12	20	20	50	50	0	0	4	10	Hates Devils.	FLYING_ARMY | const_raises_morale | KING_2
-Ärkeängel	Ärkeänglar	0	0	0	0	0	3	5000	6033	8776	1	0	250	18	30	30	50	50	0	1	3	8	"+1 morale.  Hates Devils.
-Resurrects allies."	DOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2
+Ryttare	Ryttare	0	0	0	0	0	0	1000	1668	1946	2	0	100	7	15	15	15	25	0	0	5	12	Torneringsbonus.	DOUBLE_WIDE | const_jousting
+Tornerare	Tornerare	0	0	0	0	0	0	1200	1800	2100	2	0	100	9	16	16	20	25	0	0	5	10	Torneringsbonus.	DOUBLE_WIDE | const_jousting
+Ängel	Änglar	0	0	0	0	0	1	3000	3585	5019	1	0	200	12	20	20	50	50	0	0	4	10	Hatar Djävlar.	FLYING_ARMY | const_raises_morale | KING_2
+Ärkeängel	Ärkeänglar	0	0	0	0	0	3	5000	6033	8776	1	0	250	18	30	30	50	50	0	1	3	8	"+1 moral.  Hatar Djävlar.
+Återupplivar allierade."	DOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2
 																								
 																								
 																								
 Kentaur	Kentaurer	0	0	0	0	0	0	70	100	100	14	0	8	6	5	3	2	3	0	0	20	50		DOUBLE_WIDE
 Kentaurkapten	Kentaurkaptainer	0	0	0	0	0	0	90	115	138	14	0	10	8	6	3	2	3	0	0	20	30		DOUBLE_WIDE
-Dvärg	Dvärgar	0	0	0	0	0	0	120	194	138	8	4	20	3	6	7	2	4	0	0	16	30	20% magic resistance.	0
-Stridsdvärg	Stridsdvärgar	0	0	0	0	0	0	150	209	209	8	4	20	5	7	7	2	4	0	0	16	25	40% magic resistance.	0
+Dvärg	Dvärgar	0	0	0	0	0	0	120	194	138	8	4	20	3	6	7	2	4	0	0	16	30	20% magiresistans.	0
+Stridsdvärg	Stridsdvärgar	0	0	0	0	0	0	150	209	209	8	4	20	5	7	7	2	4	0	0	16	25	40% magiresistans.	0
 Skogsalv	Skogsalver	0	0	0	0	0	0	200	195	234	7	0	15	6	9	5	3	5	24	0	12	25		SHOOTING_ARMY
-Storalv	Storalver	0	0	0	0	0	0	225	195	331	7	0	15	7	9	5	3	5	24	0	12	20	Shoots twice.	SHOOTING_ARMY | const_two_attacks
-Pegas	Pegaser	0	0	0	0	0	0	250	407	518	5	0	30	8	9	8	5	9	0	0	10	20	Magic damper.	DOUBLE_WIDE | FLYING_ARMY
-Silverpegas	Silverpegaser	0	0	0	0	0	0	275	418	532	5	0	30	12	9	10	5	9	0	0	10	16	Magic damper.	DOUBLE_WIDE | FLYING_ARMY
-Dendroidvakt	Dendroidvakter	0	0	0	0	0	0	350	690	517	3	2	55	3	9	12	10	14	0	0	8	16	Binds enemies in place.	0
-Dendroidsoldat	Dendroidsoldater	0	0	0	0	0	0	425	765	803	3	2	65	4	9	12	10	14	0	0	8	12	Binds enemies in place.	0
-Enhörning	Enhörningar	0	0	0	0	0	0	850	1548	1806	2	0	90	7	15	14	18	22	0	0	5	12	Aura of magic resistance.  Blinding attack.	DOUBLE_WIDE
-Stridssenhörning	Stridsenhörningar	0	0	0	0	0	0	950	1740	2030	2	0	110	9	15	14	18	22	0	0	5	10	Aura of magic resistance. Blinding attack.	DOUBLE_WIDE
-Gröndrake	Gröndrakar	0	0	0	0	1	0	2400	3654	4872	1	0	180	10	18	18	40	50	0	0	4	10	Immune to spell levels 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
-Gulddrake	Gulddrakar	0	0	0	0	2	0	4000	6220	8613	1	0	250	16	27	27	40	50	0	0	3	8	Immune to spell levels 1-4.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Storalv	Storalver	0	0	0	0	0	0	225	195	331	7	0	15	7	9	5	3	5	24	0	12	20	Skjuter två gånger.	SHOOTING_ARMY | const_two_attacks
+Pegas	Pegaser	0	0	0	0	0	0	250	407	518	5	0	30	8	9	8	5	9	0	0	10	20	Magidämpare.	DOUBLE_WIDE | FLYING_ARMY
+Silverpegas	Silverpegaser	0	0	0	0	0	0	275	418	532	5	0	30	12	9	10	5	9	0	0	10	16	Magidämpare.	DOUBLE_WIDE | FLYING_ARMY
+Dendroidvakt	Dendroidvakter	0	0	0	0	0	0	350	690	517	3	2	55	3	9	12	10	14	0	0	8	16	Binder fiender på platsen.	0
+Dendroidsoldat	Dendroidsoldater	0	0	0	0	0	0	425	765	803	3	2	65	4	9	12	10	14	0	0	8	12	Binder fiender på platsen.	0
+Enhörning	Enhörningar	0	0	0	0	0	0	850	1548	1806	2	0	90	7	15	14	18	22	0	0	5	12	Aura med magiresistans.  Förblindande anfall.	DOUBLE_WIDE
+Stridssenhörning	Stridsenhörningar	0	0	0	0	0	0	950	1740	2030	2	0	110	9	15	14	18	22	0	0	5	10	Aura med magiresistans.  Förblindande anfall.	DOUBLE_WIDE
+Gröndrake	Gröndrakar	0	0	0	0	1	0	2400	3654	4872	1	0	180	10	18	18	40	50	0	0	4	10	Immun mot trollformler nivå 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Gulddrake	Gulddrakar	0	0	0	0	2	0	4000	6220	8613	1	0	250	16	27	27	40	50	0	0	3	8	Immun mot trollformler nivå 1-4.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 																								
 																								
 																								
 Småtomte	Småtomtar	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
-Stortomte	Stortomtar	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Ranged attacker.	SHOOTING_ARMY
+Stortomte	Stortomtar	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Distansanfallare.	SHOOTING_ARMY
 Stenfilur	Stenfilurer	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30		FLYING_ARMY
 Obsidianfilur	Obsidianfilurer	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25		FLYING_ARMY
-Stengolem	Stengolemer	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Damage from spells reduced 50%.	0
-Järngolem	Järngolemer	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Damage from spells reduced 75%.	0
+Stengolem	Stengolemer	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Skada från Trollformler reduceras 50%.	0
+Järngolem	Järngolemer	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Skada från Trollformler reduceras 75%.	0
 Magiker	Magiker	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	"No melee penalty.
 Hero spells cost less."	SHOOTING_ARMY | const_no_melee_penalty
 Ärkemagiker	Ärkemagiker	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	"No melee penalty.
 Hero spells cost less."	SHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty
 Djinn	Djinner	0	0	0	0	0	0	550	680	884	3	0	40	7	12	12	13	16	0	0	8	16	Hates Efreet.	FLYING_ARMY
-Mästardjinn	Mästardjinner	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	"Spellcaster: Random benefit.
+Mästardjinn	Mästardjinner	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	"Trollformelkastare: Slumpvald fördelaktig.
 Hates Efreet."	FLYING_ARMY
 Naga	Naga	0	0	0	0	0	0	1100	2016	2016	2	0	110	5	16	13	20	20	0	0	5	12	No enemy retaliation.	DOUBLE_WIDE
 Nagadrottning	Nagadrottningar	0	0	0	0	0	0	1600	2485	2840	2	0	110	7	16	13	30	30	0	0	5	10	No enemy retaliation.	DOUBLE_WIDE
@@ -55,7 +55,7 @@ Titan	Titaner	0	0	0	0	0	2	5000	5000	7500	1	0	300	11	24	24	40	60	24	0	3	8	No mele
                                    																								
 																								
 																								
-Imp	Impar	0	0	0	0	0	0	50	50	50	15	8	4	5	2	3	1	2	0	0	20	50		0
+Puke	Pukar	0	0	0	0	0	0	50	50	50	15	8	4	5	2	3	1	2	0	0	20	50		0
 Bjära	Bjäror	0	0	0	0	0	0	60	60	60	15	8	4	7	4	4	1	2	0	0	20	30	Magic channel.	0
 Gog	Gogar	0	0	0	0	0	0	125	145	159	8	0	13	4	6	4	2	4	12	0	16	30		SHOOTING_ARMY
 Magog	Magogar	0	0	0	0	0	0	175	210	240	8	0	13	6	7	4	2	4	24	0	16	25	Fireball attack.	SHOOTING_ARMY
@@ -109,10 +109,10 @@ Medusadrottning	Medusadrottningar	0	0	0	0	0	0	330	423	577	4	0	30	6	10	10	6	8	8	0
 Stone gaze."	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
 Minotaur	Minotaurer	0	0	0	0	0	0	500	835	835	3	0	50	6	14	12	12	20	0	0	8	16	Good morale.	0
 Minotaurkung	Minotaurkungar	0	0	0	0	0	0	575	890	1068	3	0	50	8	15	15	12	20	0	0	8	12	Good morale.	0
-Manticore	Manticores	0	0	0	0	0	0	850	1215	1547	2	0	80	7	15	13	14	20	0	0	5	12		DOUBLE_WIDE | FLYING_ARMY
-Scorpicore	Scorpicores	0	0	0	0	0	0	1050	1248	1589	2	0	80	11	16	14	14	20	0	0	5	10	Paralyzing venom.	DOUBLE_WIDE | FLYING_ARMY
-Röddrake	Röddrakar	0	0	0	1	0	0	2500	3762	4702	1	0	180	11	19	19	40	50	0	0	4	10	Immune to spell levels 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
-Svartdrake	Svartdrakar	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	0	0	3	8	Immune to all spells.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Mantikora	Mantikoror	0	0	0	0	0	0	850	1215	1547	2	0	80	7	15	13	14	20	0	0	5	12		DOUBLE_WIDE | FLYING_ARMY
+Skorpionsvansmantikora	Skorpionsvansmantikoror	0	0	0	0	0	0	1050	1248	1589	2	0	80	11	16	14	14	20	0	0	5	10	Paralyzing venom.	DOUBLE_WIDE | FLYING_ARMY
+Röddrake	Röddrakar	0	0	0	1	0	0	2500	3762	4702	1	0	180	11	19	19	40	50	0	0	4	10	Immun mot trollformler nivå 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Svartdrake	Svartdrakar	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	0	0	3	8	Immun mot alla trollformler.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 																								
 																								
 																								
@@ -120,10 +120,10 @@ Kobold	Kobolder	0	0	0	0	0	0	40	60	60	15	8	5	5	4	2	1	2	0	0	20	50		0
 Hobkobold	Hobkobolder	0	0	0	0	0	0	50	65	78	15	8	5	7	5	3	1	2	0	0	20	30		0
 Värgryttare	Vargryttare	0	0	0	0	0	0	100	130	130	9	0	10	6	7	5	2	4	0	0	16	30		DOUBLE_WIDE
 Vargplundrare	Vargplundrare	0	0	0	0	0	0	140	174	203	9	0	10	8	8	5	3	4	0	0	16	25	Strikes twice	DOUBLE_WIDE
-Orch	Orcer	0	0	0	0	0	0	150	175	192	7	0	15	4	8	4	2	5	12	0	12	25		SHOOTING_ARMY
+Orch	Orcher	0	0	0	0	0	0	150	175	192	7	0	15	4	8	4	2	5	12	0	12	25		SHOOTING_ARMY
 Orchöverhuvud	Orchöverhuvuden	0	0	0	0	0	0	165	200	240	7	0	20	5	8	4	2	5	24	0	12	20		SHOOTING_ARMY
-Oger	Ogree	0	0	0	0	0	0	300	520	416	4	0	40	4	13	7	6	12	0	0	10	20		0
-Ogermagiker	Ogermagiker	0	0	0	0	0	0	400	672	672	4	0	60	5	13	7	6	12	0	3	10	16	Spellcaster: Bloodlust.	0
+Rese	Resar	0	0	0	0	0	0	300	520	416	4	0	40	4	13	7	6	12	0	0	10	20		0
+Bergsrese	Bergsresar	0	0	0	0	0	0	400	672	672	4	0	60	5	13	7	6	12	0	3	10	16	Spellcaster: Bloodlust.	0
 Rock	Rockar	0	0	0	0	0	0	600	790	1027	3	0	60	7	13	11	11	15	0	0	8	16		FLYING_ARMY | DOUBLE_WIDE
 Åskfågel	Åskfåglar	0	0	0	0	0	0	700	869	1106	3	0	60	11	13	11	11	15	0	0	8	12	Lightning strike.	FLYING_ARMY | DOUBLE_WIDE
 Cyklop	Cykloper	0	0	0	0	0	0	750	1055	1266	2	0	70	6	15	12	16	20	16	0	5	12	Attacks siege walls.	SHOOTING_ARMY | CATAPULT
@@ -156,13 +156,13 @@ Eldelementär	Eldelementärer	0	0	0	0	0	0	350	345	345	5	0	35	6	10	8	4	6	0	0	16	2
 Vulnerable to ice."	0
 Vattenelementär	Vattenelementärer	0	0	0	0	0	0	300	315	315	6	0	30	5	8	10	3	7	0	0	12	25	"Immune to ice.
 Vulnerable to fire."	0
-Guldgolemer	Guldgolemer	0	0	0	0	0	0	500	600	600	3	0	50	5	11	12	8	10	0	0	10	16	Damage from spells reduced 85%.	0
-Diamantgolem	Diamantgolemer	0	0	0	0	0	0	750	775	775	2	0	60	5	13	12	10	14	0	0	8	12	Damage from spells reduced 95%.	0
+Guldgolemer	Guldgolemer	0	0	0	0	0	0	500	600	600	3	0	50	5	11	12	8	10	0	0	10	16	Skada från Trollformler reduceras 85%.	0
+Diamantgolem	Diamantgolemer	0	0	0	0	0	0	750	775	775	2	0	60	5	13	12	10	14	0	0	8	12	Skada från Trollformler reduceras 95%.	0
 																								
 																								
 																								
 Älva	Älvor	0	0	0	0	0	0	25	40	55	20	10	3	7	2	2	1	2	0	0	20	50		FLYING_ARMY
-Dis	Diser	0	0	0	0	0	0	30	70	95	20	10	3	9	2	2	1	3	0	0	20	30	No enemy retaliation.	FLYING_ARMY | const_free_attack
+Disa	Diser	0	0	0	0	0	0	30	70	95	20	10	3	9	2	2	1	3	0	0	20	30	No enemy retaliation.	FLYING_ARMY | const_free_attack
 Övernaturlig Elementär	Övernaturliga Elementärer	0	0	0	0	0	0	750	1431	1669	2	0	75	7	15	13	10	20	0	0	8	16	Attacks all adjacent enemies w/o retaliation. Mind spell immunity.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
 Magielementär	Magielementärer	0	0	0	0	0	0	800	1724	2012	2	0	80	9	15	13	15	25	0	0	8	12	Attacks all adjacent enemies w/o retaliation. Spell immunity.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
 NOT USED (1)	NOT USED (1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
@@ -181,22 +181,22 @@ Fenix	Fenixar	0	1	0	0	0	0	2000	4929	6721	2	0	200	21	21	18	30	40	0	1	4	10	Breath 
 Azurdrake	Azurdrakar	0	20	0	0	0	0	30000	56315	78845	1	0	1000	19	50	50	70	80	0	0	1	3	Fear.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 Kristalldrake	Kristalldrakar	0	0	0	0	10	0	20000	30260	39338	1	0	800	16	40	40	60	75	0	0	1	3	Crystal generation.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 Fedrake	Fedrakar	0	0	0	0	0	8	10000	16317	19580	1	0	500	15	20	20	20	30	0	5	1	3	Offensive spell caster.	DOUBLE_WIDE | FLYING_ARMY | KING_1
-Rostdrake	Rostdrakar	0	0	0	14	0	0	15000	24030	26433	1	0	750	17	30	30	50	50	0	0	1	3	Spits acid.	DOUBLE_WIDE | FLYING_ARMY | KING_1
-Förbättrare	Förbättrare	0	0	0	0	0	0	750	805	1210	2	0	30	9	17	12	14	14	32	0	5	12	"No melee penalty.
+Rostdrake	Rostdrakar	0	0	0	14	0	0	15000	24030	26433	1	0	750	17	30	30	50	50	0	0	1	3	Spottar syra.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Förtrollare	Förtrollare	0	0	0	0	0	0	750	805	1210	2	0	30	9	17	12	14	14	32	0	5	12	"No melee penalty.
 Group spell casters."	SHOOTING_ARMY | const_no_melee_penalty
 Skarpskjutare	Skarpskjutare	0	0	0	0	0	0	400	415	585	4	0	15	9	12	10	8	10	32	0	5	12	No Range or Barrier penalties.	SHOOTING_ARMY
 Halvling	Halvlingar	0	0	0	0	0	0	40	60	75	15	0	4	5	4	2	1	3	24	0	20	50	Positive luck.	SHOOTING_ARMY
 Bonde	Bönder	0	0	0	0	0	0	10	15	15	25	0	1	3	1	1	1	1	0	0	20	50		
 Vildsvin	Vildsvin	0	0	0	0	0	0	150	145	145	8	0	15	6	6	5	2	3	0	0	16	30		
-Mumie	Mumier	0	0	0	0	0	0	300	270	270	7	0	30	5	7	7	3	5	0	0	12	25	Curse.	
-Nomad	Nomader	0	0	0	0	0	0	200	285	345	7	0	30	7	9	8	2	6	0	0	12	25	Sandwalkers.	
-Skurk	Skurkar	0	0	0	0	0	0	100	135	135	8	0	10	6	8	3	2	4	0	0	16	30	Spying.	
-Troll	Troll	0	0	0	0	0	0	500	1024	1024	3	0	40	7	14	7	10	15	0	0	8	12	Regenerating.	
+Mumie	Mumier	0	0	0	0	0	0	300	270	270	7	0	30	5	7	7	3	5	0	0	12	25	Förbannelse.	
+Nomad	Nomader	0	0	0	0	0	0	200	285	345	7	0	30	7	9	8	2	6	0	0	12	25	Ökenvandrare.	
+Skurk	Skurkar	0	0	0	0	0	0	100	135	135	8	0	10	6	8	3	2	4	0	0	16	30	Spionerar.	
+Troll	Troll	0	0	0	0	0	0	500	1024	1024	3	0	40	7	14	7	10	15	0	0	8	12	Regenererar.	
 																								
 																								
 																								
 Katapult	Katapulter	0	0	0	0	0	0	1	10	500	0	0	1000	0	10	10	0	0	24	0	0	0	Attacks siege walls.	DOUBLE_WIDE | SHOOTING_ARMY | CATAPULT | SIEGE_WEAPON
 Ballista	Ballistor	0	0	0	0	0	0	2500	650	600	0	0	250	0	10	10	2	3	24	0	0	0		DOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON
 Första Hjälpen-Tält	Första Hjälpen-Tält	0	0	0	0	0	0	750	10	300	0	0	75	0	0	0	0	0	0	0	0	0	Heals troops.	DOUBLE_WIDE | SIEGE_WEAPON
-Ammunitionsvagn	Ammunitionsvagnar	0	0	0	0	0	0	1000	5	400	0	0	100	0	0	5	0	0	0	0	0	0	Unlimited ammunition.	SIEGE_WEAPON
+Ammunitionskärra	Ammunitionskärror	0	0	0	0	0	0	1000	5	400	0	0	100	0	0	5	0	0	0	0	0	0	Unlimited ammunition.	SIEGE_WEAPON
 Piltorn	Piltorn	0	0	0	0	0	0	1000	5	400	0	0	100	0	10	5	2	4	99	0	0	0	Unlimited ammunition.	SIEGE_WEAPON
