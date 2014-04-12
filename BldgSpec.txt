@@ -13,7 +13,7 @@ Mystisk Damm	Den Mystiska Dammen producerar en liten slumpd mängd resurser varj
 Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Dvärgar med 4 per vecka.
 Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Strids Dvärgar med 4 per vecka.	
 		
-Fountain of Fortune	The Fountain of Fortune increases the luck of the garrison hero by +2 when defending against a siege.	
+Välgångens Fontän	The Fountain of Fortune increases the luck of the garrison hero by +2 when defending against a siege.	
 Treasury	The Treasury earns you 10% interest on any gold you have at the start of each week.	
 		
 Dendroid Saplings	The Dendroid Saplings increase Dendroid Guard production by 2 per week.	
