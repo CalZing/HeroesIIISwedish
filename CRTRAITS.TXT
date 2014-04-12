@@ -36,9 +36,9 @@ Gulddrake	Gulddrakar	0	0	0	0	2	0	4000	6220	8613	1	0	250	16	27	27	40	50	0	0	3	8	I
 																								
 																								
 Småtomte	Småtomtar	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
-Mästarsmåtomte	Mästarsmåtomtar	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Ranged attacker.	SHOOTING_ARMY
-Stenskråpuk	Stenskråpukar	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30		FLYING_ARMY
-Obsidianskråpuk	Obsidianskråpukar	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25		FLYING_ARMY
+Stortomte	Stortomtar	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Ranged attacker.	SHOOTING_ARMY
+Stenfilur	Stenfilurer	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30		FLYING_ARMY
+Obsidianfilur	Obsidianfilurer	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25		FLYING_ARMY
 Stengolem	Stengolemer	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Damage from spells reduced 50%.	0
 Järngolem	Järngolemer	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Damage from spells reduced 75%.	0
 Magiker	Magiker	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	"No melee penalty.
