@@ -16,7 +16,7 @@ Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Str
 Välgångens Fontän	The Fountain of Fortune increases the luck of the garrison hero by +2 when defending against a siege.	
 Treasury	The Treasury earns you 10% interest on any gold you have at the start of each week.	
 		
-Dendroid Saplings	The Dendroid Saplings increase Dendroid Guard production by 2 per week.	
+Dendroid Stickling	The Dendroid Saplings increase Dendroid Guard production by 2 per week.	
 Dendroid Saplings	The Dendroid Saplings increase Dendroid Soldier production by 2 per week.	
 Spirit Guardian	"The presence of the Spirit Guardian increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the luck of all allied heroes by +2."	
 Resource Silo	The Resource Silo provides you with an additional +1 crystal each day.	
