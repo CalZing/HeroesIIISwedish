@@ -4,26 +4,26 @@ Magiskrå Nivå 3	En besökande hjälte som stiger in i magiskrået kommer bevil
 Magiskrå Nivå 4	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
 Magiskrå Nivå 5	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
 Taverna	Tavernan ökar moralen hos trupper som försvarar staden.
-Shipyard	The Shipyard allows you to purchase ships.
-Fort	The Fort provides your town with defensive walls.
-Citadel	"Including a 50% increase to base creature growth, the Citadel adds a keep, and other terrain obstacles, to a town's defenses."
-Castle	"The Castle adds two arrow towers, fortifies your town's defenses, and doubles base creature growth."
-Village Hall	The Village Hall allows you to purchase town structures and earns your kingdom 500 gold per day.
-Town Hall	The Town Hall allows you to purchase town structures and earns your kingdom 1000 gold per day.
-City Hall	The City Hall allows you to purchase town structures and earns your kingdom 2000 gold per day.
-Capitol	The Capitol earns your kingdom 4000 gold per day.
-Marketplace	"With the Marketplace, you can buy and sell resources (exchange rates increase with each Marketplace you own)."
+Varv	Varvet låter dig köpa skepp.
+Fort	Fortet förser din stad med försvarsmurar.
+Fästning	"Inklusive en 50% ökning av varelsetillväxten lägger fästningen till ett huvudtorn och andra terränghinder till en stads försvar."
+Borg	"Borgen lägger till två piltorn, fortifierar din stads försvar och dubblar grundvarelsetillväxten."
+Byhall	Byhallen låter dig köpa stadsbyggnader och inbringar 500 guld per dag till ditt kungadöme.
+Stadshall	Stadshallen låter dig köpa stadsbyggnader och inbringar 1000 guld per dag till ditt kungadöme.
+Storstadshall	Storstadshallen låter dig köpa stadsbyggnader och inbringar 2000 guld per dag till ditt kungadöme.
+Huvudstad	Huvudstaden inbringar 2000 guld per dag till ditt kungadöme.
+Marketplace	"Med Marknadsplatsen kan du köpa och sälja resurser (Växelkurser förbättras med varje Marknadsplats du äger)."
 	
-Blacksmith	The Blacksmith provides your armies with %s.
-Moat	The Moat slows attacking units.  Any unit entering the moat must end its turn there and becomes more vulnerable to attack.
-Shipyard with ship	The Shipyard allows you to purchase ships.
-Blacksmith	The Blacksmith provides your armies with Ballistas.
-Blacksmith	The Blacksmith provides your armies with First Aid Tents.
-Blacksmith	The Blacksmith provides your armies with Ammo Carts.
-Blacksmith	The Blacksmith provides your armies with Ammo Carts.
-Blacksmith	The Blacksmith provides your armies with First Aid Tents.
-Blacksmith	The Blacksmith provides your armies with Ballistas.
-Blacksmith	The Blacksmith provides your armies with Ammo Carts.
-Blacksmith	The Blacksmith provides your armies with First Aid Tents.
-Blacksmith	The Blacksmith provides your armies with Ballistas.
-Blacksmith	The Blacksmith provides your armies with War Machines.
+Smedja	Smedjan förser dina arméer med %s.
+Vallgrav	Vallgraven saktar ned anfallande enheter.  En enhet som äntrar vallgraven måste avslsuta sin tur i den och blir mer sårbar mot angrepp.
+Varv med skepp	Varvet låter dig köpa skepp.
+Smedja	Smedjan förser dina arméer med Ballistor.
+Smedja	Smedjan förser dina arméer med Första Hjälpen-tält.
+Smedja	Smedjan förser dina arméer med Ammunitionskärror.
+Smedja	Smedjan förser dina arméer med Ammunitionskärror.
+Smedja	Smedjan förser dina arméer med Första Hjälpen-tält.
+Smedja	Smedjan förser dina arméer med Ballistor.
+Smedja	Smedjan förser dina arméer med Ammunitionskärror.
+Smedja	Smedjan förser dina arméer med Första Hjälpen-tält.
+Smedja	Smedjan förser dina arméer med Ballistor.
+Smedja	Smedjan förser dina arméer med Krigsmaskiner.
