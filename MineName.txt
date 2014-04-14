@@ -1,8 +1,8 @@
-Sawmill
-Alchemist's Lab
-Ore Pit
-Sulfur Dune
-Crystal Cavern
-Gem Pond
-Gold Mine
-Abandoned Mine
+Sågverket
+Alkemistens Labb
+Malmgropen
+Svavelhögen
+Kristallgrottan
+Ädelstensdammen
+Guldgruvan
+Övergivna gruvan
