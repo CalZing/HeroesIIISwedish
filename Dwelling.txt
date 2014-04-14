@@ -30,91 +30,91 @@ Verkstad	Verkstaden låter dig rekrytera Småtomtar.
 Balustrad	Balustraden låter dig rekrytera Stenfilurer.
 Golemfabrik	Golemfabriken låter dig rekrytera Stengolemer.
 Magikertorn	Magikertornet låter dig rekrytera Magiker.
-Önskealtare	Önskealtaret låter dig rekrytera Djinn.
+Önskealtare	Önskealtaret låter dig rekrytera Djinner.
 Guldpaviljon	Guldpaviljongen låter dig rekrytera Naga.
 Molntempel	Molntemplet låter dig rekrytera Jättar.
 Upg. Verkstad	Verkstaden låter dig rekrytera Stortomtar.
-Upg. Balustrad	The Parapet allows you to recruit Obsidian Gargoyles.
-Upg. Golemfabrik	The Golem Factory allows you to recruit Iron Golems.
-Upg. Magikertorn	The Mage Tower allows you to recruit Arch Magi.
-Upg. Önskealtare	The Altar of Wishes allows you to recruit Master Genies.
-Upg. Guldpaviljon	The Golden Pavilion allows you to recruit Naga Queens.
-Upg. Molntempel	The Cloud Temple allows you to recruit Titans.
-Impdegel	The Imp Crucible allows you to recruit Imps.
-Syndernas Sal	The Hall of Sins allows you to recruit Gogs.
-Kennel	The Kennels allow you to recruit Hell Hounds.
-Demonport	The Demon Gate allows you to recruit Demons.
-Helvetesgap	The Hell Hole allows you to recruit Pit Fiends.
-Eldsjö	The Fire Lake allows you to recruit Efreet.
-Övergivet Palats	The Forsaken Palace allows you to recruit Devils.
-Upg. Impdegel	The Imp Crucible allows you to recruit Familiars.
-Upg. Syndernas sal	The Hall of Sins allows you to recruit Magogs.
-Upg. Kennel	The Kennels allow you to recruit Cerberi.
-Upg. Demonport	The Demon Gate allows you to recruit Horned Demons.
-Upg. Helvetesgap	The Hell Hole allows you to recruit Pit Lords.
-Upg. Eldsjö	The Fire Lake allows you to recruit Efreet Sultans.
-Upg. Övergivet Palats	The Forsaken Palace allows you to recruit Arch Devils.
-Förbannat Tempel	The Cursed Temple allows you to recruit Skeletons.
-Kyrkogård	The Graveyard allows you to recruit Walking Dead.
-Själsgrav	The Tomb of Souls allows you to recruit Wights.
-Gods	The Estate allows you to recruit Vampires.
-Mausoleum	The Mausoleum allows you to recruit Liches.
-Mörkrets Sal	The Hall of Darkness allows you to recruit Black Knights.
-Darkvalv	The Dragon Vault allows you to recruit Bone Dragons.
-Upg. Förbannat Tempel	The Cursed Temple allows you to recruit Skeleton Warriors.
-Upg. Kyrkogård	The Graveyard allows you to recruit Zombies.
-Upg. Själsgrav	The Tomb of Souls allows you to recruit Wraiths.
-Upg. Gods	The Estate allows you to recruit Vampire Lords.
-Upg. Mausoleum	The Mausoleum allows you to recruit Power Liches.
-Upg. Mörkrets sal	The Hall of Darkness allows you to recruit Dread Knights.
-Upg. Drakvalv	The Dragon Vault allows you to recruit Ghost Dragons.
-Grotta	The Warren allows you to recruit Troglodytes.
-Harpyaloft	The Harpy Loft allows you to recruit Harpies.
-Ögonpelare	The Pillar of Eyes allows you to recruit Beholders.
-Tysta Rösternas Kapell	The Chapel of Stilled Voices allows you to recruit Medusas.
-Labyrint	The Labyrinth allows you to recruit Minotaurs.
+Upg. Balustrad	Balustraden låter dig rekrytera Obsidianfilurer.
+Upg. Golemfabrik	Golemfabriken låter dig rekrytera Järngolemer.
+Upg. Magikertorn	Magikertornet låter dig rekrytera Ärkemagiker.
+Upg. Önskealtare	Önskealtaret låter dig rekrytera Mästardjinner.
+Upg. Guldpaviljon	Guldpaviljongen låter dig rekrytera Nagadrottningar.
+Upg. Molntempel	Molntemplet låter dig rekrytera Titaner.
+Impdegel	Impdegeln låter dig rekrytera Impar.
+Syndernas Sal	Syndernas Sal låter dig rekrytera Gogar.
+Kennel	Kenneln låter dig rekrytera Helveteshundar.
+Demonport	Demonporten låter dig rekrytera Demoner.
+Helvetesgap	Helvetesgapet låter dig rekrytera Avgrundsbövlar.
+Eldsjö	Eldsjön låter dig rekrytera Ifriter.
+Övergivet Palats	Det Övergivna Palatset låter dig rekrytera Djävlar.
+Upg. Impdegel	Impdegeln låter dig rekrytera Bjäror.
+Upg. Syndernas sal	Syndernas Sal låter dig rekrytera Magogar.
+Upg. Kennel	Kenneln låter dig rekrytera Cerberi.
+Upg. Demonport	Demonporten låter dig rekrtytera Behornade Demoner.
+Upg. Helvetesgap	Helvetesgapet låter dig rekrytera Avgrundsmästare.
+Upg. Eldsjö	Eldsjön låter dig rekrytera Ifritsultaner.
+Upg. Övergivet Palats	Det Övergivna Palatset låter dig rekrytera Ärkedjävlar.
+Förbannat Tempel	Det Förbannade Templet låter dig rekrytera Skelett.
+Kyrkogård	Kyrkogården låter dig rekrytera Dödgångare.
+Själsgrav	Själsgraven låter dig rekrytera Gastar.
+Gods	Godset låter dig rekrytera Vampyrer.
+Mausoleum	Mausoleumet låter dig rekrytera Likhäxor.
+Mörkrets Sal	Mörkrets Sal låter dig rekrytera Svartriddare.
+Darkvalv	Drakvalvet låter dig rekrytera Bendrakar.
+Upg. Förbannat Tempel	Det Förbannade Templet låter dig rekrytera Skelettkrigare.
+Upg. Kyrkogård	Kyrkogården låter dig rekrytera Draugar.
+Upg. Själsgrav	Själsgraven låter dig rekrytera Vålnader.
+Upg. Gods	Godset låter dig rekrytera Vampyrherrar.
+Upg. Mausoleum	Mausoleumet låter dig rekrytera Kraftfulla Likhäxor.
+Upg. Mörkrets sal	Mörkrets Sal låter dig rekrytera Skräckriddare.
+Upg. Drakvalv	Drakvalvet låter dig rekrytera Spökdrakar.
+Grotta	Grottan låter dig rekrytera Troglodyter.
+Harpyaloft	Harpyaloftet låter dig rekrytera Harpyor.
+Ögonpelare	Ögonpelaren låter dig rekrytera Åskådare.
+Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusor.
+Labyrint	Labyrinten låter dig rekrytera Minotaurer.
 Manticore Lair	The Manticore Lair allows you to recruit Manticores.
-Drakgrotta	The Dragon Cave allows you to recruit Red Dragons.
-Upg. Grotta	The Warren allows you to recruit Infernal Troglodytes.
-Upg. Harpyaloft	The Harpy Loft allows you to recruit Harpy Hags.
-Upg. Ögonpelare	The Pillar of Eyes allows you to recruit Evil Eyes.
-Upg. Tysta Rösternas Kapell of Stilled Voices allows you to recruit Medusa Queens.
-Upg. Labyrint	The Labyrinth allows you to recruit Minotaur Kings.
+Drakgrotta	Drakgrottan låter dig rekrytera Röddrakar.
+Upg. Grotta	Grottan låter dig rekrytera Infernaliska Troglodyter.
+Upg. Harpyaloft	Harpyaloftet låter dig rekrytera Vildvittror.
+Upg. Ögonpelare	Ögonpelaren låter dig rekrytera Onda Ögon.
+Upg. Tysta Rösternas Kapell Tysta Rösternas Kapell låter dig rekrytera Medusadrottningar.
+Upg. Labyrint	Labyrinten låter dig rekrytera Minotaurkungar.
 Upg. Manticore Lair	The Manticore Lair allows you to recruit Scorpicores.
-Upg. Drakgrotta	The Dragon Cave allows you to recruit Black Dragons.
-Koboldbark	The Goblin Barracks allow you to recruit Goblins.
-Varggryt	The Wolf Pen allows you to recruit Wolf Riders.
-Orchtorn	The Orc Tower allows you to recruit Orcs.
-Resefort	The Ogre Fort allows you to recruit Ogres.
-Klippnäste	The Cliff Nest allows you to recruit Rocs.
-Cyklopgrotta	The Cyclops Cave allows you to recruit Cyclopses.
-Behemotlya	The Behemoth Lair allows you to recruit Behemoths.
-Upg. Koboldbarack	The Goblin Barracks allow you to recruit Hobgoblins.
-Upg. Varggryt	The Wolf Pen allows you to recruit Wolf Raiders.
-Upg. Orchtorn	The Orc Tower allows you to recruit Orc Chieftains.
-Upg. Resefort	The Ogre Fort allows you to recruit Ogre Magi.
-Upg. Klippnäste	The Cliff Nest allows you to recruit Thunderbirds.
-Upg. Cyklopgrotta	The Cyclops Cave allows you to recruit Cyclops Kings.
-Upg. Behemotlya	The Behemoth Lair allows you to recruit Ancient Behemoths.
-Krokotaurstuga	The Gnoll Hut allows you to recruit Gnolls.
-Ödlehåla	The Lizard Den allows you to recruit Lizardmen.
-Sländebo	The Serpent Fly Hive allows you to recruit Serpent Flies.
-Basiliskhåla	The Basilisk Pit allows you to recruit Basilisks.
-Gorgonlya	The Gorgon Lair allows you to recruit Gorgons.
-Lindormsnäste	The Wyvern Nest allows you to recruit Wyverns.
-Hydrans damm	The Hydra Pond allows you to recruit Hydras.
-Upg. Krokotaurstuga	The Gnoll Hut allows you to recruit Gnoll Marauders.
-Upg. Ödlehåla	The Lizard Den allows you to recruit Lizard Warriors.
-Upg. Sländebo	The Serpent Fly Hive allows you to recruit Dragon Flies.
-Upg. Basiliskhåla	The Basilisk Pit allows you to recruit Greater Basilisks.
-Upg. Gorgonlya	The Gorgon Lair allows you to recruit Mighty Gorgons.
-Upg. Lindormsnäste	The Wyvern Nest allows you to recruit Wyvern Monarchs.
-Upg. Hydrans damm	The Hydra Pond allows you to recruit Chaos Hydras.
-Magisk Lykta	The Magic Lantern allows you to recruit Pixies.
-Luftaltare	The Altar of Air allows you to recruit Air Elementals.
-Vattenaltare	The Altar of Water allows you to recruit Water Elementals.
-Eldaltare	The Altar of Fire allows you to recruit Fire Elementals.
-Jordaltare	The Altar of Earth allows you to recruit Earth Elementals.
+Upg. Drakgrotta	Drakgrottan låter dig rekrytera Svartdrakar.
+Koboldbarack	Koboldbarackerna låter dig rekrytera Kobolder.
+Varggryt	Varggrytet låter dig rekrytera Vargryttare.
+Orchtorn	Orchtornet låter dig rekrytera Orcher.
+Resefort	Resefortet låter dig rekrytera Resen.
+Klippnäste	Klippnästet låter dig rekrytera Rockar.
+Cyklopgrotta	Cyklopgrottan låter dig rekrytera Cykloper.
+Behemotlya	Behemotlyan låter dig rekrytera Behemoter.
+Upg. Koboldbarack	Koboldbaracken låter dig rekrytera Hobkobolder.
+Upg. Varggryt	Varggrytet låter dig rekrytera Vargplundrare.
+Upg. Orchtorn	Orchtornet låter dig rekrytera Orchöverhuvuden.
+Upg. Resefort	Resefortet låter dig rekrytera Bergsresen.
+Upg. Klippnäste	Klippnästet låter dig rekrytera Åskfåglar.
+Upg. Cyklopgrotta	Cyklopgrottan låter dig rekrytera Cyklopkungar.
+Upg. Behemotlya	Behemotlyan låter dig rekrytera Urtida Behemoter.
+Krokotaurstuga	Krokotaurstugan låter dig rekrytera Krokotaurer.
+Ödlehåla	Ödlehålan låter dig rekrytera Ödlemän.
+Sländebo	Sländeboet låter dig rekrytera Dagsländor.
+Basiliskhåla	Basiliskhålan låter dig rekrytera Basilisker.
+Gorgonlya	Gorgonlyan låter dig rekrytera Gorgoner.
+Lindormsnäste	Lindormsnästet låter dig rekrytera Lindormar.
+Hydrans damm	Hydrans damm låter dig rekrytera Hydror.
+Upg. Krokotaurstuga	Krokotaurstugan låter dig rekrytera Krokotaurmarodörer.
+Upg. Ödlehåla	Ödlehålan låter dig rekrytera Ödlekrigare.
+Upg. Sländebo	Sländeboet låter dig rekrytera Trollsländor.
+Upg. Basiliskhåla	Basiliskhålan låter dig rekrytera Bättre Basilisker.
+Upg. Gorgonlya	Gorgonlyan låter dig rekrytera Mäktiga Gorgoner.
+Upg. Lindormsnäste	Lindormsnästet låter dig rekrytera Lindormsmonarker.
+Upg. Hydrans damm	Hydrans Damm låter dig rekrytera Kaoshydror.
+Magisk Lykta	Den Magiska Lyktan låter dig rekrytera Älvor.
+Luftaltare	Luftaltaret låter dig rekrytera Luftelementärer.
+Vattenaltare	Vattenaltaret låter dig rekrytera Vattenelementärer.
+Eldaltare	Eldaltaret låter dig rekrytera Eldelementärer.
+Jordaltare	Jordaltaret låter dig rekrytera Jordelementärer.
 Tankealtare	The Altar of Thought allows you to recruit Psychic Elementals.
 Bål	The Pyre allows you to recruit Fire Birds.
 Upg. Magisk Lykta	The Magic Pool allows you to recruit Sprites.
