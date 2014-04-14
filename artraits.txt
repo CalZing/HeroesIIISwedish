@@ -131,7 +131,7 @@ Tabard av Drakvingar	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Tabard av Dra
 När du bär denna över dina axlar ökar din Kunskapsförmåga av Trollformelskraft med +2."
 Halsband av Draktänder	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Halsband av Draktänder}
 
-När du bär detta kring halsen ökar din Kunskapsförmåga av Trollformelskraft med +3."
+När du bär detta kring halsen ökar din Kunskapsförmåga och Trollformelskraft med +3."
 Krona av Draktänder	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Krona av Draktänder}
 
 När du bär detta på ditt huvud ökar din Kunskapsförmåga av Trollformelskraft med +4."
@@ -147,21 +147,21 @@ Profetians kort ökar din tur med +1."
 Turens Nyckelpiga	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Turens Nyckelpiga}
 
 Turens Nyckelpiga ökar din tur med +1."
-Badge of Courage	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Modets Emblem}
+Modets Emblem	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Modets Emblem}
 
 Modets Emblem ökar din moral med +1."
-Modets sköld	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Modets sköld}
+Tapperhetens sköld	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Modets sköld}
 
 Modets sköld ökar din moral med +1."
-Glyph of Gallantry	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Glyph of Gallantry}
+Tapperhetens Symbol	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Glyph of Gallantry}
 
-The Glyph of Gallantry increases your Morale by +1."
-Speculum	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Speculum}
+Tapperhetens Symbol ökar din moral med +1 +1."
+Stjärnkikare	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Speculum}
 
-The Speculum increases your Scouting radius by +1."
-Spyglass	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spyglass}
+Stjärnkikaren ökar Scouting-radien med +1."
+Spionkikare	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spyglass}
 
-The Spyglass increases your Scouting radius by +1."
+Spionkikaren ökar Scouting-radien med +1."
 Amulet of the Undertaker	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Amulet of the Undertaker}
 
 Worn about the neck, this amulet increases your Necromancy skill by 5%."
