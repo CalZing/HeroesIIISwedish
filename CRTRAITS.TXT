@@ -172,7 +172,7 @@ Magmaelementär	Magmaelementärer	0	0	0	0	0	0	500	490	490	4	0	40	6	11	11	6	10	0	
 NOT USED (3)	NOT USED (3)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
 Stormelementär	Stormelementärer	0	0	0	0	0	0	275	324	486	6	0	25	8	9	9	2	8	24	3	6	12	Ingen handgemängsförsämring.  Åsk- och eldstormssårbarhet.	IMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY
 NOT USED (4)	NOT USED (4)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
-Energy Elemental	Energy Elementals	0	0	0	0	0	0	400	360	470	5	0	35	8	12	8	4	6	0	3	12	25	"Kastar skydd mot eld. Medvetande- och eldtrollformelsimmunitet, köldsårbarhet."	IMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY
+Energielementär	Energielementärer	0	0	0	0	0	0	400	360	470	5	0	35	8	12	8	4	6	0	3	12	25	"Kastar skydd mot eld. Medvetande- och eldtrollformelsimmunitet, köldsårbarhet."	IMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY
 Eldfågel	Eldfåglar	0	0	0	0	0	0	1500	3248	4547	2	0	150	15	18	18	30	40	0	0	4	10	Pustanfall.  Eldtrollformelsimmunitet.	IMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
 Fenix	Fenixar	0	1	0	0	0	0	2000	4929	6721	2	0	200	21	21	18	30	40	0	1	4	10	Pustanfall.  Eldtrollformelsimmunitet.  Återfödelse.	IMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
 																								
