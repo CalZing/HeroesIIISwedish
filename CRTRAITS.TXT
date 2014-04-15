@@ -47,7 +47,7 @@ Hero spells cost less."	SHOOTING_ARMY | const_no_melee_penalty
 Hero spells cost less."	SHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty
 Djinn	Djinner	0	0	0	0	0	0	550	680	884	3	0	40	7	12	12	13	16	0	0	8	16	Hatar Ifriter.	FLYING_ARMY
 Mästardjinn	Mästardjinner	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	"Trollformelkastare: Slumpvald fördelaktig.
-Hates Efreet."	FLYING_ARMY
+Hatar Ifriter."	FLYING_ARMY
 Naga	Naga	0	0	0	0	0	0	1100	2016	2016	2	0	110	5	16	13	20	20	0	0	5	12	Inget fiendeåterslag.	DOUBLE_WIDE
 Nagadrottning	Nagadrottningar	0	0	0	0	0	0	1600	2485	2840	2	0	110	7	16	13	30	30	0	0	5	10	Inget fiendeåterslag.	DOUBLE_WIDE
 Jätte	Jättar	0	0	0	0	0	1	2000	3146	3718	1	0	150	7	19	16	40	60	0	0	4	10	Medventandetrollformelsimmunitet	KING_3
@@ -81,7 +81,7 @@ Draug	Draugar	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	"Odöd.
 Sjukdom."	IS_UNDEAD
 Gast	Gastar	0	0	0	0	0	0	200	231	252	7	0	18	5	7	7	3	5	0	0	12	25	Odöd.  Regenerating.	FLYING_ARMY | IS_UNDEAD
 Vålnad	Vålnader	0	0	0	0	0	0	230	252	315	7	0	18	7	7	7	3	5	0	0	12	20	"Odöd.  Regenererar.
-Drains enemy mana."	FLYING_ARMY | IS_UNDEAD
+Dränerar fiendemana."	FLYING_ARMY | IS_UNDEAD
 Vampyr	Vampyrer	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	"Odöd.
 Inget fiendeåterslag."	FLYING_ARMY | IS_UNDEAD
 Vampyrherre	Vampyrherrar	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	"Odöd.  Dränerar fiendeliv.
@@ -162,19 +162,19 @@ Diamantgolem	Diamantgolemer	0	0	0	0	0	0	750	775	775	2	0	60	5	13	12	10	14	0	0	8	1
 																								
 																								
 Älva	Älvor	0	0	0	0	0	0	25	40	55	20	10	3	7	2	2	1	2	0	0	20	50		FLYING_ARMY
-Dis	Diser	0	0	0	0	0	0	30	70	95	20	10	3	9	2	2	1	3	0	0	20	30	No enemy retaliation.	FLYING_ARMY | const_free_attack
-Övernaturlig Elementär	Övernaturliga Elementärer	0	0	0	0	0	0	750	1431	1669	2	0	75	7	15	13	10	20	0	0	8	16	Anfaller alla angränsande fiender utan återslåg. Mind spell immunity.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
+Dis	Diser	0	0	0	0	0	0	30	70	95	20	10	3	9	2	2	1	3	0	0	20	30	Inget fienderåterslag.	FLYING_ARMY | const_free_attack
+Övernaturlig Elementär	Övernaturliga Elementärer	0	0	0	0	0	0	750	1431	1669	2	0	75	7	15	13	10	20	0	0	8	16	Anfaller alla angränsande fiender utan återslåg. Medventandetrollformelsimmunitet.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
 Magielementär	Magielementärer	0	0	0	0	0	0	800	1724	2012	2	0	80	9	15	13	15	25	0	0	8	12	Anfaller alla angränsande fiender utan återslåg. Trollformelsimmunitet.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
 NOT USED (1)	NOT USED (1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
-Iselementär	Iselementärer	0	0	0	0	0	0	375	315	380	6	0	30	6	8	10	3	7	24	3	12	20	Mind spell immunity. Ice immunity. Fire vulnerability.	IMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY
+Iselementär	Iselementärer	0	0	0	0	0	0	375	315	380	6	0	30	6	8	10	3	7	24	3	12	20	Medventandetrollformelsimmunitet. Isimmunitet. Eldsimmunitet.	IMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY
 NOT USED (2) 	NOT USED (2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
-Magmaelementär	Magmaelementärer	0	0	0	0	0	0	500	490	490	4	0	40	6	11	11	6	10	0	3	16	25	Mind spell immunity.  Casts protection from Earth.	IMMUNE_TO_MIND_SPELLS
+Magmaelementär	Magmaelementärer	0	0	0	0	0	0	500	490	490	4	0	40	6	11	11	6	10	0	3	16	25	Medventandetrollformelsimmunitet.  Kastar Skydd mot Jord.	IMMUNE_TO_MIND_SPELLS
 NOT USED (3)	NOT USED (3)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
 Stormelementär	Stormelementärer	0	0	0	0	0	0	275	324	486	6	0	25	8	9	9	2	8	24	3	6	12	Ingen handgemängsförsämring.  Åsk- och eldstormssårbarhet.	IMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY
 NOT USED (4)	NOT USED (4)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
-Energy Elemental	Energy Elementals	0	0	0	0	0	0	400	360	470	5	0	35	8	12	8	4	6	0	3	12	25	"Casts Protect from Fire. Mind & fire immunity, cold vulnerability."	IMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY
-Eldfågel	Eldfåglar	0	0	0	0	0	0	1500	3248	4547	2	0	150	15	18	18	30	40	0	0	4	10	Breath attack.  Fire spell immunity.	IMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
-Fenix	Fenixar	0	1	0	0	0	0	2000	4929	6721	2	0	200	21	21	18	30	40	0	1	4	10	Breath attack.  Fire spell immunity.  Rebirth.	IMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
+Energy Elemental	Energy Elementals	0	0	0	0	0	0	400	360	470	5	0	35	8	12	8	4	6	0	3	12	25	"Kastar skydd mot eld. Medvetande- och eldtrollformelsimmunitet, köldsårbarhet."	IMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY
+Eldfågel	Eldfåglar	0	0	0	0	0	0	1500	3248	4547	2	0	150	15	18	18	30	40	0	0	4	10	Pustanfall.  Eldtrollformelsimmunitet.	IMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
+Fenix	Fenixar	0	1	0	0	0	0	2000	4929	6721	2	0	200	21	21	18	30	40	0	1	4	10	Pustanfall.  Eldtrollformelsimmunitet.  Återfödelse.	IMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
 																								
 																								
 																								
@@ -183,8 +183,8 @@ Kristalldrake	Kristalldrakar	0	0	0	0	10	0	20000	30260	39338	1	0	800	16	40	40	60	
 Fedrake	Fedrakar	0	0	0	0	0	8	10000	16317	19580	1	0	500	15	20	20	20	30	0	5	1	3	Offensiv trollformelskastare.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 Rostdrake	Rostdrakar	0	0	0	14	0	0	15000	24030	26433	1	0	750	17	30	30	50	50	0	0	1	3	Spottar syra.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 Förtrollare	Förtrollare	0	0	0	0	0	0	750	805	1210	2	0	30	9	17	12	14	14	32	0	5	12	"Ingen handgemängsförsämring.
-Group spell casters."	SHOOTING_ARMY | const_no_melee_penalty
-Skarpskjutare	Skarpskjutare	0	0	0	0	0	0	400	415	585	4	0	15	9	12	10	8	10	32	0	5	12	No Range or Barrier penalties.	SHOOTING_ARMY
+Grupptrollformelskastare."	SHOOTING_ARMY | const_no_melee_penalty
+Skarpskjutare	Skarpskjutare	0	0	0	0	0	0	400	415	585	4	0	15	9	12	10	8	10	32	0	5	12	Inga avstånds- eller hinderförsämringar.	SHOOTING_ARMY
 Halvling	Halvlingar	0	0	0	0	0	0	40	60	75	15	0	4	5	4	2	1	3	24	0	20	50	Positiv tur.	SHOOTING_ARMY
 Bonde	Bönder	0	0	0	0	0	0	10	15	15	25	0	1	3	1	1	1	1	0	0	20	50		
 Vildsvin	Vildsvin	0	0	0	0	0	0	150	145	145	8	0	15	6	6	5	2	3	0	0	16	30		
