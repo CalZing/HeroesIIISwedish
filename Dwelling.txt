@@ -123,7 +123,7 @@ Upg. Vattenaltare	The Temple of Ice allows you to recruit Ice Elementals.
 Upg. Eldaltare	The Temple of Energy allows you to recruit Energy Elementals.
 Upg. Jordaltare	The Temple of Magma allows you to recruit Magma Elementals.
 Upg. Tankealtare	The Temple of Magic allows you to recruit Magic Elementals.
-Upg. Bål	The Funeral Pyre allows you to recruit Pheonixes .
+Upg. Bål	The Funeral Pyre allows you to recruit Pheonixes.
 Level 1 Creature Generator	Allows you to recruit Level 1 Creatures.
 Level 2 Creature Generator	Allows you to recruit Level 2 Creatures.
 Level 3 Creature Generator	Allows you to recruit Level 3 Creatures.
