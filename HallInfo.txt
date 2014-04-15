@@ -1,10 +1,10 @@
-Cannot build more than one Capitol
-This town is not near water
-This town can not build this structure
-Add another level to Mage Guild
-%s is already built
-Cannot build %s
-Cannot afford %s
-Build %s
+Kan inte bygga mer än en huvudstad
+Den här staden är inte nära vatten
+Den här staden kan inte bygga den här byggnaden
+Lägg till en nivå till Magiskrået
+%s är redan byggt
+Kan inte bygga %s
+Har inte råd med %s
+Bygg %s
 Exit Hall
 Hall Options
