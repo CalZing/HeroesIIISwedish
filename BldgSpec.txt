@@ -1,30 +1,30 @@
-Fyr	Fyren ger ökad förflyttning till de fartyg som du kontrolerar.	
-Grip Bastion	Grip Bastionen ökar produktionen av gripar med 3 per vecka.	
-Grip Bastion	Grip Bastionen ökar produktionen av kungagripar med 3 per vecka.	
-Varv	Varvet tillåter dig att köpa fartyg.	
+Fyr	Fyren ger ökad förflyttning till de fartyg som du kontrollerar.	
+Gripbastion	Gripbastionen ökar produktionen av gripar med 3 per vecka.	
+Gripbastion	Gripbastionen ökar produktionen av kungagripar med 3 per vecka.	
+Varv	Varvet låter dig köpa fartyg.	
 Stall	Stallet ökar förflyttningspoängen för besökande hjältar.	
 Svärdets Brödrarskap	"Under en belägring så ökar Svärdets Brödrarskap dina truppers moral med +2"	
 		
 		
 		
 Kolossen	"Kolossens närvaro ökar den veckoliga tillväxten av varelser med 50%, ökar din dagliga inkomst av guld med 5000, och ökar alla allierade hjältars moral med +2."	
-Resurs Silo	Resurs silon förser dig med +1 ved och +1 sten varje dag.	
+Resurssilo	Resurs silon förser dig med +1 ved och +1 sten varje dag.	
 Mystisk Damm	Den Mystiska Dammen producerar en liten slumpd mängd resurser varje vecka.	
 Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Dvärgar med 4 per vecka.
 Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Strids Dvärgar med 4 per vecka.	
 		
 Välgångens Fontän	The Fountain of Fortune increases the luck of the garrison hero by +2 when defending against a siege.	
-Treasury	The Treasury earns you 10% interest on any gold you have at the start of each week.	
+Skattkammare	Skattkammaren ger dig 10% ränta på det guld du har i början av varje vecka.	
 		
-Dendroid Stickling	The Dendroid Saplings increase Dendroid Guard production by 2 per week.	
-Dendroid Saplings	The Dendroid Saplings increase Dendroid Soldier production by 2 per week.	
+Dendroidstickling	The Dendroid Saplings increase Dendroid Guard production by 2 per week.	
+Dendroidstickling	The Dendroid Saplings increase Dendroid Soldier production by 2 per week.	
 Spirit Guardian	"The presence of the Spirit Guardian increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the luck of all allied heroes by +2."	
 Resource Silo	The Resource Silo provides you with an additional +1 crystal each day.	
 Artifact Merchants	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
-Sculptor's Wings	The Sculptor's Wings increase Stone Gargoyle production by 4 per week.	
-Sculptor's Wings	The Sculptor's Wings increase Obsidian Gargoyle production by 4 per week.	
+Skulptörsvingar	The Sculptor's Wings increase Stone Gargoyle production by 4 per week.	
+Skulptörsvingar	The Sculptor's Wings increase Obsidian Gargoyle production by 4 per week.	
 		
-Lookout Tower	The lookout tower extends the visible distance around your city.	
+Utkikstorn	The lookout tower extends the visible distance around your city.	
 Library	The library provides your mage guild with additional spells.	
 Wall of Knowledge	The Wall of Knowledge increases the Knowledge skill of any visiting hero by +1.	
 		
