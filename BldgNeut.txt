@@ -12,7 +12,7 @@ Byhall	Byhallen låter dig köpa stadsbyggnader och inbringar 500 guld per dag t
 Stadshall	Stadshallen låter dig köpa stadsbyggnader och inbringar 1000 guld per dag till ditt kungadöme.
 Storstadshall	Storstadshallen låter dig köpa stadsbyggnader och inbringar 2000 guld per dag till ditt kungadöme.
 Huvudstad	Huvudstaden inbringar 4000 guld per dag till ditt kungadöme.
-Marketplace	"Med Marknadsplatsen kan du köpa och sälja resurser (Växelkurser förbättras med varje Marknadsplats du äger)."
+Marknadsplats	"Med Marknadsplatsen kan du köpa och sälja resurser (Växelkurser förbättras med varje Marknadsplats du äger)."
 	
 Smedja	Smedjan förser dina arméer med %s.
 Vallgrav	Vallgraven saktar ned anfallande enheter.  En enhet som äntrar vallgraven måste avslsuta sin tur i den och blir mer sårbar mot angrepp.
