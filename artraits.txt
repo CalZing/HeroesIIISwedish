@@ -397,7 +397,7 @@ Avancerad: Gastar
 Sofistikerad: Häxmästare"
 Livets Elixir						x	x	x	x	x										R	"{Livets Elixir}
 
-ALla varelser får en 25% bonus i hälsa och får regenerations-förmåga. Fungerar inte på Odöda eller icke levande varelser"
+Alla varelser får en 25% bonus i hälsa och får regenerations-förmåga. Fungerar inte på Odöda eller icke levande varelser"
 Den Förbannade Rustningen														x						R	"{Den Förbannade Rustningen}
 
 Alla motståndare får dessa förtrollningar på sig i femtio turer: Långsam, Förbannelse, Svaghet och Otur."
@@ -415,25 +415,25 @@ Amiralens Hatt																				x	R	"{Amiralens Hatt}
 Ingen bordning- eller avbordningsförlust sker. Omvandlar förflyttningspoäng mellan hjältens land- och vattenförflyttnin."
 Skarpskyttens Båge							x	x	x	x	x						 				R	"{Skarpskyttens Båge}
 
-Ranged shooters may fire projectiles while adjacent to an enemy creature.  No archery penalty for range or obstacle"
-Wizard's Well							x	x	x	x	x										R	"{Wizard's Well}
+Skyttar kan skjuta projektiler även om fiende står bredvid. Skyttar kan skjuta hur långt som helst och genom alla hinder."
+Tollkarlens Brunn						x	x	x	x	x										R	"{Trollkarlens Brunn}
 
-Regenerates all spell points each day"
-Ring of the Magi													x	x							R	"{Ring of the Magi}
+Regenererar alla trollformelspoäng varje dag"
+Magiringen													x	x							R	"{Magiringen}
 
-Add 50 rounds to spell duration."
-Cornucopia							x	x	x	x	x										R	"{Cornucopia}
+Lägger till 50 runder till dina trollformlers hållbarhet."
+KornuKopia							x	x	x	x	x										R	"{KornuKopia}
 
-Generates 4 of each precious resource, each day."
-Diplomat's Suit																			x		R	"{Diplomat's Suit}
+Genererar 4 av varje specialresurs, varje dag."
+Diplomatens Dräkt																		x		R	"{Diplomatens Dräkt}
 
-This is a kick-ass artifact."
-Mired in Neutrality															x						R	"{Mired in Neutrality}
+Detta är en jättebra artefakt."
+Marinerad i neutralitet															x						R	"{Marinerad i neutralitet	}
 
-This is a kick-ass artifact."
-Ironfist of the Ogre																	x				R	"{Ironfist of the Ogre}
+Detta är en jättebra artefakt."
+Resens Järnnäve																	x				R	"{Resens Järnnäve}
 
-This is a kick-ass artifact."
+Detta är en jättebra artefakt."
 																						
 																						
 																						
