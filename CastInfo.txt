@@ -1,6 +1,6 @@
 Anfallsförmåga
 Försvarförmåga
-Skada per Attack
+Skada per Anfall
 Hälsa
 Hastighet
 Tillväxt per Vecka
