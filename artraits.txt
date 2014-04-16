@@ -371,7 +371,7 @@ Legionens Huvud	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Legionens Huvud}
 När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 6 med 1 i veckan (i den staden)."
 Kaptenens Hatt	15000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Kaptenens Hatt}
 
-När du bär denna artefakt ökar din hjältes förflyttningspoäng över havet. Den låter dig även trolla fram och förstöra båtar samt skyddar dig från strömvirvlar."
+När du bär denna artefakt ökar din hjältes förflyttningspoäng över havet. Den låter dig även åkalla och förstöra båtar samt skyddar dig från strömvirvlar."
 Trollkonstnärens Hatt	30000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Trollkonstnärens Hatt}
 
 Denna hatt låter dig kasta alla trollformler från nivå 5."
@@ -389,31 +389,31 @@ Armageddons Klinga	50000																x				R	"{Armageddons Klinga}
 +3 i Attackförmåga, +3 i Försvarsförmåga, +6 i Kunskapsförmåga, +3 i Trollformelskraft, Sofistikerad Armageddon-trollformel i hjältens Trollformelsbok och så blir alla allierade varelser immuna mot Armageddon-trollformeln."
 Änglalik Allians																	x				R	"{Änglalik Allians}
 
-Allows Rampart, Tower, Fortress, Stronghold and Castle creatures to be mixed without a morale penalty, for the player.  Casts Expert Prayer at the start of combat."
-Cloak of the Undead King																			x		R	"{Cloak of the Undead King}
+Låter Fästningsvall-, Torn-, Fort-, Fäste- och Borgvarelser att bli blandade utan moralförluster i strid. Sofistikerad Bön kastas i början av varje strid."
+Den odöda Kungens Mantel																			x		R	"{Den odöda Kungens Mantel}
 
-30% of battlefield dead are resurrected as Skeletons.  If hero already has the Necromancy skill then the percentages are added to the skill and the level of skill determines what type is resurrected.  Basic: Zombies
-Advanced: Wights
-Expert:  Liches"
-Elixir of Life							x	x	x	x	x										R	"{Elixir of Life}
+30% av de döda från varje slagfält återuppväcks som Skelett. Om hjälten redan har Dödsmagi-förmågan då läggs procenten till den förmågan samt nivån av förmågan bestämmer vilken typ som återuppväcks. Grundläggande: Skelett
+Avancerad: Gastar
+Sofistikerad: Häxmästare"
+Livets Elixir						x	x	x	x	x										R	"{Livets Elixir}
 
-All creatures get a 25% health bonus and gain the regeneration ability.  Does not work on Undead or unliving creatures"
-Armor of the Damned															x						R	"{Armor of the Damned}
+ALla varelser får en 25% bonus i hälsa och får regenerations-förmåga. Fungerar inte på Odöda eller icke levande varelser"
+Den Förbannade Rustningen														x						R	"{Den Förbannade Rustningen}
 
-All opponents have these spells effective on them for fifty turns: Slow, Curse, Weakness, and Misfortune."
-Statue of Legion							x	x	x	x	x										R	"{Statue of Legion}
+Alla motståndare får dessa förtrollningar på sig i femtio turer: Långsam, Förbannelse, Svaghet och Otur."
+Legionens Staty							x	x	x	x	x										R	"{Legionens Staty}
 
-All creature production increases by 50%, in all towns based off of the castle creature generation level, does not include flagged structures or other like bonuses."
-Power of the Dragon Father															x						R	"{Power of the Dragon Father}
+All varelseproduktion ökar med 50%, i alla städer beroende på stadens generationsnivå. Flaggade byggnader och andra bonusar medräknas ej."
+Drakpappans Krafter															x						R	"{Drakpappans Krafter}
 
-+6 to all primary skills, all troops are immune to 1-4th level spells."
-Titan's Thunder																	x				R	"{Titan's Thunder}
++6 till alla primära förmågor. Dina varelser är immuna mot alla trollformler mellan nivå 1 - 4."
+Titanens Åska																x				R	"{Titanens Åska}
 
-Hero gains the ability to cast Lightning Bolt for 600 points of damage, does not cost any spell points, adds a spell book into their inventory (permanently)."
-Admiral's Hat																				x	R	"{Admiral's Hat}
+Hjälten får förmågan att kasta Blixtar för 600 skada som inte kostar några trollformelspoäng. En Trollformelsbok ges till hjälten (permanent)."
+Amiralens Hatt																				x	R	"{Amiralens Hatt}
 
-No boarding or unboarding ship penalty.  Converts movement points between the Hero's Land and Water movement."
-Bow of the Sharpshooter							x	x	x	x	x						 				R	"{Bow of the Sharpshooter}
+Ingen bordning- eller avbordningsförlust sker. Omvandlar förflyttningspoäng mellan hjältens land- och vattenförflyttnin."
+Skarpskyttens Båge							x	x	x	x	x						 				R	"{Skarpskyttens Båge}
 
 Ranged shooters may fire projectiles while adjacent to an enemy creature.  No archery penalty for range or obstacle"
 Wizard's Well							x	x	x	x	x										R	"{Wizard's Well}
