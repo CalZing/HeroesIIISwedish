@@ -1,46 +1,46 @@
-Hero Window
+Hjältefönstret
 Attack
-Defense
-Power
-Knowledge
-{Specialty}
-{Experience}
-{Spell Points}
-"Quest
-Log"
-"Dismiss
-Hero"
-Overview Window
-Gold Per Day:
-Shipyard Window
-Build A New Ship
-Resource cost:
-Thieves Guild Window
-1st
-2nd
-3rd
-4th
-5th
-6th
-7th
-8th
-Number of Towns
-Number of Heroes
-Gold
-Wood & Ore
-"Merc, Sulf, Cryst & Gems"
-Obelisks Found
-Artifacts
-Kingdom Army Strength
-Income
-Best Hero
-Personality
-Best Monster
-Tavern Window
-Tavern
-Heroes for Hire
-Town Gate Window
-Town Gate
-Select a town through the gate.
-Blacksmith Window
-Resource cost:
+Försvar
+Kraft
+Kunskap
+{Specialitet}
+{Erfarenhet}
+{Trollformelspoäng}
+"Uppdrag
+Logg"
+"Avfärda
+Hjälte"
+Översynsfönster
+Guld per dag:
+Varvfönster
+Bygg nytt skepp
+Sesurskostnad:
+Tjuvskråfönstret
+1a
+2a
+3e
+4e
+5e
+6e
+7e
+8de
+Antal städer
+Antal hjältar
+Guld
+Trä & Malm
+"Kvicksilver, Svavel,Kristall och Ädelstenar"
+Funna Obelisker
+Artifakter
+Arméstyrka
+Inkomst
+Bästa Hjälte
+Personalitet
+Bästa Varelse
+Tavernafönster
+Taverna
+Hjältar som kan hyras
+Stadsportfönster
+Stadstort
+Välj stad genom porten.
+Smedfönstret
+Resurskostnad:
