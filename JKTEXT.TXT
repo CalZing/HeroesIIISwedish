@@ -1,5 +1,5 @@
 Hjältefönstret
-Attack
+Anfall
 Försvar
 Kraft
 Kunskap
@@ -10,35 +10,35 @@ Kunskap
 Logg"
 "Avfärda
 Hjälte"
-Översynsfönster
+Översiktsfönster
 Guld per dag:
 Varvfönster
 Bygg nytt skepp
-Sesurskostnad:
+Resurskostnad:
 Tjuvskråfönstret
-1a
-2a
-3e
-4e
-5e
-6e
-7e
-8de
+1:a
+2:a
+3:e
+4:e
+5:e
+6:e
+7:e
+8:e
 Antal städer
 Antal hjältar
 Guld
 Trä & Malm
-"Kvicksilver, Svavel,Kristall och Ädelstenar"
+"Kvicksilver, Svavel, Kristall och Ädelstenar"
 Funna Obelisker
-Artifakter
-Arméstyrka
+Artefakter
+Total Arméstyrka
 Inkomst
 Bästa Hjälte
 Personalitet
 Bästa Varelse
 Tavernafönster
 Taverna
-Hjältar som kan hyras
+Hjältar att hyra
 Stadsportfönster
 Stadstort
 Välj stad genom porten.
