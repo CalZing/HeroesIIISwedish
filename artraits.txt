@@ -330,64 +330,64 @@ När du bär denna artefakt ökar din Tur och Moral med +3."
 Manteln av överflödande Kristall	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Manteln av överflödande Kristall}
 
 När du bär denna artefakt ökar din inkomst av Kristall med +1 om dagen."
-Ring of Infinite Gems	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring of Infinite Gems}
+De Eviga Ädelstenarnas ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{De Eviga Ädelstenarnas ring}
 
-When worn, this ring increases your Gem production by +1 per day."
-Everpouring Vial of Mercury	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 		 	 	J	"{Everpouring Vial of Mercury}
+När du bär denna artefakt ökar din inkomst av Ädelstenar med +1 om dagen."
+Den överflödande Vialen med Kvicksilver	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 		 	 	J	"{Den överflödande Vialen med Kvicksilver}
 
-When equipped, this vial increases your Mercury production by +1 per day."
-Inexhaustible Cart of Ore	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Inexhaustible Cart of Ore}
+När du bär denna artefakt ökar din inkomst av Kvicksilver med +1 om dagen."
+Den outtömliga kärran med Malm	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Den outtömliga kärran med Malm}
 
-When equipped, this cart provides you with an additional +1 Ore per day."
-Eversmoking Ring of Sulfur	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Eversmoking Ring of Sulfur}
+När du bär denna artefakt ökar din inkomst av Malm med +1 om dagen."
+Den evigt rykande Svavelringen	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Den evigt rykande Svavelringen}
 
-When worn, this ring increases your Sulfur production by +1 per day."
-Inexhaustible Cart of Lumber	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Inexhaustible Cart of Lumber}
+När du bär denna artefakt ökar din inkomst av Svavel med +1 om dagen."
+Den outtömliga kärran med Trä	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Den outtömliga kärran med Trä}
 
-When equipped, this cart provides you with an additional +1 Wood per day."
-Endless Sack of Gold	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Endless Sack of Gold}
+När du bär denna artefakt ökar din inkomst av Trä med +1 om dagen."
+Den bottenlösa Säcken med Guld	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Den bottenlösa Säcken med Guld}
 
-When equipped, the Endless Sack of Gold increases your income by 1000 gold per day."
-Endless Bag of Gold	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Endless Bag of Gold}
+När du bär denna Säck ökar din dagliga inkomst av Guld med 1000 om dagen."
+Den bottenlösa Påsen med Guld 	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Den bottenlösa Påsen med Guld}
 
-When equipped, the Endless Bag of Gold increases your income by 750 gold per day."
-Endless Purse of Gold	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Endless Purse of Gold}
+När du bär denna Påse ökar din dagliga inkomst av Guld med 750 om dagen"
+Den bottenlösa Börsen med Guld	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Den bottenlösa Börsen med Guld}
 
-When equipped, the Endless Purse of Gold increases your income by 500 gold per day."
-Legs of Legion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Legs of Legion}
+När du bär denna Börs ökar din dagliga inkomst av Guld med 500 om dagen."
+Legionens Ben	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Legionens Ben}
 
-This item, when equipped by a hero in a town, increases the growth of your 2nd level units (in that town) by 5 per week."
-Loins of Legion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Loins of Legion}
+När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 2 med 5 i veckan (i den staden)."
+Legionens Ljumskar	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Legionens Ljumskar}
 
-This item, when equipped by a hero in a town, increases the growth of your 3rd level units (in that town) by 4 per week."
-Torso of Legion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Torso of Legion}
+När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 3 med 4 i veckan (i den staden)."
+Legionens Torso	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Legionens Torso}
 
-This item, when equipped by a hero in a town, increases the growth of your 4th level units (in that town) by 3 per week."
-Arms of Legion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Arms of Legion}
+När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 4 med 3 i veckan (i den staden)."
+Legionens Armar	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Legionens Armar}
 
-This item, when equipped by a hero in a town, increases the growth of your 5th level units (in that town) by 2 per week."
-Head of Legion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Head of Legion}
+När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 5 med 2 i veckan (i den staden)."
+Legionens Huvud	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Legionens Huvud}
 
-This item, when equipped by a hero in a town, increases the growth of your 6th level units (in that town) by 1 per week."
-Sea Captain's Hat	15000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Sea Captain's Hat}
+När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 6 med 1 i veckan (i den staden)."
+Kaptenens Hatt	15000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Kaptenens Hatt}
 
-When worn, this hat increases your movement at sea, allows you to summon and destroy boats, and protects you from whirlpools."
-Spellbinder's Hat	30000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Spellbinder's Hat}
+När du bär denna artefakt ökar din hjältes förflyttningspoäng över havet. Den låter dig även trolla fram och förstöra båtar samt skyddar dig från strömvirvlar."
+Trollkonstnärens Hatt	30000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Trollkonstnärens Hatt}
 
-When worn, this hat allows you to cast all 5th level spells."
-Shackles of War	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 			 	 	 	J	"{Shackles of War}
+Denna hatt låter dig kasta alla trollformler från nivå 5."
+Krigets Bojor	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 			 	 	 	J	"{Krigets Bojor}
 
-When these shackles are wielded in combat, neither you nor your opponent may retreat or surrender."
-Orb of Inhibition	20000	 	 	 	 	 	x	x	x	x	x		 	 	 	 	 	 	 	 	R	"{Orb of Inhibition}
+När dessa Bojor bärs i strid kan varken du eller din motståndare fly eller ge upp, i strid."
+Hämningens Klot	20000	 	 	 	 	 	x	x	x	x	x		 	 	 	 	 	 	 	 	R	"{Hämningens Klot}
 
-This powerful orb prevents all spell casting in combat."
-Vial of Dragon Blood	20000						x	x	x	x	x										R	"{Vial of Dragon Blood}
+Detta kraftfulla klot förhindrar kastandet av alla trollformler i strid."
+Vialen med Drakblod	20000						x	x	x	x	x										R	"{Vialen med Drakblod}
 
-All dragons under your command receive +5 to their attack and +5 to defense."
-Armageddon's Blade	50000																x				R	"{Armageddon's Blade}
+Alla drakar som du kontrollerar får +5 till sin Attack- och Försvarsförmåga."
+Armageddons Klinga	50000																x				R	"{Armageddons Klinga}
 
-+ 3 Attack. + 3 Defense. + 6 Knowledge. + 3 Power. Places Expert Armageddon Spell in your hero's spell book. All allied creatures become immune to Armageddon."
-Angelic Alliance																	x				R	"{Angelic Alliance}
++3 i Attackförmåga, +3 i Försvarsförmåga, +6 i Kunskapsförmåga, +3 i Trollformelskraft, Sofistikerad Armageddon-trollformel i hjältens Trollformelsbok och så blir alla allierade varelser immuna mot Armageddon-trollformeln."
+Änglalik Allians																	x				R	"{Änglalik Allians}
 
 Allows Rampart, Tower, Fortress, Stronghold and Castle creatures to be mixed without a morale penalty, for the player.  Casts Expert Prayer at the start of combat."
 Cloak of the Undead King																			x		R	"{Cloak of the Undead King}
