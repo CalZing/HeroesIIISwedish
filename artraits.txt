@@ -270,66 +270,66 @@ Denna tunga bok innehåller alla trollformler från Vattenmagi-skolan. Inte illa
 Jordens Uppslagsverk	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Jordens Uppslagsverk}
 
 Denna tunga bok innehåller alla trollformler från Jordmagi-skolan. Inte illa!."
-Boots of Levitation	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Boots of Levitation}
+Svävande Stövlar	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Svävande Stövlar}
 
-When worn, these boots allow you to walk across water."
-Golden Bow	8000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Golden Bow}
+När du bär dessa kan din hjälte gå över vatten."
+Den Gyllene Bågen	8000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Golden Bow}
 
-When wielded, the Golden Bow allows your troops to shoot through any obstacle or at any range without penalty."
-Sphere of Permanence	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Sphere of Permanence}
+När du bär denna artefakt kan dina trupper skjuta hur långt som helst och genom alla hinder, i strid."
+Varaktighetens Sfär	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Varaktighetens Sfär}
 
-Wielding this sphere renders your units immune to the Dispel Magic spell."
-Orb of Vulnerability	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Orb of Vulnerability}
+När du bär denna Sfär blir dina enheter immuna från trollformeln Upphäv magi."
+Känslighetens Klot	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Känslighetens Klot}
 
-During combat, this orb negates the natural magic resistance of all creatures on the battlefield."
-Ring of Vitality	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ring of Vitality}
+I strid tar denna artefakt bort all naturlig Magisk motståndskraft, från alla enheter på slagfältet."
+Vitalitetens Ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Vitalitetens Ring}
 
-This item increases the health of all your units by +1."
-Ring of Life	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Ring of Life}
+Denna artefakt ökar hälsan hos alla dina enheter med +1."
+Livets Ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Livets Ring}
 
-This item increases the health of all your units by +1."
-Vial of Lifeblood	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Vial of Lifeblood}
+Denna artefakt ökar hälsan hos alla dina enheter med +1."
+Vial med Livsblod	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Vial med Livsblod}
 
-This item increases the health of all your units by +2."
-Necklace of Swiftness	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Necklace of Swiftness}
+Denna artefakt ökar hälsan hos alla dina enheter med +2."
+Kvickhetens Halsband	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Kvickhetens Halsband}
 
-Worn about the neck, this necklace increases the combat speed of all your units by +1."
-Boots of Speed	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	N	"{Boots of Speed}
+När du bär detta kring halsen ökar dina enheters hastighet i strid med +1."
+Snabbskorna	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	N	"{Snabbskorna}
 
-Worn on the feet, these boots increase your hero's movement rate over land."
-Cape of Velocity	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Cape of Velocity}
+När du bär dessa på dina fötter ökar din hjältes förflyttningspoäng över land."
+Hastighetens Mantel	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Hastighetens Mantel}
 
-Worn about the shoulders, this cape increases the combat speed of all your units by +2."
-Pendant of Dispassion	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Dispassion}
+När du bär denna över axlarna ökar dina enheters hastighet i strid med +2."
+Moståndets Medaljong	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Motståndets Medaljong}
 
-Wearing this item renders your units immune to the Berserk spell."
-Pendant of Second Sight	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pendant of Second Sight}
+När du bär denna artefakt blir dina enheter immuna mot Berserk-trollformeln."
+Seendets Medaljong	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Seendets Medaljong}
 
-Wearing this item renders your units immune to the Blind spell."
-Pendant of Holiness	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Holiness}
+När du bär denna artefakt blir dina enheter immuna mot Blind-trollformeln."
+Helighetens Medaljong	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"Helighetens Medaljong}
 
-Wearing this item renders your units immune to the Curse spell."
-Pendant of Life	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Life}
+När du bär denna artefakt blir dina enheter immuna mot Förbannelse-trollformeln."
+Livets Medaljong	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Livets Medaljong}
 
-Wearing this item renders your units immune to the Death Ripple spell."
-Pendant of Death	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Death}
+När du bär denna artefakt blir dina enheter immuna mot Dödsstöten-trollformeln."
+Dödens Medaljong	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Dödens Medaljong}
 
-Wearing this item renders your units immune to the Destroy Undead spell."
-Pendant of Free Will	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Free Will}
+När du bär denna artefakt blir dina enheter immuna mot Förstör Odöda-trollformeln."
+Den fria viljans Medaljong	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Den fria viljans Medaljong}
 
-Wearing this item renders your units immune to the Hypnotize spell."
-Pendant of Negativity	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pendant of Negativity}
+När du bär denna artefakt blir dina enheter immuna mot Hypnos-trollformeln."
+Negativitetens Medaljong	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Negativitetens Medaljong}
 
-Wearing this item renders your units immune to the Lightning Bolt and Chain Lightning spells."
-Pendant of Total Recall	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Total Recall}
+När du bär denna artefakt blir dina enheter immuna mot Blixt- och Kedjeblixt-trollformeln."
+Minnsallt Medaljongen	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Minnsallt Medaljongen}
 
-Wearing this item renders your units immune to the Forgetfulness spell."
-Pendant of Courage	7000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pendant of Courage}
+När du bär denna artefakt blir dina enheter immuna mot Glömska-trollformeln."
+Modets Medaljong	7000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Modets Medaljong}
 
-When worn, this item bestows +3 Luck and Morale to your hero's troops."
-Everflowing Crystal Cloak	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Everflowing Crystal Cloak}
+När du bär denna artefakt ökar din Tur och Moral med +3."
+Manteln av överflödande Kristall	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Manteln av överflödande Kristall}
 
-When worn, this cloak increases your Crystal production by +1 per day."
+När du bär denna artefakt ökar din inkomst av Kristall med +1 om dagen."
 Ring of Infinite Gems	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring of Infinite Gems}
 
 When worn, this ring increases your Gem production by +1 per day."
