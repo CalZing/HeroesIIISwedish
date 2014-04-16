@@ -8,7 +8,7 @@ Adventure Spells
 Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.
 
 Chansen att lyckas är 50%.
-"	"{Grundläggande Summon Boat}
+"	"{Grundläggande Åkalla båt}
 
 Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.
 
@@ -22,7 +22,7 @@ Chansen att lyckas är 75%.
 
 Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.  Om inga båtar existerar så skapas en.
 "	 ADV_SPELL
-Scuttle Boat	Scuttle Boat	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Sänk Båt}
+Sänk Båt	Sänk Båt	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Sänk Båt}
 
 Destroys a boat you own.  Use with caution, the effects are permanent.
 
@@ -67,202 +67,202 @@ Reveals the location of all resources and mines to the caster.
 
 Reveals the location of all resources and mines and reveals all terrain to the caster.
 "	 ADV_SPELL
-Disguise	Disguise	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Disguise}
+Förklä	Förklä	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Förklä}
 
 Gives false information to an enemy attempting to view your hero.
-"	"{Basic Disguise}
+"	"{Basic Förklä}
 
 Makes all units in your army look like your most powerful unit to enemies trying to view your hero.  Numbers in each group are unchanged.
-"	"{Advanced Disguise}
+"	"{Advanced Förklä}
 
 Makes all units in your army look like your most powerful unit to enemies trying to view your hero.  Numbers in each group appear as zero.
-"	"{Expert Disguise}
+"	"{Expert Förklä}
 
 Makes all units in your army look like the most powerful unit affiliated to your hero type to enemies trying to view your hero.  Numbers in each group appear as zero.
 "	 ADV_SPELL
-View Air	View Air	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{View Air}
+View Air	View Air	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Luften}
 
 Reveals the location of all unclaimed artifacts to the caster.
-"	"{Basic View Air}
+"	"{Basic Beskåda Luften}
 
 Reveals the location of all unclaimed artifacts to the caster.
-"	"{Advanced View Air}
+"	"{Advanced Beskåda Luften}
 
 Reveals the location of all unclaimed artifacts, plus enemy heroes to the caster.
-"	"{Expert View Air}
+"	"{Expert Beskåda Luften}
 
 Reveals the location of all unclaimed artifacts, plus enemy heroes and towns to the caster.
 "	 ADV_SPELL
-Fly	Fly	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Fly}
+Flyg	Flyg	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Fly}
 
 Allows your army to use part of its movement to fly over obstacles.  You must land at the end of the turn.
-"	"{Basic Fly}
+"	"{Basic Flyg}
 
 Allows your army to use part of its movement to fly over obstacles.  You must land at the end of the turn.
-"	"{Advanced Fly}
+"	"{Advanced Flyg}
 
 Allows your army to use most of its movement to fly over obstacles.  You must land at the end of the turn.
-"	"{Expert Fly}
+"	"{Expert Flyg}
 
 Allows your army to use up to all of its movement to fly over obstacles.  You must land at the end of the turn.
 "	 ADV_SPELL
-Water Walk	Water Walk	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Water Walk}
+Vattenpromenad	Vattenpromenad	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Vattenpromenad}
 
 Allows your army to use part of its movement to walk across bodies of water.  You must end your movement on dry land.
-"	"{Basic Water Walk}
+"	"{Basic Vattenpromenad}
 
 Allows your army to use part of its movement to walk across bodies of water.  You must end your movement on dry land.
-"	"{Advanced Water Walk}
+"	"{Advanced Vattenpromenad}
 
 Allows your army to use most of its movement to walk across bodies of water.  You must end your movement on dry land.
-"	"{Expert Water Walk}
+"	"{Expert Vattenpromenad}
 
 Allows your army to use up to all of its movement to walk across bodies of water.  You must end your movement on dry land.
 "	 ADV_SPELL
-Dimension Door	Dimension Door	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimension Door}
+Dimensionsdörr	Dimensionsdörr	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimensionsdörr}
 
 Once per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
-"	"{Basic Dimension Door}
+"	"{Basic Dimensionsdörr}
 
 Twice per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
-"	"{Advanced Dimension Door}
+"	"{Advanced Dimensionsdörr}
 
 Three times per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
-"	"{Expert Dimension Door}
+"	"{Expert Dimensionsdörr}
 
 Four times per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
 "	 ADV_SPELL
-Town Portal	Town Portal	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Town Portal}
+Stadsportal	Stadsportal	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Stadsportal}
 
 Teleports your hero to the nearest friendly town.  The town must be unoccupied.
-"	"{Basic Town Portal}
+"	"{Basic Stadsportal}
 
 Teleports your hero to the nearest friendly town.  The town must be unoccupied.
-"	"{Advanced Town Portal}
+"	"{Advanced Stadsportal}
 
 Teleports your hero to any friendly town.  The town must be unoccupied.
-"	"{Expert Town Portal}
+"	"{Expert Stadsportal}
 
 Teleports your hero to any friendly town.  The town must be unoccupied.
 "	 ADV_SPELL
 																																	
 Combat Spells																																	
 																																	
-Quicksand	Quicksand	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Quicksand}
+Kvicksand	Kvicksand	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Kvicksand}
 
 Randomly places four small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a unit's movement for the turn and makes it visible to all.
-"	"{Basic Quicksand}
+"	"{Basic Kvicksand}
 
 Randomly places four small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a unit's movement for the turn and makes it visible to all.
-"	"{Advanced Quicksand}
+"	"{Advanced Kvicksand}
 
 Randomly places six small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a unit's movement for the turn and makes it visible to all.
-"	"{Expert Quicksand}
+"	"{Expert Kvicksand}
 
 Randomly places eight small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a unit's movement for the turn and makes it visible to all.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Land Mine	Land Mine	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Land Mine}
+Landmina	Landmina	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Landmina}
 
 Randomly places four small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts damage to any unit walking over it.
-"	"{Basic Land Mine}
+"	"{Basic Landmina}
 
 Randomly places four small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts damage to any unit walking over it.
-"	"{Advanced Land Mine}
+"	"{Advanced Landmina}
 
 Randomly places six small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts damage to any unit walking over it.
 
 Inflicted damage 25 points more than Basic Land Mine.
-"	"{Expert Land Mine}
+"	"{Expert Landmina}
 
 Randomly places eight small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts damage to any unit walking over it.
 
 Inflicted damage 75 points more than Basic Land Mine.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Force Field	Force Field	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Force Field}
+Kraftfält	Kraftfält	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Kraftfält}
 
 Places a small Force Field on the battlefield at a point specified by the caster. 
-"	"{Basic Force Field}
+"	"{Basic Kraftfält}
 
 Places a small Force Field on the battlefield at a point specified by the caster. 
-"	"{Advanced Force Field}
+"	"{Advanced Kraftfält}
 
 Places a medium sized Force Field on the battlefield at a point specified by the caster.
-"	"{Expert Force Field}
+"	"{Expert Kraftfält}
 
 Places a medium sized Force Field on the battlefield at a point specified by the caster.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Fire Wall	Fire Wall	2	 	 	x	 	8	6	6	6	10	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Fire Wall}
+Eldmur	Eldmur	2	 	 	x	 	8	6	6	6	10	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Eldmur}
 
 Places a small wildfire on the battlefield at a point specified by the caster.  Any units passing through the wall take damage.
-"	"{Basic Fire Wall}
+"	"{Basic Eldmur}
 
 Places a small wildfire on the battlefield at a point specified by the caster.  Any units passing through the wall take damage.
-"	"{Advanced Fire Wall}
+"	"{Advanced Eldmur}
 
 Places a medium sized wildfire on the battlefield at a point specified by the caster.  Any units passing through the wall take damage.
-"	"{Expert Fire Wall}
+"	"{Expert Eldmur}
 
 Places a medium sized wildfire on the battlefield at a point specified by the caster.  Any units passing through the wall take damage.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Earthquake	Earthquake	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Earthquake}
+Jordbävning	Jordbävning	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Earthquake}
 
 Randomly damages two sections of castle wall in combat.
-"	"{Basic Earthquake}
+"	"{Basic Jordbävning}
 
 Randomly damages two sections of castle wall in combat.
-"	"{Advanced Earthquake}
+"	"{Advanced Jordbävning}
 
 Randomly damages three sections of castle wall in combat.
-"	"{Expert Earthquake}
+"	"{Expert Jordbävning}
 
 Randomly damages four sections of castle wall in combat.
 "	 COMBAT_SPELL
-Magic Arrow	Magic Arrow	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Magic Arrow}
+Magisk Pil	Magisk Pil	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Magisk Pil}
 
 Causes a bolt of magical energy to strike the selected unit.
-"	"{Basic Magic Arrow}
+"	"{Basic Magisk Pil}
 
 Causes a bolt of magical energy to strike the selected unit.
-"	"{Advanced Magic Arrow}
+"	"{Advanced Magisk Pil}
 
 Causes a bolt of magical energy to strike the selected unit.
 
 Damage inflicted is 10 points more than Basic Magic Arrow.
-"	"{Expert Magic Arrow}
+"	"{Expert Magisk Pil}
 
 Causes a bolt of magical energy to strike the selected unit.
 
 Damage inflicted is 20 points more than Basic Magic Arrow.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Ice Bolt	Ice Bolt	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Ice Bolt}
+Ispil	Ispil	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Isblixt}
 
 Drains the body heat from the selected enemy unit.
-"	"{Basic Ice Bolt}
+"	"{Basic Ispil}
 
 Drains the body heat from the selected enemy unit.
-"	"{Advanced Ice Bolt}
+"	"{Advanced Ispil}
 
 Drains the body heat from the selected enemy unit.
 
 Damage inflicted is 10 points more than Basic Ice Bolt.
-"	"{Expert Ice Bolt}
+"	"{Expert Ispil}
 
 Drains the body heat from the selected enemy unit.
 
 Damage inflicted is 40 points more than Basic Ice Bolt.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Lightning Bolt	Lightning Bolt	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Lightning Bolt}
+Blixt	Blixt	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Blixt}
 
 Causes a bolt of lightning to strike the selected unit.
-"	"{Basic Lightning Bolt}
+"	"{Basic Blixt}
 
 Causes a bolt of lightning to strike the selected unit.
-"	"{Advanced Lightning Bolt}
+"	"{Advanced Blixt}
 
 Causes a bolt of lightning to strike the selected unit.
 
 Damage inflicted is 10 points more than Basic Lightning Bolt.
-"	"{Expert Lightning Bolt}
+"	"{Expert Blixt}
 
 Causes a bolt of lightning to strike the selected unit.
 
@@ -285,52 +285,52 @@ Inflicts massive damage to a single creature stack.
 
 Damage inflicted 200 points more than Basic Implosion.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Chain Lightning	Chain Lightning	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Chain Lightning}
+Kedjeblixt	Kedjeblixt	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Kedjeblixt}
 
 Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes four units.
-"	"{Basic Chain Lightning}
+"	"{Basic Kedjeblixt}
 
 Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes four units.
-"	"{Advanced Chain Lightning}
+"	"{Advanced Kedjeblixt}
 
 Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes five units.
 
 Base Damage inflicted is 25 points more than Basic Chain Lightning.
-"	"{Expert Chain Lightning}
+"	"{Expert Kedjeblixt}
 
 Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes five units.
 
 Base Damage inflicted is 75 points more than Basic Chain Lightning.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Frost Ring	Frost Ring	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Frost Ring}
+Frostring	Frostring	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Frostring}
 
 Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
-"	"{Basic Frost Ring}
+"	"{Basic Frostring}
 
 Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
-"	"{Advanced Frost Ring}
+"	"{Advanced Frostring}
 
 Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
 
 Damage inflicted is 15 points more than Basic Frost Ring.
-"	"{Expert Frost Ring}
+"	"{Expert Frostring}
 
 Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
 
 Damage inflicted is 45 points more than Basic Frost Ring.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Fireball	Fireball	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Fireball}
+Eldklot	Eldklot	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Eldklot}
 
 Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
-"	"{Basic Fireball}
+"	"{Basic Eldklot}
 
 Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
-"	"{Advanced Fireball}
+"	"{Advanced Eldklot}
 
 Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
 
 Damage inflicted is 15 points more than Basic Fireball.
-"	"{Expert Fireball}
+"	"{Expert Eldklot}
 
 Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
 
@@ -353,86 +353,86 @@ Causes a huge blast of fire to strike the selected target.  Don't be near this w
 
 Damage inflicted is 60 points more than Basic Inferno.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Meteor Shower	Meteor Shower	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Meteor Shower}
+Meteorregn	Meteorregn	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Meteorregn}
 
 Causes a meteor shower to rain down on the selected target and any adjacent units.
-"	"{Basic Meteor Shower}
+"	"{Basic Meteorregn}
 
 Causes a meteor shower to rain down on the selected target and any adjacent units.
-"	"{Advanced Meteor Shower}
+"	"{Advanced Meteorregn}
 
 Causes a meteor shower to rain down on the selected target and any adjacent units.
 
 Damage inflicted is 25 points more than Basic Meteor Shower.
-"	"{Expert Meteor Shower}
+"	"{Expert Meteorregn}
 
 Causes a meteor shower to rain down on the selected target and any adjacent units.
 
 Damage inflicted is 75 points more than Basic Meteor Shower.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Death Ripple	Death Ripple	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Death Ripple}
+Dödsstöt	Dödsstöt	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
-"	"{Basic Death Ripple}
+"	"{Basic Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
-"	"{Advanced Death Ripple}
+"	"{Advanced Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
 
 Damage inflicted is 10 points more than Basic Death Ripple.
-"	"{Expert Death Ripple}
+"	"{Expert Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
 
 Damage inflicted is 20 points more than Basic Death Ripple.
 "	 COMBAT_SPELL
-Destroy Undead	Destroy Undead	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Destroy Undead}
+Tillintetgör Odöda	Tillintetgör Odöda	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
-"	"{Basic Destroy Undead}
+"	"{Basic Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
-"	"{Advanced Destroy Undead}
+"	"{Advanced Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
 
 Damage inflicted is 10 points more than Basic Destroy Undead.
-"	"{Expert Destroy Undead}
+"	"{Expert Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
 
 Damage inflicted is 40 points more than Basic Destroy Undead.
 "	 COMBAT_SPELL
-Armageddon	Armageddon	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armageddon}
+Ragnarök	Ragnarök	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
-"	"{Basic Armageddon}
+"	"{Basic Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
-"	"{Advanced Armageddon}
+"	"{Advanced Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
 
 Damage inflicted is 30 points more than Basic Armageddon.
-"	"{Expert Armageddon}
+"	"{Expert Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
 
 Damage inflicted is 90 points more than Basic Armageddon.
 "	 COMBAT_SPELL
-Shield	Shield	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Shield}
+Sköld	Sköld	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Shield}
 
 Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
-"	"{Basic Shield}
+"	"{Basic Sköld}
 
 Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
-"	"{Advanced Shield}
+"	"{Advanced Sköld}
 
 Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
 
 Protection is twice that of Basic Shield.
-"	"{Expert Shield}
+"	"{Expert Sköld}
 
 Shields all friendly units, reducing the amount of damage received from hand-to-hand attacks.
 
