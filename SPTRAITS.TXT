@@ -3,67 +3,67 @@ Name	Abbreviated Name	Level	Earth	Water	Fire	Air	None	Basic	Advanced	Expert	Powe
 																																	
 Adventure Spells																																	
 																																	
-Summon Boat	Summon Boat	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Åkalla båt}
+Åkalla båt	Åkalla båt	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Åkalla båt}
 
-Summons an existing, friendly, unoccupied boat from anywhere in the world to your location.
+Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.
+
+Chansen att lyckas är 50%.
+"	"{Grundläggande Summon Boat}
+
+Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.
+
+Chansen att lyckas är 50%.
+"	"{Avancerad Åkalla båt}
+
+Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.  Om inga båtar existerar så skapas en.
+
+Chansen att lyckas är 75%.
+"	"{Sofistikerad Åkalla båt}
+
+Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.  Om inga båtar existerar så skapas en.
+"	 ADV_SPELL
+Scuttle Boat	Scuttle Boat	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Sänk Båt}
+
+Destroys a boat you own.  Use with caution, the effects are permanent.
 
 Chances for success are 50%.
-"	"{Basic Summon Boat}
+"	"{Basic Sänk Båt}
 
-Summons an existing, friendly, unoccupied boat from anywhere in the world to your location.
+Destroys a boat you own.  Use with caution, the effects are permanent.
 
 Chances for success are 50%.
-"	"{Advanced Summon Boat}
+"	"{Advanced Sänk Båt}
 
-Summons an existing, friendly, unoccupied boat from anywhere in the world to your location.  If no boats exist, one is created.
+Destroys a boat you own.  Use with caution, the effects are permanent.
 
 Chances for success are 75%.
-"	"{Expert Summon Boat}
-
-Summons an existing, friendly, unoccupied boat from anywhere in the world to your location.  If no boats exist, one is created.
-"	 ADV_SPELL
-Scuttle Boat	Scuttle Boat	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Scuttle Boat}
-
-Destroys a boat you own.  Use with caution, the effects are permanent.
-
-Chances for success are 50%.
-"	"{Basic Scuttle Boat}
-
-Destroys a boat you own.  Use with caution, the effects are permanent.
-
-Chances for success are 50%.
-"	"{Advanced Scuttle Boat}
-
-Destroys a boat you own.  Use with caution, the effects are permanent.
-
-Chances for success are 75%.
-"	"{Expert Scuttle Boat}
+"	"{Expert Sänk Båt}
 
 Destroys a boat you own.  Use with caution, the effects are permanent.
 "	 ADV_SPELL
-Visions	Visions	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visions}
+Visioner	Visioner	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visioner}
 
 Gives you a basic idea of the strength of an opposing army, hero, or garrison.
-"	"{Basic Visions}
+"	"{Basic Visioner}
 
 Gives you a basic idea of the strength of an opposing hero or garrison.  In the case of nearby wandering monsters, gives you exact numbers of troops and tells you if they would be willing to join your hero.
-"	"{Advanced Visions}
+"	"{Advanced Visioner}
 
 Gives you a basic idea of the strength of an opposing garrison.  In the case of nearby wandering monsters, gives you exact numbers of troops and tells you if they would be willing to join your hero.  Allows you to view a nearby enemy hero's primary skill statistics, creature type and quantity, as if the hero was part of your kingdom.
-"	"{Expert Visions}
+"	"{Expert Visioner}
 
 Gives you exact numbers of wandering monsters and tells you if they would be willing to join your hero.  Allows you to view a nearby enemy hero's primary skill statistics, creature type and quantity, as if the hero was part of your kingdom, as well as a nearby town's statistics, garrison creatures and quantity.
 "	 ADV_SPELL
-View Earth	View Earth	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{View earth}
+Beskåda Jorden	Beskåda Jorden	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Jorden}
 
 Reveals the location of all resources to the caster.
-"	"{Basic View Earth}
+"	"{Basic Beskåda Jorden}
 
 Reveals the location of all resources to the caster.
-"	"{Advanced View Earth}
+"	"{Advanced Beskåda Jorden}
 
 Reveals the location of all resources and mines to the caster.
-"	"{Expert View Earth}
+"	"{Expert Beskåda Jorden}
 
 Reveals the location of all resources and mines and reveals all terrain to the caster.
 "	 ADV_SPELL
