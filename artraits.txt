@@ -162,114 +162,114 @@ Stjärnkikaren ökar Scouting-radien med +1."
 Spionkikare	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spyglass}
 
 Spionkikaren ökar Scouting-radien med +1."
-Amulet of the Undertaker	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Amulet of the Undertaker}
+Dödgrävarens Amulett	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Dödgrävarens Amulett}
 
-Worn about the neck, this amulet increases your Necromancy skill by 5%."
-Vampire's Cowl	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Vampire's Cowl}
+När du bär denna kring din hals ökas din Dödsmagi-förmåga med 5%."
+Vampyrens Sjal	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Vampyrens Sjal}
 
-Worn about the shoulders, this cowl increases your Necromancy skill by 10%."
-Dead Man's Boots	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Dead Man's Boots}
+När du bär denna över axlarna ökas din Dödsmagi-förmåga med 10%."
+Död mans stövlar	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Död mans stövlar}
 
-Worn on the feet, these boots increase your Necromancy skill by 15%."
-Garniture of Interference	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Garniture of Interference}
+När du bär dessa på dina fötter ökas din Dödsmagi-förmåga med 15%."
+Störningens Garnityr	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Störningens Garnityr}
 
-Worn about the neck, this item increases your Magic Resistance by 5%."
-Surcoat of Counterpoise	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Surcoat of Counterpoise}
+När du bär detta kring halsen ökar din Magiska Motståndskraft med 5%."
+Motviktens Klädnad	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Motviktens Klädnad}
 
-Worn about the shoulders, this item increases your Magic Resistance by 10%."
-Boots of Polarity	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Boots of Polarity}
+När du bär denna över axlarna ökar din Magiska Motståndskraft med 10%."
+Polära Stövlar	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Polära Stövlar}
 
-Worn on the feet, these boots increase your Magic Resistance by 15%."
-Bow of Elven Cherrywood	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Bow of Elven Cherrywood}
+När du bär dessa på dina fötter ökar din Magiska Motståndskraft med 15%."
+Båge av Alviskt körsbär	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Båge av Alviskt körsbär}
 
-This bow increases your Archery skill by 5%."
-Bowstring of the Unicorn's Mane	4000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Bowstring of the Unicorn's Mane}
+Denna båge ökar din Bågskytte-förmåga med 5%."
+Bågsträng av Enhörningsman	4000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Bågsträng av Enhörningsman}
 
-This bowstring increases your Archery skill by 10%."
-Angel Feather Arrows	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Angel Feather Arrows}
+Denna bågsträng ökar din Bågskytte-förmåga med 10%."
+Pilar av Änglavingar	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Pilar av Änglavingar}
 
-These arrows increase your Archery skill by 15%."
-Bird of Perception	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Bird of Perception}
+Dessa pilar ökar din Bågskytte-förmåga med 15%."
+Uppfattningens Fågel	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Uppfattningens Fågel}
 
-This figurine increases your Eagle Eye skill by 5%."
-Stoic Watchman	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Stoic Watchman}
+Denna figur ökar din Örn öga-förmåga med 5%."
+Iakttagande Väktaren	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Iakttagande Väktaren}
 
-This figurine increases your Eagle Eye skill by 10%."
-Emblem of Cognizance	3000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Emblem of Cognizance}
+Denna figur ökar din Örn öga-förmåga med 10%."
+Kännedomens Emblem	3000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Kännedomens Emblem}
 
-This item increases your Eagle Eye skill by 15%."
-Statesman's Medal	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Statesman's Medal}
+Denna artefakt ökar din Örn öga-förmåga med 15%."
+Statsmannens Medalj	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Statsmannens Medalj}
 
-Worn about the neck, the Statesman's Medal reduces the cost of surrendering."
-Diplomat's Ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Diplomat's Ring}
+När du bär denna artefakt kring din hals minskar kostnaden att ge sig i strid."
+Diplomatens Ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Diplomatens Ring}
 
-Worn on the finger, the Diplomat's Ring reduces the cost of surrendering."
-Ambassador's Sash	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Ambassador's Sash}
+När du bär denna artefakt på ditt finger minskar kostnaden att ge sig i strid."
+Ambassadörens Band	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Ambassadörens Band}
 
-Worn about the shoulders, the Ambassador's Sash reduces the cost of surrendering."
-Ring of the Wayfarer	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring of the Wayfarer}
+När du bär denna artefakt över dina axlar minskar kostnaden att ge sig i strid."
+Vägfararens Ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Vägfararens Ring}
 
-When placed on the finger, this ring increases the combat speed of all your units by +1."
-Equestrian's Gloves	3000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Equestrian's Gloves}
+När du bär denna på ditt finger ökar dina enheters hastighet i strid med +1."
+Ryttarens Handskar	3000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Ryttarens Handskar}
 
-Worn on the hands, these gloves increase your hero's movement rate over land."
-Necklace of Ocean Guidance	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Necklace of Ocean Guidance}
+När du bär dessa på dina händer ökar din hjältes förflyttningspoäng över land."
+Oceanguidandets Halsband	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Oceanguidandets Halsband}
 
-Worn about the neck, this necklace increases your hero's movement rate at sea."
-Angel Wings	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	R	"{Angel Wings}
+När du bär detta kring halsen ökar din hjältes förflyttningspoäng över vatten."
+Änglavingar	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	R	"{Änglavingar}
 
-Worn about the shoulders, these wings allow you to fly."
-Charm of Mana	500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Charm of Mana}
+När du bär dessa över axlarna kan din hjälte flyga!"
+Manans Amulett	500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Manans Amulett}
 
-This charm helps you recover 1 extra spell point per day."
-Talisman of Mana	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Talisman of Mana}
+Denna amulett låter din hjälte återhämta 1 extra Trollformelspoäng om dagen."
+Manans Talisman	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Manans Talisman}
 
-This talisman helps you recover 2 extra spell points per day."
-Mystic Orb of Mana	1500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Mystic Orb of Mana}
+Denna talisman låter din hjälte återhämta 3 extra Trollformelspoäng om dagen."
+Mystiskt Manaklot	1500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Mystiskt Manaklot}
 
-This orb helps you recover 3 extra spell points per day."
-Collar of Conjuring	500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Collar of Conjuring}
+Detta klot låter din hjälte återhämta 1 extra Trollformelspoäng om dagen."
+Förtrollningens Koppel	500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Förtrollningens Koppel}
 
-Worn about the neck, this item increases the duration of all your spells by 1."
-Ring of Conjuring	1000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ring of Conjuring}
+När du bär detta kring halsen ökar varaktigheten av alla dina trollformler med 1."
+Förtrollningens Ring	1000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Förtrollningens Ring}
 
-Worn on a finger, this item increases the duration of all your spells by 2."
-Cape of Conjuring	1500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	T	"{Cape of Conjuring}
+När du bär denna på ett finger ökar varaktigheten av alla dina trollformler med 2."
+Förtrollningens Mantel	1500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	T	"{Förtrollningens Mantel}
 
-Worn about the shoulders, this item increases the duration of all your spells by 3."
-Orb of the Firmament	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Orb of the Firmament}
+När du bär denna över axlarna ökar varaktigheten av alla dina trollformler med 3."
+Himlavalvets Klot	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Himlavalvets Klot}
 
-This powerful orb causes your Air spells to inflict an additional 50% damage."
-Orb of Silt	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Orb of Silt}
+Detta kraftfulla klot ökar mängden skada som dina Lufttrollformler utdelar med 50%."
+Slammets Klot	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Slammets Klot}
 
-This powerful orb causes your Earth spells to inflict an additional 50% damage."
-Orb of Tempestuous Fire	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Orb of Tempestuous Fire}
+Detta kraftfulla klot ökar mängden skada som dina Jordtrollformler utdelar med 50%."
+Den stormande Eldens Klot	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Den stormande Eldens Klot}
 
-This powerful orb causes your Fire spells to inflict an additional 50% damage."
-Orb of Driving Rain	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Orb of Driving Rain}
+Detta kraftfulla klot ökar mängden skada som dina Eldtrollformler utdelar med 50%."
+Det ihärdiga Regnets Klot	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Det ihärdiga Regnets Klot}
 
-This powerful orb causes your Water spells to inflict an additional 50% damage."
-Recanter's Cloak	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Recanter's Cloak}
+Detta kraftfulla klot ökar mängden skada som dina Vattentrollformler utdelar med 50%."
+Förhindrarens Mantel	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Förhindrarens Mantel}
 
-While wearing this cloak, neither you nor your opponent will be able to cast level 3 or higher spells during combat."
-Spirit of Oppression	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spirit of Oppression}
+När du bär denna mantel kan varken du eller din motståndare kasta trollformler av nivå 3 eller högre, i strid."
+Förtryckets Ande	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Förtryckets Ande}
 
-This item negates all Morale bonuses during combat for both you and your opponent."
-Hourglass of the Evil Hour	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Hourglass of the Evil Hour}
+Denna artefakt motverkar bonusar i Moral för både dig och din motståndare."
+Onda timmens Timglas	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Onda timmens Timglas}
 
-This item negates all Luck bonuses during combat for both you and your opponent."
-Tome of Fire Magic	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Tome of Fire Magic}
+Denna artefakt motverkar bonusar i Tur för både dig och din motståndare."
+Eldens Uppslagsverk	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Eldens Uppslagsverk}
 
-This heavy book contains all spells in the school of Fire Magic.  It must be equipped for the spells to be available."
-Tome of Air Magic	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Tome of Air Magic}
+Denna tunga bok innehåller alla trollformler från Eldmagi-skolan. Inte illa!"
+Luftens Uppslagsverk	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Luftens Uppslagsverk}
 
-This heavy book contains all spells in the school of Air Magic.  It must be equipped for the spells to be available."
-Tome of Water Magic	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Tome of Water Magic}
+Denna tunga bok innehåller alla trollformler från Luftmagi-skolan. Inte illa!."
+Vattnets Uppslagsverk	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Vattnets Uppslagsverk}
 
-This heavy book contains all spells in the school of Water Magic.  It must be equipped for the spells to be available."
-Tome of Earth Magic	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Tome of Earth Magic}
+Denna tunga bok innehåller alla trollformler från Vattenmagi-skolan. Inte illa!."
+Jordens Uppslagsverk	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Jordens Uppslagsverk}
 
-This heavy book contains all spells in the school of Earth Magic.  It must be equipped for the spells to be available."
+Denna tunga bok innehåller alla trollformler från Jordmagi-skolan. Inte illa!."
 Boots of Levitation	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Boots of Levitation}
 
 When worn, these boots allow you to walk across water."
