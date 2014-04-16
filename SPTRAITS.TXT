@@ -3,7 +3,7 @@ Name	Abbreviated Name	Level	Earth	Water	Fire	Air	None	Basic	Advanced	Expert	Powe
 																																	
 Adventure Spells																																	
 																																	
-Summon Boat	Summon Boat	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Summon Boat}
+Summon Boat	Summon Boat	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Åkalla båt}
 
 Summons an existing, friendly, unoccupied boat from anywhere in the world to your location.
 
