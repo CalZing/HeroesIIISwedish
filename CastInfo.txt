@@ -1,4 +1,4 @@
-Attackförmåga
+Attackförmåg
 Försvarförmåga
 Skada per Attack
 Hälsa
