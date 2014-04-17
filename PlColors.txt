@@ -1,8 +1,8 @@
-red
-blue
-tan
-green
+röd
+blå
+beige
+grön
 orange
-purple
+lila
 teal
-pink
+rosa
