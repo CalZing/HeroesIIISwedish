@@ -31,7 +31,7 @@ Jäklar!
 gOwnedByColor
 Ägs av röd spelare
 Ägs av blå spelare
-Ägs av brun spelare
+Ägs av beige spelare
 Ägs av grön spelare
 Ägs av orange spelare
 Ägs av lila spelare
@@ -229,7 +229,7 @@ Alla populationer halveras."
 Alla bons populationer ökar."
 "Astrologer utlyser att detta är veckan för %s.
 
-%s Växer med +5.
+%s växer med +5.
 
 Alla bons populationer ökar."
 "Astrologer utlyser att detta är veckan för %s.
@@ -290,7 +290,7 @@ Massor av
 massor av
 Hord
 En Hord av
-en Hord av
+en hord av
 Myller
 Ett myller av
 ett myller av
@@ -299,10 +299,10 @@ En svärm av
 en svärm av
 Sjukt
 Helt sjukt många...
-Helt sjukt många
+helt sjukt många
 Legion
 En Legion
-en Legion
+en legion
 const_wise_tree_price_text
  (+1 nivå)
  (+1 nivå för 2000 guld)
