@@ -4,5 +4,5 @@ beige
 grön
 orange
 lila
-teal
+turkos
 rosa
