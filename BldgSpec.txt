@@ -8,8 +8,8 @@ Svärdets Brödrarskap	"Under en belägring så ökar Svärdets Brödrarskap din
 		
 		
 Kolossen	"Kolossens närvaro ökar den veckoliga tillväxten av varelser med 50%, ökar din dagliga inkomst av guld med 5000, och ökar alla allierade hjältars moral med +2."	
-Resurssilo	Resurs silon förser dig med +1 ved och +1 sten varje dag.	
-Mystisk Damm	Den Mystiska Dammen producerar en liten slumpd mängd resurser varje vecka.	
+Resurssilo	Resurssilon förser dig med +1 ved och +1 sten varje dag.	
+Mystisk Damm	Den Mystiska Dammen producerar en liten mängd slumpade resurser varje vecka.	
 Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Dvärgar med 4 per vecka.
 Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Strids Dvärgar med 4 per vecka.	
 		
@@ -18,22 +18,22 @@ Skattkammare	Skattkammaren ger dig 10% ränta på det guld du har i början av v
 		
 Dendroidstickling	The Dendroid Saplings increase Dendroid Guard production by 2 per week.	
 Dendroidstickling	The Dendroid Saplings increase Dendroid Soldier production by 2 per week.	
-Spirit Guardian	"The presence of the Spirit Guardian increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the luck of all allied heroes by +2."	
-Resource Silo	The Resource Silo provides you with an additional +1 crystal each day.	
-Artifact Merchants	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
+Andeväktaren	"The presence of the Spirit Guardian increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the luck of all allied heroes by +2."	
+Resurssilo	The Resource Silo provides you with an additional +1 crystal each day.	
+Artifackthandlaren	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
 Skulptörsvingar	The Sculptor's Wings increase Stone Gargoyle production by 4 per week.	
 Skulptörsvingar	The Sculptor's Wings increase Obsidian Gargoyle production by 4 per week.	
 		
 Utkikstorn	The lookout tower extends the visible distance around your city.	
-Library	The library provides your mage guild with additional spells.	
-Wall of Knowledge	The Wall of Knowledge increases the Knowledge skill of any visiting hero by +1.	
+Bibliotek	The library provides your mage guild with additional spells.	
+Kunskapsvägg	The Wall of Knowledge increases the Knowledge skill of any visiting hero by +1.	
 		
 		
-Skyship	"The presence of the Skyship increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, reveals the entire world map, and increases the knowledge of any defending hero by +15 (these spell points do not follow a hero who leaves the town)."	
-Resource Silo	The Resource Silo provides you with an additional +1 gems each day.	
+Luftskepp	"The presence of the Skyship increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, reveals the entire world map, and increases the knowledge of any defending hero by +15 (these spell points do not follow a hero who leaves the town)."	
+Resurssilo	The Resource Silo provides you with an additional +1 gems each day.	
 		
-Birthing Pools	The Birthing Pools increase Imp production by 8 per week.	
-Birthing Pools	The Birthing Pools increase Familiar production by 8 per week.	
+Födelsepooler	The Birthing Pools increase Imp production by 8 per week.	
+Födelsepooler	The Birthing Pools increase Familiar production by 8 per week.	
 		
 Brimstone Stormclouds	The Brimstone Stormclouds boost a garrison hero's power by +2 during any siege defense.	
 Castle Gate	Allows travel between Inferno towns containing Castle Gates. Destination town must be unoccupied.	
