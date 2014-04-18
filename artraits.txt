@@ -8,7 +8,7 @@ Trollformelsbokrulle	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Trollformels
 Denna rulle innehåller [spell name]-trollformelm som nu kommer finnas i din Trollformelsbok så länge du bär med dig denna rulle."
 Gralen	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Gralen}
 
-Bär Gralen till den stad du vill så ska de som bor där bygga ett stort monument som ger stora fördelar till din stadens ägare!."
+Bär Gralen till den stad du vill så ska de som bor där bygga ett stort monument som ger stora fördelar till den stadens ägare!."
 Katapult	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Katapult}
 
 Använd denna krigsmaskin för att skjuta ner fiendens försvarsmurar i strid."
