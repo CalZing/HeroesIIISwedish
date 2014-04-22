@@ -3,62 +3,62 @@ Can't add manager!
 %s can gain no more experience in this scenario.
 "{Level %d}
 
-{Next level:} %d
-{Current experience:} %d"
-%d/day
-or
-%s has been vanquished!
-"%s, you have lost your last town.  If you do not conquer another town in the next week, you will be eliminated."
-"%s, your heroes abandon you, and you are banished from this land."
-"%s's heroes have abandoned him, and he is banished from this land."
-"Could not save game as ""%s""."
-Error opening file %s!
-NEWGAME
-Are you sure you want to dismiss this army?
-%s's turn.
-Error receiving data.  Keep trying?
-%s the %s
-Recruit
-There is no room in the garrison for this army.
-You already have %d adventuring heroes under your command.
-This hero has no creatures.  A hero must have creatures before he can brave the dangers of the countryside.
-Video Quality
-This item can't be traded.
-Are you sure you want to dismiss this Hero?
-Select Spell Target
-Invalid Teleport Destination
-Teleport Here
-Cast %s
-Cast %s on %s
-Are you sure you want to retreat?
-You don't have enough gold!
-You have captured an enemy artifact!
-None
-"%s states:
+{Nästa nivå} %d
+{Nuvarande Erfarenhet:} %d"
+%d/dag
+eller
+%s har blivit besegrad!
+"%s, du har förlorat din sista stad. Om du inte erövrar en stad innan nästa vecka så kommer du bli utslagen."
+"%s, dina hjältar överger dig och du är härmed bannlyst från detta land!."
+"%ss hjältar överher hen, därför är hen nu bannlyst från detta land!."
+"Kunde inte spara spelet som ""%s""."
+Fel vid öppnande av fil %s!
+NYTT SPEL
+Är du säker på att du vill säga adjö till denna armé?
+%ss tur.
+Ett fel inträffade vid överföringen av data. Ska jag fortsätta försöka?
+%s dendär %s
+Rekrytera
+Denna armé får inte plats i garnisonen.
+Du har redan %d hjältar till förfogande.
+Denna hjälte har inga varelser med sig. En hjälte måste ha varelser så att hen kan överleva sina äventyr!
+Videokvalité
+Denna sak kan du inte byta ut.
+Är du säker på att du vill säga adjo till hjälten?
+Välj mål för Trollformeln
+Otillgängligt mål för Teleportering
+Teleportera hit
+Kasta %s
+Kasta %s på %s
+Är du säker på att du vill ge fly?
+Du har inte tillräckligt med Guld!
+Du har erövrat en fiendes artefakt!
+Inget
+"%s berättar att:
 
-""I will accept your surrender and grant you and your troops safe passage for the price of %d gold."""
-High morale enables the %s to attack again.
-Low morale causes the %s to freeze in panic.
-Make room for the %s in your army
-Attack %s (%s damage)
-"Shoot %s (1 shot left, %s damage)"
-Campaign Description:
-%s is active.
-Session Name
-User Name
-creature
-creatures
-Bad luck descends on the %s
-Good luck shines on the %s
-Treasure
-%s's %s is under attack!
-Town
-Hero
-Town Screen
-Cannot build another boat
-Requires:
+""Jag accepterar din reträtt och låter dig och dina trupper passera oskadda, för den modesta summan av %d Guld :)"""
+Hög Moral låter %s attackera igen.
+Låg Moral gör att %s blir stel av skräck
+Gör rum för %s i armén
+Attackera %s (%s skada)
+"Skjut %s (1 skott kvar, %s skada)"
+Kampanjbeskrivning:
+%s är aktiv.
+Sessionsnamn
+Användarnamn
+varelse
+varelser
+Otur drabbar %s
+Turen kommer till %s
+Skadda
+%ss %s anfalls!
+Stad
+Hjälte
+Stadsvyn
+Du kan inte bygga fler båtar
+Kräver:
 <SYSTEM>:
-"{World Map}
+"{Världskarta}
 
 This is a zoomed out view of the world.  Clicking anywhere in this window will center the adventure map on that location, or you can drag the outline box to scroll the adventure map."
 "One or more heroes may still move, are you sure you want to end your turn?"
@@ -850,7 +850,7 @@ To play Heroes III: %s, you need the %s CD.
 If you wish to join a Multi-player Game hosted by another player, a CD is not required, and you may proceed.
 
 If you wish to play a Single Scenario or a Campaign, please quit and insert the %s CD, before re-running %s."
-Host is generating a random map�
+Host is generating a random map�
 Spell cancelled
 You possess all of the components needed to assemble the %s.  Do you wish to assemble this artifact?
 Do you wish to disassemble this artifact?
