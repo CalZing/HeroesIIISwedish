@@ -60,62 +60,62 @@ Kräver:
 <SYSTEM>:
 "{Världskarta}
 
-This is a zoomed out view of the world.  Clicking anywhere in this window will center the adventure map on that location, or you can drag the outline box to scroll the adventure map."
-"One or more heroes may still move, are you sure you want to end your turn?"
-"Digging for artifacts requires a whole day, try again tomorrow."
-Your hero has no room to carry another artifact!
-"Congratulations! After spending many hours digging here, your hero has uncovered the "
-"Nothing here.
-Where could it be?"
-Try looking on land!
-Uncharted Territory
-Month
-Week
-Day
-Right click on any enemy to view them.
+Detta är en utzoomad vy av världen. Om du klickar i detta fönster kommer kartan att centreras över detta område, eller så kan du dra längs den utomliggande boxen för att scrolla."
+"En eller flera hjältar kan fortfarande förflytta sig, är du säker på att du vill avsluta din tur?"
+"Att kräva efter artefakter tar en hel dag, försök igen imorgon."
+Din hjälte har ingen plats för att bära den artefakten!
+"Gratulerar! Efter att ha spenderat fler timmar med att gräva så har du nu funnit "
+"Inget här.
+Var kan den vara?"
+Försök leta på land!
+Outforskat territorie
+Månad
+Vecka
+Dag
+Högerklicka på fienden för mer information.
 ping=%dms
-"Are you sure you want to restart?
-(Your current game will be lost)"
-"Are you sure you want to load a new game?
-(Your current game will be lost)"
-Are you sure you want to quit?
-Dimension Door failed!
-Choose a bonus:
+"Är du säker på att du vill börja om?
+(Ditt nuvarande spel kommer förloras)"
+"Är du säker på att du vill ladda ett nytt spel?
+(Ditt nuvarande spel kommer förloras)"
+Är du säker på att du vill avsluta?
+Dimensionsdörren misslyckades!
+Välj en bonus:
 ping
 pinging %s...
 pinging everyone...
-Score
-AUTOSAVE
-{Starting Hero}
-{Hero Specialty}
-{Associated Creatures}
-{Town Alignment}
-Error sending data.  Keep trying??
-You must have at least 2 players to launch a multi-player game.  Check your advanced options or select a new map.
-{Artifact Bonus}
-{Gold Bonus}
-{Resource Bonus}
-{Random Bonus}
+Poäng
+Autosparande
+{Starthjälte}
+{Hjälte-specialité}
+{Associerad Varelse}
+{Stads-inriktning}
+Fel när data skulle sändas. Ska jag fortsätta??
+Du måste vara minst 2 spelare för att köra i flerspelarläget. Kontrollera dina avancerad inställningar eller välj en ny karta.
+{Artefaktbonus}
+{Guldbonus}
+{Resursbonus}
+{Slumpmässig Bonus}
 500-1000
-The Armageddon does %d damage.
-5-10 wood / 5-10 ore
-An artifact is randomly chosen and equipped to your starting hero
-The disrupting ray reduces defense by %d.
-"At the start of the game, 500-1000 gold is added to your Kingdom's resource pool"
-"At the start of the game, 5-10 wood and 5-10 ore are added to your Kingdom's resource pool"
-"Gold, wood and ore, or an artifact is randomly chosen as your starting bonus"
-You have been eliminated from the game!
-"Congratulations!
-Your score will be entered into the Hall of Fame
+Armageddon gör %d skada.
+5-10 Trä / 5-10 Malm
+En artefakt väljs slumpmässigt och ges till din starthjälte
+Störstrålen reducerar Försvarsförmågan med %d.
+"Vid början av spelet läggs 500-1000 Guld till ditt kungadömmes resurser"
+"Vid början av spelet läggs 5-10 Trä och 5-10 Malm till ditt kungadömmes resurser"
+"Guld, Trä och Malm eller en Artefakt väljs ut slumpmässigt som en startbonus"
+Du har blivit utslagen ur spelet!
+"Grattis!
+Din poäng kommer läggas till i Ärans hall
 
-Please enter your name."
-Try searching on clear ground.
-Sending Data
-Receiving Data
+Skriv ditt namn här."
+Försök söka på tom mark.
+Skickar Data
+Tar emot Data
 Chaos.mp2
-{Random Hero}
-"A starting hero is randomly chosen, from those classes associated with the displayed Starting Town"
-{Random Town}
+{Slumpmässig Hjälte}
+"En starthjälte kommer slumpmässigt väljas från klasserna som associeras med din Startstad"
+{Slumpmässig stad}
 Your starting town is randomly chosen from one of the eight different town types
 "%s surrenders, and gains safe passage for %d gold."
 "The Heroes III: %s CD-ROM was not found!
