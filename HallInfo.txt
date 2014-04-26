@@ -6,5 +6,5 @@ Lägg till en nivå till Magiskrået
 Kan inte bygga %s
 Har inte råd med %s
 Bygg %s
-Exit Hall
+Lämna Hallen
 Hall Options
