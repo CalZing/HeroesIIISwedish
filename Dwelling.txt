@@ -31,14 +31,14 @@ Balustrad	Balustraden låter dig rekrytera Stenfilurer.
 Golemfabrik	Golemfabriken låter dig rekrytera Stengolemer.
 Magikertorn	Magikertornet låter dig rekrytera Magiker.
 Önskealtare	Önskealtaret låter dig rekrytera Djinner.
-Guldpaviljon	Guldpaviljongen låter dig rekrytera Naga.
+Guldpaviljong	Guldpaviljongen låter dig rekrytera Naga.
 Molntempel	Molntemplet låter dig rekrytera Jättar.
 Upg. Verkstad	Verkstaden låter dig rekrytera Stortomtar.
 Upg. Balustrad	Balustraden låter dig rekrytera Obsidianfilurer.
 Upg. Golemfabrik	Golemfabriken låter dig rekrytera Järngolemer.
 Upg. Magikertorn	Magikertornet låter dig rekrytera Ärkemagiker.
 Upg. Önskealtare	Önskealtaret låter dig rekrytera Mästardjinner.
-Upg. Guldpaviljon	Guldpaviljongen låter dig rekrytera Nagadrottningar.
+Upg. Guldpaviljong	Guldpaviljongen låter dig rekrytera Nagadrottningar.
 Upg. Molntempel	Molntemplet låter dig rekrytera Titaner.
 Pukdegel	Impdegeln låter dig rekrytera Pukar.
 Syndernas Sal	Syndernas Sal låter dig rekrytera Gogar.
