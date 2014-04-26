@@ -1,53 +1,53 @@
-Basilisk Pit
-Behemoth Crag
-Pillar of Eyes
-Hall of Darkness
-Dragon Vault
-Training Grounds
-Centaur Stables
+Basiliskhåla
+Behemotlya
+Ögonpelare
+Mörkrets sal
+Drakvalv
+Träningsområde
+Kentaurstall
 Air Elemental Conflux
-Portal of Glory
-Cyclops Cave
-Forsaken Palace
-Serpent Fly Hive
-Dwarf Cottage
+Pärleport
+Cyklopgrotta
+Övergivet Palats
+Sländebo
+Dvärgstuga
 Earth Elemental Conflux
-Fire Lake
-Homestead
+Eldsjö
+Hemman
 Fire Elemental Conflux
-Parapet
-Altar of Wishes
-Wolf Pen
-Gnoll Hut
-Goblin Barracks
-Hall of Sins
-Gorgon Lair
-Dragon Cliffs
-Griffin Tower
-Harpy Loft
-Kennels
-Hydra Pond
-Imp Crucible
-Lizard Den
-Mage Tower
+Balustrad
+Önskealtare
+Varggryt
+Krokotaurstuga
+Koboldbarack
+Syndernas Sal
+Gorgonlya
+Drakklippa
+Griptorn
+Vråkloft
+Kennel
+Hydradamm
+Impdegel
+Ödlehåla
+Magikertorn
 Manticore Lair
-Chapel of Stilled Voices
-Labyrinth
-Monastery
-Golden Pavilion
-Demon Gate
-Ogre Fort
-Orc Tower
-Hell Hole
-Dragon Cave
-Cliff Nest
-Workshop
-Cloud Temple
-Dendroid Arches
-Warren
+Tysta Rösternas Kapell
+Labyrint
+Kloster
+Guldpaviljong
+Demonport
+Resefort
+Orchtorn
+Helvetesgap
+Drakgrotta
+Klippnäste
+Verkstad
+Molntempel
+Dendroidglänta
+Grotta
 Water Elemental Conflux
-Tomb of Souls
-Wyvern Nest
+Själsgrav
+Lindormsnäste
 Enchanted Spring
 Unicorn Glade
 Mausoleum
