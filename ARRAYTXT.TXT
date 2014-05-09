@@ -213,26 +213,26 @@ Varelse av god inriktning på Ond dimma -1"
 cNewTurn
 "%s, du har bara %d dagar på dig att överta en stad, annars kommer du bli bannlyst från detta land."
 "%s, detta är sista dagen för dig att överta en stad, annars kommer du bli bannlyst från detta land."
-"Astrologer utlyser att detta är månaden för %s.
+"Astrologer utlyser den nya månaden med %s som förtecken.
 
 Alla bons populationer ökar."
-"Astrologer utlyser att detta är månaden för %s.
+"Astrologer utlyser en ny månad med %s som förtecken.
 
 Alla populationer med %s fördubblas!
 
 Alla bons populationer ökar."
-"Astrologer utlyser att detta är månaden för PESTEN!
+"Astrologer utlyser PESTENS månad!
 
 Alla populationer halveras."
-"Astrologer utlyser att detta är månaden för %s.
+"Astrologer utlyser en ny vecka med %s som förtecken.
 
 Alla bons populationer ökar."
-"Astrologer utlyser att detta är veckan för %s.
+"Astrologer utlyser en ny vecka med %s som förtecken.
 
-%s växer med +5.
+bon med %s växer +5.
 
 Alla bons populationer ökar."
-"Astrologer utlyser att detta är veckan för %s.
+"Astrologer utlyser en ny vecka med %s som förtecken.
 
 %s växer med %+d.
 %s växer med %+d.
