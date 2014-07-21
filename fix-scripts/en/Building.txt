@@ -1,0 +1,267 @@
+Wood	Mercury	Ore	Sulfur	Crystal	Gems	Gold	Building Name (reference only)
+Special Buildings							
+							
+Castle							
+0	0	10	0	0	0	2000	 Lighthouse
+0	0	0	0	0	0	1000	 Griffin Horde
+0	0	0	0	0	0	1000	 Royal Griffin Horde
+0	0	0	0	0	0	0	 
+10	0	0	0	0	0	2000	 Stables
+5	0	0	0	0	0	500	 Tavern Upgrade
+0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	
+							
+Rampart							
+2	2	2	2	2	2	2000	 Mystic Garden
+0	0	0	0	0	0	1000	 Dwarf Horde
+0	0	0	0	0	0	1000	 Battle Dwarf Horde
+0	0	0	0	0	0	0	
+0	0	0	0	10	0	1500	 Rainbow
+5	0	10	0	0	0	5000	 Treasury
+0	0	0	0	0	0	0	
+0	0	0	0	0	0	2000	 Treefolk Horde
+0	0	0	0	0	0	2000	Briar Treefolk Horde
+							
+Tower							
+0	0	0	0	0	0	10000	 Artifact Merchants
+0	0	0	0	0	0	1000	 Stone Gargoyle Horde
+0	0	0	0	0	0	1000	 Obsidian Gargoyle Horde
+0	0	0	0	0	0	0	 
+5	0	0	0	0	0	1000	 Watchtower
+5	5	5	5	5	5	1500	 Library
+0	0	5	0	0	0	1000	 Wall of Glyphic Knowledge
+0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	
+							
+Inferno							
+0	0	0	0	0	0	0	 
+0	0	0	0	0	0	1000	 Imp Horde
+0	0	0	0	0	0	1000	 Familiar Horde
+0	0	0	0	0	0	0	 
+0	0	0	5	0	0	1000	 Brimstone Stormclouds
+5	0	5	0	0	0	10000	 Castle Gate 
+5	0	0	0	0	0	1000	 Order of Fire 
+0	0	0	0	0	0	1000	 Hell Hound Horde
+0	0	0	0	0	0	1000	  Cerberus Horde
+							
+Necropolis							
+0	0	0	0	0	0	1000	 Cover of Darkness
+0	0	0	0	0	0	1000	 Skeleton Horde
+0	0	0	0	0	0	1000	 Skeleton Warrior Horde
+0	0	0	0	0	0	0	 
+0	0	0	0	0	0	1000	 Necromancy Amplifier
+0	0	0	0	0	0	1000	 Skeleton Transformer
+0	0	0	0	0	0	0	 
+0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	
+							
+Dungeon							
+0	0	0	0	0	0	10000	 Artifact Merchants
+0	0	0	0	0	0	1000	 Troglodyte Horde
+0	0	0	0	0	0	1000	 Infernal Troglodyte Horde
+0	0	0	0	0	0	0	 
+0	0	0	0	0	0	1000	 Mana Vortex
+0	0	5	0	0	0	2500	 Portal of Summoning
+5	0	5	0	0	0	1000	 Academy of Battle Scholars
+0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	
+							
+Stronghold							
+5	0	5	0	0	0	2000	 Escape Tunnel
+0	0	0	0	0	0	1000	 Goblin Horde
+0	0	0	0	0	0	1000	 Hobgoblin Horde
+0	0	0	0	0	0	0	 
+0	0	0	0	0	0	1000	 Freelancers Guild
+5	0	0	0	0	0	1000	 Ballista Works
+0	0	0	0	0	0	1000	 Hall of Valhalla
+0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	
+							
+Fortress							
+0	0	0	0	0	0	1000	 Defense Cage
+0	0	0	0	0	0	1000	 Gnoll Horde
+0	0	0	0	0	0	1000	 Gnoll Marauder Horde
+0	0	0	0	0	0	0	 
+0	0	0	0	0	0	1000	 Siege Defense
+0	0	0	0	0	0	1000	 Siege Attack
+0	0	0	0	0	0	0	 
+0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	
+							
+Conflux							
+0	0	0	0	0	0	10000	Artifact Merchants
+0	0	0	0	0	0	1000	Pixie Horde
+0	0	0	0	0	0	1000	Sprite Horde
+0	0	0	0	0	0	0	never used
+10	0	10	0	0	0	5000	Magic University						
+0	0	0	0	0	0	0	unused						
+0	0	0	0	0	0	0	unused						
+0	0	0	0	0	0	0	unused						
+0	0	0	0	0	0	0	unused						
+													
+Neutral Buildings													
+													
+5	0	5	0	0	0	2000	 MAGE_GUILD_ID						
+5	4	5	4	4	4	1000	 MAGE_GUILD2_ID						
+5	6	5	6	6	6	1000	 MAGE_GUILD3_ID						
+5	8	5	8	8	8	1000	 MAGE_GUILD4_ID						
+5	10	5	10	10	10	1000	 MAGE_GUILD5_ID						
+5	0	0	0	0	0	500	 TAVERN_ID						
+20	0	0	0	0	0	2000	 DOCK_ID						
+20	0	20	0	0	0	5000	 CASTLE_FORT_ID						
+0	0	5	0	0	0	2500	 CASTLE_CITADEL_ID
+10	0	10	0	0	0	5000	 CASTLE_CASTLE_ID
+0	0	0	0	0	0	1	 HALL_VILLAGE_ID
+0	0	0	0	0	0	2500	 HALL_TOWN_ID
+0	0	0	0	0	0	5000	 HALL_CITY_ID
+0	0	0	0	0	0	10000	 HALL_CAPITOL_ID
+5	0	0	0	0	0	500	 MARKETPLACE_ID
+0	0	5	0	0	0	5000	 MARKETPLACE_SILO_ID
+5	0	0	0	0	0	1000	 BLACKSMITH_ID
+							
+Dwellings							
+							
+Castle							
+0	0	10	0	0	0	500	 pikeman
+5	0	5	0	0	0	1000	 archer
+0	0	5	0	0	0	1000	 griffin
+0	0	5	0	0	0	2000	 swordsman
+5	2	5	2	2	2	3000	 monk
+20	0	0	0	0	0	5000	 cavalier
+0	10	0	10	10	10	20000	 angel
+0	0	5	0	0	0	1000	 halberdier
+5	0	5	0	0	0	1000	 marksman
+0	0	5	0	0	0	1000	 royal griffin
+0	0	5	0	5	0	2000	 crusader
+2	2	2	2	2	2	1000	 zealot
+10	0	0	0	0	0	3000	 champion
+0	10	0	10	10	10	20000	  arch angel
+							
+Rampart							
+10	0	0	0	0	0	500	 Centaur 
+5	0	0	0	0	0	1000	 Dwarf 
+10	0	0	0	0	0	1500	 Wood Elf 
+0	0	0	0	10	0	2000	 Pegasus 
+0	0	0	0	0	0	2500	 Dendroid Guard
+5	0	5	0	0	10	4000	 Unicorn 
+0	0	30	0	20	0	10000	 Green Dragon 
+5	0	0	0	0	0	1000	 Centaur Captain
+5	0	0	0	0	0	1000	 Battle Dwarf 
+10	0	0	0	0	0	1500	 Grand Elf 
+0	0	0	0	5	0	2000	 Silver Pegasus
+0	0	0	0	0	0	1500	 Dendroid Soldier
+0	0	0	0	0	5	3000	 War Unicorn 
+0	0	30	0	20	0	20000	  Gold Dragon 
+							
+Tower							
+5	0	5	0	0	0	300	 Gremlin
+0	0	10	0	0	0	1000	 Stone Gargoyle 
+5	0	5	0	0	0	2000	 Stone Golem
+5	5	5	5	5	5	2500	 Mage 
+5	0	5	0	6	6	3000	 Genie 
+5	2	5	2	2	2	4000	 Naga
+10	0	10	0	0	10	5000	 Giant
+0	0	0	0	0	0	1000	 Master Gremlin 
+0	0	5	0	0	0	1500	 Obsidian Gargoyle 
+5	5	5	0	0	0	2000	 Iron Golem
+5	0	0	0	0	0	2000	 Arch Mage 
+5	0	0	0	0	0	2000	 Master Genie
+0	3	0	3	3	3	3000	 Naga Queen
+5	0	5	0	0	30	25000	 Titan
+							
+Inferno							
+5	0	5	0	0	0	300	 Imp
+0	0	5	0	0	0	1000	 Gog
+10	0	0	0	0	0	1500	 Hell Hound
+5	0	5	0	0	0	2000	 Demon
+0	0	0	0	0	0	3000	 Pit Fiend
+0	3	10	3	0	3	4000	 Efreet
+10	20	10	0	0	0	15000	 Devil
+0	0	0	0	0	0	1000	 Familiar
+0	5	0	0	0	0	1000	 Magog
+0	0	0	5	0	0	1500	 Cerberus
+5	0	5	0	0	0	2000	 Horned Demon
+0	5	0	5	0	0	3000	 Pit Lord
+0	5	5	5	0	5	3000	 Efreet Sultan
+5	20	5	0	0	0	20000	  Arch Devil
+							
+Necropolis							
+5	0	5	0	0	0	400	 Skeleton
+0	0	5	0	0	0	1000	 Walking Dead
+5	0	5	0	0	0	1500	 Wight
+5	0	5	0	0	0	2000	 Vampire
+0	0	10	10	0	0	2000	 Lich
+10	0	10	0	0	0	6000	 Black Knight
+5	5	5	5	5	5	10000	 Bone Dragon
+5	0	5	0	0	0	1000	 Skeleton Warrior
+5	0	5	0	0	0	1000	 Zombie
+0	5	0	0	0	0	1500	 Wraith
+5	0	0	0	10	10	2000	 Vampire Lord
+0	0	5	5	0	0	2000	 Power Lich
+5	2	5	2	2	2	3000	 Black Lord
+5	20	5	0	0	0	15000	 Ghost Dragon
+							
+Dungeon							
+10	0	0	0	0	0	400	 Troglodyte
+0	0	0	0	0	0	1000	 Harpy
+1	1	1	1	1	1	1000	 Beholder
+5	0	10	0	0	0	2000	 Medusa
+0	0	10	0	0	10	4000	 Minotaur
+5	5	5	5	0	0	5000	 Manticore
+15	0	15	20	0	0	15000	 Red Dragon
+5	0	0	0	0	0	1000	 Infernal Troglodyte
+0	0	0	2	2	0	1000	 Harpy Hag
+1	1	1	1	1	1	1000	 Evil Eye
+5	0	0	0	0	0	1500	 Medusa Queen
+0	0	5	0	0	5	3000	 Minotaur King
+5	5	5	5	0	0	3000	 Scorpicore
+15	0	15	20	0	0	15000	 Black Dragon
+							
+Stronghold							
+5	0	5	0	0	0	200	 Goblin 
+10	0	5	0	0	0	1000	 Wolf Rider
+5	0	5	0	0	0	1000	 Orc
+20	0	0	0	0	0	2000	 Ogre
+0	0	10	0	0	0	2500	 Roc
+0	0	20	0	20	0	3500	 Cyclops
+10	0	10	0	10	0	10000	 Behemoth
+5	0	5	0	0	0	1000	 Hobgoblin
+5	0	5	0	0	0	1000	 Wolf Raider
+2	0	2	0	0	0	1000	 Orc Chieftain
+5	0	5	0	0	5	2000	 Ogre Mage
+5	0	5	0	0	0	2000	 Thunderbird
+5	0	5	0	0	0	3000	 Cyclops King
+10	0	10	0	20	0	15000	 Ancient Behemoth
+							
+Fortress							
+10	0	0	0	0	0	400	 Gnoll 
+5	0	0	0	0	0	1000	  Lizardman
+5	2	0	2	0	0	1000	 Serpent Fly
+5	0	10	0	0	0	2000	 Basilisk 
+10	5	10	5	0	0	2500	 Gorgon
+15	0	0	0	0	0	3500	 Wyvern 
+10	0	10	10	0	0	10000	 Hydra 
+10	0	0	0	0	0	1000	 Gnoll Marauder 
+5	0	0	0	0	0	1000	 Lizard Warrior
+0	2	0	2	0	0	1000	 Dragon Fly
+5	0	5	0	0	0	2000	 Greater Basilisk 
+5	0	5	0	0	0	2000	 Mighty Gorgon
+10	10	0	0	0	0	3000	 Wyvern Monarch 
+10	0	10	20	0	0	15000	  Chaos Hydra 
+							
+Conflux							
+5	0	5	0	0	0	300	Flower of Life - Pixies
+0	0	5	0	0	0	1500	Altar of Air - Air Elementals
+0	0	5	0	0	0	1500	Altar of Water - Water Elementals
+5	0	5	0	0	0	2000	Altar of Fire - Fire Elementals
+0	0	10	0	0	0	2000	Altar of Earth - Earth Elementals
+5	2	5	2	2	2	3000	Altar of Thought - Psychic Elementals
+10	10	10	0	0	0	10000	Pyre - Firebirds
+0	0	0	0	0	0	1000	Enchanted Flower - Sprites
+2	2	0	0	0	2	1500	Temple of Clouds - Storm Elementals
+0	5	5	0	0	0	2000	Temple of Ice - Ice Elementals
+0	5	5	0	0	0	2000	Temple of Energy - Energy Elementals
+0	0	0	5	0	0	1000	Temple of Magma - Magma Elementals
+0	3	0	3	3	3	3000	Temple of Magic - Magic Elementals
+10	20	10	0	0	0	15000	Funeral Pyre - Phoenixes

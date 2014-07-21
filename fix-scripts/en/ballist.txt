@@ -1,0 +1,6 @@
+Ballistics Skill Effects		Chance to hit					Damage Inflicted			
+		Keep	Tower	Gate	Wall	Shots	Nothing	1 point	2 points	Sum
+Skill Level	None	5%	10%	25%	50%	1	10%	60%	30%	100%
+ 	Basic	7%	15%	30%	60%	1	0%	50%	50%	100%
+ 	Advanced	7%	15%	30%	60%	2	0%	50%	50%	100%
+ 	Expert	10%	20%	40%	75%	2	0%	0%	100%	100%

@@ -1,0 +1,10 @@
+1. Ta svenska filen och sätt samtliga radbryt \r eller \n
+gsed -e 's/\x0D//g' infil > utfil
+2. Skapa radbrytsfil från orginalfilen
+gsed -e 's/[^\x0D\x0A]//g' infil > utfil
+3. Kombinera
+patch -d '\n' svenskfil radbrytsfil > utfil
+4. Ta bort extra radbryt i början, t ex 0x0a, 0x0d, 0x0a
+gsed -e 's/(\x0A) ([\x0A*\x0D])/\2/g'
+5. Fixa Unicode skador på å,ä och ö
+gsed -e 's///g'
