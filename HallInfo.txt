@@ -1,10 +1,10 @@
-Kan inte bygga mer Ã¤n en huvudstad
-Den hÃ¤r staden Ã¤r inte nÃ¤ra vatten
-Den hÃ¤r staden kan inte bygga den hÃ¤r byggnaden
-LÃ¤gg till en nivÃ¥ till MagiskrÃ¥et
-%s Ã¤r redan byggt
+Kan inte bygga mer än en huvudstad
+Den här staden är inte nära vatten
+Den här staden kan inte bygga den här byggnaden
+Lägg till en nivå till Magiskrået
+%s är redan byggt
 Kan inte bygga %s
-Har inte rÃ¥d med %s
+Har inte råd med %s
 Bygg %s
-LÃ¤mna Hallen
+Lämna Hallen
 Hall Options

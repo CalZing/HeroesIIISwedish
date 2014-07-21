@@ -1,29 +1,29 @@
-MagiskrÃ¥ NivÃ¥ 1	En besÃ¶kande hjÃ¤lte som stiger in i magiskrÃ¥et kommer beviljas att lÃ¤ra sig trollformlerna som hÃ¥lls dÃ¤ri.
-MagiskrÃ¥ NivÃ¥ 2	En besÃ¶kande hjÃ¤lte som stiger in i magiskrÃ¥et kommer beviljas att lÃ¤ra sig trollformlerna som hÃ¥lls dÃ¤ri.
-MagiskrÃ¥ NivÃ¥ 3	En besÃ¶kande hjÃ¤lte som stiger in i magiskrÃ¥et kommer beviljas att lÃ¤ra sig trollformlerna som hÃ¥lls dÃ¤ri.
-MagiskrÃ¥ NivÃ¥ 4	En besÃ¶kande hjÃ¤lte som stiger in i magiskrÃ¥et kommer beviljas att lÃ¤ra sig trollformlerna som hÃ¥lls dÃ¤ri.
-MagiskrÃ¥ NivÃ¥ 5	En besÃ¶kande hjÃ¤lte som stiger in i magiskrÃ¥et kommer beviljas att lÃ¤ra sig trollformlerna som hÃ¥lls dÃ¤ri.
-Taverna	Tavernan Ã¶kar moralen hos trupper som fÃ¶rsvarar staden.
-Varv	Varvet lÃ¥ter dig kÃ¶pa skepp.
-Fort	Fortet fÃ¶rser din stad med fÃ¶rsvarsmurar.
-FÃ¤stning	"Inklusive en 50% Ã¶kning av varelsetillvÃ¤xten lÃ¤gger fÃ¤stningen till ett huvudtorn och andra terrÃ¤nghinder till en stads fÃ¶rsvar."
-Borg	"Borgen lÃ¤gger till tvÃ¥ piltorn, fortifierar din stads fÃ¶rsvar och dubblar grundvarelsetillvÃ¤xten."
-Byhall	Byhallen lÃ¥ter dig kÃ¶pa stadsbyggnader och inbringar 500 guld per dag till ditt kungadÃ¶me.
-Stadshall	Stadshallen lÃ¥ter dig kÃ¶pa stadsbyggnader och inbringar 1000 guld per dag till ditt kungadÃ¶me.
-Storstadshall	Storstadshallen lÃ¥ter dig kÃ¶pa stadsbyggnader och inbringar 2000 guld per dag till ditt kungadÃ¶me.
-Huvudstad	Huvudstaden inbringar 4000 guld per dag till ditt kungadÃ¶me.
-Marknadsplats	"Med Marknadsplatsen kan du kÃ¶pa och sÃ¤lja resurser (VÃ¤xelkurser fÃ¶rbÃ¤ttras med varje Marknadsplats du Ã¤ger)."
+Magiskrå Nivå 1	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 2	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 3	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 4	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 5	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Taverna	Tavernan ökar moralen hos trupper som försvarar staden.
+Varv	Varvet låter dig köpa skepp.
+Fort	Fortet förser din stad med försvarsmurar.
+Fästning	"Inklusive en 50% ökning av varelsetillväxten lägger fästningen till ett huvudtorn och andra terränghinder till en stads försvar."
+Borg	"Borgen lägger till två piltorn, fortifierar din stads försvar och dubblar grundvarelsetillväxten."
+Byhall	Byhallen låter dig köpa stadsbyggnader och inbringar 500 guld per dag till ditt kungadöme.
+Stadshall	Stadshallen låter dig köpa stadsbyggnader och inbringar 1000 guld per dag till ditt kungadöme.
+Storstadshall	Storstadshallen låter dig köpa stadsbyggnader och inbringar 2000 guld per dag till ditt kungadöme.
+Huvudstad	Huvudstaden inbringar 4000 guld per dag till ditt kungadöme.
+Marknadsplats	"Med Marknadsplatsen kan du köpa och sälja resurser (Växelkurser förbättras med varje Marknadsplats du äger)."
 	
-Smedja	Smedjan fÃ¶rser dina armÃ©er med %s.
-Vallgrav	Vallgraven saktar ned anfallande enheter.  En enhet som Ã¤ntrar vallgraven mÃ¥ste avslsuta sin tur i den och blir mer sÃ¥rbar mot angrepp.
-Varv med skepp	Varvet lÃ¥ter dig kÃ¶pa skepp.
-Smedja	Smedjan fÃ¶rser dina armÃ©er med Ballistor.
-Smedja	Smedjan fÃ¶rser dina armÃ©er med FÃ¶rsta HjÃ¤lpen-tÃ¤lt.
-Smedja	Smedjan fÃ¶rser dina armÃ©er med AmmunitionskÃ¤rror.
-Smedja	Smedjan fÃ¶rser dina armÃ©er med AmmunitionskÃ¤rror.
-Smedja	Smedjan fÃ¶rser dina armÃ©er med FÃ¶rsta HjÃ¤lpen-tÃ¤lt.
-Smedja	Smedjan fÃ¶rser dina armÃ©er med Ballistor.
-Smedja	Smedjan fÃ¶rser dina armÃ©er med AmmunitionskÃ¤rror.
-Smedja	Smedjan fÃ¶rser dina armÃ©er med FÃ¶rsta HjÃ¤lpen-tÃ¤lt.
-Smedja	Smedjan fÃ¶rser dina armÃ©er med Ballistor.
-Smedja	Smedjan fÃ¶rser dina armÃ©er med Krigsmaskiner.
+Smedja	Smedjan förser dina arméer med %s.
+Vallgrav	Vallgraven saktar ned anfallande enheter.  En enhet som äntrar vallgraven måste avslsuta sin tur i den och blir mer sårbar mot angrepp.
+Varv med skepp	Varvet låter dig köpa skepp.
+Smedja	Smedjan förser dina arméer med Ballistor.
+Smedja	Smedjan förser dina arméer med Första Hjälpen-tält.
+Smedja	Smedjan förser dina arméer med Ammunitionskärror.
+Smedja	Smedjan förser dina arméer med Ammunitionskärror.
+Smedja	Smedjan förser dina arméer med Första Hjälpen-tält.
+Smedja	Smedjan förser dina arméer med Ballistor.
+Smedja	Smedjan förser dina arméer med Ammunitionskärror.
+Smedja	Smedjan förser dina arméer med Första Hjälpen-tält.
+Smedja	Smedjan förser dina arméer med Ballistor.
+Smedja	Smedjan förser dina arméer med Krigsmaskiner.

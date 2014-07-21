@@ -1,22 +1,22 @@
-BasiliskhÃ¥la
+Basiliskhåla
 Behemotlya
-Ã–gonpelare
-MÃ¶rkrets sal
+Ögonpelare
+Mörkrets sal
 Drakvalv
-TrÃ¤ningsomrÃ¥de
+Träningsområde
 Kentaurstall
 Air Elemental Conflux
-PÃ¤rleport
+Pärleport
 Cyklopgrotta
-Ã–vergivet Palats
-SlÃ¤ndebo
-DvÃ¤rgstuga
+Övergivet Palats
+Sländebo
+Dvärgstuga
 Earth Elemental Conflux
-EldsjÃ¶
+Eldsjö
 Hemman
 Fire Elemental Conflux
 Balustrad
-Ã–nskealtare
+Önskealtare
 Varggryt
 Krokotaurstuga
 Koboldbarack
@@ -24,14 +24,14 @@ Syndernas Sal
 Gorgonlya
 Drakklippa
 Griptorn
-VrÃ¥kloft
+Vråkloft
 Kennel
 Hydradamm
 Impdegel
-Ã–dlehÃ¥la
+Ödlehåla
 Magikertorn
 Manticore Lair
-Tysta RÃ¶sternas Kapell
+Tysta Rösternas Kapell
 Labyrint
 Kloster
 Guldpaviljong
@@ -40,14 +40,14 @@ Resefort
 Orchtorn
 Helvetesgap
 Drakgrotta
-KlippnÃ¤ste
+Klippnäste
 Verkstad
 Molntempel
-DendroidglÃ¤nta
+Dendroidglänta
 Grotta
 Water Elemental Conflux
-SjÃ¤lsgrav
-LindormsnÃ¤ste
+Själsgrav
+Lindormsnäste
 Enchanted Spring
 Unicorn Glade
 Mausoleum

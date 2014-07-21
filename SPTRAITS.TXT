@@ -3,93 +3,93 @@ Name	Abbreviated Name	Level	Earth	Water	Fire	Air	None	Basic	Advanced	Expert	Powe
 																																	
 Adventure Spells																																	
 																																	
-Ã…kalla bÃ¥t	Ã…kalla bÃ¥t	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Ã…kalla bÃ¥t}
+Åkalla båt	Åkalla båt	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Åkalla båt}
 
-Ã…kallar en existerande, vÃ¤nlig, ledig bÃ¥t frÃ¥n vart som helst i vÃ¤rlden till din plats.
+Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.
 
-Chansen att lyckas Ã¤r 50%.
-"	"{GrundlÃ¤ggande Ã…kalla bÃ¥t}
+Chansen att lyckas är 50%.
+"	"{Grundläggande Åkalla båt}
 
-Ã…kallar en existerande, vÃ¤nlig, ledig bÃ¥t frÃ¥n vart som helst i vÃ¤rlden till din plats.
+Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.
 
-Chansen att lyckas Ã¤r 50%.
-"	"{Avancerad Ã…kalla bÃ¥t}
+Chansen att lyckas är 50%.
+"	"{Avancerad Åkalla båt}
 
-Ã…kallar en existerande, vÃ¤nlig, ledig bÃ¥t frÃ¥n vart som helst i vÃ¤rlden till din plats.  Om inga bÃ¥tar existerar sÃ¥ skapas en.
+Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.  Om inga båtar existerar så skapas en.
 
-Chansen att lyckas Ã¤r 75%.
-"	"{Sofistikerad Ã…kalla bÃ¥t}
+Chansen att lyckas är 75%.
+"	"{Sofistikerad Åkalla båt}
 
-Ã…kallar en existerande, vÃ¤nlig, ledig bÃ¥t frÃ¥n vart som helst i vÃ¤rlden till din plats.  Om inga bÃ¥tar existerar sÃ¥ skapas en.
+Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.  Om inga båtar existerar så skapas en.
 "	 ADV_SPELL
-SÃ¤nk BÃ¥t	SÃ¤nk BÃ¥t	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{SÃ¤nk BÃ¥t}
+Sänk Båt	Sänk Båt	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Sänk Båt}
 
-SÃ¤nker en bÃ¥t i din Ã¤go.  AnvÃ¤nd med fÃ¶rsiktighet, fÃ¶rÃ¤ndringen Ã¤r permanent.
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 
-Chansen att lyckas Ã¤r 50%.
-"	"{GrundlÃ¤ggande SÃ¤nk BÃ¥t}
+Chansen att lyckas är 50%.
+"	"{Grundläggande Sänk Båt}
 
-SÃ¤nker en bÃ¥t i din Ã¤go.  AnvÃ¤nd med fÃ¶rsiktighet, fÃ¶rÃ¤ndringen Ã¤r permanent.
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 
-Chansen att lyckas Ã¤r 50%.
-"	"{Avancerad SÃ¤nk BÃ¥t}
+Chansen att lyckas är 50%.
+"	"{Avancerad Sänk Båt}
 
-SÃ¤nker en bÃ¥t i din Ã¤go.  AnvÃ¤nd med fÃ¶rsiktighet, fÃ¶rÃ¤ndringen Ã¤r permanent.
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 
-Chansen att lyckas Ã¤r 75%.
-"	"{Sofistikerad SÃ¤nk BÃ¥t}
+Chansen att lyckas är 75%.
+"	"{Sofistikerad Sänk Båt}
 
-SÃ¤nker en bÃ¥t i din Ã¤go.  AnvÃ¤nd med fÃ¶rsiktighet, fÃ¶rÃ¤ndringen Ã¤r permanent.
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 "	 ADV_SPELL
 Visioner	Visioner	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visioner}
 
-Ger dig en fÃ¶raning om styrkan pÃ¥ motstÃ¥ndarens arme, hjÃ¤lte eller garrison.
-"	"{GrundlÃ¤ggande Vision}
+Ger dig en föraning om styrkan på motståndarens arme, hjälte eller garrison.
+"	"{Grundläggande Vision}
 
-Ger dig en fÃ¶raning om styrkan pÃ¥ motstÃ¥ndarens arme, hjÃ¤lte eller garrison. Vid visioner av vandrande monster fÃ¥r du reda pÃ¥ det exakta antalet trupper och om de Ã¤r villiga att fÃ¶lja din hjÃ¤lte.
+Ger dig en föraning om styrkan på motståndarens arme, hjälte eller garrison. Vid visioner av vandrande monster får du reda på det exakta antalet trupper och om de är villiga att följa din hjälte.
 "	"{Avancerad Vision}
 
-Ger dig en fÃ¶raning om styrkan pÃ¥ motstÃ¥ndarens arme, hjÃ¤lte eller garrison. Vid visioner av vandrande monster fÃ¥r du reda pÃ¥ det exakta antalet trupper och om de Ã¤r villiga att fÃ¶lja din hjÃ¤lte. LÃ¥ter dig Ã¤ven avlÃ¤sa en nÃ¤rliggande hjÃ¤ltes skicklighetsfÃ¶rmÃ¥gor, vilken typ av monster och antal trupper, precis som om hjÃ¤lten hade varit en del av ditt kungadÃ¶me.
+Ger dig en föraning om styrkan på motståndarens arme, hjälte eller garrison. Vid visioner av vandrande monster får du reda på det exakta antalet trupper och om de är villiga att följa din hjälte. Låter dig även avläsa en närliggande hjältes skicklighetsförmågor, vilken typ av monster och antal trupper, precis som om hjälten hade varit en del av ditt kungadöme.
 "	"{Sofistikerad Vision}
 
 Gives you exact numbers of wandering monsters and tells you if they would be willing to join your hero.  Allows you to view a nearby enemy hero's primary skill statistics, creature type and quantity, as if the hero was part of your kingdom, as well as a nearby town's statistics, garrison creatures and quantity.
 "	 ADV_SPELL
-BeskÃ¥da Jorden	BeskÃ¥da Jorden	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{BeskÃ¥da Jorden}
+Beskåda Jorden	Beskåda Jorden	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Jorden}
 
 Reveals the location of all resources to the caster.
-"	"{Basic BeskÃ¥da Jorden}
+"	"{Basic Beskåda Jorden}
 
 Reveals the location of all resources to the caster.
-"	"{Advanced BeskÃ¥da Jorden}
+"	"{Advanced Beskåda Jorden}
 
 Reveals the location of all resources and mines to the caster.
-"	"{Expert BeskÃ¥da Jorden}
+"	"{Expert Beskåda Jorden}
 
 Reveals the location of all resources and mines and reveals all terrain to the caster.
 "	 ADV_SPELL
-FÃ¶rklÃ¤	FÃ¶rklÃ¤	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{FÃ¶rklÃ¤}
+Förklä	Förklä	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Förklä}
 
 Gives false information to an enemy attempting to view your hero.
-"	"{Basic FÃ¶rklÃ¤}
+"	"{Basic Förklä}
 
 Makes all units in your army look like your most powerful unit to enemies trying to view your hero.  Numbers in each group are unchanged.
-"	"{Advanced FÃ¶rklÃ¤}
+"	"{Advanced Förklä}
 
 Makes all units in your army look like your most powerful unit to enemies trying to view your hero.  Numbers in each group appear as zero.
-"	"{Expert FÃ¶rklÃ¤}
+"	"{Expert Förklä}
 
 Makes all units in your army look like the most powerful unit affiliated to your hero type to enemies trying to view your hero.  Numbers in each group appear as zero.
 "	 ADV_SPELL
-View Air	View Air	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{BeskÃ¥da Luften}
+View Air	View Air	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Luften}
 
 Reveals the location of all unclaimed artifacts to the caster.
-"	"{Basic BeskÃ¥da Luften}
+"	"{Basic Beskåda Luften}
 
 Reveals the location of all unclaimed artifacts to the caster.
-"	"{Advanced BeskÃ¥da Luften}
+"	"{Advanced Beskåda Luften}
 
 Reveals the location of all unclaimed artifacts, plus enemy heroes to the caster.
-"	"{Expert BeskÃ¥da Luften}
+"	"{Expert Beskåda Luften}
 
 Reveals the location of all unclaimed artifacts, plus enemy heroes and towns to the caster.
 "	 ADV_SPELL
@@ -119,16 +119,16 @@ Allows your army to use most of its movement to walk across bodies of water.  Yo
 
 Allows your army to use up to all of its movement to walk across bodies of water.  You must end your movement on dry land.
 "	 ADV_SPELL
-DimensionsdÃ¶rr	DimensionsdÃ¶rr	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{DimensionsdÃ¶rr}
+Dimensionsdörr	Dimensionsdörr	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimensionsdörr}
 
 Once per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
-"	"{Basic DimensionsdÃ¶rr}
+"	"{Basic Dimensionsdörr}
 
 Twice per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
-"	"{Advanced DimensionsdÃ¶rr}
+"	"{Advanced Dimensionsdörr}
 
 Three times per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
-"	"{Expert DimensionsdÃ¶rr}
+"	"{Expert Dimensionsdörr}
 
 Four times per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
 "	 ADV_SPELL
@@ -178,16 +178,16 @@ Randomly places eight small areas of landmines on the battlefield which are only
 
 Inflicted damage 75 points more than Basic Land Mine.
 "	 COMBAT_SPELL|LOCATION_TARGET
-KraftfÃ¤lt	KraftfÃ¤lt	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{KraftfÃ¤lt}
+Kraftfält	Kraftfält	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Kraftfält}
 
 Places a small Force Field on the battlefield at a point specified by the caster. 
-"	"{Basic KraftfÃ¤lt}
+"	"{Basic Kraftfält}
 
 Places a small Force Field on the battlefield at a point specified by the caster. 
-"	"{Advanced KraftfÃ¤lt}
+"	"{Advanced Kraftfält}
 
 Places a medium sized Force Field on the battlefield at a point specified by the caster.
-"	"{Expert KraftfÃ¤lt}
+"	"{Expert Kraftfält}
 
 Places a medium sized Force Field on the battlefield at a point specified by the caster.
 "	 COMBAT_SPELL|LOCATION_TARGET
@@ -204,16 +204,16 @@ Places a medium sized wildfire on the battlefield at a point specified by the ca
 
 Places a medium sized wildfire on the battlefield at a point specified by the caster.  Any units passing through the wall take damage.
 "	 COMBAT_SPELL|LOCATION_TARGET
-JordbÃ¤vning	JordbÃ¤vning	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Earthquake}
+Jordbävning	Jordbävning	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Earthquake}
 
 Randomly damages two sections of castle wall in combat.
-"	"{Basic JordbÃ¤vning}
+"	"{Basic Jordbävning}
 
 Randomly damages two sections of castle wall in combat.
-"	"{Advanced JordbÃ¤vning}
+"	"{Advanced Jordbävning}
 
 Randomly damages three sections of castle wall in combat.
-"	"{Expert JordbÃ¤vning}
+"	"{Expert Jordbävning}
 
 Randomly damages four sections of castle wall in combat.
 "	 COMBAT_SPELL
@@ -370,69 +370,69 @@ Causes a meteor shower to rain down on the selected target and any adjacent unit
 
 Damage inflicted is 75 points more than Basic Meteor Shower.
 "	 COMBAT_SPELL|LOCATION_TARGET
-DÃ¶dsstÃ¶t	DÃ¶dsstÃ¶t	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{DÃ¶dsstÃ¶t}
+Dödsstöt	Dödsstöt	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
-"	"{Basic DÃ¶dsstÃ¶t}
+"	"{Basic Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
-"	"{Advanced DÃ¶dsstÃ¶t}
+"	"{Advanced Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
 
 Damage inflicted is 10 points more than Basic Death Ripple.
-"	"{Expert DÃ¶dsstÃ¶t}
+"	"{Expert Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
 
 Damage inflicted is 20 points more than Basic Death Ripple.
 "	 COMBAT_SPELL
-TillintetgÃ¶r OdÃ¶da	TillintetgÃ¶r OdÃ¶da	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{TillintetgÃ¶r OdÃ¶da}
+Tillintetgör Odöda	Tillintetgör Odöda	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
-"	"{Basic TillintetgÃ¶r OdÃ¶da}
+"	"{Basic Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
-"	"{Advanced TillintetgÃ¶r OdÃ¶da}
+"	"{Advanced Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
 
 Damage inflicted is 10 points more than Basic Destroy Undead.
-"	"{Expert TillintetgÃ¶r OdÃ¶da}
+"	"{Expert Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
 
 Damage inflicted is 40 points more than Basic Destroy Undead.
 "	 COMBAT_SPELL
-RagnarÃ¶k	RagnarÃ¶k	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{RagnarÃ¶k}
+Ragnarök	Ragnarök	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
-"	"{Basic RagnarÃ¶k}
+"	"{Basic Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
-"	"{Advanced RagnarÃ¶k}
+"	"{Advanced Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
 
 Damage inflicted is 30 points more than Basic Armageddon.
-"	"{Expert RagnarÃ¶k}
+"	"{Expert Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
 
 Damage inflicted is 90 points more than Basic Armageddon.
 "	 COMBAT_SPELL
-SkÃ¶ld	SkÃ¶ld	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Shield}
+Sköld	Sköld	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Shield}
 
 Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
-"	"{Basic SkÃ¶ld}
+"	"{Basic Sköld}
 
 Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
-"	"{Advanced SkÃ¶ld}
+"	"{Advanced Sköld}
 
 Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
 
 Protection is twice that of Basic Shield.
-"	"{Expert SkÃ¶ld}
+"	"{Expert Sköld}
 
 Shields all friendly units, reducing the amount of damage received from hand-to-hand attacks.
 

@@ -2,47 +2,47 @@
 gStatDesc
 "{Attack}
 
-AnfallsfÃ¶rmÃ¥ga Ã¤r en bonus som lÃ¤ggs till anfallsfÃ¶rmÃ¥gan hos varje trupp som din hjÃ¤lte kontrollerar, sÃ¥ att de kan Ã¥samka mer skada i strid."
+Anfallsförmåga är en bonus som läggs till anfallsförmågan hos varje trupp som din hjälte kontrollerar, så att de kan åsamka mer skada i strid."
 "{Defense}
 
-FÃ¶rsvarsfÃ¶rmÃ¥ga Ã¤r en bonus som lÃ¤ggs till fÃ¶rsvarsfÃ¶rmÃ¥gan hos varje trupp som din hjÃ¤lte kontrollerar, sÃ¥ att de kan utstÃ¥ mer skada i strid."
+Försvarsförmåga är en bonus som läggs till försvarsförmågan hos varje trupp som din hjälte kontrollerar, så att de kan utstå mer skada i strid."
 "{Spell Power}
 
-Trollformelskraften bestÃ¤mmer styrkan pÃ¥ din trollformel och hur lÃ¤nge den ska verka."
+Trollformelskraften bestämmer styrkan på din trollformel och hur länge den ska verka."
 "{Knowledge}
 
-Kunskapen bestÃ¤mmer hur mÃ¥nga trollformelspoÃ¤ng din hjÃ¤lte kan ha. Under normala omstÃ¤ndigheter har din hjÃ¤lte 10 trollformelspoÃ¤ng fÃ¶r varje nivÃ¥ kunskap."
+Kunskapen bestämmer hur många trollformelspoäng din hjälte kan ha. Under normala omständigheter har din hjälte 10 trollformelspoäng för varje nivå kunskap."
 gLuckText
-FÃ¶rhÃ¤xad
-JÃ¤ttedÃ¥lig
-DÃ¥lig
+Förhäxad
+Jättedålig
+Dålig
 Normal
 Bra
-JÃ¤ttebra
-IrlÃ¤ndsk
+Jättebra
+Irländsk
 gMoraleText
-FÃ¶rrÃ¤deri
-JÃ¤ttedÃ¥lig
-DÃ¥lig
+Förräderi
+Jättedålig
+Dålig
 Normal
 Bra
-JÃ¤ttebra
-JÃ¤klar!
+Jättebra
+Jäklar!
 gOwnedByColor
-Ã„gs av rÃ¶d spelare
-Ã„gs av blÃ¥ spelare
-Ã„gs av beige spelare
-Ã„gs av grÃ¶n spelare
-Ã„gs av orange spelare
-Ã„gs av lila spelare
-Ã„gs av turkos spelare
-Ã„gs av rosa spelare
+Ägs av röd spelare
+Ägs av blå spelare
+Ägs av beige spelare
+Ägs av grön spelare
+Ägs av orange spelare
+Ägs av lila spelare
+Ägs av turkos spelare
+Ägs av rosa spelare
 gMonthNames
-GrÃ¤shoppan
+Gräshoppan
 Myran
 Nyckelpigan
 Spindeln
-FjÃ¤rilen
+Fjärilen
 Humlan
 Syrsan
 Masken
@@ -51,57 +51,57 @@ Skalbaggen
 gWeekNames
 Ekorren
 Kaninen
-KindpÃ¥srÃ¥ttan
-GrÃ¤vlingen
-RÃ¥ttan
-Ã–rnen
-VÃ¤sslan
+Kindpåsråttan
+Grävlingen
+Råttan
+Örnen
+Vässlan
 Korpen
 Mungon
 Hunden
 Jordsvinet
-Ã–dlan
-SkÃ¶ldpaddan
+Ödlan
+Sköldpaddan
 Igelkotten
 Kondoren
 cLuckInfo
 "{Good Luck}
 
-NÃ¤r du har bra tur fÃ¥r dina armÃ©er ibland slÃ¥ turslag (dubbel skada) i strid."
+När du har bra tur får dina arméer ibland slå turslag (dubbel skada) i strid."
 "{Neutral Luck}
 
-NÃ¤r du har normal tur sÃ¥ slÃ¥r dina armÃ©er aldrig turslag eller oturslag mot fienden."
+När du har normal tur så slår dina arméer aldrig turslag eller oturslag mot fienden."
 "{Bad Luck}
 
-NÃ¤r du har dÃ¥lig tur slÃ¥r dina armÃ©er ibland oturslag mot fienden, vilket gÃ¶r att de bara utdelar halv skada."
+När du har dålig tur slår dina arméer ibland oturslag mot fienden, vilket gör att de bara utdelar halv skada."
 "%s
 
 
 {Current Luck Modifiers:}"
 "
-Stilla drakens Ã¶ga +1"
+Stilla drakens öga +1"
 "
-Turens klÃ¶ver +1"
+Turens klöver +1"
 "
 Profetians kort +1"
 "
 Turens nyckelpiga +1"
 "
-Svandammen har besÃ¶kts +2"
+Svandammen har besökts +2"
 "
-Avguden av vÃ¤lgÃ¥ng har besÃ¶kts +1"
+Avguden av välgång har besökts +1"
 "
-FontÃ¤nen av vÃ¤lgÃ¥ng har besÃ¶kts %s"
+Fontänen av välgång har besökts %s"
 "
-Pyramiden har besÃ¶kts -2"
+Pyramiden har besökts -2"
 "
-Feernas ring har besÃ¶kts +1"
+Feernas ring har besökts +1"
 "
-SjÃ¶jungfrun har besÃ¶kts +1"
+Sjöjungfrun har besökts +1"
 "
-Samlingsflaggan har besÃ¶kts +1"
+Samlingsflaggan har besökts +1"
 "
-GrundlÃ¤ggande Tur +1"
+Grundläggande Tur +1"
 "
 Avancerad Tur +2"
 "
@@ -109,33 +109,33 @@ Sofistikerad Tur +3"
 "
 None"
 "
--%d TemporÃ¤rt till nÃ¤sta strid"
+-%d Temporärt till nästa strid"
 "
-+%d TemporÃ¤rt till nÃ¤sta strid"
++%d Temporärt till nästa strid"
 "
 Modets medaljong"
 "
-Inga tureffekter pÃ¥ fÃ¶rhÃ¤xad mark"
+Inga tureffekter på förhäxad mark"
 "
-%s fÃ¶rtrycker all tur"
+%s förtrycker all tur"
 "
-Varelse frÃ¥n en stad med neutral inriktning pÃ¥ klÃ¶verbeklÃ¤dd mark +2"
+Varelse från en stad med neutral inriktning på klöverbeklädd mark +2"
 cMoraleInfo
 "{Good Morale}
 
-God moral kan ge dina armÃ©er extra attacker i strid."
+God moral kan ge dina arméer extra attacker i strid."
 "{Neutral Morale}
 
-Neutral moral innebÃ¤r att dina armÃ©er varken kommer fÃ¥ extra attacker, eller riskera att fÃ¶rstenas av skrÃ¤ck i strid."
+Neutral moral innebär att dina arméer varken kommer få extra attacker, eller riskera att förstenas av skräck i strid."
 "{Bad Morale}
 
-DÃ¥lig moral kan fÃ¥ dina armÃ©er att fÃ¶rstenas av skrÃ¤ck i strid."
+Dålig moral kan få dina arméer att förstenas av skräck i strid."
 "%s
 
 
 {Current Morale Modifiers:}"
 "
-Stilla drakens Ã¶ga +1"
+Stilla drakens öga +1"
 "
 Modets emblem +1"
 "
@@ -143,31 +143,31 @@ Tapperhetens vapen +1"
 "
 Tapperhetens symbol +1"
 "
-Avguden av vÃ¤lgÃ¥ng har besÃ¶kts +1"
+Avguden av välgång har besökts +1"
 "
-Bojen har besÃ¶kts +1"
+Bojen har besökts +1"
 "
-Oasen hhar besÃ¶kts +1"
+Oasen hhar besökts +1"
 "
-Templet har besÃ¶kts +1"
+Templet har besökts +1"
 "
-Templet har besÃ¶kts pÃ¥ en sÃ¶ndag! +2"
+Templet har besökts på en söndag! +2"
 "
-Graven har besÃ¶kts -1"
+Graven har besökts -1"
 "
-Det fÃ¶rlista skeppet har besÃ¶kts -1"
+Det förlista skeppet har besökts -1"
 "
-VattenhÃ¥let har besÃ¶kts +1"
+Vattenhålet har besökts +1"
 "
-Det herrelÃ¶sa skeppet har besÃ¶kts -1"
+Det herrelösa skeppet har besökts -1"
 "
-Samlingsflaggan har besÃ¶kts +1"
+Samlingsflaggan har besökts +1"
 "
-Ungdomens kÃ¤lla har besÃ¶kts +1"
+Ungdomens källa har besökts +1"
 "
-Krigarens grav har besÃ¶kts -3"
+Krigarens grav har besökts -3"
 "
-GrundlÃ¤ggande Ledarskap +1"
+Grundläggande Ledarskap +1"
 "
 Avancerat Ledarskap +2"
 "
@@ -175,110 +175,110 @@ Sofistikerat Ledarskap +3"
 "
 None"
 "
--%d TemporÃ¤rt till nÃ¤sta strid"
+-%d Temporärt till nästa strid"
 "
-+%d TemporÃ¤rt till nÃ¤sta strid"
++%d Temporärt till nästa strid"
 "
 Modets medaljong +3"
 "
-Ingen moraleffekt pÃ¥ fÃ¶rhÃ¤xad mark"
+Ingen moraleffekt på förhäxad mark"
 "
-OberÃ¶rd av moral"
+Oberörd av moral"
 "
 Trupper av %d inriktningar %d"
 "
-Alla trupper Ã¤r av en inriktning +1"
+Alla trupper är av en inriktning +1"
 "
-OdÃ¶da i gruppen -1"
+Odöda i gruppen -1"
 "
 %s i gruppen +1"
 "
-VÃ¤nd mot %s -1"
+Vänd mot %s -1"
 "
-%s FÃ¶rtrycker god moral"
+%s Förtrycker god moral"
 "
 %s har alltid god moral"
 "
-FÃ¶rtrollningar %+d"
+Förtrollningar %+d"
 "
-PÃ¥ fÃ¶delseterrÃ¤ngen +1"
+På födelseterrängen +1"
 "
-Varelse av god inriktning pÃ¥ Helig mark +1"
+Varelse av god inriktning på Helig mark +1"
 "
-Varelse av ond inriktning pÃ¥ Helig mark -1"
+Varelse av ond inriktning på Helig mark -1"
 "
-Varelse av god inriktning pÃ¥ Ond dimma +1"
+Varelse av god inriktning på Ond dimma +1"
 "
-Varelse av god inriktning pÃ¥ Ond dimma -1"
+Varelse av god inriktning på Ond dimma -1"
 cNewTurn
-"%s, du har bara %d dagar pÃ¥ dig att Ã¶verta en stad, annars kommer du bli bannlyst frÃ¥n detta land."
-"%s, detta Ã¤r sista dagen fÃ¶r dig att Ã¶verta en stad, annars kommer du bli bannlyst frÃ¥n detta land."
-"Astrologer utlyser den nya mÃ¥naden med %s som fÃ¶rtecken.
+"%s, du har bara %d dagar på dig att överta en stad, annars kommer du bli bannlyst från detta land."
+"%s, detta är sista dagen för dig att överta en stad, annars kommer du bli bannlyst från detta land."
+"Astrologer utlyser den nya månaden med %s som förtecken.
 
-Alla bons populationer Ã¶kar."
-"Astrologer utlyser en ny mÃ¥nad med %s som fÃ¶rtecken.
+Alla bons populationer ökar."
+"Astrologer utlyser en ny månad med %s som förtecken.
 
-Alla populationer med %s fÃ¶rdubblas!
+Alla populationer med %s fördubblas!
 
-Alla bons populationer Ã¶kar."
-"Astrologer utlyser PESTENS mÃ¥nad!
+Alla bons populationer ökar."
+"Astrologer utlyser PESTENS månad!
 
 Alla populationer halveras."
-"Astrologer utlyser en ny vecka med %s som fÃ¶rtecken.
+"Astrologer utlyser en ny vecka med %s som förtecken.
 
-Alla bons populationer Ã¶kar."
-"Astrologer utlyser en ny vecka med %s som fÃ¶rtecken.
+Alla bons populationer ökar."
+"Astrologer utlyser en ny vecka med %s som förtecken.
 
-bon med %s vÃ¤xer +5.
+bon med %s växer +5.
 
-Alla bons populationer Ã¶kar."
-"Astrologer utlyser en ny vecka med %s som fÃ¶rtecken.
+Alla bons populationer ökar."
+"Astrologer utlyser en ny vecka med %s som förtecken.
 
-%s vÃ¤xer med %+d.
-%s vÃ¤xer med %+d.
+%s växer med %+d.
+%s växer med %+d.
 
-Alla bons populationer Ã¶kar."
+Alla bons populationer ökar."
 cMapSize
 Liten
 Medium
 Stor
 Extra Stor
 cDifficulty
-LÃ¤tt
+Lätt
 Normal
-SvÃ¥r
+Svår
 Expert
-OmÃ¶jlig
+Omöjlig
 cDirections
 norra
-nordÃ¶stra
-Ã¶stra
-sydÃ¶stra
-sÃ¶dra
-sydvÃ¤stra
-vÃ¤stra
-nordvÃ¤stra
+nordöstra
+östra
+sydöstra
+södra
+sydvästra
+västra
+nordvästra
 centrala
 cRumourTerrainDescriptions
 i smutsen.
 unden en sanddyn.
-pÃ¥ den grÃ¤sbeklÃ¤dda Ã¤ngen.
-i snÃ¶drivan.
-i ett mÃ¶rkt trÃ¤sk.
-i Ã¶demarken.
-i den mÃ¶rka underjorden.
+på den gräsbeklädda ängen.
+i snödrivan.
+i ett mörkt träsk.
+i ödemarken.
+i den mörka underjorden.
 begravd i lava.
-i havets mÃ¶rkaste djup.
+i havets mörkaste djup.
 under en sten.
 cPersonality
 Krigare
 Byggare
-UpptÃ¤ckare
-MÃ¤nniska
+Upptäckare
+Människa
 gArmySizeNames
-FÃ¥
-NÃ¥gra fÃ¥
-nÃ¥gra fÃ¥
+Få
+Några få
+några få
 Flera
 Flera stycken
 flera stycken
@@ -294,28 +294,28 @@ en hord av
 Myller
 Ett myller av
 ett myller av
-SvÃ¤rm
-En svÃ¤rm av
-en svÃ¤rm av
+Svärm
+En svärm av
+en svärm av
 Sjukt
-Helt sjukt mÃ¥nga...
-helt sjukt mÃ¥nga
+Helt sjukt många...
+helt sjukt många
 Legion
 En Legion
 en legion
 const_wise_tree_price_text
- (+1 nivÃ¥)
- (+1 nivÃ¥ fÃ¶r 2000 guld)
- (+1 nivÃ¥ fÃ¶r 10 Ã¤delstenar)
+ (+1 nivå)
+ (+1 nivå för 2000 guld)
+ (+1 nivå för 10 ädelstenar)
 HumanCPU
-"MÃ¤nniska
+"Människa
 eller Dator"
-MÃ¤nniska
+Människa
 Dator
 HandiText
 Inget handikapp
 Milt handikapp
-SvÃ¥rt handikapp
+Svårt handikapp
 AGRText
 Artefakt
 Guld
@@ -323,38 +323,38 @@ Resurs
 gTownTypeNames
 Neutral
 Borg
-FÃ¤stningsvall
+Fästningsvall
 Torn
 Inferno
 Nekroborg
-HÃ¥la
-FÃ¤ste
-FÃ¤stning
+Håla
+Fäste
+Fästning
 Sammankomsten
 NewLoadSave
-VÃ¤lj ett Scenario att Spela
+Välj ett Scenario att Spela
 Ladda ett Sparat spel
 Spara ditt Nuvarande spel
 Army Speed Names
-OrÃ¶rlig
-SuperlÃ¥ngsam
-UltralÃ¥ngsam
-VÃ¤ldigt lÃ¥ngsam
-Extra lÃ¥ngsam
-LÃ¥ngsam
+Orörlig
+Superlångsam
+Ultralångsam
+Väldigt långsam
+Extra långsam
+Långsam
 Snabb
 Extra snabb
-VÃ¤ldigt snabb
+Väldigt snabb
 Ultrasnabb
 Supersnabb
 Snabb
 Extra snabb
-VÃ¤ldigt snabb
+Väldigt snabb
 Ultrasnabb
 Supersnabb
 Snabb
 Extra snabb
-VÃ¤ldigt snabb
+Väldigt snabb
 Ultrasnabb
 Supersnabb
 Town Size Names
@@ -364,12 +364,12 @@ Storstad
 Huvudstad
 Moat Names
 Vallgrav
-BjÃ¶rnbÃ¤rshÃ¤ck
+Björnbärshäck
 Landminor
 Lava
-BenfÃ¥ra
+Benfåra
 Kokande olja
-SpikbarriÃ¤r
-Kokande tjÃ¤ra
+Spikbarriär
+Kokande tjära
 Vallgrav
 Insert all data before this line. Do not alter or delete this line.

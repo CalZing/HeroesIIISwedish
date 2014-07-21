@@ -1,129 +1,129 @@
-Vaktpost	Vaktposten lÃ¥ter dig rekrytera Pikenerare.
-BÃ¥gskyttstorn	BÃ¥gskyttetornet lÃ¥ter dig rekrytera BÃ¥gskyttar.
-Griptorn	Griptornet lÃ¥ter dig rekrytera Gripar.
-Barack	Baracken lÃ¥ter dig rekrytera FÃ¤ktare.
-Kloster	Klostret lÃ¥ter dig rekrytera Munkar.
-TrÃ¤ningsomrÃ¥de	TrÃ¤ningsomrÃ¥det lÃ¥ter dig rekrytera Ryttare.
-PÃ¤rleport	PÃ¤rleporten lÃ¥ter dig rekrytera Ã„nglar.
-Upg. Vaktpost	Vaktposten lÃ¥ter dig rekrytera HillebardjÃ¤rer.
-Upg. BÃ¥gskyttstorn	BÃ¥gskyttetornet lÃ¥ter dig rekrytera Prickskyttar.
-Upg. Griptorn	Griptornet lÃ¥ter dig rekrytera Kungagripar.
-Upg. Barack	Baracken lÃ¥ter dig rekrytera Korsfarare.
-Upg. Kloster	Klostret lÃ¥ter dig rekrytera Seloter.
-Upg. TrÃ¤ningsomrÃ¥de	TrÃ¤ningsomrÃ¥det lÃ¥ter dig rekrytera Tornerare.
-Upg. PÃ¤rleport	PÃ¤rleporten lÃ¥ter dig rekrytera Ã„rkeÃ¤nglar.
-Kentaurstall	Kentaurstallet lÃ¥ter dig rekrytera Kentaurer.
-DvÃ¤rgstuga	DvÃ¤rgstugan lÃ¥ter dig rekrytera DvÃ¤rgar.
-Hemman	Hemmanen lÃ¥ter dig rekrytera Skogsalver.
-FÃ¶rtrollad kÃ¤lla	Den FÃ¶rtrollade KÃ¤llan lÃ¥ter dig rekrytera Pegaser.
-DendroidglÃ¤nta	DendroidglÃ¤ntan lÃ¥ter dig rekrytera Dendroidvakter.
-EnhÃ¶rningsdunge	EnhÃ¶rningsdungen lÃ¥ter dig rekrytera EnhÃ¶rningar.
-Drakklippa	Drakklippan lÃ¥ter dig rekrytera GrÃ¶ndrakar.
-Upg. Kentaurstall	Kentaurstallen lÃ¥ter dig rekrytera Kentaurkaptener.
-Upg. DvÃ¤rgstuga	DvÃ¤rgstugan lÃ¥ter dig rekrytera StridsdvÃ¤rgar.
-Upg. Hemman	Hemmanen lÃ¥ter dig rekrytera Storalver.
-Upg. FÃ¶rtrollad KÃ¤lla	Den FÃ¶rtrollade KÃ¤llan lÃ¥ter dig rekrytera Silverpegaser.
-Upg. DendroidglÃ¤nta	DendroidglÃ¤ntan lÃ¥ter dig rekrytera Dendroidsoldater.
-Upg. EnhÃ¶rningsdunge	EnhÃ¶rningsdungen lÃ¥ter dig rekrytera StridsenhÃ¶rningar.
-Upg. Drakklippa	Drakklippan lÃ¥ter dig rekrytera Gulddrakar.
-Verkstad	Verkstaden lÃ¥ter dig rekrytera SmÃ¥tomtar.
-Balustrad	Balustraden lÃ¥ter dig rekrytera Stenfilurer.
-Golemfabrik	Golemfabriken lÃ¥ter dig rekrytera Stengolemer.
-Magikertorn	Magikertornet lÃ¥ter dig rekrytera Magiker.
-Ã–nskealtare	Ã–nskealtaret lÃ¥ter dig rekrytera Djinner.
-Guldpaviljong	Guldpaviljongen lÃ¥ter dig rekrytera Naga.
-Molntempel	Molntemplet lÃ¥ter dig rekrytera JÃ¤ttar.
-Upg. Verkstad	Verkstaden lÃ¥ter dig rekrytera Stortomtar.
-Upg. Balustrad	Balustraden lÃ¥ter dig rekrytera Obsidianfilurer.
-Upg. Golemfabrik	Golemfabriken lÃ¥ter dig rekrytera JÃ¤rngolemer.
-Upg. Magikertorn	Magikertornet lÃ¥ter dig rekrytera Ã„rkemagiker.
-Upg. Ã–nskealtare	Ã–nskealtaret lÃ¥ter dig rekrytera MÃ¤stardjinner.
-Upg. Guldpaviljong	Guldpaviljongen lÃ¥ter dig rekrytera Nagadrottningar.
-Upg. Molntempel	Molntemplet lÃ¥ter dig rekrytera Titaner.
-Pukdegel	Impdegeln lÃ¥ter dig rekrytera Pukar.
-Syndernas Sal	Syndernas Sal lÃ¥ter dig rekrytera Gogar.
-Kennel	Kenneln lÃ¥ter dig rekrytera Helveteshundar.
-Demonport	Demonporten lÃ¥ter dig rekrytera Demoner.
-Helvetesgap	Helvetesgapet lÃ¥ter dig rekrytera AvgrundsbÃ¶vlar.
-EldsjÃ¶	EldsjÃ¶n lÃ¥ter dig rekrytera Ifriter.
-Ã–vergivet Palats	Det Ã–vergivna Palatset lÃ¥ter dig rekrytera DjÃ¤vlar.
-Upg. Pukdegel	Pukdegeln lÃ¥ter dig rekrytera BjÃ¤ror.
-Upg. Syndernas sal	Syndernas Sal lÃ¥ter dig rekrytera Magogar.
-Upg. Kennel	Kenneln lÃ¥ter dig rekrytera Cerberi.
-Upg. Demonport	Demonporten lÃ¥ter dig rekrtytera Behornade Demoner.
-Upg. Helvetesgap	Helvetesgapet lÃ¥ter dig rekrytera AvgrundsmÃ¤stare.
-Upg. EldsjÃ¶	EldsjÃ¶n lÃ¥ter dig rekrytera Ifritsultaner.
-Upg. Ã–vergivet Palats	Det Ã–vergivna Palatset lÃ¥ter dig rekrytera Ã„rkedjÃ¤vlar.
-FÃ¶rbannat Tempel	Det FÃ¶rbannade Templet lÃ¥ter dig rekrytera Skelett.
-KyrkogÃ¥rd	KyrkogÃ¥rden lÃ¥ter dig rekrytera DÃ¶dgÃ¥ngare.
-SjÃ¤lsgrav	SjÃ¤lsgraven lÃ¥ter dig rekrytera Gastar.
-Gods	Godset lÃ¥ter dig rekrytera Vampyrer.
-Mausoleum	Mausoleumet lÃ¥ter dig rekrytera LikhÃ¤xor.
-MÃ¶rkrets Sal	MÃ¶rkrets Sal lÃ¥ter dig rekrytera Svartriddare.
-Darkvalv	Drakvalvet lÃ¥ter dig rekrytera Bendrakar.
-Upg. FÃ¶rbannat Tempel	Det FÃ¶rbannade Templet lÃ¥ter dig rekrytera Skelettkrigare.
-Upg. KyrkogÃ¥rd	KyrkogÃ¥rden lÃ¥ter dig rekrytera Draugar.
-Upg. SjÃ¤lsgrav	SjÃ¤lsgraven lÃ¥ter dig rekrytera VÃ¥lnader.
-Upg. Gods	Godset lÃ¥ter dig rekrytera Vampyrherrar.
-Upg. Mausoleum	Mausoleumet lÃ¥ter dig rekrytera Kraftfulla LikhÃ¤xor.
-Upg. MÃ¶rkrets sal	MÃ¶rkrets Sal lÃ¥ter dig rekrytera SkrÃ¤ckriddare.
-Upg. Drakvalv	Drakvalvet lÃ¥ter dig rekrytera SpÃ¶kdrakar.
-Grotta	Grottan lÃ¥ter dig rekrytera Troglodyter.
-VrÃ¥kloft	VrÃ¥kloftet lÃ¥ter dig rekrytera Harpyor.
-Ã–gonpelare	Ã–gonpelaren lÃ¥ter dig rekrytera Ã…skÃ¥dare.
-Tysta RÃ¶sternas Kapell	Tysta RÃ¶sternas Kapell lÃ¥ter dig rekrytera Medusor.
-Labyrint	Labyrinten lÃ¥ter dig rekrytera Minotaurer.
+Vaktpost	Vaktposten låter dig rekrytera Pikenerare.
+Bågskyttstorn	Bågskyttetornet låter dig rekrytera Bågskyttar.
+Griptorn	Griptornet låter dig rekrytera Gripar.
+Barack	Baracken låter dig rekrytera Fäktare.
+Kloster	Klostret låter dig rekrytera Munkar.
+Träningsområde	Träningsområdet låter dig rekrytera Ryttare.
+Pärleport	Pärleporten låter dig rekrytera Änglar.
+Upg. Vaktpost	Vaktposten låter dig rekrytera Hillebardjärer.
+Upg. Bågskyttstorn	Bågskyttetornet låter dig rekrytera Prickskyttar.
+Upg. Griptorn	Griptornet låter dig rekrytera Kungagripar.
+Upg. Barack	Baracken låter dig rekrytera Korsfarare.
+Upg. Kloster	Klostret låter dig rekrytera Seloter.
+Upg. Träningsområde	Träningsområdet låter dig rekrytera Tornerare.
+Upg. Pärleport	Pärleporten låter dig rekrytera Ärkeänglar.
+Kentaurstall	Kentaurstallet låter dig rekrytera Kentaurer.
+Dvärgstuga	Dvärgstugan låter dig rekrytera Dvärgar.
+Hemman	Hemmanen låter dig rekrytera Skogsalver.
+Förtrollad källa	Den Förtrollade Källan låter dig rekrytera Pegaser.
+Dendroidglänta	Dendroidgläntan låter dig rekrytera Dendroidvakter.
+Enhörningsdunge	Enhörningsdungen låter dig rekrytera Enhörningar.
+Drakklippa	Drakklippan låter dig rekrytera Gröndrakar.
+Upg. Kentaurstall	Kentaurstallen låter dig rekrytera Kentaurkaptener.
+Upg. Dvärgstuga	Dvärgstugan låter dig rekrytera Stridsdvärgar.
+Upg. Hemman	Hemmanen låter dig rekrytera Storalver.
+Upg. Förtrollad Källa	Den Förtrollade Källan låter dig rekrytera Silverpegaser.
+Upg. Dendroidglänta	Dendroidgläntan låter dig rekrytera Dendroidsoldater.
+Upg. Enhörningsdunge	Enhörningsdungen låter dig rekrytera Stridsenhörningar.
+Upg. Drakklippa	Drakklippan låter dig rekrytera Gulddrakar.
+Verkstad	Verkstaden låter dig rekrytera Småtomtar.
+Balustrad	Balustraden låter dig rekrytera Stenfilurer.
+Golemfabrik	Golemfabriken låter dig rekrytera Stengolemer.
+Magikertorn	Magikertornet låter dig rekrytera Magiker.
+Önskealtare	Önskealtaret låter dig rekrytera Djinner.
+Guldpaviljong	Guldpaviljongen låter dig rekrytera Naga.
+Molntempel	Molntemplet låter dig rekrytera Jättar.
+Upg. Verkstad	Verkstaden låter dig rekrytera Stortomtar.
+Upg. Balustrad	Balustraden låter dig rekrytera Obsidianfilurer.
+Upg. Golemfabrik	Golemfabriken låter dig rekrytera Järngolemer.
+Upg. Magikertorn	Magikertornet låter dig rekrytera Ärkemagiker.
+Upg. Önskealtare	Önskealtaret låter dig rekrytera Mästardjinner.
+Upg. Guldpaviljong	Guldpaviljongen låter dig rekrytera Nagadrottningar.
+Upg. Molntempel	Molntemplet låter dig rekrytera Titaner.
+Pukdegel	Impdegeln låter dig rekrytera Pukar.
+Syndernas Sal	Syndernas Sal låter dig rekrytera Gogar.
+Kennel	Kenneln låter dig rekrytera Helveteshundar.
+Demonport	Demonporten låter dig rekrytera Demoner.
+Helvetesgap	Helvetesgapet låter dig rekrytera Avgrundsbövlar.
+Eldsjö	Eldsjön låter dig rekrytera Ifriter.
+Övergivet Palats	Det Övergivna Palatset låter dig rekrytera Djävlar.
+Upg. Pukdegel	Pukdegeln låter dig rekrytera Bjäror.
+Upg. Syndernas sal	Syndernas Sal låter dig rekrytera Magogar.
+Upg. Kennel	Kenneln låter dig rekrytera Cerberi.
+Upg. Demonport	Demonporten låter dig rekrtytera Behornade Demoner.
+Upg. Helvetesgap	Helvetesgapet låter dig rekrytera Avgrundsmästare.
+Upg. Eldsjö	Eldsjön låter dig rekrytera Ifritsultaner.
+Upg. Övergivet Palats	Det Övergivna Palatset låter dig rekrytera Ärkedjävlar.
+Förbannat Tempel	Det Förbannade Templet låter dig rekrytera Skelett.
+Kyrkogård	Kyrkogården låter dig rekrytera Dödgångare.
+Själsgrav	Själsgraven låter dig rekrytera Gastar.
+Gods	Godset låter dig rekrytera Vampyrer.
+Mausoleum	Mausoleumet låter dig rekrytera Likhäxor.
+Mörkrets Sal	Mörkrets Sal låter dig rekrytera Svartriddare.
+Darkvalv	Drakvalvet låter dig rekrytera Bendrakar.
+Upg. Förbannat Tempel	Det Förbannade Templet låter dig rekrytera Skelettkrigare.
+Upg. Kyrkogård	Kyrkogården låter dig rekrytera Draugar.
+Upg. Själsgrav	Själsgraven låter dig rekrytera Vålnader.
+Upg. Gods	Godset låter dig rekrytera Vampyrherrar.
+Upg. Mausoleum	Mausoleumet låter dig rekrytera Kraftfulla Likhäxor.
+Upg. Mörkrets sal	Mörkrets Sal låter dig rekrytera Skräckriddare.
+Upg. Drakvalv	Drakvalvet låter dig rekrytera Spökdrakar.
+Grotta	Grottan låter dig rekrytera Troglodyter.
+Vråkloft	Vråkloftet låter dig rekrytera Harpyor.
+Ögonpelare	Ögonpelaren låter dig rekrytera Åskådare.
+Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusor.
+Labyrint	Labyrinten låter dig rekrytera Minotaurer.
 Manticore Lair	The Manticore Lair allows you to recruit Manticores.
-Drakgrotta	Drakgrottan lÃ¥ter dig rekrytera RÃ¶ddrakar.
-Upg. Grotta	Grottan lÃ¥ter dig rekrytera Infernaliska Troglodyter.
-Upg. VrÃ¥kloft	VrÃ¥kloftet lÃ¥ter dig rekrytera Vildvittror.
-Upg. Ã–gonpelare	Ã–gonpelaren lÃ¥ter dig rekrytera Onda Ã–gon.
-Upg. Tysta RÃ¶sternas Kapell Tysta RÃ¶sternas Kapell lÃ¥ter dig rekrytera Medusadrottningar.
-Upg. Labyrint	Labyrinten lÃ¥ter dig rekrytera Minotaurkungar.
+Drakgrotta	Drakgrottan låter dig rekrytera Röddrakar.
+Upg. Grotta	Grottan låter dig rekrytera Infernaliska Troglodyter.
+Upg. Vråkloft	Vråkloftet låter dig rekrytera Vildvittror.
+Upg. Ögonpelare	Ögonpelaren låter dig rekrytera Onda Ögon.
+Upg. Tysta Rösternas Kapell Tysta Rösternas Kapell låter dig rekrytera Medusadrottningar.
+Upg. Labyrint	Labyrinten låter dig rekrytera Minotaurkungar.
 Upg. Manticore Lair	The Manticore Lair allows you to recruit Scorpicores.
-Upg. Drakgrotta	Drakgrottan lÃ¥ter dig rekrytera Svartdrakar.
-Koboldbarack	Koboldbarackerna lÃ¥ter dig rekrytera Kobolder.
-Varggryt	Varggrytet lÃ¥ter dig rekrytera Vargryttare.
-Orchtorn	Orchtornet lÃ¥ter dig rekrytera Orcher.
-Resefort	Resefortet lÃ¥ter dig rekrytera Resar.
-KlippnÃ¤ste	KlippnÃ¤stet lÃ¥ter dig rekrytera Rockar.
-Cyklopgrotta	Cyklopgrottan lÃ¥ter dig rekrytera Cykloper.
-Behemotlya	Behemotlyan lÃ¥ter dig rekrytera Behemoter.
-Upg. Koboldbarack	Koboldbaracken lÃ¥ter dig rekrytera Hobkobolder.
-Upg. Varggryt	Varggrytet lÃ¥ter dig rekrytera Vargplundrare.
-Upg. Orchtorn	Orchtornet lÃ¥ter dig rekrytera OrchÃ¶verhuvuden.
-Upg. Resefort	Resefortet lÃ¥ter dig rekrytera Bergsresar.
-Upg. KlippnÃ¤ste	KlippnÃ¤stet lÃ¥ter dig rekrytera Ã…skfÃ¥glar.
-Upg. Cyklopgrotta	Cyklopgrottan lÃ¥ter dig rekrytera Cyklopkungar.
-Upg. Behemotlya	Behemotlyan lÃ¥ter dig rekrytera Urtida Behemoter.
-Krokotaurstuga	Krokotaurstugan lÃ¥ter dig rekrytera Krokotaurer.
-Ã–dlehÃ¥la	Ã–dlehÃ¥lan lÃ¥ter dig rekrytera Ã–dlemÃ¤n.
-SlÃ¤ndebo	SlÃ¤ndeboet lÃ¥ter dig rekrytera DagsslÃ¤ndor.
-BasiliskhÃ¥la	BasiliskhÃ¥lan lÃ¥ter dig rekrytera Basilisker.
-Gorgonlya	Gorgonlyan lÃ¥ter dig rekrytera Gorgoner.
-LindormsnÃ¤ste	LindormsnÃ¤stet lÃ¥ter dig rekrytera Lindormar.
-Hydrans damm	Hydrans damm lÃ¥ter dig rekrytera Hydror.
-Upg. Krokotaurstuga	Krokotaurstugan lÃ¥ter dig rekrytera KrokotaurmarodÃ¶rer.
-Upg. Ã–dlehÃ¥la	Ã–dlehÃ¥lan lÃ¥ter dig rekrytera Ã–dlekrigare.
-Upg. SlÃ¤ndebo	SlÃ¤ndeboet lÃ¥ter dig rekrytera TrollslÃ¤ndor.
-Upg. BasiliskhÃ¥la	BasiliskhÃ¥lan lÃ¥ter dig rekrytera BÃ¤ttre Basilisker.
-Upg. Gorgonlya	Gorgonlyan lÃ¥ter dig rekrytera MÃ¤ktiga Gorgoner.
-Upg. LindormsnÃ¤ste	LindormsnÃ¤stet lÃ¥ter dig rekrytera Lindormsmonarker.
-Upg. Hydrans damm	Hydrans Damm lÃ¥ter dig rekrytera Kaoshydror.
-Magisk Lykta	Den Magiska Lyktan lÃ¥ter dig rekrytera Ã„lvor.
-Luftaltare	Luftaltaret lÃ¥ter dig rekrytera LuftelementÃ¤rer.
-Vattenaltare	Vattenaltaret lÃ¥ter dig rekrytera VattenelementÃ¤rer.
-Eldaltare	Eldaltaret lÃ¥ter dig rekrytera EldelementÃ¤rer.
-Jordaltare	Jordaltaret lÃ¥ter dig rekrytera JordelementÃ¤rer.
+Upg. Drakgrotta	Drakgrottan låter dig rekrytera Svartdrakar.
+Koboldbarack	Koboldbarackerna låter dig rekrytera Kobolder.
+Varggryt	Varggrytet låter dig rekrytera Vargryttare.
+Orchtorn	Orchtornet låter dig rekrytera Orcher.
+Resefort	Resefortet låter dig rekrytera Resar.
+Klippnäste	Klippnästet låter dig rekrytera Rockar.
+Cyklopgrotta	Cyklopgrottan låter dig rekrytera Cykloper.
+Behemotlya	Behemotlyan låter dig rekrytera Behemoter.
+Upg. Koboldbarack	Koboldbaracken låter dig rekrytera Hobkobolder.
+Upg. Varggryt	Varggrytet låter dig rekrytera Vargplundrare.
+Upg. Orchtorn	Orchtornet låter dig rekrytera Orchöverhuvuden.
+Upg. Resefort	Resefortet låter dig rekrytera Bergsresar.
+Upg. Klippnäste	Klippnästet låter dig rekrytera Åskfåglar.
+Upg. Cyklopgrotta	Cyklopgrottan låter dig rekrytera Cyklopkungar.
+Upg. Behemotlya	Behemotlyan låter dig rekrytera Urtida Behemoter.
+Krokotaurstuga	Krokotaurstugan låter dig rekrytera Krokotaurer.
+Ödlehåla	Ödlehålan låter dig rekrytera Ödlemän.
+Sländebo	Sländeboet låter dig rekrytera Dagssländor.
+Basiliskhåla	Basiliskhålan låter dig rekrytera Basilisker.
+Gorgonlya	Gorgonlyan låter dig rekrytera Gorgoner.
+Lindormsnäste	Lindormsnästet låter dig rekrytera Lindormar.
+Hydrans damm	Hydrans damm låter dig rekrytera Hydror.
+Upg. Krokotaurstuga	Krokotaurstugan låter dig rekrytera Krokotaurmarodörer.
+Upg. Ödlehåla	Ödlehålan låter dig rekrytera Ödlekrigare.
+Upg. Sländebo	Sländeboet låter dig rekrytera Trollsländor.
+Upg. Basiliskhåla	Basiliskhålan låter dig rekrytera Bättre Basilisker.
+Upg. Gorgonlya	Gorgonlyan låter dig rekrytera Mäktiga Gorgoner.
+Upg. Lindormsnäste	Lindormsnästet låter dig rekrytera Lindormsmonarker.
+Upg. Hydrans damm	Hydrans Damm låter dig rekrytera Kaoshydror.
+Magisk Lykta	Den Magiska Lyktan låter dig rekrytera Älvor.
+Luftaltare	Luftaltaret låter dig rekrytera Luftelementärer.
+Vattenaltare	Vattenaltaret låter dig rekrytera Vattenelementärer.
+Eldaltare	Eldaltaret låter dig rekrytera Eldelementärer.
+Jordaltare	Jordaltaret låter dig rekrytera Jordelementärer.
 Tankealtare	The Altar of Thought allows you to recruit Psychic Elementals.
-BÃ¥l	The Pyre allows you to recruit Fire Birds.
+Bål	The Pyre allows you to recruit Fire Birds.
 Upg. Magisk Lykta	The Magic Pool allows you to recruit Sprites.
-Upg. Luftaltare	Ã…sktemplet lÃ¥ter dig rekrytera StormelementÃ¤rer.
-Upg. Vattenaltare	Istemplet lÃ¥ter dig rekrytera IselementÃ¤rer.
-Upg. Eldaltare	Energitemplet lÃ¥ter dig rekrytera EnergielementÃ¤rer.
-Upg. Jordaltare	Magmatemplet lÃ¥ter dig rekrytera MagmaelementÃ¤rer.
-Upg. Tankealtare	Magitemplet lÃ¥ter dig rekrytera MagielementÃ¤rer.
-Upg. BÃ¥l	BegravningsbÃ¥let lÃ¥ter dig rekrytera Fenixar.
+Upg. Luftaltare	Åsktemplet låter dig rekrytera Stormelementärer.
+Upg. Vattenaltare	Istemplet låter dig rekrytera Iselementärer.
+Upg. Eldaltare	Energitemplet låter dig rekrytera Energielementärer.
+Upg. Jordaltare	Magmatemplet låter dig rekrytera Magmaelementärer.
+Upg. Tankealtare	Magitemplet låter dig rekrytera Magielementärer.
+Upg. Bål	Begravningsbålet låter dig rekrytera Fenixar.
 Level 1 Creature Generator	Allows you to recruit Level 1 Creatures.
 Level 2 Creature Generator	Allows you to recruit Level 2 Creatures.
 Level 3 Creature Generator	Allows you to recruit Level 3 Creatures.

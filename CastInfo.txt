@@ -1,7 +1,7 @@
-AnfallsfÃ¶rmÃ¥ga
-FÃ¶rsvarfÃ¶rmÃ¥ga
+Anfallsförmåga
+Försvarförmåga
 Skada per Anfall
-HÃ¤lsa
+Hälsa
 Hastighet
-TillvÃ¤xt per Vecka
+Tillväxt per Vecka
 Avsluta %s

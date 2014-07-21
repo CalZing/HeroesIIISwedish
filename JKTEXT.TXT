@@ -1,21 +1,21 @@
-HjÃ¤ltefÃ¶nstret
+Hjältefönstret
 Anfall
-FÃ¶rsvar
+Försvar
 Kraft
 Kunskap
 {Specialitet}
 {Erfarenhet}
-{TrollformelspoÃ¤ng}
+{Trollformelspoäng}
 "Uppdrag
 Logg"
-"AvfÃ¤rda
-HjÃ¤lte"
-Ã–versiktsfÃ¶nster
+"Avfärda
+Hjälte"
+Översiktsfönster
 Guld per dag:
-VarvfÃ¶nster
+Varvfönster
 Bygg nytt skepp
 Resurskostnad:
-TjuvskrÃ¥fÃ¶nstret
+Tjuvskråfönstret
 1:a
 2:a
 3:e
@@ -24,23 +24,23 @@ TjuvskrÃ¥fÃ¶nstret
 6:e
 7:e
 8:e
-Antal stÃ¤der
-Antal hjÃ¤ltar
+Antal städer
+Antal hjältar
 Guld
-TrÃ¤ & Malm
-"Kvicksilver, Svavel, Kristall och Ã„delstenar"
+Trä & Malm
+"Kvicksilver, Svavel, Kristall och Ädelstenar"
 Funna Obelisker
 Artefakter
-KungadÃ¶mets ArmÃ©styrka
+Kungadömets Arméstyrka
 Inkomst
-BÃ¤sta HjÃ¤lte
+Bästa Hjälte
 Personalitet
-BÃ¤sta Varelse
-TavernafÃ¶nster
+Bästa Varelse
+Tavernafönster
 Taverna
-HjÃ¤ltar att hyra
-StadsportfÃ¶nster
+Hjältar att hyra
+Stadsportfönster
 Stadstort
-VÃ¤lj stad genom porten.
-SmedfÃ¶nstret
+Välj stad genom porten.
+Smedfönstret
 Resurskostnad:

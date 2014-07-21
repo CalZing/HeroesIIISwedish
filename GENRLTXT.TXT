@@ -3,49 +3,49 @@ Can't add manager!
 %s can gain no more experience in this scenario.
 "{Level %d}
 
-{NÃ¤sta nivÃ¥} %d
+{Nästa nivå} %d
 {Nuvarande Erfarenhet:} %d"
 %d/dag
 eller
 %s har blivit besegrad!
-"%s, du har fÃ¶rlorat din sista stad. Om du inte erÃ¶vrar en stad innan nÃ¤sta vecka sÃ¥ kommer du bli utslagen."
-"%s, dina hjÃ¤ltar Ã¶verger dig och du Ã¤r hÃ¤rmed bannlyst frÃ¥n detta land!."
-"%ss hjÃ¤ltar Ã¶verher hen, dÃ¤rfÃ¶r Ã¤r hen nu bannlyst frÃ¥n detta land!."
+"%s, du har förlorat din sista stad. Om du inte erövrar en stad innan nästa vecka så kommer du bli utslagen."
+"%s, dina hjältar överger dig och du är härmed bannlyst från detta land!."
+"%ss hjältar överher hen, därför är hen nu bannlyst från detta land!."
 "Kunde inte spara spelet som ""%s""."
-Fel vid Ã¶ppnande av fil %s!
+Fel vid öppnande av fil %s!
 NYTT SPEL
-Ã„r du sÃ¤ker pÃ¥ att du vill sÃ¤ga adjÃ¶ till denna armÃ©?
+Är du säker på att du vill säga adjö till denna armé?
 %ss tur.
-Ett fel intrÃ¤ffade vid Ã¶verfÃ¶ringen av data. Ska jag fortsÃ¤tta fÃ¶rsÃ¶ka?
-%s dendÃ¤r %s
+Ett fel inträffade vid överföringen av data. Ska jag fortsätta försöka?
+%s dendär %s
 Rekrytera
-Denna armÃ© fÃ¥r inte plats i garnisonen.
-Du har redan %d hjÃ¤ltar till fÃ¶rfogande.
-Denna hjÃ¤lte har inga varelser med sig. En hjÃ¤lte mÃ¥ste ha varelser sÃ¥ att hen kan Ã¶verleva sina Ã¤ventyr!
-VideokvalitÃ©
+Denna armé får inte plats i garnisonen.
+Du har redan %d hjältar till förfogande.
+Denna hjälte har inga varelser med sig. En hjälte måste ha varelser så att hen kan överleva sina äventyr!
+Videokvalité
 Denna sak kan du inte byta ut.
-Ã„r du sÃ¤ker pÃ¥ att du vill sÃ¤ga adjo till hjÃ¤lten?
-VÃ¤lj mÃ¥l fÃ¶r Trollformeln
-OtillgÃ¤ngligt mÃ¥l fÃ¶r Teleportering
+Är du säker på att du vill säga adjo till hjälten?
+Välj mål för Trollformeln
+Otillgängligt mål för Teleportering
 Teleportera hit
 Kasta %s
-Kasta %s pÃ¥ %s
-Ã„r du sÃ¤ker pÃ¥ att du vill ge fly?
-Du har inte tillrÃ¤ckligt med Guld!
-Du har erÃ¶vrat en fiendes artefakt!
+Kasta %s på %s
+Är du säker på att du vill ge fly?
+Du har inte tillräckligt med Guld!
+Du har erövrat en fiendes artefakt!
 Inget
-"%s berÃ¤ttar att:
+"%s berättar att:
 
-""Jag accepterar din retrÃ¤tt och lÃ¥ter dig och dina trupper passera oskadda, fÃ¶r den modesta summan av %d Guld :)"""
-HÃ¶g Moral lÃ¥ter %s attackera igen.
-LÃ¥g Moral gÃ¶r att %s blir stel av skrÃ¤ck
-GÃ¶r rum fÃ¶r %s i armÃ©n
+""Jag accepterar din reträtt och låter dig och dina trupper passera oskadda, för den modesta summan av %d Guld :)"""
+Hög Moral låter %s attackera igen.
+Låg Moral gör att %s blir stel av skräck
+Gör rum för %s i armén
 Attackera %s (%s skada)
 "Skjut %s (1 skott kvar, %s skada)"
 Kampanjbeskrivning:
-%s Ã¤r aktiv.
+%s är aktiv.
 Sessionsnamn
-AnvÃ¤ndarnamn
+Användarnamn
 varelse
 varelser
 Otur drabbar %s
@@ -53,69 +53,69 @@ Turen kommer till %s
 Skadda
 %ss %s anfalls!
 Stad
-HjÃ¤lte
+Hjälte
 Stadsvyn
-Du kan inte bygga fler bÃ¥tar
-KrÃ¤ver:
+Du kan inte bygga fler båtar
+Kräver:
 <SYSTEM>:
-"{VÃ¤rldskarta}
+"{Världskarta}
 
-Detta Ã¤r en utzoomad vy av vÃ¤rlden. Om du klickar i detta fÃ¶nster kommer kartan att centreras Ã¶ver detta omrÃ¥de, eller sÃ¥ kan du dra lÃ¤ngs den utomliggande boxen fÃ¶r att scrolla."
-"En eller flera hjÃ¤ltar kan fortfarande fÃ¶rflytta sig, Ã¤r du sÃ¤ker pÃ¥ att du vill avsluta din tur?"
-"Att krÃ¤va efter artefakter tar en hel dag, fÃ¶rsÃ¶k igen imorgon."
-Din hjÃ¤lte har ingen plats fÃ¶r att bÃ¤ra den artefakten!
-"Gratulerar! Efter att ha spenderat fler timmar med att grÃ¤va sÃ¥ har du nu funnit "
-"Inget hÃ¤r.
+Detta är en utzoomad vy av världen. Om du klickar i detta fönster kommer kartan att centreras över detta område, eller så kan du dra längs den utomliggande boxen för att scrolla."
+"En eller flera hjältar kan fortfarande förflytta sig, är du säker på att du vill avsluta din tur?"
+"Att kräva efter artefakter tar en hel dag, försök igen imorgon."
+Din hjälte har ingen plats för att bära den artefakten!
+"Gratulerar! Efter att ha spenderat fler timmar med att gräva så har du nu funnit "
+"Inget här.
 Var kan den vara?"
-FÃ¶rsÃ¶k leta pÃ¥ land!
+Försök leta på land!
 Outforskat territorie
-MÃ¥nad
+Månad
 Vecka
 Dag
-HÃ¶gerklicka pÃ¥ fienden fÃ¶r mer information.
+Högerklicka på fienden för mer information.
 ping=%dms
-"Ã„r du sÃ¤ker pÃ¥ att du vill bÃ¶rja om?
-(Ditt nuvarande spel kommer fÃ¶rloras)"
-"Ã„r du sÃ¤ker pÃ¥ att du vill ladda ett nytt spel?
-(Ditt nuvarande spel kommer fÃ¶rloras)"
-Ã„r du sÃ¤ker pÃ¥ att du vill avsluta?
-DimensionsdÃ¶rren misslyckades!
-VÃ¤lj en bonus:
+"Är du säker på att du vill börja om?
+(Ditt nuvarande spel kommer förloras)"
+"Är du säker på att du vill ladda ett nytt spel?
+(Ditt nuvarande spel kommer förloras)"
+Är du säker på att du vill avsluta?
+Dimensionsdörren misslyckades!
+Välj en bonus:
 ping
 pinging %s...
 pinging everyone...
-PoÃ¤ng
+Poäng
 Autosparande
-{StarthjÃ¤lte}
-{HjÃ¤lte-specialitÃ©}
+{Starthjälte}
+{Hjälte-specialité}
 {Associerad Varelse}
 {Stads-inriktning}
-Fel nÃ¤r data skulle sÃ¤ndas. Ska jag fortsÃ¤tta??
-Du mÃ¥ste vara minst 2 spelare fÃ¶r att kÃ¶ra i flerspelarlÃ¤get. Kontrollera dina avancerad instÃ¤llningar eller vÃ¤lj en ny karta.
+Fel när data skulle sändas. Ska jag fortsätta??
+Du måste vara minst 2 spelare för att köra i flerspelarläget. Kontrollera dina avancerad inställningar eller välj en ny karta.
 {Artefaktbonus}
 {Guldbonus}
 {Resursbonus}
-{SlumpmÃ¤ssig Bonus}
+{Slumpmässig Bonus}
 500-1000
-Armageddon gÃ¶r %d skada.
-5-10 TrÃ¤ / 5-10 Malm
-En artefakt vÃ¤ljs slumpmÃ¤ssigt och ges till din starthjÃ¤lte
-StÃ¶rstrÃ¥len reducerar FÃ¶rsvarsfÃ¶rmÃ¥gan med %d.
-"Vid bÃ¶rjan av spelet lÃ¤ggs 500-1000 Guld till ditt kungadÃ¶mmes resurser"
-"Vid bÃ¶rjan av spelet lÃ¤ggs 5-10 TrÃ¤ och 5-10 Malm till ditt kungadÃ¶mmes resurser"
-"Guld, TrÃ¤ och Malm eller en Artefakt vÃ¤ljs ut slumpmÃ¤ssigt som en startbonus"
+Armageddon gör %d skada.
+5-10 Trä / 5-10 Malm
+En artefakt väljs slumpmässigt och ges till din starthjälte
+Störstrålen reducerar Försvarsförmågan med %d.
+"Vid början av spelet läggs 500-1000 Guld till ditt kungadömmes resurser"
+"Vid början av spelet läggs 5-10 Trä och 5-10 Malm till ditt kungadömmes resurser"
+"Guld, Trä och Malm eller en Artefakt väljs ut slumpmässigt som en startbonus"
 Du har blivit utslagen ur spelet!
 "Grattis!
-Din poÃ¤ng kommer lÃ¤ggas till i Ã„rans hall
+Din poäng kommer läggas till i Ärans hall
 
-Skriv ditt namn hÃ¤r."
-FÃ¶rsÃ¶k sÃ¶ka pÃ¥ tom mark.
+Skriv ditt namn här."
+Försök söka på tom mark.
 Skickar Data
 Tar emot Data
 Chaos.mp2
-{SlumpmÃ¤ssig HjÃ¤lte}
-"En starthjÃ¤lte kommer slumpmÃ¤ssigt vÃ¤ljas frÃ¥n klasserna som associeras med din Startstad"
-{SlumpmÃ¤ssig stad}
+{Slumpmässig Hjälte}
+"En starthjälte kommer slumpmässigt väljas från klasserna som associeras med din Startstad"
+{Slumpmässig stad}
 Your starting town is randomly chosen from one of the eight different town types
 "%s surrenders, and gains safe passage for %d gold."
 "The Heroes III: %s CD-ROM was not found!

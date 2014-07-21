@@ -1,12 +1,12 @@
 Huvud
 Axlar
 Nacke
-HÃ¶ger Hand
-VÃ¤nster Hand
+Höger Hand
+Vänster Hand
 Torso
-HÃ¶ger Rind
-VÃ¤nster Ring
-FÃ¶tter
+Höger Rind
+Vänster Ring
+Fötter
 Diverse 1
 Diverse 2
 Diverse 3

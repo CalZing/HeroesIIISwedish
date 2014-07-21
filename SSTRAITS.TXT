@@ -1,198 +1,198 @@
 	Description		
-Name	GrundlÃ¤ggande	Avancerad	Sofistikerad
-Stigfinnare	"{GrundlÃ¤ggande Stigfinnare}
+Name	Grundläggande	Avancerad	Sofistikerad
+Stigfinnare	"{Grundläggande Stigfinnare}
 
-GrundlÃ¤ggande Stigfinnare reducerar fÃ¶rflyttningsfÃ¶rlusten pÃ¥ otillgÃ¤nglig terrÃ¤ng med 25%."	"{Avancerad Stigfinnare}
+Grundläggande Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 25%."	"{Avancerad Stigfinnare}
 
-Avancerad Stigfinnare reducerar fÃ¶rflyttningsfÃ¶rlusten pÃ¥ otillgÃ¤nglig terrÃ¤ng med 50%."	"{Sofistikerad Stigfinnare}
+Avancerad Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 50%."	"{Sofistikerad Stigfinnare}
 
-Sofistikerad Stigfinnare reducerar fÃ¶rflyttningsfÃ¶rlusten pÃ¥ otillgÃ¤nglig terrÃ¤ng med 75%."
-BÃ¥gskytte	"{GrundlÃ¤ggande BÃ¥gskytte}
+Sofistikerad Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 75%."
+Bågskytte	"{Grundläggande Bågskytte}
 
-GrundlÃ¤ggande BÃ¥gskytte Ã¶kar skadan frÃ¥n varelser som attackerar med projektiler med 10%."	"{Avancerat BÃ¥gskytte}
+Grundläggande Bågskytte ökar skadan från varelser som attackerar med projektiler med 10%."	"{Avancerat Bågskytte}
 
-Avancerat BÃ¥gskytte Ã¶kar skadan frÃ¥n varelser som attackerar med projektiler med 25%."	"{Sofistikerat BÃ¥gskytte}
+Avancerat Bågskytte ökar skadan från varelser som attackerar med projektiler med 25%."	"{Sofistikerat Bågskytte}
 
-Sofistikerat BÃ¥gskytte Ã¶kar skadan frÃ¥n varelser som attackerar med projektiler med 50%."
-Logistik	"{GrundlÃ¤ggande Logistik}
+Sofistikerat Bågskytte ökar skadan från varelser som attackerar med projektiler med 50%."
+Logistik	"{Grundläggande Logistik}
 
-GrundlÃ¤ggande Logistik Ã¶kar din hjÃ¤ltes fÃ¶rflyttningspoÃ¤ng pÃ¥ land med 10%."	"{Avancerad Logistik}
+Grundläggande Logistik ökar din hjältes förflyttningspoäng på land med 10%."	"{Avancerad Logistik}
 
-Avancerad Logistik Ã¶kar din hjÃ¤ltes fÃ¶rflyttningspoÃ¤ng pÃ¥ land med 20%."	"{Sofistikerad Logistik}
+Avancerad Logistik ökar din hjältes förflyttningspoäng på land med 20%."	"{Sofistikerad Logistik}
 
-Sofistikerad Logistik Ã¶kar din hjÃ¤ltes fÃ¶rflyttningspoÃ¤ng pÃ¥ land med 30%."
-Scouting	"{GrundlÃ¤ggande Scouting}
+Sofistikerad Logistik ökar din hjältes förflyttningspoäng på land med 30%."
+Scouting	"{Grundläggande Scouting}
 
-GrundlÃ¤ggande Scouting lÃ¥ter din hjÃ¤lte se 1 ruta lÃ¤ngre ut i mÃ¶rkret."	"{Avancerad Scouting}
+Grundläggande Scouting låter din hjälte se 1 ruta längre ut i mörkret."	"{Avancerad Scouting}
 
-Avancerad Scouting lÃ¥ter din hjÃ¤lte se 2 rutor lÃ¤ngre ut i mÃ¶rkret."	"{Sofistikerad Scouting}
+Avancerad Scouting låter din hjälte se 2 rutor längre ut i mörkret."	"{Sofistikerad Scouting}
 
-Sofistikerad Scouting lÃ¥ter din hjÃ¤lte se 3 ruta lÃ¤ngre ut i mÃ¶rkret."
-Medling	"{GrundlÃ¤ggande Medling}
+Sofistikerad Scouting låter din hjälte se 3 ruta längre ut i mörkret."
+Medling	"{Grundläggande Medling}
 
-GrundlÃ¤ggande Medling lÃ¥ter dig fÃ¶rhandla med monster som Ã¤r svagare Ã¤n din grupp och sÃ¤nker kostnaden fÃ¶r att ge upp ett slag med 20%."	"{Avancerad Medling}
+Grundläggande Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 20%."	"{Avancerad Medling}
 
-Avancerad Medling lÃ¥ter dig fÃ¶rhandla med monster som Ã¤r svagare Ã¤n din grupp och sÃ¤nker kostnaden fÃ¶r att ge upp ett slag med 40%."	"{Sofistikerad Medling}
+Avancerad Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 40%."	"{Sofistikerad Medling}
 
-Sofistikerad Medling lÃ¥ter dig fÃ¶rhandla med monster som Ã¤r svagare Ã¤n din grupp och sÃ¤nker kostnaden fÃ¶r att ge upp ett slag med 60%."
-Navigation	"{GrundlÃ¤ggande Navigation}
+Sofistikerad Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 60%."
+Navigation	"{Grundläggande Navigation}
 
-GrundlÃ¤ggande Navigation Ã¶kar din hjÃ¤ltes fÃ¶rflyttningspoÃ¤ng Ã¶ver havet med 50%."	"{Avancerad Navigation}
+Grundläggande Navigation ökar din hjältes förflyttningspoäng över havet med 50%."	"{Avancerad Navigation}
 
-Avancerad Navigation fÃ¶rdubblar din hjÃ¤ltes fÃ¶rflyttningspoÃ¤ng Ã¶ver havet."	"{Sofistikerad Navigation}
+Avancerad Navigation fördubblar din hjältes förflyttningspoäng över havet."	"{Sofistikerad Navigation}
 
-Sofistikerad Navigation Ã¶kar din hjÃ¤ltes fÃ¶rflyttningspoÃ¤ng Ã¶ver havet med 150%."
-Ledarskap	"{GrundlÃ¤ggande Ledarskap}
+Sofistikerad Navigation ökar din hjältes förflyttningspoäng över havet med 150%."
+Ledarskap	"{Grundläggande Ledarskap}
 
-GrundlÃ¤ggande Ledarskap Ã¶kar dina truppers moral med 1."	"{Avancerat Ledarskap}
+Grundläggande Ledarskap ökar dina truppers moral med 1."	"{Avancerat Ledarskap}
 
-Avancerat Ledarskap Ã¶kar dina truppers moral med 2."	"{Sofistikerat Ledarskap}
+Avancerat Ledarskap ökar dina truppers moral med 2."	"{Sofistikerat Ledarskap}
 
-Sofistikerat Ledarskap Ã¶kar dina truppers moral med 3."
-Visdom	"{GrundlÃ¤ggande Visdom}
+Sofistikerat Ledarskap ökar dina truppers moral med 3."
+Visdom	"{Grundläggande Visdom}
 
-GrundlÃ¤ggande Visdom lÃ¥ter din hjÃ¤lte lÃ¤ra sig trollformler av tredje nivÃ¥n."	"{Avancerad Visdom}
+Grundläggande Visdom låter din hjälte lära sig trollformler av tredje nivån."	"{Avancerad Visdom}
 
-Avancerad Visdom lÃ¥ter din hjÃ¤lte lÃ¤ra sig trollformler av fjÃ¤rde nivÃ¥n."	"{Sofistikerad Visdom}
+Avancerad Visdom låter din hjälte lära sig trollformler av fjärde nivån."	"{Sofistikerad Visdom}
 
-Visdom lÃ¥ter din hjÃ¤lte lÃ¤ra sig trollformler av femte nivÃ¥n."
-Mystik	"{GrundlÃ¤ggande Mystik}
+Visdom låter din hjälte lära sig trollformler av femte nivån."
+Mystik	"{Grundläggande Mystik}
 
-GrundlÃ¤ggande Mystik lÃ¥ter din hjÃ¤lte Ã¥terhÃ¤mta 2 trollformelspoÃ¤ng per dag."	"{Avancerad Mystik}
+Grundläggande Mystik låter din hjälte återhämta 2 trollformelspoäng per dag."	"{Avancerad Mystik}
 
-Avancerad Mystik lÃ¥ter din hjÃ¤lte Ã¥terhÃ¤mta 3 trollformelspoÃ¤ng per dag."	"{Sofistikerad Mystik}
+Avancerad Mystik låter din hjälte återhämta 3 trollformelspoäng per dag."	"{Sofistikerad Mystik}
 
-Sofistikerad Mystik lÃ¥ter din hjÃ¤lte Ã¥terhÃ¤mta 4 trollformelspoÃ¤ng per dag."
-Tur	"{GrundlÃ¤ggande Tur}
+Sofistikerad Mystik låter din hjälte återhämta 4 trollformelspoäng per dag."
+Tur	"{Grundläggande Tur}
 
-GrundlÃ¤ggande Tur Ã¶kar din hjÃ¤ltes tur med 1."	"{Avancerad Tur}
+Grundläggande Tur ökar din hjältes tur med 1."	"{Avancerad Tur}
 
-Avancerad Tur Ã¶kar din hjÃ¤ltes tur med 2."	"{Sofistikerad Tur}
+Avancerad Tur ökar din hjältes tur med 2."	"{Sofistikerad Tur}
 
-Sofistikerad Tur Ã¶kar din hjÃ¤ltes tur med 3."
-Ballistik	"{GrundlÃ¤ggande Ballistik}
+Sofistikerad Tur ökar din hjältes tur med 3."
+Ballistik	"{Grundläggande Ballistik}
 
-GrundlÃ¤ggande Ballistik ger hjÃ¤lten kontrollen Ã¶ver katapulten, vilket tillÃ¥ter riktade skott med Ã¶kad skada."	"{Avancerad Ballistik}
+Grundläggande Ballistik ger hjälten kontrollen över katapulten, vilket tillåter riktade skott med ökad skada."	"{Avancerad Ballistik}
 
-Avancerad Ballistik ger hjÃ¤lten kontrollen Ã¶ver katapulten, vilket tillÃ¥ter tvÃ¥ riktade skott med Ã¶kad skada."	"{Sofistikerad Ballistik}
+Avancerad Ballistik ger hjälten kontrollen över katapulten, vilket tillåter två riktade skott med ökad skada."	"{Sofistikerad Ballistik}
 
-Sofistikerad Ballistik ger hjÃ¤lten kontrollen Ã¶ver katapulten, vilket tillÃ¥ter tvÃ¥ riktade skott med maximal skada."
-SkarpÃ¶gdhet	"{GrundlÃ¤ggande SkarpÃ¶gdhet}
+Sofistikerad Ballistik ger hjälten kontrollen över katapulten, vilket tillåter två riktade skott med maximal skada."
+Skarpögdhet	"{Grundläggande Skarpögdhet}
 
-GrundlÃ¤ggande SkarpÃ¶gdhet ger hjÃ¤lten 40% chans att lÃ¤ra sig trollformler av nivÃ¥ 1 och 2 som kastas under strid."	"{Avancerad SkarpÃ¶gdhet}
+Grundläggande Skarpögdhet ger hjälten 40% chans att lära sig trollformler av nivå 1 och 2 som kastas under strid."	"{Avancerad Skarpögdhet}
 
-Avancerad SkarpÃ¶gdhet ger hjÃ¤lten 50% chans att lÃ¤ra sig trollformler upp till nivÃ¥ 3 som kastas under strid."	"{Sofistikerad SkarpÃ¶gdhet}
+Avancerad Skarpögdhet ger hjälten 50% chans att lära sig trollformler upp till nivå 3 som kastas under strid."	"{Sofistikerad Skarpögdhet}
 
-Sofistikerad SkarpÃ¶gdhet ger hjÃ¤lten 60% chans att lÃ¤ra sig trollformler upp till nivÃ¥ 4 som kastas under strid."
-DÃ¶dsmagi	"{GrundlÃ¤ggande DÃ¶dsmagi}
+Sofistikerad Skarpögdhet ger hjälten 60% chans att lära sig trollformler upp till nivå 4 som kastas under strid."
+Dödsmagi	"{Grundläggande Dödsmagi}
 
-GrundlÃ¤ggande DÃ¶dsmagi lÃ¥ter 10% av alla varelser som dÃ¶dats i en strid uppstÃ¥ som Skelett."	"{Avancerad DÃ¶dsmagi}
+Grundläggande Dödsmagi låter 10% av alla varelser som dödats i en strid uppstå som Skelett."	"{Avancerad Dödsmagi}
 
-Avancerad DÃ¶dsmagi lÃ¥ter 20% av alla varelser som dÃ¶dats i en strid uppstÃ¥ som Skelett."	"{Sofistikerad DÃ¶dsmagi}
+Avancerad Dödsmagi låter 20% av alla varelser som dödats i en strid uppstå som Skelett."	"{Sofistikerad Dödsmagi}
 
-Sofistikerad DÃ¶dsmagi lÃ¥ter 30% av alla varelser som dÃ¶dats i en strid uppstÃ¥ som Skelett."
-Egendomar	"{GrundlÃ¤ggande Egendomar}
+Sofistikerad Dödsmagi låter 30% av alla varelser som dödats i en strid uppstå som Skelett."
+Egendomar	"{Grundläggande Egendomar}
 
-Med GrundlÃ¤ggande Egendomar tjÃ¤nar din hjÃ¤lte 125 guld om dagen."	"{Avancerade Egendomar}
+Med Grundläggande Egendomar tjänar din hjälte 125 guld om dagen."	"{Avancerade Egendomar}
 
-Med Avancerade Egendomar tjÃ¤nar din hjÃ¤lte 250 guld om dagen."	"{Sofistikerad Egendomar}
+Med Avancerade Egendomar tjänar din hjälte 250 guld om dagen."	"{Sofistikerad Egendomar}
 
-Med Sofistikerade Egendomar tjÃ¤nar din hjÃ¤lte 500 guld om dagen."
-Eldmagi	"{GrundlÃ¤ggande Eldmagi}
+Med Sofistikerade Egendomar tjänar din hjälte 500 guld om dagen."
+Eldmagi	"{Grundläggande Eldmagi}
 
-GrundlÃ¤ggande Eldmagi lÃ¥ter din hjÃ¤lte kasta Eldtrollformler till en lÃ¤gre kostnad."	"{Avancerad Eldmagi}
+Grundläggande Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad."	"{Avancerad Eldmagi}
 
-Avancerad Eldmagi lÃ¥ter din hjÃ¤lte kasta Eldtrollformler till en lÃ¤gre kostnad och med hÃ¶gre effektivitet."	"{Sofistikerad Eldmagi}
+Avancerad Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Eldmagi}
 
-Sofistikerad Eldmagi lÃ¥ter din hjÃ¤lte kasta Eldtrollformler till en lÃ¤gre kostnad och med maximal effektivitet."
-Luftmagi	"{GrundlÃ¤ggande Luftmagi}
+Sofistikerad Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad och med maximal effektivitet."
+Luftmagi	"{Grundläggande Luftmagi}
 
-GrundlÃ¤ggande Luftmagi lÃ¥ter din hjÃ¤lte kasta Lufttrollformler till en lÃ¤gre kostnad."	"{Avancerad Luftmagi}
+Grundläggande Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad."	"{Avancerad Luftmagi}
 
-Avancerad Luftmagi lÃ¥ter din hjÃ¤lte kasta Lufttrollformler till en lÃ¤gre kostnad och med hÃ¶gre effektivitet."	"{Sofistikerad Luftmagi}
+Avancerad Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Luftmagi}
 
-Sofistikerad Luftmagi lÃ¥ter din hjÃ¤lte kasta Lufttrollformler till en lÃ¤gre kostnad och med maximal effektivitet."
-Vattenmagi	"{GrundlÃ¤ggande Vattenmagi}
+Sofistikerad Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad och med maximal effektivitet."
+Vattenmagi	"{Grundläggande Vattenmagi}
 
-GrundlÃ¤ggande Vattenmagi lÃ¥ter din hjÃ¤lte kasta Vattentrollformler till en lÃ¤gre kostnad."	"{Avancerad Vattenmagi}
+Grundläggande Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad."	"{Avancerad Vattenmagi}
 
-Avancerad Vattenmagi lÃ¥ter din hjÃ¤lte kasta Vattentrollformler till en lÃ¤gre kostnad och med hÃ¶gre effektivitet."	"{Sofistikerad Vattenmagi}
+Avancerad Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Vattenmagi}
 
-Sofistikerad Vattenmagi lÃ¥ter din hjÃ¤lte kasta Vattentrollformler till en lÃ¤gre kostnad och med maximal effektivitet."
-Jordmagi	"{GrundlÃ¤ggande Jordmagi}
+Sofistikerad Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad och med maximal effektivitet."
+Jordmagi	"{Grundläggande Jordmagi}
 
-GrundlÃ¤ggande Jordmagi lÃ¥ter din hjÃ¤lte kasta Jordtrollformler till en lÃ¤gre kostnad."	"{GrundlÃ¤ggande Jordmagi}
+Grundläggande Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad."	"{Grundläggande Jordmagi}
 
-Avancerad Jordmagi lÃ¥ter din hjÃ¤lte kasta Jordtrollformler till en lÃ¤gre kostnad och med hÃ¶gre effektivitet."	"{Sofistikerad Jordmagi}
+Avancerad Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Jordmagi}
 
-Sofistikerad Jordmagi lÃ¥ter din hjÃ¤lte kasta Jordtrollformler till en lÃ¤gre kostnad och med maximal effektivitet."
-LÃ¤rare	"{GrundlÃ¤ggande LÃ¤rare}
+Sofistikerad Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad och med maximal effektivitet."
+Lärare	"{Grundläggande Lärare}
 
-GrundlÃ¤ggande LÃ¤rare lÃ¥ter dina hjÃ¤ltar lÃ¤ra varandra trollformler av fÃ¶rsta och andra nivÃ¥n."	"{Avancerad LÃ¤rare}
+Grundläggande Lärare låter dina hjältar lära varandra trollformler av första och andra nivån."	"{Avancerad Lärare}
 
-Avancerad LÃ¤rare lÃ¥ter dina hjÃ¤ltar lÃ¤ra varandra trollformler upp till tredje nivÃ¥n"	"{Sofistikerad LÃ¤rare}
+Avancerad Lärare låter dina hjältar lära varandra trollformler upp till tredje nivån"	"{Sofistikerad Lärare}
 
-Sofistikerad LÃ¤rare lÃ¥ter dina hjÃ¤ltar lÃ¤ra varandra trollformler upp till fjÃ¤rde nivÃ¥n."
-Strategi	"{GrundlÃ¤ggande Strategi}
+Sofistikerad Lärare låter dina hjältar lära varandra trollformler upp till fjärde nivån."
+Strategi	"{Grundläggande Strategi}
 
-GrundlÃ¤ggande Strategi lÃ¥ter dig arrangera dina trupper innan strid, inom tre rutor frÃ¥n din hjÃ¤lte."	"{Avancerad Strategi}
+Grundläggande Strategi låter dig arrangera dina trupper innan strid, inom tre rutor från din hjälte."	"{Avancerad Strategi}
 
-Avancerad Strategi lÃ¥ter dig arrangera dina trupper innan strid, inom fem rutor frÃ¥n din hjÃ¤lte."	"{Sofistikerad Strategi}
+Avancerad Strategi låter dig arrangera dina trupper innan strid, inom fem rutor från din hjälte."	"{Sofistikerad Strategi}
 
-Sofistikerad Strategi lÃ¥ter dig arrangera dina trupper innan strid, inom sju rutor frÃ¥n din hjÃ¤lte."
-Artilleri	"{GrundlÃ¤ggande Artilleri}
+Sofistikerad Strategi låter dig arrangera dina trupper innan strid, inom sju rutor från din hjälte."
+Artilleri	"{Grundläggande Artilleri}
 
-GrunlÃ¤ggande Artilleri ger dig kontroll Ã¶ver ballistan i strid, som lÃ¥ter dig avlossa tvÃ¥ skott med 50% chans att utdela dubbel skada."	"{Avancerad Artilleri}
+Grunläggande Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med 50% chans att utdela dubbel skada."	"{Avancerad Artilleri}
 
-Avancerat Artilleri ger dig kontroll Ã¶ver ballistan i strid, som lÃ¥ter dig avlossa tvÃ¥ skott med 75% chans att utdela dubbel skada."	"{Sofistikerat Artilleri}
+Avancerat Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med 75% chans att utdela dubbel skada."	"{Sofistikerat Artilleri}
 
-Sofistikerat Artilleri ger dig kontroll Ã¶ver ballistan i strid, som lÃ¥ter dig avlossa tvÃ¥ skott med dubbel skada."
-LÃ¤rande	"{GrundlÃ¤ggande LÃ¤rande}
+Sofistikerat Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med dubbel skada."
+Lärande	"{Grundläggande Lärande}
 
-GrundlÃ¤ggande LÃ¤rande Ã¶kar din hjÃ¤ltes intjÃ¤nade erfarenhetspoÃ¤ng med 5%."	"{Avancerat LÃ¤rande}
+Grundläggande Lärande ökar din hjältes intjänade erfarenhetspoäng med 5%."	"{Avancerat Lärande}
 
-Avancerat LÃ¤rande Ã¶kar din hjÃ¤ltes intjÃ¤nade erfarenhetspoÃ¤ng med 10%."	"{Sofistikerat LÃ¤rande}
+Avancerat Lärande ökar din hjältes intjänade erfarenhetspoäng med 10%."	"{Sofistikerat Lärande}
 
-Sofistikerat LÃ¤rande Ã¶kar din hjÃ¤ltes intjÃ¤nade erfarenhetspoÃ¤ng med 15%."
-Offensiv	"{GrundlÃ¤ggande Offensiv}
+Sofistikerat Lärande ökar din hjältes intjänade erfarenhetspoäng med 15%."
+Offensiv	"{Grundläggande Offensiv}
 
-GrundlÃ¤ggande Offensiv Ã¶kar dina truppers slagkraft med 10%."	"{Avancerad Offensiv}
+Grundläggande Offensiv ökar dina truppers slagkraft med 10%."	"{Avancerad Offensiv}
 
-Avancerad Offensiv Ã¶kar dina truppers slagkraft med 20%."	"{Sofistikerad Offense}
+Avancerad Offensiv ökar dina truppers slagkraft med 20%."	"{Sofistikerad Offense}
 
-Sofistikerad Offensiv Ã¶kar dina truppers slagkraft med 30%."
-Rustningsmed	"{GrundlÃ¤ggande Rustningsmed}
+Sofistikerad Offensiv ökar dina truppers slagkraft med 30%."
+Rustningsmed	"{Grundläggande Rustningsmed}
 
-GrundlÃ¤ggande Rustningsmed reducerar all skada som Ã¥samkas dina trupper med 5%."	"{Avancerad Rustningsmed}
+Grundläggande Rustningsmed reducerar all skada som åsamkas dina trupper med 5%."	"{Avancerad Rustningsmed}
 
-Avancerad Rustningsmed reducerar all skada som Ã¥samkas dina trupper med 10%."	"{Sofistikerad Rustningsmed}
+Avancerad Rustningsmed reducerar all skada som åsamkas dina trupper med 10%."	"{Sofistikerad Rustningsmed}
 
-Sofistikerad Rustningsmed reducerar all skada som Ã¥samkas dina trupper med 15%."
-Intelligens	"{GrundlÃ¤ggande Intelligens}
+Sofistikerad Rustningsmed reducerar all skada som åsamkas dina trupper med 15%."
+Intelligens	"{Grundläggande Intelligens}
 
-GrundlÃ¤ggande Intelligens Ã¶kar din hjÃ¤ltes maximala mÃ¤ngd av trollformelspoÃ¤ng med 25%."	"{Avancerad Intelligens}
+Grundläggande Intelligens ökar din hjältes maximala mängd av trollformelspoäng med 25%."	"{Avancerad Intelligens}
 
-Avancerad Intelligens Ã¶kar din hjÃ¤ltes maximala mÃ¤ngd av trollformelspoÃ¤ng med 50%."	"{Sofistikerad Intelligens}
+Avancerad Intelligens ökar din hjältes maximala mängd av trollformelspoäng med 50%."	"{Sofistikerad Intelligens}
 
-Sofistikerad Intelligens fÃ¶rdubblar din hjÃ¤ltes maximala mÃ¤ngd av trollformelspoÃ¤ng."
-Trolldom	"{GrundlÃ¤ggande Trolldom}
+Sofistikerad Intelligens fördubblar din hjältes maximala mängd av trollformelspoäng."
+Trolldom	"{Grundläggande Trolldom}
 
-GrundlÃ¤ggande Trolldom gÃ¶r att din hjÃ¤ltes troillformler Ã¥samkar 5% extra skada i strid."	"{Avancerad Trolldom}
+Grundläggande Trolldom gör att din hjältes troillformler åsamkar 5% extra skada i strid."	"{Avancerad Trolldom}
 
-Avancerad Trolldom gÃ¶r att din hjÃ¤ltes troillformler Ã¥samkar 10% extra skada i strid."	"{Sofistikerad Trolldom}
+Avancerad Trolldom gör att din hjältes troillformler åsamkar 10% extra skada i strid."	"{Sofistikerad Trolldom}
 
-Sofistikerad Trolldom gÃ¶r att din hjÃ¤ltes troillformler Ã¥samkar 15% extra skada i strid."
-MotstÃ¥ndskraft	"{GrundlÃ¤ggande MotstÃ¥ndskraft}
+Sofistikerad Trolldom gör att din hjältes troillformler åsamkar 15% extra skada i strid."
+Motståndskraft	"{Grundläggande Motståndskraft}
 
-GrundlÃ¤ggande MotstÃ¥ndskraft ger 5% motstÃ¥ndskraft till din hjÃ¤ltes trupper."	"{Avancerad MotstÃ¥ndskraft}
+Grundläggande Motståndskraft ger 5% motståndskraft till din hjältes trupper."	"{Avancerad Motståndskraft}
 
-Avancerad MotstÃ¥ndskraft ger 10% motstÃ¥ndskraft till din hjÃ¤ltes trupper."	"{Sofistikerad MostÃ¥ndskraft}
+Avancerad Motståndskraft ger 10% motståndskraft till din hjältes trupper."	"{Sofistikerad Moståndskraft}
 
-Sofistikerad MotstÃ¥ndskraft ger 20% motstÃ¥ndskraft till din hjÃ¤ltes trupper."
-FÃ¶rsta HjÃ¤lpen	"{GrundlÃ¤ggande FÃ¶rsta HjÃ¤lpen}
+Sofistikerad Motståndskraft ger 20% motståndskraft till din hjältes trupper."
+Första Hjälpen	"{Grundläggande Första Hjälpen}
 
-GrundlÃ¤ggande FÃ¶rsta HjÃ¤lpen ger dig kontroll Ã¶ver fÃ¶rsta hjÃ¤lpen-tÃ¤ltet som kan hela 50 poÃ¤ng av skada hos en valfri varelse i strid."	"{Avancerad FÃ¶rsta HjÃ¤lpen}
+Grundläggande Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 50 poäng av skada hos en valfri varelse i strid."	"{Avancerad Första Hjälpen}
 
-Avancerad FÃ¶rsta HjÃ¤lpen ger dig kontroll Ã¶ver fÃ¶rsta hjÃ¤lpen-tÃ¤ltet som kan hela 75 poÃ¤ng av skada hos en valfri varelse i strid."	"{Sofistikerad FÃ¶rsta HjÃ¤lpen}
+Avancerad Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 75 poäng av skada hos en valfri varelse i strid."	"{Sofistikerad Första Hjälpen}
 
-Sofistikerad FÃ¶rsta HjÃ¤lpen ger dig kontroll Ã¶ver fÃ¶rsta hjÃ¤lpen-tÃ¤ltet som kan hela 100 poÃ¤ng av skada hos en valfri varelse i strid."
+Sofistikerad Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 100 poäng av skada hos en valfri varelse i strid."
