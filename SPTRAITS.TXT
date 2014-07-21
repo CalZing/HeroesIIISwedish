@@ -24,33 +24,33 @@ Chansen att lyckas är 75%.
 "	 ADV_SPELL
 Sänk Båt	Sänk Båt	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Sänk Båt}
 
-Destroys a boat you own.  Use with caution, the effects are permanent.
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 
-Chances for success are 50%.
-"	"{Basic Sänk Båt}
+Chansen att lyckas är 50%.
+"	"{Grundläggande Sänk Båt}
 
-Destroys a boat you own.  Use with caution, the effects are permanent.
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 
-Chances for success are 50%.
-"	"{Advanced Sänk Båt}
+Chansen att lyckas är 50%.
+"	"{Avancerad Sänk Båt}
 
-Destroys a boat you own.  Use with caution, the effects are permanent.
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 
-Chances for success are 75%.
-"	"{Expert Sänk Båt}
+Chansen att lyckas är 75%.
+"	"{Sofistikerad Sänk Båt}
 
-Destroys a boat you own.  Use with caution, the effects are permanent.
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 "	 ADV_SPELL
 Visioner	Visioner	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visioner}
 
-Gives you a basic idea of the strength of an opposing army, hero, or garrison.
-"	"{Basic Visioner}
+Ger dig en föraning om styrkan på motståndarens arme, hjälte eller garrison.
+"	"{Grundläggande Vision}
 
-Gives you a basic idea of the strength of an opposing hero or garrison.  In the case of nearby wandering monsters, gives you exact numbers of troops and tells you if they would be willing to join your hero.
-"	"{Advanced Visioner}
+Ger dig en föraning om styrkan på motståndarens arme, hjälte eller garrison. Vid visioner av vandrande monster får du reda på det exakta antalet trupper och om de är villiga att följa din hjälte.
+"	"{Avancerad Vision}
 
-Gives you a basic idea of the strength of an opposing garrison.  In the case of nearby wandering monsters, gives you exact numbers of troops and tells you if they would be willing to join your hero.  Allows you to view a nearby enemy hero's primary skill statistics, creature type and quantity, as if the hero was part of your kingdom.
-"	"{Expert Visioner}
+Ger dig en föraning om styrkan på motståndarens arme, hjälte eller garrison. Vid visioner av vandrande monster får du reda på det exakta antalet trupper och om de är villiga att följa din hjälte. Låter dig även avläsa en närliggande hjältes skicklighetsförmågor, vilken typ av monster och antal trupper, precis som om hjälten hade varit en del av ditt kungadöme.
+"	"{Sofistikerad Vision}
 
 Gives you exact numbers of wandering monsters and tells you if they would be willing to join your hero.  Allows you to view a nearby enemy hero's primary skill statistics, creature type and quantity, as if the hero was part of your kingdom, as well as a nearby town's statistics, garrison creatures and quantity.
 "	 ADV_SPELL
