@@ -5,22 +5,22 @@ Adventure Spells
 																																	
 Åkalla båt	Åkalla båt	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Åkalla båt}
 
-Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.
+Åkallar en existerande, vänskaplig, ledig båt från vartsomhelst i världen till din plats.
 
 Chansen att lyckas är 50%.
 "	"{Grundläggande Åkalla båt}
 
-Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.
+Åkallar en existerande, vänskaplig, ledig båt från vartsomhelst i världen till din plats.
 
 Chansen att lyckas är 50%.
 "	"{Avancerad Åkalla båt}
 
-Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.  Om inga båtar existerar så skapas en.
+Åkallar en existerande, vänskaplig, ledig båt från vartsomhelst i världen till din plats.  Om inga båtar existerar så skapas en.
 
 Chansen att lyckas är 75%.
 "	"{Sofistikerad Åkalla båt}
 
-Åkallar en existerande, vänlig, ledig båt från vart som helst i världen till din plats.  Om inga båtar existerar så skapas en.
+Åkallar en existerande, vänskaplig, ledig båt från vartsomhelst i världen till din plats.  Om inga båtar existerar så skapas en.
 "	 ADV_SPELL
 Sänk Båt	Sänk Båt	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Sänk Båt}
 
@@ -43,1084 +43,1083 @@ Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 "	 ADV_SPELL
 Visioner	Visioner	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visioner}
 
-Ger dig en föraning om styrkan på motståndarens arme, hjälte eller garrison.
-"	"{Grundläggande Vision}
+Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison.
+"	"{Grundläggande Visioner}
 
-Ger dig en föraning om styrkan på motståndarens arme, hjälte eller garrison. Vid visioner av vandrande monster får du reda på det exakta antalet trupper och om de är villiga att följa din hjälte.
-"	"{Avancerad Vision}
+Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison. Finns det närbelägna kringvandrande monster får du reda på exakt antal trupper och om de är villiga att gå med din hjälte.
+"	"{Avancerad Visioner}
 
-Ger dig en föraning om styrkan på motståndarens arme, hjälte eller garrison. Vid visioner av vandrande monster får du reda på det exakta antalet trupper och om de är villiga att följa din hjälte. Låter dig även avläsa en närliggande hjältes skicklighetsförmågor, vilken typ av monster och antal trupper, precis som om hjälten hade varit en del av ditt kungadöme.
-"	"{Sofistikerad Vision}
+Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison. Finns det närbelägna kringvandrande monster får du reda på exakt antal trupper och om de är villiga att gå med din hjälte. Låter dig även avläsa en närliggande hjältes primärförmågor, varelsetyp och antal trupper, precis som om hjälten vore en del av ditt kungadöme.
+"	"{Sofistikerad Visioner}
 
-Gives you exact numbers of wandering monsters and tells you if they would be willing to join your hero.  Allows you to view a nearby enemy hero's primary skill statistics, creature type and quantity, as if the hero was part of your kingdom, as well as a nearby town's statistics, garrison creatures and quantity.
+Ger dig exakta siffror på kringvandrande monster och om de är villiga att gå med din hjälte. Låter dig även avläsa en närliggande hjältes primärförmågor, varelsetyp och antal trupper, precis som om hjälten vore en del av ditt kungadöme, liksom en närliggande stads statistik, garninsons varelser och kvantitet.
 "	 ADV_SPELL
 Beskåda Jorden	Beskåda Jorden	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Jorden}
 
-Reveals the location of all resources to the caster.
-"	"{Basic Beskåda Jorden}
+Avslöjar alla resursplatser för kastaren.
+"	"{Grundläggande Beskåda Jorden}
 
-Reveals the location of all resources to the caster.
-"	"{Advanced Beskåda Jorden}
+Avslöjar alla resursplatser för kastaren.
+"	"{Avancerad Beskåda Jorden}
 
-Reveals the location of all resources and mines to the caster.
-"	"{Expert Beskåda Jorden}
+Avslöjar alla resurs- och gruvplatser för kastaren.
+"	"{Sofistikerad Beskåda Jorden}
 
-Reveals the location of all resources and mines and reveals all terrain to the caster.
+Avslöjar alla resurs- och gruvplatser, samt visar hela terrängkartan för kastaren.
 "	 ADV_SPELL
 Förklä	Förklä	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Förklä}
 
-Gives false information to an enemy attempting to view your hero.
-"	"{Basic Förklä}
+Ger falsk information till en fiende som försöker beskåda din hjälte.
+"	"{Grundläggande Förklä}
 
-Makes all units in your army look like your most powerful unit to enemies trying to view your hero.  Numbers in each group are unchanged.
-"	"{Advanced Förklä}
+Gör så att alla enheter i din armé ser ut som din starkaste enhet för alla fiender som försöker beskåda din hjälte. Antalet i varje grupp förblir oförändrat.
+"	"{Avancerad Förklä}
 
-Makes all units in your army look like your most powerful unit to enemies trying to view your hero.  Numbers in each group appear as zero.
-"	"{Expert Förklä}
+Gör så att alla enheter i din armé ser ut som din starkaste enhet för alla fiender som försöker beskåda din hjälte. Antalet i varje grupp förefaller vara noll.
+"	"{Sofistikerad Förklä}
 
-Makes all units in your army look like the most powerful unit affiliated to your hero type to enemies trying to view your hero.  Numbers in each group appear as zero.
+Gör så att alla enheter i din armé ser ut som den starkaste enheten förknippad med din hjältetyp för alla fiender som försöker beskåda din hjälte. Antalet i varje grupp förefaller vara noll.
 "	 ADV_SPELL
-View Air	View Air	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Luften}
+Beskåda Luften	Beskåda	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Luften}
 
-Reveals the location of all unclaimed artifacts to the caster.
-"	"{Basic Beskåda Luften}
+Avslöjar platserna för alla tillgängliga artifakter för kastaren.
+"	"{Grundläggande Beskåda Luften}
 
-Reveals the location of all unclaimed artifacts to the caster.
-"	"{Advanced Beskåda Luften}
+Avslöjar platserna för alla tillgängliga artifakter för kastaren.
+"	"{Avancerad Beskåda Luften}
 
-Reveals the location of all unclaimed artifacts, plus enemy heroes to the caster.
-"	"{Expert Beskåda Luften}
+Avslöjar platserna för alla tillgängliga artifakter, plus fiendens hjältar, för kastaren.
+"	"{Sofistikerad Beskåda Luften}
 
-Reveals the location of all unclaimed artifacts, plus enemy heroes and towns to the caster.
+Avslöjar platserna för alla tillgängliga artifakter, plus fiendens hjältar och städer, för kastaren.
 "	 ADV_SPELL
-Flyg	Flyg	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Fly}
+Flyg	Flyg	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Flyg}
 
-Allows your army to use part of its movement to fly over obstacles.  You must land at the end of the turn.
-"	"{Basic Flyg}
+Låter din armé använda delar av sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+"	"{Grundläggande Flyg}
 
-Allows your army to use part of its movement to fly over obstacles.  You must land at the end of the turn.
-"	"{Advanced Flyg}
+Låter din armé använda delar av sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+"	"{Avancerad Flyg}
 
-Allows your army to use most of its movement to fly over obstacles.  You must land at the end of the turn.
-"	"{Expert Flyg}
+Låter din armé använda merparten av sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+"	"{Sofistikerad Flyg}
 
-Allows your army to use up to all of its movement to fly over obstacles.  You must land at the end of the turn.
+Låter din armé använda hela sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
 "	 ADV_SPELL
 Vattenpromenad	Vattenpromenad	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Vattenpromenad}
 
-Allows your army to use part of its movement to walk across bodies of water.  You must end your movement on dry land.
-"	"{Basic Vattenpromenad}
+Låter din armé använda delar av sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
+"	"{Grundläggande Vattenpromenad}
 
-Allows your army to use part of its movement to walk across bodies of water.  You must end your movement on dry land.
-"	"{Advanced Vattenpromenad}
+Låter din armé använda delar av sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
+"	"{Avancerad Vattenpromenad}
 
-Allows your army to use most of its movement to walk across bodies of water.  You must end your movement on dry land.
-"	"{Expert Vattenpromenad}
+Låter din armé använda merparten av sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
+"	"{Sofistikerad Vattenpromenad}
 
-Allows your army to use up to all of its movement to walk across bodies of water.  You must end your movement on dry land.
+Låter din armé använda hela sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
 "	 ADV_SPELL
 Dimensionsdörr	Dimensionsdörr	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimensionsdörr}
 
-Once per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
-"	"{Basic Dimensionsdörr}
+En gång om dagen får du teleportera din hjälte till en synlig, oupptagen plats på äventyrskartan.
+"	"{Grundläggande Dimensionsdörr}
 
-Twice per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
-"	"{Advanced Dimensionsdörr}
+Två gånger om dagen får du teleportera din hjälte till en synlig, oupptagen plats på äventyrskartan.
+"	"{Avancerad Dimensionsdörr}
 
-Three times per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
-"	"{Expert Dimensionsdörr}
+Tre gånger om dagen får du teleportera din hjälte till en synlig, oupptagen plats på äventyrskartan.
+"	"{Sofistikerad Dimensionsdörr}
 
-Four times per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
+Fyra gånger om dagen får du teleportera din hjälte till en synlig, oupptagen plats på äventyrskartan.
 "	 ADV_SPELL
 Stadsportal	Stadsportal	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Stadsportal}
 
-Teleports your hero to the nearest friendly town.  The town must be unoccupied.
-"	"{Basic Stadsportal}
+Teleporterar din hjälte till närmaste vänliga stad.  Staden måste vara ledig.
+"	"{Grundläggande Stadsportal}
 
-Teleports your hero to the nearest friendly town.  The town must be unoccupied.
-"	"{Advanced Stadsportal}
+Teleporterar din hjälte till närmaste vänliga stad.  Staden måste vara ledig.
+"	"{Avancerad Stadsportal}
 
-Teleports your hero to any friendly town.  The town must be unoccupied.
-"	"{Expert Stadsportal}
+Teleporterar din hjälte till valfri vänliga stad.  Staden måste vara ledig.
+"	"{Sofistikerad Stadsportal}
 
-Teleports your hero to any friendly town.  The town must be unoccupied.
+Teleporterar din hjälte till valfri vänliga stad.  Staden måste vara ledig.
 "	 ADV_SPELL
 																																	
 Combat Spells																																	
 																																	
 Kvicksand	Kvicksand	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Kvicksand}
 
-Randomly places four small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a unit's movement for the turn and makes it visible to all.
-"	"{Basic Kvicksand}
+Placerar slumpmässigt ut fyra små stråk kvicksand på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Att vandra in i kvicksana avslutar en enhets förflyttning för draget och gör den synlig för alla.
+"	"{Grundläggande Kvicksand}
 
-Randomly places four small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a unit's movement for the turn and makes it visible to all.
-"	"{Advanced Kvicksand}
+Placerar slumpmässigt ut fyra små stråk kvicksand på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Att vandra in i kvicksana avslutar en enhets förflyttning för draget och gör den synlig för alla.
+"	"{Avancerad Kvicksand}
 
-Randomly places six small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a unit's movement for the turn and makes it visible to all.
-"	"{Expert Kvicksand}
+Placerar slumpmässigt ut sex små stråk kvicksand på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Att vandra in i kvicksana avslutar en enhets förflyttning för draget och gör den synlig för alla.
+"	"{Sofistikerad Kvicksand}
 
-Randomly places eight small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a unit's movement for the turn and makes it visible to all.
+Placerar slumpmässigt ut åtta små stråk kvicksand på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Att vandra in i kvicksana avslutar en enhets förflyttning för draget och gör den synlig för alla.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Landmina	Landmina	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Landmina}
 
-Randomly places four small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts damage to any unit walking over it.
-"	"{Basic Landmina}
+Placerar slumpmässigt ut fyra små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
+"	"{Grundläggande Landmina}
 
-Randomly places four small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts damage to any unit walking over it.
-"	"{Advanced Landmina}
+Placerar slumpmässigt ut fyra små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
+"	"{Avancerad Landmina}
 
-Randomly places six small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts damage to any unit walking over it.
+Placerar slumpmässigt ut sex små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
 
-Inflicted damage 25 points more than Basic Land Mine.
-"	"{Expert Landmina}
+Åsamkad skada är 25 poäng mer än Grundläggande Land Mine.
+"	"{Sofistikerad Landmina}
 
-Randomly places eight small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts damage to any unit walking over it.
+Placerar slumpmässigt ut åtta små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
 
-Inflicted damage 75 points more than Basic Land Mine.
+Åsamkad skada är 75 poäng mer än Grundläggande Land Mine.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Kraftfält	Kraftfält	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Kraftfält}
 
-Places a small Force Field on the battlefield at a point specified by the caster. 
-"	"{Basic Kraftfält}
+Placerar ett litet kraftfält på slagfältet på en punkt specificerad av kastaren. 
+"	"{Grundläggande Kraftfält}
 
-Places a small Force Field on the battlefield at a point specified by the caster. 
-"	"{Advanced Kraftfält}
+Placerar ett litet kraftfält på slagfältet på en punkt specificerad av kastaren. 
+"	"{Avancerad Kraftfält}
 
-Places a medium sized Force Field on the battlefield at a point specified by the caster.
-"	"{Expert Kraftfält}
+Placerar ett mellanstort kraftfält på slagfältet på en punkt specificerad av kastaren.
+"	"{Sofistikerad Kraftfält}
 
-Places a medium sized Force Field on the battlefield at a point specified by the caster.
+Placerar ett mellanstort kraftfält på slagfältet på en punkt specificerad av kastaren.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Eldmur	Eldmur	2	 	 	x	 	8	6	6	6	10	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Eldmur}
 
 Places a small wildfire on the battlefield at a point specified by the caster.  Any units passing through the wall take damage.
-"	"{Basic Eldmur}
+"	"{Grundläggande Eldmur}
 
-Places a small wildfire on the battlefield at a point specified by the caster.  Any units passing through the wall take damage.
-"	"{Advanced Eldmur}
+Placerar en liten löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
+"	"{Avancerad Eldmur}
 
-Places a medium sized wildfire on the battlefield at a point specified by the caster.  Any units passing through the wall take damage.
-"	"{Expert Eldmur}
+Placerar en mellanstor löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
+"	"{Sofistikerad Eldmur}
 
-Places a medium sized wildfire on the battlefield at a point specified by the caster.  Any units passing through the wall take damage.
+Placerar en mellanstor löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Jordbävning	Jordbävning	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Earthquake}
 
-Randomly damages two sections of castle wall in combat.
-"	"{Basic Jordbävning}
+Skadar slumpmässigt två sektioner slottsmur i strid.
+"	"{Grundläggande Jordbävning}
 
-Randomly damages two sections of castle wall in combat.
-"	"{Advanced Jordbävning}
+Skadar slumpmässigt två sektioner slottsmur i strid.
+"	"{Avancerad Jordbävning}
 
-Randomly damages three sections of castle wall in combat.
-"	"{Expert Jordbävning}
+Skadar slumpmässigt tre sektioner slottsmur i strid.
+"	"{Sofistikerad Jordbävning}
 
-Randomly damages four sections of castle wall in combat.
+Skadar slumpmässigt fyra sektioner slottsmur i strid.
 "	 COMBAT_SPELL
 Magisk Pil	Magisk Pil	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Magisk Pil}
 
 Causes a bolt of magical energy to strike the selected unit.
-"	"{Basic Magisk Pil}
+"	"{Grundläggande Magisk Pil}
 
 Causes a bolt of magical energy to strike the selected unit.
-"	"{Advanced Magisk Pil}
-
-Causes a bolt of magical energy to strike the selected unit.
-
-Damage inflicted is 10 points more than Basic Magic Arrow.
-"	"{Expert Magisk Pil}
+"	"{Avancerad Magisk Pil}
 
 Causes a bolt of magical energy to strike the selected unit.
 
-Damage inflicted is 20 points more than Basic Magic Arrow.
+Damage inflicted is 10 points more than Grundläggande Magic Arrow.
+"	"{Sofistikerad Magisk Pil}
+
+Causes a bolt of magical energy to strike the selected unit.
+
+Damage inflicted is 20 points more than Grundläggande Magic Arrow.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Ispil	Ispil	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Isblixt}
+Ispil	Ispil	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{IsÅskblixt}
 
 Drains the body heat from the selected enemy unit.
-"	"{Basic Ispil}
+"	"{Grundläggande Ispil}
 
 Drains the body heat from the selected enemy unit.
-"	"{Advanced Ispil}
-
-Drains the body heat from the selected enemy unit.
-
-Damage inflicted is 10 points more than Basic Ice Bolt.
-"	"{Expert Ispil}
+"	"{Avancerad Ispil}
 
 Drains the body heat from the selected enemy unit.
 
-Damage inflicted is 40 points more than Basic Ice Bolt.
+Damage inflicted is 10 points more than Grundläggande Ice Bolt.
+"	"{Sofistikerad Ispil}
+
+Drains the body heat from the selected enemy unit.
+
+Damage inflicted is 40 points more than Grundläggande Ice Bolt.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Blixt	Blixt	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Blixt}
+Åskblixt	Åskblixt	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Åskblixt}
 
 Causes a bolt of lightning to strike the selected unit.
-"	"{Basic Blixt}
+"	"{Grundläggande Åskblixt}
 
 Causes a bolt of lightning to strike the selected unit.
-"	"{Advanced Blixt}
-
-Causes a bolt of lightning to strike the selected unit.
-
-Damage inflicted is 10 points more than Basic Lightning Bolt.
-"	"{Expert Blixt}
+"	"{Avancerad Åskblixt}
 
 Causes a bolt of lightning to strike the selected unit.
 
-Damage inflicted is 40 points more than Basic Lightning Bolt.
+Damage inflicted is 10 points more than Grundläggande Lightning Bolt.
+"	"{Sofistikerad Åskblixt}
+
+Causes a bolt of lightning to strike the selected unit.
+
+Damage inflicted is 40 points more than Grundläggande Lightning Bolt.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Implosion	Implosion	5	x	 	 	 	30	25	25	25	75	100	100	200	300	0	16	14	16	20	12	0	0	13	75	75	75	75	"{Implosion}
 
 Inflicts massive damage to a single creature stack.
-"	"{Basic Implosion}
+"	"{Grundläggande Implosion}
 
 Inflicts massive damage to a single creature stack.
-"	"{Advanced Implosion}
-
-Inflicts massive damage to a single creature stack.
-
-Damage inflicted is 100 points more than Basic Implosion.
-"	"{Expert Implosion}
+"	"{Avancerad Implosion}
 
 Inflicts massive damage to a single creature stack.
 
-Damage inflicted 200 points more than Basic Implosion.
+Damage inflicted is 100 points more than Grundläggande Implosion.
+"	"{Sofistikerad Implosion}
+
+Inflicts massive damage to a single creature stack.
+
+Damage inflicted 200 points more than Grundläggande Implosion.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Kedjeblixt	Kedjeblixt	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Kedjeblixt}
 
 Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes four units.
-"	"{Basic Kedjeblixt}
+"	"{Grundläggande Kedjeblixt}
 
 Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes four units.
-"	"{Advanced Kedjeblixt}
+"	"{Avancerad Kedjeblixt}
 
 Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes five units.
 
-Base Damage inflicted is 25 points more than Basic Chain Lightning.
-"	"{Expert Kedjeblixt}
+Base Damage inflicted is 25 points more than Grundläggande Chain Lightning.
+"	"{Sofistikerad Kedjeblixt}
 
 Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes five units.
 
-Base Damage inflicted is 75 points more than Basic Chain Lightning.
+Base Damage inflicted is 75 points more than Grundläggande Chain Lightning.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Frostring	Frostring	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Frostring}
 
 Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
-"	"{Basic Frostring}
+"	"{Grundläggande Frostring}
 
 Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
-"	"{Advanced Frostring}
-
-Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
-
-Damage inflicted is 15 points more than Basic Frost Ring.
-"	"{Expert Frostring}
+"	"{Avancerad Frostring}
 
 Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
 
-Damage inflicted is 45 points more than Basic Frost Ring.
+Damage inflicted is 15 points more than Grundläggande Frost Ring.
+"	"{Sofistikerad Frostring}
+
+Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
+
+Damage inflicted is 45 points more than Grundläggande Frost Ring.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Eldklot	Eldklot	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Eldklot}
 
 Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
-"	"{Basic Eldklot}
+"	"{Grundläggande Eldklot}
 
 Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
-"	"{Advanced Eldklot}
-
-Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
-
-Damage inflicted is 15 points more than Basic Fireball.
-"	"{Expert Eldklot}
+"	"{Avancerad Eldklot}
 
 Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
 
-Damage inflicted is 45 points more than Basic Fireball.
+Damage inflicted is 15 points more than Grundläggande Fireball.
+"	"{Sofistikerad Eldklot}
+
+Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
+
+Damage inflicted is 45 points more than Grundläggande Fireball.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Inferno	Inferno	4	 	 	x	 	16	12	12	12	10	20	20	40	80	5	5	5	10	5	5	0	0	10	20	20	20	20	"{Inferno}
 
 Causes a huge blast of fire to strike the selected target.  Don't be near this when it goes off!
-"	"{Basic Inferno}
+"	"{Grundläggande Inferno}
 
 Causes a huge blast of fire to strike the selected target.  Don't be near this when it goes off!
-"	"{Advanced Inferno}
-
-Causes a huge blast of fire to strike the selected target.  Don't be near this when it goes off!
-
-Damage inflicted is 20 points more than Basic Inferno.
-"	"{Expert Inferno}
+"	"{Avancerad Inferno}
 
 Causes a huge blast of fire to strike the selected target.  Don't be near this when it goes off!
 
-Damage inflicted is 60 points more than Basic Inferno.
+Damage inflicted is 20 points more than Grundläggande Inferno.
+"	"{Sofistikerad Inferno}
+
+Causes a huge blast of fire to strike the selected target.  Don't be near this when it goes off!
+
+Damage inflicted is 60 points more than Grundläggande Inferno.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Meteorregn	Meteorregn	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Meteorregn}
 
 Causes a meteor shower to rain down on the selected target and any adjacent units.
-"	"{Basic Meteorregn}
+"	"{Grundläggande Meteorregn}
 
 Causes a meteor shower to rain down on the selected target and any adjacent units.
-"	"{Advanced Meteorregn}
-
-Causes a meteor shower to rain down on the selected target and any adjacent units.
-
-Damage inflicted is 25 points more than Basic Meteor Shower.
-"	"{Expert Meteorregn}
+"	"{Avancerad Meteorregn}
 
 Causes a meteor shower to rain down on the selected target and any adjacent units.
 
-Damage inflicted is 75 points more than Basic Meteor Shower.
+Damage inflicted is 25 points more than Grundläggande Meteor Shower.
+"	"{Sofistikerad Meteorregn}
+
+Causes a meteor shower to rain down on the selected target and any adjacent units.
+
+Damage inflicted is 75 points more than Grundläggande Meteor Shower.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Dödsstöt	Dödsstöt	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
-"	"{Basic Dödsstöt}
+"	"{Grundläggande Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
-"	"{Advanced Dödsstöt}
-
-Sends a wave of death across the battlefield which damages all non-undead units.
-
-Damage inflicted is 10 points more than Basic Death Ripple.
-"	"{Expert Dödsstöt}
+"	"{Avancerad Dödsstöt}
 
 Sends a wave of death across the battlefield which damages all non-undead units.
 
-Damage inflicted is 20 points more than Basic Death Ripple.
+Damage inflicted is 10 points more than Grundläggande Death Ripple.
+"	"{Sofistikerad Dödsstöt}
+
+Sends a wave of death across the battlefield which damages all non-undead units.
+
+Damage inflicted is 20 points more than Grundläggande Death Ripple.
 "	 COMBAT_SPELL
 Tillintetgör Odöda	Tillintetgör Odöda	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
-"	"{Basic Tillintetgör Odöda}
+"	"{Grundläggande Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
-"	"{Advanced Tillintetgör Odöda}
-
-Attempts to destroy any undead creatures on the battlefield.
-
-Damage inflicted is 10 points more than Basic Destroy Undead.
-"	"{Expert Tillintetgör Odöda}
+"	"{Avancerad Tillintetgör Odöda}
 
 Attempts to destroy any undead creatures on the battlefield.
 
-Damage inflicted is 40 points more than Basic Destroy Undead.
+Damage inflicted is 10 points more than Grundläggande Destroy Undead.
+"	"{Sofistikerad Tillintetgör Odöda}
+
+Attempts to destroy any undead creatures on the battlefield.
+
+Damage inflicted is 40 points more than Grundläggande Destroy Undead.
 "	 COMBAT_SPELL
 Ragnarök	Ragnarök	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
-"	"{Basic Ragnarök}
+"	"{Grundläggande Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
-"	"{Advanced Ragnarök}
-
-Rains fire down upon the battlefield, damaging all units.
-
-Damage inflicted is 30 points more than Basic Armageddon.
-"	"{Expert Ragnarök}
+"	"{Avancerad Ragnarök}
 
 Rains fire down upon the battlefield, damaging all units.
 
-Damage inflicted is 90 points more than Basic Armageddon.
+Damage inflicted is 30 points more than Grundläggande Armageddon.
+"	"{Sofistikerad Ragnarök}
+
+Rains fire down upon the battlefield, damaging all units.
+
+Damage inflicted is 90 points more than Grundläggande Armageddon.
 "	 COMBAT_SPELL
 Sköld	Sköld	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Shield}
 
 Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
-"	"{Basic Sköld}
+"	"{Grundläggande Sköld}
 
 Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
-"	"{Advanced Sköld}
+"	"{Avancerad Sköld}
 
 Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
 
-Protection is twice that of Basic Shield.
-"	"{Expert Sköld}
+Protection is twice that of Grundläggande Shield.
+"	"{Sofistikerad Sköld}
 
 Shields all friendly units, reducing the amount of damage received from hand-to-hand attacks.
 
-Protection is twice that of Basic Shield.
+Protection is twice that of Grundläggande Shield.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Air Shield	Air Shield	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Air Shield}
+Luftskjöld	Luftskjöld	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Luftskjöld}
 
 Shields a selected unit, reducing the amount of damage received from ranged attacks.
-"	"{Basic Air Shield}
+"	"{Grundläggande Luftskjöld}
 
 Shields a selected unit, reducing the amount of damage received from ranged attacks.
-"	"{Advanced Air Shield}
+"	"{Avancerad Luftskjöld}
 
 Shields a selected unit, reducing the amount of damage received from ranged attacks.
 
-Protection is twice that of Basic Air Shield.
-"	"{Expert Air Shield}
+Protection is twice that of Grundläggande Luftskjöld.
+"	"{Sofistikerad Luftskjöld}
 
 Shields all friendly units, reducing the amount of damage received from ranged attacks.
 
-Protection is twice that of Basic Air Shield.
+Protection is twice that of Grundläggande Luftskjöld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Fire Shield	Fire Shield	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Fire Shield}
+Eldskjöld	Eldskjöld	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Eldskjöld}
 
-Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the fire shield will suffer damage equal to a portion of what it inflicts.
-"	"{Basic Fire Shield}
+Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the Eldskjöld will suffer damage equal to a portion of what it inflicts.
+"	"{Grundläggande Eldskjöld}
 
-Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the fire shield will suffer damage equal to a portion of what it inflicts.
-"	"{Advanced Fire Shield}
+Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the Eldskjöld will suffer damage equal to a portion of what it inflicts.
+"	"{Avancerad Eldskjöld}
 
-Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the fire shield will suffer damage equal to a portion of what it inflicts.
+Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the Eldskjöld will suffer damage equal to a portion of what it inflicts.
 
-Damage to attacking enemy units is 5% more than Basic Fire Shield.
-"	"{Expert Fire Shield}
+Damage to attacking enemy units is 5% more than Grundläggande Eldskjöld.
+"	"{Sofistikerad Eldskjöld}
 
-Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the fire shield will suffer damage equal to a portion of what it inflicts.
+Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the Eldskjöld will suffer damage equal to a portion of what it inflicts.
 
-Damage to attacking enemy units is 10% more than Basic Fire Shield.
+Damage to attacking enemy units is 10% more than Grundläggande Eldskjöld.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Protection from Air	Prot. from Air	2		 	 	x	7	5	5	5	0	70	70	50	50	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Protection from Air}
+Skydd mot Luft	Prot. from Air	2		 	 	x	7	5	5	5	0	70	70	50	50	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Skydd mot Luft}
 
 Protects the selected unit, reducing damage received from Air spells.
-"	"{Basic Protection from Air}
+"	"{Grundläggande Skydd mot Luft}
 
 Protects the selected unit, reducing damage received from Air spells.
-"	"{Advanced Protection from Air}
-
-Protects the selected unit, reducing damage received from Air spells.
-
-Protection is nearly twice that of Basic Protection from Air.
-"	"{Expert Protection from Air}
+"	"{Avancerad Skydd mot Luft}
 
 Protects the selected unit, reducing damage received from Air spells.
 
-Protection is nearly twice that of Basic Protection from Air.
+Protection is nearly twice that of Grundläggande Skydd mot Luft.
+"	"{Sofistikerad Skydd mot Luft}
+
+Protects the selected unit, reducing damage received from Air spells.
+
+Protection is nearly twice that of Grundläggande Skydd mot Luft.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Protection from Fire	Prot. from Fire	1	 		x	 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Protection from Fire}
+Skydd mot Eld	Prot. from Fire	1	 		x	 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Skydd mot Eld}
 
 Protects the selected unit, reducing damage received from Fire spells.
-"	"{Basic Protection from Fire}
+"	"{Grundläggande Skydd mot Eld}
 
 Protects the selected unit, reducing damage received from Fire spells.
-"	"{Advanced Protection from Fire}
-
-Protects the selected unit, reducing damage received from Fire spells.
-
-Protection is nearly twice that of Basic Protection from Fire.
-"	"{Expert Protection from Fire}
+"	"{Avancerad Skydd mot Eld}
 
 Protects the selected unit, reducing damage received from Fire spells.
 
-Protection is nearly twice that of Basic Protection from Fire.
+Protection is nearly twice that of Grundläggande Skydd mot Eld.
+"	"{Sofistikerad Skydd mot Eld}
+
+Protects the selected unit, reducing damage received from Fire spells.
+
+Protection is nearly twice that of Grundläggande Skydd mot Eld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Prot. from Water	Prot. from Water	1	 	x		 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Protection from Water}
+Prot. from Water	Prot. from Water	1	 	x		 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Skydd mot Vatten}
 
 Protects the selected unit, reducing damage received from Water spells.
-"	"{Basic Protection from Water}
+"	"{Grundläggande Skydd mot Vatten}
 
 Protects the selected unit, reducing damage received from Water spells.
-"	"{Advanced Protection from Water}
-
-Protects the selected unit, reducing damage received from Water spells.
-
-Protection is nearly twice that of Basic Protection from Water.
-"	"{Expert Protection from Water}
+"	"{Avancerad Skydd mot Vatten}
 
 Protects the selected unit, reducing damage received from Water spells.
 
-Protection is nearly twice that of Basic Protection from Water.
+Protection is nearly twice that of Grundläggande Skydd mot Vatten.
+"	"{Sofistikerad Skydd mot Vatten}
+
+Protects the selected unit, reducing damage received from Water spells.
+
+Protection is nearly twice that of Grundläggande Skydd mot Vatten.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Prot. from Earth	Prot. from Earth	3	x	 	 		12	9	9	9	0	70	70	50	50	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Protection from Earth}
+Prot. from Earth	Prot. from Earth	3	x	 	 		12	9	9	9	0	70	70	50	50	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Skydd mot Jord}
 
 Protects the selected unit, reducing damage received from Earth spells.
-"	"{Basic Protection from Earth}
+"	"{Grundläggande Skydd mot Jord}
 
 Protects the selected unit, reducing damage received from Earth spells.
-"	"{Advanced Protection from Earth}
-
-Protects the selected unit, reducing damage received from Earth spells.
-
-Protection is  nearly twice that of Basic Protection from Earth.
-"	"{Expert Protection from Earth}
+"	"{Avancerad Skydd mot Jord}
 
 Protects the selected unit, reducing damage received from Earth spells.
 
-Protection is  nearly twice that of Basic Protection from Earth.
+Protection is  nearly twice that of Grundläggande Skydd mot Jord.
+"	"{Sofistikerad Skydd mot Jord}
+
+Protects the selected unit, reducing damage received from Earth spells.
+
+Protection is  nearly twice that of Grundläggande Skydd mot Jord.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Anti-Magic	Anti-Magic	3	x	 	 	 	15	12	12	12	0	4	4	5	6	12	8	8	4	8	8	12	10	12	10	10	15	20	"{Anti-magic}
+Anti-Magi	Anti-Magi	3	x	 	 	 	15	12	12	12	0	4	4	5	6	12	8	8	4	8	8	12	10	12	10	10	15	20	"{Anti-Magi}
 
 Protects the selected unit from all low level spells.
-"	"{Basic Anti-magic}
+"	"{Grundläggande Anti-Magi}
 
 Protects the selected unit from all low level spells.
-"	"{Advanced Anti-magic}
+"	"{Avancerad Anti-Magi}
 
 Protects the selected unit all but the most powerful spells.
-"	"{Expert Anti-magic}
+"	"{Sofistikerad Anti-Magi}
 
 Protects the selected unit from all spells.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Dispel	Dispel	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Dispel}
+Bryt Förtrollning	Bryt Förtrollning	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Bryt Förtrollning}
 
 Removes all spell effects from a friendly creature.
-"	"{Basic Dispel}
+"	"{Grundläggande Bryt Förtrollning}
 
 Removes all spell effects from a friendly creature.
-"	"{Advanced Dispel}
+"	"{Avancerad Bryt Förtrollning}
 
 Removes all spell effects from a friendly or hostile creature.
-"	"{Expert Dispel}
+"	"{Sofistikerad Bryt Förtrollning}
 
 Removes all spell effects from all units on the battlefield.
 "	 COMBAT_SPELL|CREATURE_TARGET_1
 Magic Mirror	Magic Mirror	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Magic Mirror}
 
 Reflects hostile spells towards a random enemy creature 20% of the time.
-"	"{Basic Magic Mirror}
+"	"{Grundläggande Magic Mirror}
 
 Reflects hostile spells towards a random enemy creature 20% of the time.
-"	"{Advanced Magic Mirror}
+"	"{Avancerad Magic Mirror}
 
 Reflects hostile spells towards a random enemy creature 30% of the time.
-"	"{Expert Magic Mirror}
+"	"{Sofistikerad Magic Mirror}
 
 Reflects hostile spells towards a random enemy creature 40% of the time.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Cure	Cure	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Cure}
+Kurera	Kurera	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Kurera}
 
 Removes all negative spell effects and heals a small number of hit points on the selected unit.
-"	"{Basic Cure}
+"	"{Grundläggande Kurera}
 
 Removes all negative spell effects and heals a small number of hit points on the selected unit.
-"	"{Advanced Cure}
+"	"{Avancerad Kurera}
 
 Removes all negative spell effects and heals a small number of hit points on all friendly units.
 
-Damage healed is 10 points more than Basic Cure.
-"	"{Expert Cure}
+Damage healed is 10 points more than Grundläggande Kurera.
+"	"{Sofistikerad Kurera}
 
 Removes all negative spell effects and heals a small number of hit points on all friendly units.
 
-Damage healed is 20 points more than Basic Cure.
+Damage healed is 20 points more than Grundläggande Kurera.
 "	 COMBAT_SPELL|CREATURE_TARGET_1
-Resurrection	Resurrection	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Resurrection}
+Återupplivande	Återupplivande	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Återupplivande}
 
 Resurrects units in the selected group by restoring a fixed number of hit points to the target.
-"	"{Basic Resurrection}
+"	"{Grundläggande Återupplivande}
 
 Resurrects units in the selected group by restoring a fixed number of hit points to the target.
-"	"{Advanced Resurrection}
+"	"{Avancerad Återupplivande}
 
 Resurrects units in the selected group by restoring a fixed number of hit points to the target.
 
-Provides an additional 40 hit points over Basic Resurrection.
-"	"{Expert Resurrection}
+Provides an additional 40 hit points over Grundläggande Återupplivande.
+"	"{Sofistikerad Återupplivande}
 
 Resurrects units in the selected group by restoring a fixed number of hit points to the target. 
 
-Provides an additional 120 hit points over Basic Resurrection.
+Provides an additional 120 hit points over Grundläggande Återupplivande.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Animate Dead	Animate Dead	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Animate Dead}
+Animera Döda	Animera Döda	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Animera Döda}
 
 Re-animates any destroyed undead in the selected group by restoring a fixed number of hit points to the target.
-"	"{Basic Animate Dead}
+"	"{Grundläggande Animera Döda}
 
 Re-animates any destroyed undead in the selected group by restoring a fixed number of hit points to the target.
-"	"{Advanced Animate Dead}
-
-Re-animates any destroyed undead in the selected group by restoring a fixed number of hit points to the target.
-
-Provides an additional 30 hit points over Basic Animate Dead.
-"	"{Expert Animate Dead}
+"	"{Avancerad Animera Döda}
 
 Re-animates any destroyed undead in the selected group by restoring a fixed number of hit points to the target.
 
-Provides an additional 130  hit points over Basic Animate Dead.
+Provides an additional 30 hit points over Grundläggande Animera Döda.
+"	"{Sofistikerad Animera Döda}
+
+Re-animates any destroyed undead in the selected group by restoring a fixed number of hit points to the target.
+
+Provides an additional 130  hit points over Grundläggande Animera Döda.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Sacrifice	Sacrifice	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Sacrifice}
+Offra	Offra	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Offra}
 
 Destroys a friendly creature group in order to resurrect a dead group.  Number of resurrected creatures depends on the caster's spell power and the health of the destroyed stack.
-"	"{Basic Sacrifice}
+"	"{Grundläggande Offra}
 
 Destroys a friendly creature group in order to resurrect a dead group.  Number of resurrected creatures depends on the caster's spell power and the health of the destroyed stack.
-"	"{Advanced Sacrifice}
-
-Destroys a friendly creature group in order to resurrect a dead group.  Number of resurrected creatures depends on the caster's spell power and the health of the destroyed stack.
-
-Restores more creature health than Basic Sacrifice.
-"	"{Expert Sacrifice}
+"	"{Avancerad Offra}
 
 Destroys a friendly creature group in order to resurrect a dead group.  Number of resurrected creatures depends on the caster's spell power and the health of the destroyed stack.
 
-Restores more creature health than Advanced Sacrifice.
+Restores more creature health than Grundläggande Offra.
+"	"{Sofistikerad Offra}
+
+Destroys a friendly creature group in order to resurrect a dead group.  Number of resurrected creatures depends on the caster's spell power and the health of the destroyed stack.
+
+Restores more creature health than Avancerad Offra.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Bless	Bless	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Bless}
+Välsigna	Välsigna	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Välsigna}
 
 Causes the selected unit to inflict maximum damage in combat.
-"	"{Basic Bless}
+"	"{Grundläggande Välsigna}
 
 Causes the selected unit to inflict maximum damage in combat.
-"	"{Advanced Bless}
+"	"{Avancerad Välsigna}
 
 Causes the selected unit to inflict greater than their normal maximum damage in combat.
-"	"{Expert Bless}
+"	"{Sofistikerad Välsigna}
 
 Causes all friendly units to inflict greater than their normal maximum damage in combat.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Curse	Curse	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Curse}
+Förbanna	Förbanna	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Förbanna}
 
 Causes the selected enemy unit to inflict minimum damage in combat.
-"	"{Basic Curse}
+"	"{Grundläggande Förbanna}
 
 Causes the selected enemy unit to inflict minimum damage in combat.
-"	"{Advanced Curse}
+"	"{Avancerad Förbanna}
 
 Causes the selected enemy unit to inflict less than their normal minimum damage in combat.
-"	"{Expert Curse}
+"	"{Sofistikerad Förbanna}
 
 Causes all enemy units to inflict less than their normal minimum damage in combat.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Bloodlust	Bloodlust	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Bloodlust}
+Blodtörst	Blodtörst	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Blodtörst}
 
 Increases the hand-to-hand damage inflicted by the selected unit.
-"	"{Basic Bloodlust}
+"	"{Grundläggande Blodtörst}
 
 Increases the hand-to-hand damage inflicted by the selected unit.
-"	"{Advanced Bloodlust}
+"	"{Avancerad Blodtörst}
 
 Increases the hand-to-hand damage inflicted by the selected unit.
 
-Effect is twice that of Basic Bloodlust.
-"	"{Expert Bloodlust}
+Effect is twice that of Grundläggande Blodtörst.
+"	"{Sofistikerad Blodtörst}
 
 Increases the hand-to-hand damage inflicted by all friendly units.
 
-Effect is twice that of Basic Bloodlust.
+Effect is twice that of Grundläggande Blodtörst.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Precision	Precision	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Precision}
 
 Increases the ranged attack damage inflicted by the selected unit.
-"	"{Basic Precision}
+"	"{Grundläggande Precision}
 
 Increases the ranged attack damage inflicted by the selected unit.
-"	"{Advanced Precision}
+"	"{Avancerad Precision}
 
 Increases the ranged attack damage inflicted by the selected unit.
 
-Effect is twice that of Basic Precision.
-"	"{Expert Precision}
+Effect is twice that of Grundläggande Precision.
+"	"{Sofistikerad Precision}
 
 Increases the ranged attack damage inflicted by all friendly units.
 
-Effect is twice that of Basic Precision.
+Effect is twice that of Grundläggande Precision.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Weakness	Weakness	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Weakness}
+Svaghet	Svaghet	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Svaghet}
 
 Reduces the selected enemy unit's attack strength.
-"	"{Basic Weakness}
+"	"{Grundläggande Svaghet}
 
 Reduces the selected enemy unit's attack strength.
-"	"{Advanced Weakness}
+"	"{Avancerad Svaghet}
 
 Reduces the selected enemy unit's attack strength.
 
-Effect is twice that of Basic Weakness.
-"	"{Expert Weakness}
+Effect is twice that of Grundläggande Svaghet.
+"	"{Sofistikerad Svaghet}
 
 Reduces the attack strength of all enemy units.
 
-Effect is twice that of Basic Weakness.
+Effect is twice that of Grundläggande Svaghet.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Stone Skin	Stone Skin	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Stone Skin}
+Stenskinn	Stenskinn	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Stenskinn}
 
 Increases the selected unit's defense strength.
-"	"{Basic Stone Skin}
+"	"{Grundläggande Stenskinn}
 
 Increases the selected unit's defense strength.
-"	"{Advanced Stone Skin}
+"	"{Avancerad Stenskinn}
 
 Increases the selected unit's defense strength.
 
-Effect is twice that of Basic Stone Skin.
-"	"{Expert Stone Skin}
+Effect is twice that of Grundläggande Stenskinn.
+"	"{Sofistikerad Stenskinn}
 
 Increases the defense strength of all friendly units.
 
-Effect is twice that of Basic Stone Skin.
+Effect is twice that of Grundläggande Stenskinn.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Disrupting Ray	Disrupting Ray	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Disrupting Ray}
+Störande Stråle	Störande Stråle	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Störande Stråle}
 
 Reduces the selected enemy unit's defense strength.  A single enemy may be targeted multiple times by this spell.
-"	"{Basic Disrupting Ray}
+"	"{Grundläggande Störande Stråle}
 
 Reduces the selected enemy unit's defense strength.  A single enemy may be targeted multiple times by this spell.
-"	"{Advanced Disrupting Ray}
-
-Reduces the selected enemy unit's defense strength.  A single enemy may be targeted multiple times by this spell.
-
-Effect is greater than that of Basic Disrupting Ray.
-"	"{Expert Disrupting Ray}
+"	"{Avancerad Störande Stråle}
 
 Reduces the selected enemy unit's defense strength.  A single enemy may be targeted multiple times by this spell.
 
-Effect is greater than that of Advanced Disrupting Ray.
+Effect is greater than that of Grundläggande Störande Stråle.
+"	"{Sofistikerad Störande Stråle}
+
+Reduces the selected enemy unit's defense strength.  A single enemy may be targeted multiple times by this spell.
+
+Effect is greater than that of Avancerad Störande Stråle.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Prayer	Prayer	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Prayer}
+Bön	Bön	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Bön}
 
 Bestows a bonus to the attack strength, defense strength and speed of the selected unit.
-"	"{Basic Prayer}
+"	"{Grundläggande Bön}
 
 Bestows a bonus to the attack strength, defense strength and speed of the selected unit.
-"	"{Advanced Prayer}
+"	"{Avancerad Bön}
 
 Bestows a bonus to the attack strength, defense strength and speed of the selected unit.
 
-Effect is twice that of Basic Prayer.
-"	"{Expert Prayer}
+Effect is twice that of Grundläggande Bön.
+"	"{Sofistikerad Bön}
 
 Bestows a bonus to the attack strength, defense strength and speed of all friendly units.
 
-Effect is twice that of Basic Prayer.
+Effect is twice that of Grundläggande Bön.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Mirth	Mirth	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Mirth}
+Glädje	Glädje	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Glädje}
 
 Increases the selected unit's morale.
-"	"{Basic Mirth}
+"	"{Grundläggande Glädje}
 
 Increases the selected unit's morale.
-"	"{Advanced Mirth}
+"	"{Avancerad Glädje}
 
 Increases the selected unit's morale.
 
-Effect is twice that of Basic Mirth.
-"	"{Expert Mirth}
+Effect is twice that of Grundläggande Glädje.
+"	"{Sofistikerad Glädje}
 
 Increases the morale of all friendly units.
 
-Effect is twice that of Basic Mirth.
+Effect is twice that of Grundläggande Glädje.
 "	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
-Sorrow	Sorrow	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Sorrow}
+Sorg	Sorg	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Sorg}
 
 Reduces the morale of the selected enemy unit.
-"	"{Basic Sorrow}
+"	"{Grundläggande Sorg}
 
 Reduces the morale of the selected enemy unit.
-"	"{Advanced Sorrow}
+"	"{Avancerad Sorg}
 
 Reduces the morale of the selected enemy unit.
 
-Effect is twice that of Basic Sorrow.
-"	"{Expert Sorrow}
+Effect is twice that of Grundläggande Sorg.
+"	"{Sofistikerad Sorg}
 
 Reduces the morale of all enemy units.
 
-Effect is twice that of Basic Sorrow.
+Effect is twice that of Grundläggande Sorg.
 "	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
-Fortune	Fortune	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Fortune}
+Flax	Flax	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Flax}
 
 Increases the selected unit's luck.
-"	"{Basic Fortune}
+"	"{Grundläggande Flax}
 
 Increases the selected unit's luck.
-"	"{Advanced Fortune}
+"	"{Avancerad Flax}
 
 Increases the selected unit's luck.
 
-Effect is twice that of Basic Fortune.
-"	"{Expert Fortune}
+Effect is twice that of Grundläggande Flax.
+"	"{Sofistikerad Flax}
 
 Increases the luck of all friendly units.
 
-Effect is twice that of Basic Fortune.
+Effect is twice that of Grundläggande Flax.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Misfortune	Misfortune	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Misfortune}
+Otur	Otur	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Otur}
 
 Reduces the luck of the selected enemy unit.
-"	"{Basic Misfortune}
-
-Reduces the luck of the selected enemy unit.
-
-Spell Point cost is half that of Normal Misfortune.
-"	"{Advanced Misfortune}
+"	"{Grundläggande Otur}
 
 Reduces the luck of the selected enemy unit.
 
-Effect is twice that of Basic Misfortune.
-"	"{Expert Misfortune}
+Spell Point cost is half that of Normal Otur.
+"	"{Avancerad Otur}
+
+Reduces the luck of the selected enemy unit.
+
+Effect is twice that of Grundläggande Otur.
+"	"{Sofistikerad Otur}
 
 Reduces the luck of all enemy units.
 
-Effect is twice that of Basic Misfortune.
+Effect is twice that of Grundläggande Otur.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Haste	Haste	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Haste}
+Skynda	Skynda	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Skynda}
 
 Increases the speed of the selected unit.
-"	"{Basic Haste}
+"	"{Grundläggande Skynda}
 
 Increases the speed of the selected unit.
-"	"{Advanced Haste}
+"	"{Avancerad Skynda}
 
 Increases the speed of the selected unit.
 
-Effect is nearly twice that of Basic Haste.
-"	"{Expert Haste}
+Effect is nearly twice that of Grundläggande Skynda.
+"	"{Sofistikerad Skynda}
 
 Increases the speed of all friendly units.
 
-Effect is nearly twice that of Basic Haste.
+Effect is nearly twice that of Grundläggande Skynda.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Slow	Slow	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Slow}
+Sakta Ner	Sakta Ner	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Sakta Ner}
 
 Reduces the speed of the selected enemy unit.
-"	"{Basic Slow}
+"	"{Grundläggande Sakta Ner}
 
 Reduces the speed of the selected enemy unit.
-"	"{Advanced Slow}
+"	"{Avancerad Sakta Ner}
 
 Reduces the speed of the selected enemy unit.
 
-Effect is twice that of Basic Slow.
-"	"{Expert Slow}
+Effect is twice that of Grundläggande Sakta Ner.
+"	"{Sofistikerad Sakta Ner}
 
 Reduces the speed of all enemy units.
 
-Effect is twice that of Basic Slow.
+Effect is twice that of Grundläggande Sakta Ner.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Slayer	Slayer	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Slayer}
+Dräpare	Dräpare	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Dräpare}
 
 Increases the amount of damage inflicted by a unit when fighting against Dragons, Behemoths and Hydras.
-"	"{Basic Slayer}
+"	"{Grundläggande Dräpare}
 
 Increases the amount of damage inflicted by a unit when fighting against Dragons, Behemoths and Hydras.
-"	"{Advanced Slayer}
+"	"{Avancerad Dräpare}
 
 Increases the amount of damage inflicted by a unit when fighting against Dragons, Behemoths, Hydras, Devils and Angels.
-"	"{Expert Slayer}
+"	"{Sofistikerad Dräpare}
 
 Increases the amount of damage inflicted by a unit when fighting against Dragons, Behemoths, Hydras, Devils, Angels and Titans.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Frenzy	Frenzy	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Frenzy}
+Frenesi	Frenesi	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Frenesi}
 
 Selected troop intentionally lowers its defenses to increase the ferocity of its attack.
-"	"{Basic Frenzy}
+"	"{Grundläggande Frenesi}
 
 Selected troop intentionally lowers its defenses to increase the ferocity of its attack.
-"	"{Advanced Frenzy}
-
-Selected troop intentionally lowers its defenses to increase the ferocity of its attack.
-
-Bonus to attack is 50% greater than Basic Frenzy.
-"	"{Expert Frenzy}
+"	"{Avancerad Frenesi}
 
 Selected troop intentionally lowers its defenses to increase the ferocity of its attack.
 
-Bonus to attack is double Basic Frenzy.
+Bonus to attack is 50% greater than Grundläggande Frenesi.
+"	"{Sofistikerad Frenesi}
+
+Selected troop intentionally lowers its defenses to increase the ferocity of its attack.
+
+Bonus to attack is double Grundläggande Frenesi.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
-Titan's Lightning Bolt	Titan's Bolt	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Titan's Lightning Bolt}
+Titanens Åskblixt	Titanens Blixt	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Titanens Åskblixt}
 
-Does 600 points of damage at no spell cost to the spellcaster."	"{Titan's Lightning Bolt}
+Does 600 points of damage at no spell cost to the spellcaster."	"{Titanens Åskblixt}
 
-Does 600 points of damage at no spell cost to the spellcaster."	"{Titan's Lightning Bolt}
+Does 600 points of damage at no spell cost to the spellcaster."	"{Titanens Åskblixt}
 
-Does 600 points of damage at no spell cost to the spellcaster."	"{Titan's Lightning Bolt}
+Does 600 points of damage at no spell cost to the spellcaster."	"{Titanens Åskblixt}
 
 Does 600 points of damage at no spell cost to the spellcaster."	
-Counterstrike	Counterstrike	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Counterstrike}
+Motslag	Motslag	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Motslag}
 
 The selected unit will retaliate against one additional attack each round.
-"	"{Basic Counterstrike}
+"	"{Grundläggande Motslag}
 
 The selected unit will retaliate against one additional attack each round.
-"	"{Advanced Counterstrike}
+"	"{Avancerad Motslag}
 
 The selected unit will retaliate against two additional attacks each round.
-"	"{Expert Counterstrike}
+"	"{Sofistikerad Motslag}
 
 All friendly units will retaliate against two additional attacks each round.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Berserk	Berserk	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Berserk}
+Bärsärkargång	Bärsärkargång	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Bärsärkargång}
 
 The targeted unit will randomly attack the nearest unit, be it friend or foe.
-"	"{Basic Berserk}
+"	"{Grundläggande Bärsärkargång}
 
 The targeted unit will randomly attack the nearest unit, be it friend or foe.
-"	"{Advanced Berserk}
-
-The targeted unit will randomly attack the nearest unit, be it friend or foe.
-
-Area of effect is six hexes greater than Basic Berserk.
-"	"{Expert Berserk}
+"	"{Avancerad Bärsärkargång}
 
 The targeted unit will randomly attack the nearest unit, be it friend or foe.
 
-Area of effect is eighteen hexes greater than Basic Berserk.
+Area of effect is six hexes greater than Grundläggande Bärsärkargång.
+"	"{Sofistikerad Bärsärkargång}
+
+The targeted unit will randomly attack the nearest unit, be it friend or foe.
+
+Area of effect is eighteen hexes greater than Grundläggande Bärsärkargång.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
-Hypnotize	Hypnotize	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hypnotize}
+Hypnotisera	Hypnotisera	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hypnotisera}
 
 Puts an enemy unit temporarily under your control.
-"	"{Basic Hypnotize}
+"	"{Grundläggande Hypnotisera}
 
 Puts an enemy unit temporarily under your control.
-"	"{Advanced Hypnotize}
-
-Puts an enemy unit temporarily under your control.
-
-Allows you to control an additional 10 hit points of enemies over Basic Hypnotize.
-"	"{Expert Hypnotize}
+"	"{Avancerad Hypnotisera}
 
 Puts an enemy unit temporarily under your control.
 
-Allows you to control an additional 40 hit points of enemies over Basic Hypnotize.
+Allows you to control an additional 10 hit points of enemies over Grundläggande Hypnotisera.
+"	"{Sofistikerad Hypnotisera}
+
+Puts an enemy unit temporarily under your control.
+
+Allows you to control an additional 40 hit points of enemies over Grundläggande Hypnotisera.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
-Forgetfulness	Forgetfulness	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Forgetfulness}
+Glömska	Glömska	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Glömska}
 
 Half of the selected enemy unit forgets to use its ranged attack.
-"	"{Basic Forgetfulness}
+"	"{Grundläggande Glömska}
 
 Half of the selected enemy unit forgets to use its ranged attack.
-"	"{Advanced Forgetfulness}
+"	"{Avancerad Glömska}
 
 Causes the selected enemy unit to forget to use its ranged attack in combat.
-"	"{Expert Forgetfulness}
+"	"{Sofistikerad Glömska}
 
 Causes all enemy troops to forget to use their ranged attack in combat.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
-Blind	Blind	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Blind}
+Förblinda	Förblinda	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Förblinda}
 
-Blinds a creature so that it cannot move and causes it to counterattack at half its normal attack strength.  Blindness persists until the unit is attacked or dispelled.
-"	"{Basic Blind}
+Förblindas a creature so that it cannot move and causes it to counterattack at half its normal attack strength.  Blindness persists until the unit is attacked or dispelled.
+"	"{Grundläggande Förblinda}
 
-Blinds a creature so that it cannot move and causes it to counterattack at half its normal attack strength.  Blindness persists until the unit is attacked or dispelled.
-"	"{Advanced Blind}
+Förblindas a creature so that it cannot move and causes it to counterattack at half its normal attack strength.  Blindness persists until the unit is attacked or dispelled.
+"	"{Avancerad Förblinda}
 
-Blinds a creature so that it cannot move and causes it to counterattack at one-quarter of its normal attack strength.  Blindness persists until the unit is attacked or dispelled.
-"	"{Expert Blind}
+Förblindas a creature so that it cannot move and causes it to counterattack at one-quarter of its normal attack strength.  Blindness persists until the unit is attacked or dispelled.
+"	"{Sofistikerad Förblinda}
 
-Blinds a creature so that it cannot move or counterattack.  Blindness persists until the unit is attacked or dispelled.
+Förblindas a creature so that it cannot move or counterattack.  Blindness persists until the unit is attacked or dispelled.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Teleport	Teleport	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleport}
+Teleportera	Teleportera	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleportera}
 
-Teleports any friendly unit to any unoccupied spot on the battlefield.
-"	"{Basic Teleport}
+Teleporteras any friendly unit to any unoccupied spot on the battlefield.
+"	"{Grundläggande Teleportera}
 
-Teleports any friendly unit to an unoccupied spot on the battlefield.
+Teleporteras any friendly unit to an unoccupied spot on the battlefield.
 
-Troop cannot teleport over walls or moats.
-"	"{Advanced Teleport}
+Troop cannot Teleportera over walls or moats.
+"	"{Avancerad Teleportera}
 
-Teleports any friendly unit to an unoccupied spot on the battlefield.
+Teleporteras any friendly unit to an unoccupied spot on the battlefield.
 
-Troop cannot teleport over walls.
-"	"{Expert Teleport}
+Troop cannot Teleportera over walls.
+"	"{Sofistikerad Teleportera}
 
-Teleports any friendly unit to any unoccupied spot on the battlefield.
+Teleporteras any friendly unit to any unoccupied spot on the battlefield.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Remove Obstacle	Remove Obstacle	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Remove Obstacle}
+Ta bort Hinder	Ta bort Hinder	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Ta bort Hinder}
 
 Removes any normal obstacle (trees, rocks, etc.) of the caster's choice from the battlefield.
-"	"{Basic Remove Obstacle}
+"	"{Grundläggande Ta bort Hinder}
 
 Removes any normal obstacle (trees, rocks, etc.) of the caster's choice from the battlefield.
-"	"{Advanced Remove Obstacle}
+"	"{Avancerad Ta bort Hinder}
 
-Removes any normal obstacle (trees, rocks, etc.) or Fire Wall of the caster's choice from the battlefield.
-"	"{Expert Remove Obstacle}
+Removes any normal obstacle (trees, rocks, etc.) or Fire Wall of the caster's choice from the battlefieldlix"	"{Sofistikerad Ta bort Hinder}
 
 Removes any normal or magical obstacle of the caster's choice from the battlefield.
 "	 COMBAT_SPELL|OBSTACLE_TARGET
-Clone	Clone	4	 	x	 	 	24	20	20	20	0	5	5	6	7	5	5	10	5	5	5	0	0	10	20	20	40	50	"{Clone}
+Klona	Klona	4	 	x	 	 	24	20	20	20	0	5	5	6	7	5	5	10	5	5	5	0	0	10	20	20	40	50	"{Klona}
 
 Creates a duplicate of the selected unit stack.  The image is dispelled if it is attacked.
 
-Clones creatures of levels 1-5.
-"	"{Basic Clone}
+Klonas creatures of levels 1-5.
+"	"{Grundläggande Klona}
 
 Creates a duplicate of the selected unit stack.  The image is dispelled if it is attacked.
 
-Clones creatures of levels 1-5.
-"	"{Advanced Clone}
+Klonas creatures of levels 1-5.
+"	"{Avancerad Klona}
 
 Creates a duplicate of the selected unit stack.  The image is dispelled if it is attacked.
 
-Clones creatures of levels 1-6.
-"	"{Expert Clone}
+Klonas creatures of levels 1-6.
+"	"{Sofistikerad Klona}
 
 Creates a duplicate of the selected unit stack.  The image is dispelled if it is attacked.
 
-Clones creatures of any level.
+Klonas creatures of any level.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Fire Elemental	Fire Elemental	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Summon Fire Elemental}
 
 Allows you to summon fire elementals.  Once cast, no other elemental types may be summoned.
-"	"{Basic Summon Fire Elemental}
+"	"{Grundläggande Summon Fire Elemental}
 
 Allows you to summon fire elementals.  Once cast, no other elemental types may be summoned.
-"	"{Advanced Summon Fire Elemental}
-
-Allows you to summon fire elementals.  Once cast, no other elemental types may be summoned.
-
-Summons approximately one-and-a-half times the number of units as Basic Summon Fire Elemental.
-"	"{Expert Summon Fire Elemental}
+"	"{Avancerad Summon Fire Elemental}
 
 Allows you to summon fire elementals.  Once cast, no other elemental types may be summoned.
 
-Summons approximately twice the number of units as Basic Summon Fire Elemental.
+Summons approximately one-and-a-half times the number of units as Grundläggande Summon Fire Elemental.
+"	"{Sofistikerad Summon Fire Elemental}
+
+Allows you to summon fire elementals.  Once cast, no other elemental types may be summoned.
+
+Summons approximately twice the number of units as Grundläggande Summon Fire Elemental.
 "	 COMBAT_SPELL
 Earth Elemental	Earth Elemental	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Summon Earth Elemental}
 
 Allows you to summon earth elementals.  Once cast, no other elemental types may be summoned.
-"	"{Basic Summon Earth Elemental}
+"	"{Grundläggande Summon Earth Elemental}
 
 Allows you to summon earth elementals.  Once cast, no other elemental types may be summoned.
-"	"{Advanced Summon Earth Elemental}
-
-Allows you to summon earth elementals.  Once cast, no other elemental types may be summoned.
-
-Summons approximately one-and-a-half times the number of units as Basic Summon Creature.
-"	"{Expert Summon Earth Elemental}
+"	"{Avancerad Summon Earth Elemental}
 
 Allows you to summon earth elementals.  Once cast, no other elemental types may be summoned.
 
-Summons approximately twice the number of units as Basic Summon Creature.
+Summons approximately one-and-a-half times the number of units as Grundläggande Summon Creature.
+"	"{Sofistikerad Summon Earth Elemental}
+
+Allows you to summon earth elementals.  Once cast, no other elemental types may be summoned.
+
+Summons approximately twice the number of units as Grundläggande Summon Creature.
 "	 COMBAT_SPELL
 Water Elemental	Water Elemental	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Summon Water Elemental}
 
 Allows you to summon water elementals.  Once cast, no other elemental types may be summoned.
-"	"{Basic Summon Water Elemental}
+"	"{Grundläggande Summon Water Elemental}
 
 Allows you to summon water elementals.  Once cast, no other elemental types may be summoned.
-"	"{Advanced Summon Water Elemental}
-
-Allows you to summon water elementals.  Once cast, no other elemental types may be summoned.
-
-Summons approximately one-and-a-half times the number of units as Basic Summon Water Elemental.
-"	"{Expert Summon Water Elemental}
+"	"{Avancerad Summon Water Elemental}
 
 Allows you to summon water elementals.  Once cast, no other elemental types may be summoned.
 
-Summons approximately twice the number of units as Basic Summon Water Elemental.
+Summons approximately one-and-a-half times the number of units as Grundläggande Summon Water Elemental.
+"	"{Sofistikerad Summon Water Elemental}
+
+Allows you to summon water elementals.  Once cast, no other elemental types may be summoned.
+
+Summons approximately twice the number of units as Grundläggande Summon Water Elemental.
 "	 COMBAT_SPELL
 Air Elemental	Air Elemental	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Summon Air Elemental}
 
 Allows you to summon air elementals.  Once cast, no other elemental types may be summoned.
-"	"{Basic Summon Air Elemental}
+"	"{Grundläggande Summon Air Elemental}
 
 Allows you to summon air elementals.  Once cast, no other elemental types may be summoned.
-"	"{Advanced Summon Air Elemental}
-
-Allows you to summon air elementals.  Once cast, no other elemental types may be summoned.
-
-Summons approximately one-and-a-half times the number of units as Basic Summon Air Elemental.
-"	"{Expert Summon Air Elemental}
+"	"{Avancerad Summon Air Elemental}
 
 Allows you to summon air elementals.  Once cast, no other elemental types may be summoned.
 
-Summons approximately twice the number of units as Basic Summon Air Elemental.
+Summons approximately one-and-a-half times the number of units as Grundläggande Summon Air Elemental.
+"	"{Sofistikerad Summon Air Elemental}
+
+Allows you to summon air elementals.  Once cast, no other elemental types may be summoned.
+
+Summons approximately twice the number of units as Grundläggande Summon Air Elemental.
 "	 COMBAT_SPELL
 																																	
 Creature Abilities																																	
 																																	
-Stone Gaze	Stone Gaze	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Poison	Poison	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Förstenande Blick	Förstenande Blick	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Förgifta	Förgifta	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Bind	Bind	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Disease	Disease	2					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Paralyze	Paralyze	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Age	Age	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Death Cloud	Death Cloud	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Thunderbolt	Thunderbolt	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Dispel Helpful Spells	Dispel Helpful Spells	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
-Death Stare	Death Stare	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
-Acid breath	Acid Breath	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Sjukdom	Sjukdom	2					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Paralysera	Paralysera	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Föråldra	Föråldra	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Dödsmoln	Dödsmoln	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Åskblixt	Åskblixt	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Bryt hjälpande förtrollningar	Bryt hjälpande förtrollningar	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Dödsblick	Dödsblick	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Syrlig andedräkt	Syrlig andedräkt	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
