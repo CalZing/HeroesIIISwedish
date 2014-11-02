@@ -1,50 +1,50 @@
 Castellatus
-Cornerstone
-Kanan
-Highcastle
-Whitemoon
-Transom
-Middleheim
-Brettonia
-Alexandretta
-Whitestone
-Claxton
-Armitage
-Whistledale
-Gateway
-Dunwall
-Kildare
-Wise Oak
-Forest
-Fortune Keep
-Still Water
-Elfwind
-Serenity
-Ceiliedgh
-Gladeroot
-Forest Glen
-Rainhaven
-Strongglen
-Marishen
-Bath'iere
-Green Falls
-Emerald Moor
-Wild Willow
-Machina
-Stronggale
-Corona
-Silverwing
-Facture
-Cloudfire
-Cloudspire
-Equinox
-Athenaeum
-Valtara
-Tirith
-Fallen Star
-Mystos
-Ayer
-Silverspire
+Hörnsten
+Kananby
+Högborg
+Vitmåne
+Transarp
+Midgård
+Brettlanda
+Alexandrene
+Vitstena
+Klagserum
+Armitala
+Visseldal
+Portsala
+Dunvalla
+Kildånger
+Viseke
+Skogsby
+Tornlycke
+Stillvattnet
+Alvedrag
+Lugnet
+Takinge
+Rotgläntan
+Skogsdal
+Regnhamn
+Starklunda
+Marishus
+Bathärad
+Grönfallet
+Stenshed
+Vildhester
+Mackina
+Starktuna
+Hov
+Silverboda
+Fakturen
+Eldmolnet
+Molnspira
+Dagjämningen
+Atenaum
+Valtavaara
+Tritie
+Fallna Stjärnan
+Mistos
+Ajer
+Silverspiran
 Manufactury
 Abaddon
 Acheron
