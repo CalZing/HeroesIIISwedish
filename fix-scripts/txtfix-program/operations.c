@@ -15,6 +15,18 @@ static ssize_t find_next_lb(const char *data, ssize_t offset, ssize_t max_len)
   return max_len;
 }
 
+/* Same as above, but also check for tabs */
+static ssize_t find_next_ws(const char *data, ssize_t offset, ssize_t max_len)
+{
+  while (offset < max_len) {
+    if (!strncmp(data + offset, "\r\n", 2) || !strncmp(data + offset, "\n", 1) || !strncmp(data + offset, "\t", 1))
+      return offset;
+    offset++;
+  }
+  return max_len;
+}
+
+
 
 /* Replace all linebreaks in indata with the ones in linedata. */
 void *do_linebreak(const char *indata, ssize_t inlen, const char *linedata, ssize_t linelen, ssize_t *outlen)
@@ -77,12 +89,14 @@ int do_linecmp(const char *indata, ssize_t inlen, const char *linedata, ssize_t 
 {
   ssize_t inpos, linepos;
 
+  int row = 1;
+  int tab = 1;
   inpos = 0;
   linepos = 0;
 
   while (inpos < inlen && linepos < linelen) {
-    inpos = find_next_lb(indata, inpos, inlen);
-    linepos = find_next_lb(linedata, linepos, linelen);
+    inpos = find_next_ws(indata, inpos, inlen);
+    linepos = find_next_ws(linedata, linepos, linelen);
 
     /* Skip linebreaks from input file */
     if (!strncmp(indata + inpos, "\r\n", 2)) {
@@ -90,23 +104,33 @@ int do_linecmp(const char *indata, ssize_t inlen, const char *linedata, ssize_t 
         goto out_nonmatch;
       inpos += 2;
       linepos += 2;
+      row++;
+      tab = 1;
     } else if (indata[inpos] == '\n') {
       if (linedata[linepos] != '\n')
         goto out_nonmatch;
       inpos++;
       linepos++;
+      row++;
+      tab = 1;
+    } else if (indata[inpos] == '\t') {
+      if (linedata[linepos] != '\t')
+        goto out_nonmatch;
+      inpos++;
+      linepos++;
+      tab++;
     } else {
       goto out_nonmatch;
     }
   }
 
   if (inpos != inlen || linepos != linelen) {
-    fprintf(stderr, "Number of lines does not match!\n");
+    fprintf(stderr, "Number of lines and tabs does not match!\n");
   }
   return EXIT_SUCCESS;
 
 out_nonmatch:
-  fprintf(stderr, "Linebreaks don't match!\n");
+  fprintf(stderr, "Match error at row %d, tab %d!\n", row, tab);
   return EXIT_FAILURE;
 
 }
