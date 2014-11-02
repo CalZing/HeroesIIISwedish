@@ -1016,7 +1016,8 @@ Removes any normal obstacle (trees, rocks, etc.) of the caster's choice from the
 Removes any normal obstacle (trees, rocks, etc.) of the caster's choice from the battlefield.
 "	"{Avancerad Ta bort Hinder}
 
-Removes any normal obstacle (trees, rocks, etc.) or Fire Wall of the caster's choice from the battlefieldlix"	"{Sofistikerad Ta bort Hinder}
+Removes any normal obstacle (trees, rocks, etc.) or Fire Wall of the caster's choice from the battlefield.
+"	"{Sofistikerad Ta bort Hinder}
 
 Removes any normal or magical obstacle of the caster's choice from the battlefield.
 "	 COMBAT_SPELL|OBSTACLE_TARGET
