@@ -7,6 +7,7 @@ Status
 ======
 
 Kvar:
+
 Overview.txt
 ObjNames.txt
 Monolith.txt
@@ -33,6 +34,7 @@ artevent.txt
 CREDITS.TXT
 
 Påbörjade:
+
 BldgSpec.txt
 CrGen1.txt
 SPTRAITS.TXT
