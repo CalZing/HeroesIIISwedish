@@ -395,10 +395,10 @@ Den odöda Kungens Mantel																			x		R	"{Den odöda Kungens Mantel}
 30% av de döda från varje slagfält återuppväcks som Skelett. Om hjälten redan har Dödsmagi-förmågan då läggs procenten till den förmågan samt nivån av förmågan bestämmer vilken typ som återuppväcks. Grundläggande: Skelett
 Avancerad: Gastar
 Sofistikerad: Häxmästare"
-Livets Elixir						x	x	x	x	x										R	"{Livets Elixir}
+Livets Elixir							x	x	x	x	x										R	"{Livets Elixir}
 
 Alla varelser får en 25% bonus i hälsa och får regenerations-förmåga. Fungerar inte på Odöda eller icke levande varelser"
-Den Förbannade Rustningen														x						R	"{Den Förbannade Rustningen}
+Den Förbannade Rustningen															x						R	"{Den Förbannade Rustningen}
 
 Alla motståndare får dessa förtrollningar på sig i femtio turer: Långsam, Förbannelse, Svaghet och Otur."
 Legionens Staty							x	x	x	x	x										R	"{Legionens Staty}
@@ -407,7 +407,7 @@ All varelseproduktion ökar med 50%, i alla städer beroende på stadens generation
 Drakpappans Krafter															x						R	"{Drakpappans Krafter}
 
 +6 till alla primära förmågor. Dina varelser är immuna mot alla trollformler mellan nivå 1 - 4."
-Titanens Åska																x				R	"{Titanens Åska}
+Titanens Åska																	x				R	"{Titanens Åska}
 
 Hjälten får förmågan att kasta Blixtar för 600 skada som inte kostar några trollformelspoäng. En Trollformelsbok ges till hjälten (permanent)."
 Amiralens Hatt																				x	R	"{Amiralens Hatt}
@@ -416,7 +416,7 @@ Ingen bordning- eller avbordningsförlust sker. Omvandlar förflyttningspoäng mell
 Skarpskyttens Båge							x	x	x	x	x						 				R	"{Skarpskyttens Båge}
 
 Skyttar kan skjuta projektiler även om fiende står bredvid. Skyttar kan skjuta hur långt som helst och genom alla hinder."
-Tollkarlens Brunn						x	x	x	x	x										R	"{Trollkarlens Brunn}
+Trollkarlens Brunn							x	x	x	x	x										R	"{Trollkarlens Brunn}
 
 Regenererar alla trollformelspoäng varje dag"
 Magiringen													x	x							R	"{Magiringen}
@@ -425,10 +425,10 @@ Lägger till 50 runder till dina trollformlers hållbarhet."
 KornuKopia							x	x	x	x	x										R	"{KornuKopia}
 
 Genererar 4 av varje specialresurs, varje dag."
-Diplomatens Dräkt																		x		R	"{Diplomatens Dräkt}
+Diplomatens Dräkt																			x		R	"{Diplomatens Dräkt}
 
 Detta är en jättebra artefakt."
-Marinerad i neutralitet															x						R	"{Marinerad i neutralitet	}
+Marinerad i neutralitet															x						R	"{Marinerad i neutralitet}
 
 Detta är en jättebra artefakt."
 Resens Järnnäve																	x				R	"{Resens Järnnäve}

@@ -78,7 +78,7 @@ Drakgrotta	Drakgrottan låter dig rekrytera Röddrakar.
 Upg. Grotta	Grottan låter dig rekrytera Infernaliska Troglodyter.
 Upg. Vråkloft	Vråkloftet låter dig rekrytera Vildvittror.
 Upg. Ögonpelare	Ögonpelaren låter dig rekrytera Onda Ögon.
-Upg. Tysta Rösternas Kapell Tysta Rösternas Kapell låter dig rekrytera Medusadrottningar.
+Upg. Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusadrottningar.
 Upg. Labyrint	Labyrinten låter dig rekrytera Minotaurkungar.
 Upg. Manticore Lair	The Manticore Lair allows you to recruit Scorpicores.
 Upg. Drakgrotta	Drakgrottan låter dig rekrytera Svartdrakar.

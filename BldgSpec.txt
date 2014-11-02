@@ -10,7 +10,7 @@ Svärdets Brödrarskap	"Under en belägring så ökar Svärdets Brödrarskap dina trupp
 Kolossen	"Kolossens närvaro ökar den veckoliga tillväxten av varelser med 50%, ökar din dagliga inkomst av guld med 5000, och ökar alla allierade hjältars moral med +2."	
 Resurssilo	Resurssilon förser dig med +1 ved och +1 sten varje dag.	
 Mystisk Damm	Den Mystiska Dammen producerar en liten mängd slumpade resurser varje vecka.	
-Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Dvärgar med 4 per vecka.
+Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Dvärgar med 4 per vecka.	
 Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Strids Dvärgar med 4 per vecka.	
 		
 Välgångens Fontän	The Fountain of Fortune increases the luck of the garrison hero by +2 when defending against a siege.	
