@@ -15,19 +15,9 @@ endir=en/
 for f in $svdir*.txt $svdir*.TXT
 do
   fname=$($sedcmd -e 's&.*\/&&g' <<< $f)
-  echo $f
   echo $fname
-  # Create file containing EOL information
-  $sedcmd -z -e 's/[^\x0D\x0A]//g' $endir$fname > $fname.orignl
 
-  # Create file containing EOL information
-  $sedcmd -z -e 's/[^\x0D\x0A]//g' $svdir$fname > $fname.newnl
-
-  diff $fname.newnl $fname.orignl
-
-# Remove temporary eol-file and nocr-file
-  rm $fname.orignl
-  rm $fname.newnl
+  ./txtfix -i $svdir$fname -l $endir$fname -c
 done
 
 
