@@ -1,10 +1,10 @@
 Castellatus
-H�rnsten
+Hörnsten
 Kananby
-H�gborg
-Vitm�ne
+Högborg
+Vitmåne
 Transarp
-Midg�rd
+Midgård
 Brettlanda
 Alexandrene
 Vitstena
@@ -13,7 +13,7 @@ Armitala
 Visseldal
 Portsala
 Dunvalla
-Kild�nger
+Kildånger
 Viseke
 Skogsby
 Tornlycke
@@ -21,13 +21,13 @@ Stillvattnet
 Alvedrag
 Lugnet
 Takinge
-Rotgl�ntan
+Rotgläntan
 Skogsdal
 Regnhamn
 Starklunda
 Marishus
-Bath�rad
-Gr�nfallet
+Bathärad
+Grönfallet
 Stenshed
 Vildhester
 Mackina
@@ -37,74 +37,74 @@ Silverboda
 Fakturen
 Eldmolnet
 Molnspira
-Dagj�mningen
+Dagjämningen
 Atenaum
 Valtavaara
 Tritie
-Fallna Stj�rnan
+Fallna Stjärnan
 Mistos
 Ajer
 Silverspiran
-Manufactury
-Abaddon
-Acheron
-Ashden
-Brimstone
-Candent
-Cinderspire
-Daemon Gate
-Enkindle
+Skaphammar
+Abaddshus
+Ackerlösa
+Askberg
+Svavelsten
+Glödnäs
+Askspira
+Demonshamn
+Tändkyrka
 Gehenna
-Firebrand
-Ashcombe
-Hellwind
+Eldmåla
+Askängen
+Helvetesblåsten
 Stygius
 Styx
-Tartaros
-Blackburn
-Haunt's Wind
+Stendalen
+Svartlåga
+Spökblåsa
 Cessacioun
-Agony
-Sanctum
-Terminus
-Blackquarter
-Death's Gate
-Grave Raven
-Dark Cloud
-Coldsoul
-Coldreign
-Dark Eternal
-Ghostwind
-Blight
-Shadow Keep
-Worm Warren
-Veks
-Sorrow Crown
-Chillwater
-Deepshadow
-Darkhold
-Blindroot
-Shadowden
-Scar
-Malev
-Castigare
-Dragonnade
-Shade
-Evernight
-Darkburrow
-Lost Hold
-Coldshadow
+Vånda
+Helgedomen
+Ände
+Svarthögsborg
+Dödhamn
+Korpgrava
+Mörkemoln
+Kallsjäl
+Svalshög
+Evighetsmörkret
+Spökblåsten
+Fördärvet
+Skuggköping
+Maskhem
+Växjö
+Sorgkrona
+Lugnvattnet
+Skuggadjup
+Fästmörka
+Blindrote
+Skuggberg
+Skråma
+Maleva
+Tuktele
+Drakbo
+Skugge
+Långnatten
+Mörkhåla
+Berövade fästet
+Svalskuggan
 Kragg
-Drago Breach
-Hartgrim
-Sandflash
-Morganheim
-Cragmoor
-Dragonspire
-Battlement
-Bocc
-Slau
-Tormina
+Drakbrottet
+Hjortbister
+Sandblixt
+Morgonhem
+Kragshed
+Drakspira
+Stridslycke
+Bocka
+Slå
+Plågbo
 Dolere
 Rockwarren
 Strongglen
