@@ -8,30 +8,30 @@ Status
 
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
-| Overview.txt  |               |              |
-| ObjNames.txt  |               |              |
-| Monolith.txt  |               |              |
-| HeroScrn.txt  |               |              |
-| TCommand.txt  |               |              |
-| Walls.txt     |               |              |
-| MINEEVNT.TXT  |               |              |
-| SeerHut.txt   |               |              |
-| Help.txt      |               |              |
-| CrBanks.txt   |               |              |
-| CrGen4.txt    |               |              |
-| TvrnInfo.txt  |               |              |
-|               | TownName.txt  |              |
-| HeroSpec.txt  |               |              |
-| randsign.txt  |               |              |
-| randtvrn.txt  |               |              |
-| HeroBios.txt  |               |              |
-| advevent.txt  |               |              |
-| artevent.txt  |               |              |
-| CREDITS.TXT   |               |              |
+|               | GENRLTXT.TXT  |              |
 |               | BldgSpec.txt  |              |
 |               | CrGen1.txt    |              |
 |               | SPTRAITS.TXT  |              |
-|               | GENRLTXT.TXT  |              |
+|               | TownName.txt  |              |
+| ObjNames.txt  |               |              |
+| CrBanks.txt   |               |              |
+| CrGen4.txt    |               |              |
+| Help.txt      |               |              |
+| HeroScrn.txt  |               |              |
+| Overview.txt  |               |              |
+| Monolith.txt  |               |              |
+| TCommand.txt  |               |              |
+| Walls.txt     |               |              |
+| SeerHut.txt   |               |              |
+| TvrnInfo.txt  |               |              |
+| randsign.txt  |               |              |
+| randtvrn.txt  |               |              |
+| HeroBios.txt  |               |              |
+| HeroSpec.txt  |               |              |
+| MINEEVNT.TXT  |               |              |
+| advevent.txt  |               |              |
+| artevent.txt  |               |              |
+| CREDITS.TXT   |               |              |
 |               |               | ArtSlots.txt |
 |               |               | BldgNeut.txt |
 |               |               | CastInfo.txt |
@@ -64,6 +64,12 @@ Engelska      | Svenska
 Attack        | Anfall
 Defense       | Försvar
 Misc.         | Div/Diverse
+Item          | Föremål
+Hero          | Hjälte
+Spell         | Trollformel
+Spell Point   | Trollformelspoäng
+Artifact      | Artefakt
+Town          | Stad
 
 
 
@@ -75,4 +81,6 @@ Försök att hålla tabbar, radbryt, etc intakta. Spelet kan hänga sig om detta
 Installation
 ============
 
-Man behöver inte alls paja sin nuvarande installation för att spela Heroes på svenska. Tanka bara ned zip-filen med .txt filerna och packa upp den i "Data"-mappen på din heroes-installation. Det är rekommenderat att bara kopeiera över de filer som är markerade som "Användbar", annars kan allt möjligt hända. Inga filer kommer behöva skrivas över. Om du inte längre vill spela med svensk text, ta bort filerna eller flytta dem till annan plats på datan.
+Man behöver inte alls paja sin nuvarande installation för att spela Heroes på svenska. Tanka bara ned zip-filen med .txt filerna och packa upp den i "Data"-mappen på din heroes-installation.
+
+Om du inte längre vill spela med svensk text, ta bort filerna eller flytta dem till en annan plats på din data.
