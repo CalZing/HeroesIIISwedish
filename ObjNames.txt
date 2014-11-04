@@ -1,68 +1,68 @@
 Nothing	
 	
-Altar of Sacrifice	
-Anchor Point	
+Offeraltare	
+Ankarpunkt	
 Arena	
-Artifact	
-Pandora's Box	
-Black Market	
-Boat	
-Border Guard	
-Keymaster's Tent	
-Buoy	
-Campfire	
-Cartographer	
-Swan Pond	
+Artefakt	
+Pandora's Ask	
+Svart Marknad	
+Båt	
+Gränsvakt	
+Nyckelmästarens Tält	
+Buoj	
+Lägereld	
+Kartograd	
+Svandamm	
 Cover of Darkness	
-Creature Bank
-Creature Generator 1
-Creature Generator 2
-Creature Generator 3
-Creature Generator 4
+Varelsebank
+Varelsegenerator 1
+Varelsegenerator 2
+Varelsegenerator 3
+Varelsegenerator 4
 Cursed Ground
-Corpse
-Marletto Tower
-Derelict Ship
-Dragon Utopia
-Event
-Eye of the Magi
-Faerie Ring
-Flotsam
-Fountain of Fortune
-Fountain of Youth
-Garden of Revelation
-Garrison
-Hero
-Hill Fort
-Grail
-Hut of the Magi
-Idol of Fortune
-Lean To
+Lik
+Martellotorn
+Övergivet Skepp
+Drakutopi
+Händelse
+Magikerns Öga
+Alvring
+Vrakgods
+Turens Fontän
+Ungdomens Källa
+Uppenbarelsens Trädgård
+Garnison
+Hjälte
+KullFort
+Gral
+Magikerns Hydda
+Turens Avgud
+Vindskydd
 
-Library of Enlightenment
-Lighthouse
-Monolith One Way Entrance
-Monolith One Way Exit
-Monolith Two Way
-Magic Plains
-School of Magic
+Upplysningens Bibliotek
+Fyr
+Monolit Envägs Ingång
+Monolit Envägs Utgång
+Monolit Tvåvägs
+Magiska Slätter
+Magins Skola
 Magic Spring
 Magic Well
-Market of Time
-Mercenary Camp
-Mermaids
-Mine
+Tidens Marknad
+Legosoldatsläger
+Sjöjungfrur
+Gruva
 Monster
-Mystical Garden
-Oasis
+Mystiska Trädgården
+Oas
 Obelisk
-Redwood Observatory
-Ocean Bottle
-Pillar of Fire
-Star Axis
-Prison
+Redwood-Observatorie
+Flaskpost
+Eldpelare
+Stjärnaxel
+Fängelse
 Pyramid
-Rally Flag
+Samlingsflagga
 Random Artifact
 Random Treasure Artifact
 Random Minor Artifact
@@ -76,87 +76,87 @@ Random Monster 3
 Random Monster 4
 Random Resource
 Random Town
-Refugee Camp
-Resource
-Sanctuary
-Scholar
-Sea Chest
-Seer's Hut
-Crypt
-Shipwreck
-Shipwreck Survivor
-Shipyard
-Shrine of Magic Incantation
-Shrine of Magic Gesture
-Shrine of Magic Thought
-Sign
-Sirens
-Spell Scroll
-Stables
-Tavern
-Temple
-Den of Thieves
-Town
-Trading Post
-Learning Stone
-Treasure Chest
-Tree of Knowledge
-Subterranean Gate
-University
-Wagon
-War Machine Factory
-School of War
-Warrior's Tomb
-Water Wheel
-Watering Hole
-Whirlpool
-Windmill
-Witch Hut
-Brush
-Bush
-Cactus
-Canyon
-Crater
-Dead Vegetation
-Flowers
-Frozen Lake
+Flyktingläger
+Resurs
+Kyrkogård
+Lärd Man
+Havskista
+Siarens Hydda
+Krypta
+Skeppsvrak
+Skeppsvraksöverlevare
+Varv
+Magiska Besvärjelsens Helgedom
+Magiska Gestens Helgedom
+Magiska Tankens Helgedom
+Skylt
+Sirener
+Trollformelsrulle
+Stall
+Taverna
+Tempel
+Tjuvlya
+Stad
+Handelspost
+Lärandesten
+Skattkista
+Kunskapens Träd
+Underjordisk Port
+Universitet
+WVagn
+Krigsmaskinsfabrik
+Krigsskola
+Krigarens Grav
+Vattenhjul
+Vattenhål
+Strömvirvel
+Kvarn
+Häxhydda
+Snårskog
+Buske
+Kaktus
+Kanjon
+Krater
+Död Växtlighet
+Blommor
+Frusen Sjö
 Hedge
-Hill
-Hole
+Kulle
+Hål
 Kelp
-Lake
+Sjö
 Lava Flow
-Lava Lake	
-Mushrooms	
-Log	
+Lavasjö	
+Svampar	
+Stock	
 Mandrake	
 Moss	
 Mound	
-Mountain	
-Oak Trees	
+Berg	
+Ekar	
 Outcropping	
-Pine Trees	
+Tallar	
 Plant	
 	
 	
 	
 	
-River Delta	
+Flod-Delta	
 	
 	
 	
-Rock	
-Sand Dune	
+Klippa	
+Sanddyna	
 Sand Pit	
 Shrub	
-Skull	
+Skalle	
 Stalagmite	
 Stump	
 Tar Pit	
-Trees	
+Träd	
 Vine	
 Volcanic Vent	
-Volcano	
+Vulkan	
 Willow Trees	
 Yucca Trees
 Reef
@@ -217,15 +217,15 @@ Quest Guard
 Random Dwelling
 
 
-Garrison
-Mine
-Trading Post
+Garnison
+Gruba
+Handelsplats
 Clover Field
 Cursed Ground
 Evil Fog
 Favorable Winds
 Fiery Fields
-Holy Ground
+Helig Mark
 Lucid Pools
 Magic Clouds
 Magic Plains
