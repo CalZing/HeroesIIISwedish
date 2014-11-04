@@ -192,139 +192,139 @@ Marknadsplats
 Bytespost
 enheter
 enhet
-Du har fått ett rätt bra bud. Jag kommer inte tjäna något på den här affären. Kan jag intressera dig av någon av mina andra varorav fiendes döda som?
-"Please inspect our fine wares.  If you feel like offering a trade, click on the items you wish to trade with and for."
+Du har fått ett rätt bra bud. Jag kommer inte tjäna något på den här affären. Kan jag intressera dig av någon av mina andra varo?
+"Ta en titt på våra fina grejer. Om du känner för att göra ett byte, klicka på sakerna du vill byta mot."
 n/a
-I can give %s to the %s player.
-Are there any other resources you'd like to give away?
-"If you'd like to give any of your resources to another player, click on the item you wish to give and to whom."
-Available for Trade
-Players
-%s protects the %s
-%s can only be cast on hostile creatures
-1st lev
-2nd lev
-3rd lev
-4th lev
-5th lev
-%s can only be cast on friendly creatures
-"Enter the host IP address.
-(i.e. 220.415.119.223)"
-%s does not work on %s
-%s are immune to %s
-No room to place %s here
-An earthquake will do you no good unless there are town walls to damage.
-Your hero already has %d creatures groups in combat and cannot accommodate any more.
+Jag kan ge %s till %s spelaren.
+Är det några fler resurser du vill ge bort?
+"Om du vill ge bort några resurser till någon annan spelare så klicka på det du vill ge och till vem."
+Möjligt för byte
+Spelare
+%s skyddar %s
+%s kan bara kastas på fientliga varelser
+1a nivån
+2a nivån
+3e nivån
+4e nivån
+5e nivån
+%s kan bara kastas på vänliga varelser
+"Skriv in skaparens IP-adress.
+(t.ex. 220.415.119.223)"
+%s fungerar inte på %s
+%s är immun mot %s
+Ingen plats att placera %s här
+En jordbävning gör inget vettigt om det inte finns en stad med murar att förstöra.
+Din hjälte har %d varelsegrupper i strid och kan inte få plats med fler.
 "Attack
-Defense
-Power
-Know."
-That spell will affect no one!
-"The %s spell does %d damage
-to all undead creatures."
-"The Death spell does %d damage
-to all living creatures."
-Mirror Image spell failed!
-The %s %s the spell!
+Försvar
+Kraft
+Kunskap."
+Den trollformeln skulle inte funka på någon!
+"%s trollformeln gör %d skada
+mot alla odöda varelser."
+"Dödstrollformeln gör %d skada
+mot alla levande varelser."
+Spegelbildstrollformeln misslyckades!
+%s %s trollformeln!
 Attack
-Defense
-The flight spell is not powerful enough to affect a boat.
-Speed
-Growth
-%s casts '%s' on the %s.
-%s casts '%s'.
-%s player
-Shots
-Damage
-Health Left
-Your time has expired.  Moving on to next turn.
-Guarded by
+Försvar
+Flygtrollformeln är inte kraftig nog för att fungera på en båt.
+Hastighet
+Tillväxt
+%s kastar '%s' på %s.
+%s kastar '%s'.
+%s spelare
+Skott
+Skada
+Hälsa kvar
+Din tid är slut, vidare till nästa tur.
+Vaktas av
 "
 
-Your hero has learned %s %s."
+Din hjälte har lärt sig %s %s."
 "
 
-Your hero may learn either %s %s or %s %s."
+Din hjälte får lära sig antingen %s %s eller %s %s."
 "{Spell Points}
 
-%s currently has %d spell points out of a maximum of %d.  The maximum number of spell points is 10 times your Knowledge.  It is occasionally possible to have more than your maximum spell points from special events or locations."
-"That spell costs %d spell points.  Your hero only has %d spell points, and therefore can't cast the spell."
-"In order to properly train your troops, you will have to spend some gold. Do you still wish them to be upgraded?"
-%s has found the most obelisks.
-%s has found the most artifacts.
-%s has the most powerful forces.
-%s earns the most gold.
-The ultimate artifact may be found %s.
-"To cast spells, your hero must first buy a spell book for 500 gold.  Unfortunately, you seem to be a little short of cash at the moment."
-"To cast spells, your hero must first buy a spell book for 500 gold.  Do you wish to buy one?"
-"%s is a level %d %s
-with %d artifacts."
-"After a generous tip, the barkeep whispers:
+%s har förtillfället %d Trollformelspoäng av det maximala %d.  Den maximala mängden Trollformelspoäng är 10 gånger hjältens Kunskap.  Ibland kan hjälten ha mer än sin maximala mängd Trollformelspoäng på grund av speciella händelser."
+"Den trollformeln kostar %d trollformelspoäng.  Din hjälte har bara %d trollformelspoäng och kan därför inte kasta trollformeln."
+"För att dina arméer ska tränas på rätt sätt så kommer det kosta dig en del guld. Vill du verkligen fortsätta?"
+%s har hittat flest obelisker.
+%s har hittat flest artefakter.
+%s har den mäktigaste armén.
+%s tjänar mest guld.
+Den ultimata artefakten kan finnas %s.
+"För att kasta trollformler så måste din hjälte först köpa en trollformelsbok för 500 guld. Tyvärr verkar du ha lite lite cash för tillfället..."
+"För att kasta trollformler så måste din hjälte först köpa en trollformelsbok för 500 guld. Köpa?"
+"%s är en nivå %d %s
+med %d artefakter."
+"Efter en generös dricks viskar bartendern:
 %s"
-Available: 
-Rating
-All prerequisites for this building have been met.
+Tillgänglig: 
+Ranking
+All krav för denna byggnad är mötta.
 Attack %s
-"Through eagle-eyed observation, %s is able to learn %s"
-Out of memory.
-Cannot build.  Already built here this turn.
-Lose the %s '%s'.
-Lose the hero '%s'.
-"Fail to win by month %d, week %d, day %d."
-Lose all your heroes and towns.
-Capture the %s '%s'.
-Defeat the hero '%s'.
-Find the Grail.
-Find the %s.
-Accumulate %d %s.
-  You may also defeat all heroes and towns.
-Defeat all enemy heroes and capture all enemy towns.
-You and your allies 
-You and your ally 
- and 
-You
-the enemy alliance of 
-the enemy - 
+"Genom örnögd observation, %s får möjlighet att lära sig %s"
+Slut på minne.
+Du kan inte bygga. Det har redan byggt här denna runda.
+Förlorar %s '%s'.
+Förlorar hjälten '%s'.
+"Lyckades inte vinna på månaden %d, veckan %d, dag %d."
+Förlora alla dina hjältar och städer.
+Erövra %s '%s'.
+Slå hjälten '%s'.
+Hitta Gralen.
+Hitta %s.
+Ansamla %d %s.
+  Du kan också besegra alla hjältar och städer.
+Besegra alla fiendes fiender och erövra alla städer.
+Du och dina allierade
+Du och din allierade
+ och
+Du
+fiendens allians av
+fienden - 
 "{Experience}
 
-Experience allows your heroes to go up levels, increasing their primary and secondary skills."
+Erfarenhet låter din hjälte öka sin nivå och få tillgång till bättre primära och sekundära förmågor."
 "{Resources}
 
-There are seven resources in Heroes III, used to build and improve castles, purchase troops and recruit heroes.  Gold is the most common, required for virtually everything.  Wood and ore are used for most buildings.  Gems, Mercury, Sulfur and Crystal are rare magical resources used for the most powerful creatures and buildings."
-The creatures are willing to join us!
-"All the creatures will join us...
+Det finns sju resurser i Heroes III som används för att bygga slott, köpa trupper och rekrytera hjältar. Guld är den mest vanliga som behövs till typ allt. Trä och malm används för de flesta byggnader. Ädelstenar, Kvicksilver, Svavel och Kristall är sällsynta och magiska resurser som används för de allra kraftigaste varelserna och byggnaderna."
+Varelserna är villiga att gå med oss!
+"Alla varelser vill gå med oss...
 
-for a fee of %d gold."
-These weak creatures will surely flee before us.
-I fear these creatures are in the mood for a fight.
-Searching for the Grail is fruitless.  Your hero could not carry it even if he found it - all his artifact slots are full.
+för en avgift på %d guld."
+Dessa svaga varelser kommer säkerliger fly från oss.
+Jag är rädd att dessa varelser är slugna på slagsmål...
+Att leta efter Gralen är ingen idé. Din hjälte skulle nämligen inte kunna bära hem den - alla hens artefaktplatser är fyllda!
 Unable to access CD-ROM Drive.  Without a CD-ROM drive and a Heroes 2 CD-ROM you will only be able to play as the guest in a multi-player game.
-"Congratulations! You captured %s, and are victorious!"
-"The enemy has captured %s, and claims victory!"
-The town of %s has fallen - all is lost!
-Congratulations! You have completed your quest to defeat the enemy hero %s. Victory is yours!
-"The hero, %s, has suffered defeat - your quest is over!"
-"Alas, time has run out on your quest. All is lost."
-Daily Income
-Split %s
-Cancel
-Artifacts
-Equipped
-Cheater!!!
-Miscellaneous
-In Backpack
-The Grail may be found in the %s regions of the world.
-The Grail may be found in the %s regions of the underworld.
-"Creature
-Bonuses"
-"Creatures
-Available"
-I can offer you the %s for %d %s of %s.
-I can offer you %d %s of %s for your %s.
-I can offer you %d %s of %s for %d %s.
-Kingdom Resources
-%s's Artifacts
-%s's Creatures
+"Grattis! Du har erövrat %s, och är segrare!"
+"Fienden har erövrat %s, och utropar sig som vinnare!"
+Staden %s har fallit - allt är slut!
+Grattis! Du har lyckats besegra fiendens %s. Segern är din!
+"Din hjälte, %s, har blivit besegrad - din kamp är över!"
+"Eftersom tiden är slut är din kamp över."
+Daglig inkomst
+Dela %s
+Avbryt
+Artefakter
+Påtagen
+Fuskare!!!
+Övriga
+I ryggsäck
+Gralen kan finnas i %s regionen av överjorden.
+Gralen kan finnas i %s regionen av underjorden.
+"Varelse
+Bonusar"
+"Varelser
+Tillgänglig"
+Jag kan ge dig %s för %d %s av %s.
+Jag kan ge dig %d %s av %s för din %s.
+Jag kan ge dig %d %s av %s för %d %s.
+Kungadömets resurser
+%s's Artefakter
+%s's Varelser
 Only visiting heroes may use the %s.
 Build a new %s
 There is not enough room in the garrison.
