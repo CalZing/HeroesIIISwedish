@@ -1,12 +1,12 @@
-Split %s army
+Dela %s armé
 Cannot combine hero's last army
-Combine %s armies
-Split army
-View %s
-Cannot move last army to garrison
-Move %s
-Exchange %s with %s
-Exit town
+Kombinera %s arméer
+Dela armé
+Granska %s
+Kan ej flytta sista armén till ga garnisonen
+Flytta %s
+Byt %s mot %s
+Gå ur stad
 Cannot move allied heroes to garrison.
 Kingdom Overview
 Empty
