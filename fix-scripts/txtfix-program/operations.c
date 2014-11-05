@@ -139,6 +139,7 @@ void *do_to_latin1(const unsigned char *indata, ssize_t inlen, ssize_t *outlen) 
   ssize_t inpos, outpos;
   unsigned char *outdata;
 
+  int row = 1;
   void *ret = NULL;
   inpos = 0;
   outpos = 0;
@@ -150,31 +151,44 @@ void *do_to_latin1(const unsigned char *indata, ssize_t inlen, ssize_t *outlen) 
   }
 
   while (inpos < inlen) {
-    if (indata[inpos] == 0xC3) {
-      inpos++;
-      switch (indata[inpos]) {
-        case 0x84:
-          outdata[outpos++] = 0xC4; break;
-        case 0x85:
-          outdata[outpos++] = 0xC5; break;
-        case 0x96:
-          outdata[outpos++] = 0xD6; break;
-        case 0xA4:
-          outdata[outpos++] = 0xE4; break;
-        case 0xA5:
-          outdata[outpos++] = 0xE5; break;
-        case 0xB6:
-          outdata[outpos++] = 0xF6; break;
-        case 0xA9:
-          outdata[outpos++] = 0xE9; break;
-        case 0x89:
-          outdata[outpos++] = 0xC9; break;
+    if (indata[inpos] > 0x7F) {
+      unsigned short utf8_character = (indata[inpos] << 8) | (indata[inpos + 1]);
+      switch(indata[inpos]) {
+      case 0xC4:
+      case 0xC5:
+      case 0xD6:
+      case 0xE4:
+      case 0xE5:
+      case 0xF6:
+      case 0xE9:
+      case 0xC9:
+        outdata[outpos++] = indata[inpos++];
+        break;
+      case 0xC3:
+        switch (utf8_character) {
+        case 0xC384: outdata[outpos++] = 0xC4; break; // AE
+        case 0xC385: outdata[outpos++] = 0xC5; break; // AA
+        case 0xC396: outdata[outpos++] = 0xD6; break; // OE
+        case 0xC3A4: outdata[outpos++] = 0xE4; break; // ae
+        case 0xC3A5: outdata[outpos++] = 0xE5; break; // aa
+        case 0xC3B6: outdata[outpos++] = 0xF6; break; // oe
+        case 0xC3A9: outdata[outpos++] = 0xE9; break; // e with slash above
+        case 0xC389: outdata[outpos++] = 0xC9; break; // E with slash above
         default:
-          fprintf(stderr, "Unrecognized Unicode character 0xC0%2x\n", indata[inpos]);
-          goto out_free;
+          fprintf(stderr, "Ignoring unrecognized Unicode character 0x%4x at row %d\n", utf8_character, row);
+          outdata[outpos++] = indata[inpos];
+          outdata[outpos++] = indata[inpos + 1];
+          break;
+        }
+        inpos += 2;
+        break;
+      default:
+        fprintf(stderr, "Ignoring unrecognized character 0x%2x at row %d\n", indata[inpos], row);
+        outdata[outpos++] = indata[inpos++];
       }
-      inpos++;
     } else {
+      if (indata[inpos] == '\n')
+        row++;
       outdata[outpos++] = indata[inpos++];
     }
   }
@@ -183,9 +197,6 @@ void *do_to_latin1(const unsigned char *indata, ssize_t inlen, ssize_t *outlen) 
   *outlen = outpos;
 out:
   return ret;
-out_free:
-  free(outdata);
-  return NULL;
 }
 
 void *do_to_utf8(const unsigned char *indata, ssize_t inlen, ssize_t *outlen) {
