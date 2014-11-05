@@ -13,13 +13,13 @@ Buoj
 Lägereld	
 Kartograd	
 Svandamm	
-Cover of Darkness	
+Mörkertäcke	
 Varelsebank
 Varelsegenerator 1
 Varelsegenerator 2
 Varelsegenerator 3
 Varelsegenerator 4
-Cursed Ground
+Fördömd Mark
 Lik
 Martellotorn
 Övergivet Skepp
@@ -46,8 +46,8 @@ Monolit Envägs Utgång
 Monolit Tvåvägs
 Magiska Slätter
 Magins Skola
-Magic Spring
-Magic Well
+Magisk Källa
+Magisk Brunn
 Tidens Marknad
 Legosoldatsläger
 Sjöjungfrur
@@ -103,7 +103,7 @@ Skattkista
 Kunskapens Träd
 Underjordisk Port
 Universitet
-WVagn
+Vagn
 Krigsmaskinsfabrik
 Krigsskola
 Krigarens Grav
@@ -120,23 +120,23 @@ Krater
 Död Växtlighet
 Blommor
 Frusen Sjö
-Hedge
+Häck
 Kulle
 Hål
-Kelp
+Tång
 Sjö
-Lava Flow
+Lavaflöde
 Lavasjö	
 Svampar	
 Stock	
-Mandrake	
-Moss	
-Mound	
+Alruna	
+Mossa	
+Hög	
 Berg	
 Ekar	
-Outcropping	
+Skott	
 Tallar	
-Plant	
+Växt	
 	
 	
 	
@@ -147,86 +147,86 @@ Flod-Delta
 	
 Klippa	
 Sanddyna	
-Sand Pit	
-Shrub	
+Sandgrop	
+Buske	
 Skalle	
-Stalagmite	
-Stump	
-Tar Pit	
+Stalagmit	
+Stubbe	
+Tjärgrop	
 Träd	
-Vine	
-Volcanic Vent	
+Slingerväxt	
+Vulkaniskt Ventilationshål	
 Vulkan	
-Willow Trees	
-Yucca Trees
-Reef
+Pilträd	
+Palmliljor
+Rev
 Random Monster 5
 Random Monster 6
 Random Monster 7
-Brush
-Bush
-Cactus
-Canyon
-Crater
-Dead Vegetation
-Flowers
-Frozen Lake
-Hedge
-Hill
-Hole
-Kelp
-Lake
-Lava Flow
-Lava Lake
-Mushrooms
-Log
-Mandrake
-Moss
-Mound
-Mountain
-Oak Trees
-Outcropping
-Pine Trees
-Plant
-River Delta
-Rock
-Sand Dune
-Sand Pit
-Shrub
-Skull
-Stalagmite
-Stump
-Tar Pit
-Trees
-Vine
-Volcanic Vent
-Volcano
-Willow Trees
-Yucca Trees
-Reef
-Desert Hills
-Dirt Hills
-Grass Hills
-Rough Hills
-Subterranean Rocks
-Swamp Foliage
-Border Gate
-Freelancer's Guild
+Snårskog
+Buske
+Kaktus
+Kanjon
+Krater
+Död Växtlighet
+Blommor
+Frusen Sjö
+Häck
+Kulle
+Hål
+Tång
+Sjö
+Lavaflöde
+Lavasjö	
+Svampar	
+Stock	
+Alruna	
+Mossa	
+Hög	
+Berg	
+Ekar	
+Skott	
+Tallar	
+Växt	
+Flod-Delta	
+Klippa
+Sanddyna	
+Sandgrop	
+Buske	
+Skalle	
+Stalagmit	
+Stubbe	
+Tjärgrop	
+Träd	
+Slingerväxt	
+Vulkaniskt Ventilationshål	
+Vulkan	
+Pilträd	
+Palmliljor
+Rev
+Ökenberg
+Jordberg
+Gräsberg
+Ruffberg
+Underjordiska Klippor
+Träsklövverk
+Gränsvakt
+Frilansarskrået
 Hero Placeholder
-Quest Guard
+Uppdragsvakt
 Random Dwelling
 
 
 Garnison
-Gruba
+Gruva
 Handelsplats
-Clover Field
-Cursed Ground
-Evil Fog
-Favorable Winds
-Fiery Fields
+Klöverfält
+Fördömd Mark
+Ond Dimma
+Fördelaktiga Vindar
+Eldiga Fält
 Helig Mark
-Lucid Pools
-Magic Clouds
-Magic Plains
-Rocklands
+Klara Pölar
+Magisla Moln
+Magiska Slätter
+Stenland
