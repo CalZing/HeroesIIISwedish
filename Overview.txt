@@ -1,26 +1,26 @@
-Hero/Stats
-Skills
-Artifacts
-Town
-Garrison Hero
-Visiting Hero
-"{View Heroes}
+Hjälte/Stats
+Förmågor
+Artefakter
+Stad
+Garnisonhjälte
+Besökande Hjälte
+"{Granska Hjältar}
 
-View the heroes currently under your command."
-"{View Towns}
+Se hjältarna som för tillfället är under ditt befäl."
+"{Granska Städer}
 
-View the towns you control."
-"{Equipped}
+Se städerna som du kontrollerar."
+"{Burna}
 
-Displays the artifacts that the hero currently has equipped."
-"{Miscellaneous}
+Visar artefakterna som din hjälte bär."
+"{Diverse}
 
-Displays items which are in effect but do not need to be equipped."
-"{Backpack}
+Visar föremålen som påverkar, men ej behöver vara delav din hjältes utrustning."
+"{Ryggsäck}
 
-Displays items that are currently in the hero's backpack."
-View Heroes
-View Towns
-View Equipped Artifacts
-View Miscellaneous Items
-View Hero's Backpack
+Visar föremål som för tillfället är i hjältens ryggsäck."
+Granska Hjältar
+Granska Städer
+Granska Burna Artefakter
+Granska Diverse Föremål
+Granska Hjältens RyggsäckView Hero's Backpack
