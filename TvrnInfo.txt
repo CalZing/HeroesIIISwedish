@@ -1,8 +1,8 @@
-Har inte rÃ¥d med en HjÃ¤lte
-Kan ej rekrytera. Du har redan %d HjÃ¤ltar.
-Kan ej rekrytera. Du har redan en hjÃ¤lte i den hÃ¤r staden.
+Har inte råd med en Hjälte
+Kan ej rekrytera. Du har redan %d Hjältar.
+Kan ej rekrytera. Du har redan en hjälte i den här staden.
 Rekrytera %s %s
-VÃ¤lj %s
-SjuvskrÃ¥
-AnstÃ¤llningspris
-GÃ¥ ur tavernan
+Välj %s
+Sjuvskrå
+Anställningspris
+Gå ur tavernan

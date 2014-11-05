@@ -6,33 +6,33 @@ Arena
 Artefakt	
 Pandora's Ask	
 Svart Marknad	
-BÃ¥t	
-GrÃ¤nsvakt	
-NyckelmÃ¤starens TÃ¤lt	
+Båt	
+Gränsvakt	
+Nyckelmästarens Tält	
 Buoj	
-LÃ¤gereld	
+Lägereld	
 Kartograd	
 Svandamm	
-MÃ¶rkertÃ¤cke	
+Mörkertäcke	
 Varelsebank
 Varelsegenerator 1
 Varelsegenerator 2
 Varelsegenerator 3
 Varelsegenerator 4
-FÃ¶rdÃ¶md Mark
+Fördömd Mark
 Lik
 Martellotorn
-Ã–vergivet Skepp
+Övergivet Skepp
 Drakutopi
-HÃ¤ndelse
-Magikerns Ã–ga
+Händelse
+Magikerns Öga
 Alvring
 Vrakgods
-Turens FontÃ¤n
-Ungdomens KÃ¤lla
-Uppenbarelsens TrÃ¤dgÃ¥rd
+Turens Fontän
+Ungdomens Källa
+Uppenbarelsens Trädgård
 Garnison
-HjÃ¤lte
+Hjälte
 KullFort
 Gral
 Magikerns Hydda
@@ -41,26 +41,26 @@ Vindskydd
 
 Upplysningens Bibliotek
 Fyr
-Monolit EnvÃ¤gs IngÃ¥ng
-Monolit EnvÃ¤gs UtgÃ¥ng
-Monolit TvÃ¥vÃ¤gs
-Magiska SlÃ¤tter
+Monolit Envägs Ingång
+Monolit Envägs Utgång
+Monolit Tvåvägs
+Magiska Slätter
 Magins Skola
-Magisk KÃ¤lla
+Magisk Källa
 Magisk Brunn
 Tidens Marknad
-LegosoldatslÃ¤ger
-SjÃ¶jungfrur
+Legosoldatsläger
+Sjöjungfrur
 Gruva
 Monster
-Mystiska TrÃ¤dgÃ¥rden
+Mystiska Trädgården
 Oas
 Obelisk
 Redwood-Observatorie
 Flaskpost
 Eldpelare
-StjÃ¤rnaxel
-FÃ¤ngelse
+Stjärnaxel
+Fängelse
 Pyramid
 Samlingsflagga
 Random Artifact
@@ -76,17 +76,17 @@ Random Monster 3
 Random Monster 4
 Random Resource
 Random Town
-FlyktinglÃ¤ger
+Flyktingläger
 Resurs
-KyrkogÃ¥rd
-LÃ¤rd Man
+Kyrkogård
+Lärd Man
 Havskista
 Siarens Hydda
 Krypta
 Skeppsvrak
-SkeppsvraksÃ¶verlevare
+Skeppsvraksöverlevare
 Varv
-Magiska BesvÃ¤rjelsens Helgedom
+Magiska Besvärjelsens Helgedom
 Magiska Gestens Helgedom
 Magiska Tankens Helgedom
 Skylt
@@ -98,9 +98,9 @@ Tempel
 Tjuvlya
 Stad
 Handelspost
-LÃ¤randesten
+Lärandesten
 Skattkista
-Kunskapens TrÃ¤d
+Kunskapens Träd
 Underjordisk Port
 Universitet
 Vagn
@@ -108,35 +108,35 @@ Krigsmaskinsfabrik
 Krigsskola
 Krigarens Grav
 Vattenhjul
-VattenhÃ¥l
-StrÃ¶mvirvel
+Vattenhål
+Strömvirvel
 Kvarn
-HÃ¤xhydda
-SnÃ¥rskog
+Häxhydda
+Snårskog
 Buske
 Kaktus
 Kanjon
 Krater
-DÃ¶d VÃ¤xtlighet
+Död Växtlighet
 Blommor
-Frusen SjÃ¶
-HÃ¤ck
+Frusen Sjö
+Häck
 Kulle
-HÃ¥l
-TÃ¥ng
-SjÃ¶
-LavaflÃ¶de
-LavasjÃ¶	
+Hål
+Tång
+Sjö
+Lavaflöde
+Lavasjö	
 Svampar	
 Stock	
 Alruna	
 Mossa	
-HÃ¶g	
+Hög	
 Berg	
 Ekar	
 Skott	
 Tallar	
-VÃ¤xt	
+Växt	
 	
 	
 	
@@ -152,42 +152,42 @@ Buske
 Skalle	
 Stalagmit	
 Stubbe	
-TjÃ¤rgrop	
-TrÃ¤d	
-SlingervÃ¤xt	
-Vulkaniskt VentilationshÃ¥l	
+Tjärgrop	
+Träd	
+Slingerväxt	
+Vulkaniskt Ventilationshål	
 Vulkan	
-PiltrÃ¤d	
+Pilträd	
 Palmliljor
 Rev
 Random Monster 5
 Random Monster 6
 Random Monster 7
-SnÃ¥rskog
+Snårskog
 Buske
 Kaktus
 Kanjon
 Krater
-DÃ¶d VÃ¤xtlighet
+Död Växtlighet
 Blommor
-Frusen SjÃ¶
-HÃ¤ck
+Frusen Sjö
+Häck
 Kulle
-HÃ¥l
-TÃ¥ng
-SjÃ¶
-LavaflÃ¶de
-LavasjÃ¶	
+Hål
+Tång
+Sjö
+Lavaflöde
+Lavasjö	
 Svampar	
 Stock	
 Alruna	
 Mossa	
-HÃ¶g	
+Hög	
 Berg	
 Ekar	
 Skott	
 Tallar	
-VÃ¤xt	
+Växt	
 Flod-Delta	
 Klippa
 Sanddyna	
@@ -196,22 +196,22 @@ Buske
 Skalle	
 Stalagmit	
 Stubbe	
-TjÃ¤rgrop	
-TrÃ¤d	
-SlingervÃ¤xt	
-Vulkaniskt VentilationshÃ¥l	
+Tjärgrop	
+Träd	
+Slingerväxt	
+Vulkaniskt Ventilationshål	
 Vulkan	
-PiltrÃ¤d	
+Pilträd	
 Palmliljor
 Rev
-Ã–kenberg
+Ökenberg
 Jordberg
-GrÃ¤sberg
+Gräsberg
 Ruffberg
 Underjordiska Klippor
-TrÃ¤sklÃ¶vverk
-GrÃ¤nsvakt
-FrilansarskrÃ¥et
+Träsklövverk
+Gränsvakt
+Frilansarskrået
 Hero Placeholder
 Uppdragsvakt
 Random Dwelling
@@ -220,13 +220,13 @@ Random Dwelling
 Garnison
 Gruva
 Handelsplats
-KlÃ¶verfÃ¤lt
-FÃ¶rdÃ¶md Mark
+Klöverfält
+Fördömd Mark
 Ond Dimma
-FÃ¶rdelaktiga Vindar
-Eldiga FÃ¤lt
+Fördelaktiga Vindar
+Eldiga Fält
 Helig Mark
-Klara PÃ¶lar
+Klara Pölar
 Magisla Moln
-Magiska SlÃ¤tter
+Magiska Slätter
 Stenland

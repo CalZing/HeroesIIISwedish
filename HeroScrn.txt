@@ -1,33 +1,33 @@
 Se Uppdragslogg
 Se %s Info
-Ytterligare HjÃ¤lteegenskaper
+Ytterligare Hjälteegenskaper
 Se Bra Moralinfo
 Se Neutral Moralinfo
-Se DÃ¥lig Moralinfo
+Se Dålig Moralinfo
 Se Bra Turinfo
 Se Neutral Turinfo
-Se DÃ¥lig Turinfo
+Se Dålig Turinfo
 Se Erfarenhetsinfo
-VÃ¤lj %s
+Välj %s
 Tom
 Flytta %s
 Byt %s mot %s
 Se Trollformler
 Se %s Info
-AvfÃ¤rda %s %s
-StÃ¤ng HjÃ¤lteruta
-HjÃ¤lteruta
+Avfärda %s %s
+Stäng Hjälteruta
+Hjälteruta
 Kombinera %s
 Dela %s
 Se %s %s Info
-Se TrollformelspoÃ¤nginfo
-SÃ¤tt stridsformation till 'Utspridd'
-SÃ¤tt stridsformation till 'Tajt'
-StÃ¤ng av Taktikformation
-SlÃ¥ pÃ¥ Taktikformation
-Se SpecialfÃ¶rmÃ¥goinformation
-Klicka fÃ¶r att avfÃ¤rda denna hjÃ¤lte
-Att sÃ¤tta stridsformation till 'Utspridd' kommer sprida dina trupper lÃ¤ngs din sida slagfÃ¤ltet vid stridens start
-Att sÃ¤tta stridsformation till 'Tajt' kommer gruppera ihop dina trupper pÃ¥ din sida slagfÃ¤ltet vid stridens start
-Att slÃ¥ pÃ¥ Taktktikformation lÃ¥ter dig arrangera dina trupper fÃ¶re stridens start (Du mÃ¥ste ha TaktikfÃ¶rmÃ¥gan)
-Klicka fÃ¶r att dela dessa varelser i tvÃ¥ delar
+Se Trollformelspoänginfo
+Sätt stridsformation till 'Utspridd'
+Sätt stridsformation till 'Tajt'
+Stäng av Taktikformation
+Slå på Taktikformation
+Se Specialförmågoinformation
+Klicka för att avfärda denna hjälte
+Att sätta stridsformation till 'Utspridd' kommer sprida dina trupper längs din sida slagfältet vid stridens start
+Att sätta stridsformation till 'Tajt' kommer gruppera ihop dina trupper på din sida slagfältet vid stridens start
+Att slå på Taktktikformation låter dig arrangera dina trupper före stridens start (Du måste ha Taktikförmågan)
+Klicka för att dela dessa varelser i två delar
