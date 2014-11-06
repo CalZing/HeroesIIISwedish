@@ -1,31 +1,31 @@
-Dela %s arm�
-Cannot combine hero's last army
-Kombinera %s arm�er
-Dela arm�
+Dela %s armé
+Kan ej kombinera hjältens sista armé
+Kombinera %s arméer
+Dela armé
 Granska %s
-Kan ej flytta sista arm�n till ga garnisonen
+Kan ej flytta sista armén till ga garnisonen
 Flytta %s
 Byt %s mot %s
-G� ur stad
-Cannot move allied heroes to garrison.
-Kingdom Overview
-Empty
-Select %s (in garrison)
-View Hero
-Mage Guild
-Thieves' Guild
-Tavern
-Shipyard
-Castle
-Blacksmith
-Village Hall
-Recruit %s
-Town Hall
-City Hall
+Gå ur stad
+Kan ej flytta allierade hjältar till garnisonen.
+Överblick över kungadömet
+Tom
+Välj %s (i garnisonen)
+Se Hjälte
+Magiskrå
+Tjuvskrå
+Taverna
+Varv
+Borg
+Smedja
+Byhall
+Rekrytera %s
+Stadshall
+Storstadshall
 Capitol
 
-Marketplace
-Resource Silo
+Marknadsplats
+Resurssilo
 Fort
 Citadel
 An external creature dwelling must be flagged to summon creatures through the portal.
