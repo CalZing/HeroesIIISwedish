@@ -431,12 +431,12 @@ Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-att
 
 Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
 
-Skyddet är dubbelt så bra som Grunndläggande Sköld.
+Skyddet är dubbelt så bra som Grundläggande Sköld.
 "	"{Sofistikerad Sköld}
 
 Skyddar alla vänliga enheter, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
 
-Skyddet är dubbelt så bra som Grunndläggande Sköld.
+Skyddet är dubbelt så bra som Grundläggande Sköld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Luftskjöld	Luftskjöld	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Luftskjöld}
 
@@ -447,14 +447,13 @@ Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
 "	"{Avancerad Luftskjöld}
 
 Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
-Shields a selected unit, reducing the amount of damage received from ranged attacks.
 
-Skyddet är dubbelt så bra som Grunndläggande Luftsköld.
+Skyddet är dubbelt så bra som Grundläggande Luftsköld.
 "	"{Sofistikerad Luftskjöld}
 
 Skyddar alla vänliga enheter, vilket reducerar mängden mottagen skada från skotthåll.
 
-Skyddet är dubbelt så bra som Grunndläggande Luftsköld.
+Skyddet är dubbelt så bra som Grundläggande Luftsköld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Eldskjöld	Eldskjöld	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Eldskjöld}
 
@@ -606,7 +605,6 @@ Läkt skada är 20 poäng mer än Grundläggande Kurera.
 "	"{Avancerad Återuppliva}
 
 Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
-Resurrects units in the selected group by restoring a fixed number of hit points to the target.
 
 Förser 40 skadepoäng ytterligare gentemot Grundläggande Återuppliva.
 "	"{Sofistikerad Återuppliva}
@@ -1124,3 +1122,5 @@ Föråldra	Föråldra	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1				
 Dödsmoln	Dödsmoln	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Åskblixt	Åskblixt	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Bryt hjälpande förtrollningar	Bryt hjälpande förtrollningar	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Dödsblick	Dödsblick	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Syrlig Andedräkt	Syrlig Andedräkt	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
