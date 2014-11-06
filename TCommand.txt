@@ -1,12 +1,12 @@
-Dela %s armÃ©
+Dela %s armé
 Cannot combine hero's last army
-Kombinera %s armÃ©er
-Dela armÃ©
+Kombinera %s arméer
+Dela armé
 Granska %s
-Kan ej flytta sista armÃ©n till ga garnisonen
+Kan ej flytta sista armén till ga garnisonen
 Flytta %s
 Byt %s mot %s
-GÃ¥ ur stad
+Gå ur stad
 Cannot move allied heroes to garrison.
 Kingdom Overview
 Empty
