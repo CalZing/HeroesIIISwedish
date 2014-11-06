@@ -171,12 +171,12 @@ Placerar slumpmässigt ut fyra små ytor med landminor på slagfältet som bara är s
 
 Placerar slumpmässigt ut sex små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
 
-Åsamkad skada är 25 poäng mer än Grundläggande Land Mine.
+Åsamkad skada är 25 poäng mer än Grundläggande Landmina.
 "	"{Sofistikerad Landmina}
 
 Placerar slumpmässigt ut åtta små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
 
-Åsamkad skada är 75 poäng mer än Grundläggande Land Mine.
+Åsamkad skada är 75 poäng mer än Grundläggande Landmina.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Kraftfält	Kraftfält	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Kraftfält}
 
@@ -219,399 +219,401 @@ Skadar slumpmässigt fyra sektioner slottsmur i strid.
 "	 COMBAT_SPELL
 Magisk Pil	Magisk Pil	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Magisk Pil}
 
-Causes a bolt of magical energy to strike the selected unit.
+Förmår en pil med magisk energi att träffa vald enhet.
 "	"{Grundläggande Magisk Pil}
 
-Causes a bolt of magical energy to strike the selected unit.
+Förmår en pil med magisk energi att träffa vald enhet.
 "	"{Avancerad Magisk Pil}
 
-Causes a bolt of magical energy to strike the selected unit.
+Förmår en pil med magisk energi att träffa vald enhet.
 
-Damage inflicted is 10 points more than Grundläggande Magic Arrow.
+Åsamkad skada är 10 poäng mer än Grundläggande Magisk Pil.
 "	"{Sofistikerad Magisk Pil}
 
-Causes a bolt of magical energy to strike the selected unit.
+Förmår en pil med magisk energi att träffa vald enhet.
 
-Damage inflicted is 20 points more than Grundläggande Magic Arrow.
+Åsamkad skada är 20 poäng mer än Grundläggande Magisk Pil.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Ispil	Ispil	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{IsÅskblixt}
+Ispil	Ispil	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Ispil}
 
-Drains the body heat from the selected enemy unit.
+Dränerar kroppsvärmen från vald fiendeenhet.
 "	"{Grundläggande Ispil}
 
-Drains the body heat from the selected enemy unit.
+Dränerar kroppsvärmen från vald fiendeenhet.
 "	"{Avancerad Ispil}
 
-Drains the body heat from the selected enemy unit.
+Dränerar kroppsvärmen från vald fiendeenhet.
 
-Damage inflicted is 10 points more than Grundläggande Ice Bolt.
+Åsamkad skada är 20 poäng mer än Grundläggande Ispil.
 "	"{Sofistikerad Ispil}
 
-Drains the body heat from the selected enemy unit.
+Dränerar kroppsvärmen från vald fiendeenhet.
 
-Damage inflicted is 40 points more than Grundläggande Ice Bolt.
+Åsamkad skada är 20 poäng mer än Grundläggande Ispil.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Åskblixt	Åskblixt	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Åskblixt}
 
-Causes a bolt of lightning to strike the selected unit.
+Förmår en åskblict att träffa vald enhet.
 "	"{Grundläggande Åskblixt}
 
-Causes a bolt of lightning to strike the selected unit.
+Förmår en åskblict att träffa vald enhet.
 "	"{Avancerad Åskblixt}
 
-Causes a bolt of lightning to strike the selected unit.
+Förmår en åskblict att träffa vald enhet.
 
-Damage inflicted is 10 points more than Grundläggande Lightning Bolt.
+Åsamkad skada är 10 poäng mer än Grundläggande Åskblixt.
 "	"{Sofistikerad Åskblixt}
 
-Causes a bolt of lightning to strike the selected unit.
+Förmår en åskblict att träffa vald enhet.
 
-Damage inflicted is 40 points more than Grundläggande Lightning Bolt.
+Åsamkad skada är 40 poäng mer än Grundläggande Åskblixt.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Implosion	Implosion	5	x	 	 	 	30	25	25	25	75	100	100	200	300	0	16	14	16	20	12	0	0	13	75	75	75	75	"{Implosion}
 
-Inflicts massive damage to a single creature stack.
+Vållar massiv skada till en enstaka varelsestack.
 "	"{Grundläggande Implosion}
 
-Inflicts massive damage to a single creature stack.
+Vållar massiv skada till en enstaka varelsestack.
 "	"{Avancerad Implosion}
 
-Inflicts massive damage to a single creature stack.
+Vållar massiv skada till en enstaka varelsestack.
 
-Damage inflicted is 100 points more than Grundläggande Implosion.
+Åsamkad skada är 100 poäng mer än Grundläggande Implosion.
 "	"{Sofistikerad Implosion}
 
-Inflicts massive damage to a single creature stack.
+Vållar massiv skada till en enstaka varelsestack.
 
-Damage inflicted 200 points more than Grundläggande Implosion.
+Åsamkad skada är 200 poäng mer än Grundläggande Implosion.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Kedjeblixt	Kedjeblixt	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Kedjeblixt}
 
-Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes four units.
+Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angränsande enhet och tillfogar halv skada före den går vidare till nästa angränsande enheter och tillfogar halva skadan igen, etc. Träffar fyra enheter.
 "	"{Grundläggande Kedjeblixt}
 
-Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes four units.
+Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angränsande enhet och tillfogar halv skada före den går vidare till nästa angränsande enheter och tillfogar halva skadan igen, etc. Träffar fyra enheter.
 "	"{Avancerad Kedjeblixt}
 
-Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes five units.
+Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angränsande enhet och tillfogar halv skada före den går vidare till nästa angränsande enheter och tillfogar halva skadan igen, etc. Träffar fem enheter.
 
-Base Damage inflicted is 25 points more than Grundläggande Chain Lightning.
+Vållad grundskada är 25 poäng mer än Grundläggande Kedjeblixt.
 "	"{Sofistikerad Kedjeblixt}
 
-Fires a bolt of lightning at the selected unit which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half damage, etc.  Strikes five units.
+Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angränsande enhet och tillfogar halv skada före den går vidare till nästa angränsande enheter och tillfogar halva skadan igen, etc. Träffar fem enheter.
 
-Base Damage inflicted is 75 points more than Grundläggande Chain Lightning.
+Vållad grundskada är 75 poäng mer än Grundläggande Kedjeblixt.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Frostring	Frostring	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Frostring}
 
-Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
+Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vålla skada till platsen.
 "	"{Grundläggande Frostring}
 
-Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
+Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vålla skada till platsen.
 "	"{Avancerad Frostring}
 
-Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
+Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vålla skada till platsen.
 
-Damage inflicted is 15 points more than Grundläggande Frost Ring.
+Åsamkad skada är 15 poäng mer än Grundläggande Frostring.
 "	"{Sofistikerad Frostring}
 
-Drains the body heat of any units adjacent to the target location, without inflicting damage on the target.
+Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vålla skada till platsen.
 
-Damage inflicted is 45 points more than Grundläggande Frost Ring.
+Åsamkad skada är 45 poäng mer än Grundläggande Frostring.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Eldklot	Eldklot	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Eldklot}
 
-Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
+Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen och alla angränsande enheter.
 "	"{Grundläggande Eldklot}
 
-Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
+Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen och alla angränsande enheter.
 "	"{Avancerad Eldklot}
 
-Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
+Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen och alla angränsande enheter.
 
-Damage inflicted is 15 points more than Grundläggande Fireball.
+Åsamkad skada är 15 poäng mer än Grundläggande Eldklot.
 "	"{Sofistikerad Eldklot}
 
-Causes the selected target to burst into flames, inflicting fire damage to the target and any adjacent units.
+Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen och alla angränsande enheter.
 
-Damage inflicted is 45 points more than Grundläggande Fireball.
+Åsamkad skada är 45 poäng mer än Grundläggande Eldklot.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Inferno	Inferno	4	 	 	x	 	16	12	12	12	10	20	20	40	80	5	5	5	10	5	5	0	0	10	20	20	20	20	"{Inferno}
 
-Causes a huge blast of fire to strike the selected target.  Don't be near this when it goes off!
+Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
 "	"{Grundläggande Inferno}
 
-Causes a huge blast of fire to strike the selected target.  Don't be near this when it goes off!
+Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
 "	"{Avancerad Inferno}
 
-Causes a huge blast of fire to strike the selected target.  Don't be near this when it goes off!
+Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
 
-Damage inflicted is 20 points more than Grundläggande Inferno.
+Åsamkad skada är 20 poäng mer än Grundläggande Inferno.
 "	"{Sofistikerad Inferno}
 
-Causes a huge blast of fire to strike the selected target.  Don't be near this when it goes off!
+Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
 
-Damage inflicted is 60 points more than Grundläggande Inferno.
+Åsamkad skada är 60 poäng mer än Grundläggande Inferno.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Meteorregn	Meteorregn	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Meteorregn}
 
-Causes a meteor shower to rain down on the selected target and any adjacent units.
+Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
 "	"{Grundläggande Meteorregn}
 
-Causes a meteor shower to rain down on the selected target and any adjacent units.
+Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
 "	"{Avancerad Meteorregn}
 
-Causes a meteor shower to rain down on the selected target and any adjacent units.
+Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
 
-Damage inflicted is 25 points more than Grundläggande Meteor Shower.
+Åsamkad skada är 25 poäng mer än Grundläggande Meteorregn.
 "	"{Sofistikerad Meteorregn}
 
-Causes a meteor shower to rain down on the selected target and any adjacent units.
+Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
 
-Damage inflicted is 75 points more than Grundläggande Meteor Shower.
+Åsamkad skada är 75 poäng mer än Grundläggande Meteorregn.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Dödsstöt	Dödsstöt	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Dödsstöt}
 
-Sends a wave of death across the battlefield which damages all non-undead units.
+Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
 "	"{Grundläggande Dödsstöt}
 
-Sends a wave of death across the battlefield which damages all non-undead units.
+Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
 "	"{Avancerad Dödsstöt}
 
-Sends a wave of death across the battlefield which damages all non-undead units.
+Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
 
-Damage inflicted is 10 points more than Grundläggande Death Ripple.
+Åsamkad skada är 10 poäng mer än Grundläggande Dödsstöt.
 "	"{Sofistikerad Dödsstöt}
 
-Sends a wave of death across the battlefield which damages all non-undead units.
+Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
 
-Damage inflicted is 20 points more than Grundläggande Death Ripple.
+Åsamkad skada är 20 poäng mer än Grundläggande Dödsstöt.
 "	 COMBAT_SPELL
-Tillintetgör Odöda	Tillintetgör Odöda	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Tillintetgör Odöda}
+Förgör Odöda	Förgör Odöda	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Förgör Odöda}
 
-Attempts to destroy any undead creatures on the battlefield.
-"	"{Grundläggande Tillintetgör Odöda}
+Försöker att förgöra evemtuella odöda varelser på slagfältet.
+"	"{Grundläggande Förgör Odöda}
 
-Attempts to destroy any undead creatures on the battlefield.
-"	"{Avancerad Tillintetgör Odöda}
+Försöker att förgöra evemtuella odöda varelser på slagfältet.
+"	"{Avancerad Förgör Odöda}
 
-Attempts to destroy any undead creatures on the battlefield.
+Försöker att förgöra evemtuella odöda varelser på slagfältet.
 
-Damage inflicted is 10 points more than Grundläggande Destroy Undead.
-"	"{Sofistikerad Tillintetgör Odöda}
+Åsamkad skada är 10 poäng mer än Grundläggande Förgör Odöda.
+"	"{Sofistikerad Förgör Odöda}
 
-Attempts to destroy any undead creatures on the battlefield.
+Försöker att förgöra evemtuella odöda varelser på slagfältet.
 
-Damage inflicted is 40 points more than Grundläggande Destroy Undead.
+Åsamkad skada är 40 poäng mer än Grundläggande Förgör Odöda.
 "	 COMBAT_SPELL
 Ragnarök	Ragnarök	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Ragnarök}
 
-Rains fire down upon the battlefield, damaging all units.
+Låter eld regna ned på slagfältet, vilket skadar alla enheter.
 "	"{Grundläggande Ragnarök}
 
-Rains fire down upon the battlefield, damaging all units.
+Låter eld regna ned på slagfältet, vilket skadar alla enheter.
 "	"{Avancerad Ragnarök}
 
-Rains fire down upon the battlefield, damaging all units.
+Låter eld regna ned på slagfältet, vilket skadar alla enheter.
 
-Damage inflicted is 30 points more than Grundläggande Armageddon.
+Åsamkad skada är 30 poäng mer än Grundläggande Ragnarök.
 "	"{Sofistikerad Ragnarök}
 
-Rains fire down upon the battlefield, damaging all units.
+Låter eld regna ned på slagfältet, vilket skadar alla enheter.
 
-Damage inflicted is 90 points more than Grundläggande Armageddon.
+Åsamkad skada är 90 poäng mer än Grundläggande Ragnarök.
 "	 COMBAT_SPELL
-Sköld	Sköld	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Shield}
+Sköld	Sköld	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Sköld}
 
-Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
 "	"{Grundläggande Sköld}
 
-Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
 "	"{Avancerad Sköld}
 
-Shields a selected unit, reducing the amount of damage received from hand-to-hand attacks.
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
 
-Protection is twice that of Grundläggande Shield.
+Skyddet är dubbelt så bra som Grunndläggande Sköld.
 "	"{Sofistikerad Sköld}
 
-Shields all friendly units, reducing the amount of damage received from hand-to-hand attacks.
+Skyddar alla vänliga enheter, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
 
-Protection is twice that of Grundläggande Shield.
+Skyddet är dubbelt så bra som Grunndläggande Sköld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Luftskjöld	Luftskjöld	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Luftskjöld}
 
-Shields a selected unit, reducing the amount of damage received from ranged attacks.
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
 "	"{Grundläggande Luftskjöld}
 
-Shields a selected unit, reducing the amount of damage received from ranged attacks.
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
 "	"{Avancerad Luftskjöld}
 
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
 Shields a selected unit, reducing the amount of damage received from ranged attacks.
 
-Protection is twice that of Grundläggande Luftskjöld.
+Skyddet är dubbelt så bra som Grunndläggande Luftsköld.
 "	"{Sofistikerad Luftskjöld}
 
-Shields all friendly units, reducing the amount of damage received from ranged attacks.
+Skyddar alla vänliga enheter, vilket reducerar mängden mottagen skada från skotthåll.
 
-Protection is twice that of Grundläggande Luftskjöld.
+Skyddet är dubbelt så bra som Grunndläggande Luftsköld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Eldskjöld	Eldskjöld	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Eldskjöld}
 
-Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the Eldskjöld will suffer damage equal to a portion of what it inflicts.
+När den kastas på en vänlig enhete ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
 "	"{Grundläggande Eldskjöld}
 
-Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the Eldskjöld will suffer damage equal to a portion of what it inflicts.
+När den kastas på en vänlig enhete ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
 "	"{Avancerad Eldskjöld}
 
-Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the Eldskjöld will suffer damage equal to a portion of what it inflicts.
+När den kastas på en vänlig enhete ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
 
-Damage to attacking enemy units is 5% more than Grundläggande Eldskjöld.
+Skadan för anfallande fiendeenheter är 5% mer än Grundläggande Eldskjöld.
 "	"{Sofistikerad Eldskjöld}
 
-Cast on a friendly unit, it does not provide any additional protection, but any enemy attacking through the Eldskjöld will suffer damage equal to a portion of what it inflicts.
+När den kastas på en vänlig enhete ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
 
-Damage to attacking enemy units is 10% more than Grundläggande Eldskjöld.
+Skadan för anfallande fiendeenheter är 10% mer än Grundläggande Eldskjöld.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Skydd mot Luft	Prot. from Air	2		 	 	x	7	5	5	5	0	70	70	50	50	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Skydd mot Luft}
+Skydd mot Luft	Skydd mot Luft	2		 	 	x	7	5	5	5	0	70	70	50	50	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Skydd mot Luft}
 
-Protects the selected unit, reducing damage received from Air spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler.
 "	"{Grundläggande Skydd mot Luft}
 
-Protects the selected unit, reducing damage received from Air spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler.
 "	"{Avancerad Skydd mot Luft}
 
-Protects the selected unit, reducing damage received from Air spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler.
 
-Protection is nearly twice that of Grundläggande Skydd mot Luft.
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Luft.
 "	"{Sofistikerad Skydd mot Luft}
 
-Protects the selected unit, reducing damage received from Air spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler.
 
-Protection is nearly twice that of Grundläggande Skydd mot Luft.
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Luft.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Skydd mot Eld	Prot. from Fire	1	 		x	 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Skydd mot Eld}
+Skydd mot Eld	Skydd mot Eld	1	 		x	 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Skydd mot Eld}
 
-Protects the selected unit, reducing damage received from Fire spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
 "	"{Grundläggande Skydd mot Eld}
 
-Protects the selected unit, reducing damage received from Fire spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
 "	"{Avancerad Skydd mot Eld}
 
-Protects the selected unit, reducing damage received from Fire spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
 
-Protection is nearly twice that of Grundläggande Skydd mot Eld.
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Eld.
 "	"{Sofistikerad Skydd mot Eld}
 
 Protects the selected unit, reducing damage received from Fire spells.
 
-Protection is nearly twice that of Grundläggande Skydd mot Eld.
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Eld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Prot. from Water	Prot. from Water	1	 	x		 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Skydd mot Vatten}
+Skydd mot Vatten	Skydd mot Vatten	1	 	x		 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Skydd mot Vatten}
 
-Protects the selected unit, reducing damage received from Water spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollformler.
 "	"{Grundläggande Skydd mot Vatten}
 
-Protects the selected unit, reducing damage received from Water spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollformler.
 "	"{Avancerad Skydd mot Vatten}
 
-Protects the selected unit, reducing damage received from Water spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollformler.
 
-Protection is nearly twice that of Grundläggande Skydd mot Vatten.
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Vatten.
 "	"{Sofistikerad Skydd mot Vatten}
 
-Protects the selected unit, reducing damage received from Water spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollformler.
 
-Protection is nearly twice that of Grundläggande Skydd mot Vatten.
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Vatten.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Prot. from Earth	Prot. from Earth	3	x	 	 		12	9	9	9	0	70	70	50	50	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Skydd mot Jord}
+Skydd mot Jord	Skydd mot Jord	3	x	 	 		12	9	9	9	0	70	70	50	50	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Skydd mot Jord}
 
-Protects the selected unit, reducing damage received from Earth spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler.
 "	"{Grundläggande Skydd mot Jord}
 
-Protects the selected unit, reducing damage received from Earth spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler.
 "	"{Avancerad Skydd mot Jord}
 
-Protects the selected unit, reducing damage received from Earth spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler.
 
-Protection is  nearly twice that of Grundläggande Skydd mot Jord.
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Jord.
 "	"{Sofistikerad Skydd mot Jord}
 
-Protects the selected unit, reducing damage received from Earth spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler.
 
-Protection is  nearly twice that of Grundläggande Skydd mot Jord.
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Jord.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Anti-Magi	Anti-Magi	3	x	 	 	 	15	12	12	12	0	4	4	5	6	12	8	8	4	8	8	12	10	12	10	10	15	20	"{Anti-Magi}
 
-Protects the selected unit from all low level spells.
+Skyddar vald enhet från alla lågnivåtrollformler.
 "	"{Grundläggande Anti-Magi}
 
-Protects the selected unit from all low level spells.
+Skyddar vald enhet från alla lågnivåtrollformler.
 "	"{Avancerad Anti-Magi}
 
-Protects the selected unit all but the most powerful spells.
+Skyddar vald enhet från alla utom de mest kraftfulla trollformlerna.
 "	"{Sofistikerad Anti-Magi}
 
-Protects the selected unit from all spells.
+Skyddar vald enhet från alla trollformler.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Bryt Förtrollning	Bryt Förtrollning	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Bryt Förtrollning}
 
-Removes all spell effects from a friendly creature.
+Tar bort samtliga förtrollningseffekter från en vänlig varelse.
 "	"{Grundläggande Bryt Förtrollning}
 
-Removes all spell effects from a friendly creature.
+Tar bort samtliga förtrollningseffekter från en vänlig varelse.
 "	"{Avancerad Bryt Förtrollning}
 
-Removes all spell effects from a friendly or hostile creature.
+Tar bort samtliga förtrollningseffekter från en vänlig eller fientlig varelse.
 "	"{Sofistikerad Bryt Förtrollning}
 
-Removes all spell effects from all units on the battlefield.
+Tar bort samtliga förtrollningseffekter från alla enheter på slagfältet.
 "	 COMBAT_SPELL|CREATURE_TARGET_1
-Magic Mirror	Magic Mirror	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Magic Mirror}
+Magisk Spegel	Magisk Spegel	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Magisk Spegel}
 
-Reflects hostile spells towards a random enemy creature 20% of the time.
+Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 20% av gångerna.
 "	"{Grundläggande Magic Mirror}
 
-Reflects hostile spells towards a random enemy creature 20% of the time.
+Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 20% av gångerna.
 "	"{Avancerad Magic Mirror}
 
-Reflects hostile spells towards a random enemy creature 30% of the time.
+Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 30% av gångerna.
 "	"{Sofistikerad Magic Mirror}
 
-Reflects hostile spells towards a random enemy creature 40% of the time.
+Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 40% av gångerna.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Kurera	Kurera	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Kurera}
 
-Removes all negative spell effects and heals a small number of hit points on the selected unit.
+Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på den valda enheten.
 "	"{Grundläggande Kurera}
 
-Removes all negative spell effects and heals a small number of hit points on the selected unit.
+Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på den valda enheten.
 "	"{Avancerad Kurera}
 
-Removes all negative spell effects and heals a small number of hit points on all friendly units.
+Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på den valda enheten.
 
-Damage healed is 10 points more than Grundläggande Kurera.
+Läkt skada är 10 poäng mer än Grundläggande Kurera.
 "	"{Sofistikerad Kurera}
 
-Removes all negative spell effects and heals a small number of hit points on all friendly units.
+Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på alla vänliga enheter.
 
-Damage healed is 20 points more than Grundläggande Kurera.
+Läkt skada är 20 poäng mer än Grundläggande Kurera.
 "	 COMBAT_SPELL|CREATURE_TARGET_1
-Återupplivande	Återupplivande	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Återupplivande}
+Återuppliva	Återuppliva	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Återuppliva}
 
+Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+"	"{Grundlägga Återuppliva}
+
+Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+"	"{Avancerad Återuppliva}
+
+Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
 Resurrects units in the selected group by restoring a fixed number of hit points to the target.
-"	"{Grundläggande Återupplivande}
 
-Resurrects units in the selected group by restoring a fixed number of hit points to the target.
-"	"{Avancerad Återupplivande}
+Förser 40 skadepoäng ytterligare gentemot Grundläggande Återuppliva.
+"	"{Sofistikerad Återuppliva}
 
-Resurrects units in the selected group by restoring a fixed number of hit points to the target.
+Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
 
-Provides an additional 40 hit points over Grundläggande Återupplivande.
-"	"{Sofistikerad Återupplivande}
-
-Resurrects units in the selected group by restoring a fixed number of hit points to the target. 
-
-Provides an additional 120 hit points over Grundläggande Återupplivande.
+Förser 120 skadepoäng ytterligare gentemot Grundläggande Återuppliva.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Animera Döda	Animera Döda	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Animera Döda}
 
@@ -1122,5 +1124,3 @@ Föråldra	Föråldra	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1				
 Dödsmoln	Dödsmoln	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Åskblixt	Åskblixt	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Bryt hjälpande förtrollningar	Bryt hjälpande förtrollningar	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
-Dödsblick	Dödsblick	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
-Syrlig andedräkt	Syrlig andedräkt	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
