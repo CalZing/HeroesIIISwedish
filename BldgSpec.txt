@@ -8,103 +8,103 @@ Svärdets Brödrarskap	"Under en belägring så ökar Svärdets Brödrarskap dina trupp
 		
 		
 Kolossen	"Kolossens närvaro ökar den veckoliga tillväxten av varelser med 50%, ökar din dagliga inkomst av guld med 5000, och ökar alla allierade hjältars moral med +2."	
-Resurssilo	Resurssilon förser dig med +1 ved och +1 sten varje dag.	
+Resurssilo	Resurssilon förser dig med +ytterligare 1 ved och +1 sten varje dag.	
 Mystisk Damm	Den Mystiska Dammen producerar en liten mängd slumpade resurser varje vecka.	
-Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Dvärgar med 4 per vecka.	
-Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar tillväxten av Strids Dvärgar med 4 per vecka.	
+Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar produktionen av Dvärgar med 4 per vecka.	
+Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar produktionen av Stridsdvärgar med 4 per vecka.	
 		
-Välgångens Fontän	The Fountain of Fortune increases the luck of the garrison hero by +2 when defending against a siege.	
+Välgångens Fontän	Välgångens fontän ökar turen hos garnisonshjälten med +2 när den försvarar sig mot en belägring.	
 Skattkammare	Skattkammaren ger dig 10% ränta på det guld du har i början av varje vecka.	
 		
-Dendroidstickling	The Dendroid Saplings increase Dendroid Guard production by 2 per week.	
-Dendroidstickling	The Dendroid Saplings increase Dendroid Soldier production by 2 per week.	
-Andeväktaren	"The presence of the Spirit Guardian increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the luck of all allied heroes by +2."	
-Resurssilo	The Resource Silo provides you with an additional +1 crystal each day.	
-Artefakthandlaren	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
-Skulptörsvingar	The Sculptor's Wings increase Stone Gargoyle production by 4 per week.	
-Skulptörsvingar	The Sculptor's Wings increase Obsidian Gargoyle production by 4 per week.	
+Dendroidstickling	Dendroidsticklingarna ökar produktionen av Dendroid Guard med 2 per vecka.	
+Dendroidstickling	Dendroidsticklingarna ökar produktionen av Dendroid Soldier med 2 per vecka.	
+Andeväktaren	"Närvaron av Andeväktaren ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och ökar alla allierade hjältars tur med +2."	
+Resurssilo	Resurssilon förser dig med ytterligare +1 kristall sten varje dag.	
+Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
+Skulptörsvingar	The Sculptor's Wings ökar produktionen av Stone Gargoyle med 4 per vecka.	
+Skulptörsvingar	The Sculptor's Wings ökar produktionen av Obsidian Gargoyle med 4 per vecka.	
 		
-Utsiktstorn	The lookout tower extends the visible distance around your city.	
-Bibliotek	The library provides your mage guild with additional spells.	
-Kunskapens Vägg	The Wall of Knowledge increases the Knowledge skill of any visiting hero by +1.	
+Utsiktstorn	Utsiktstornet förlänger det synliga avståndet runt din stad.	
+Bibliotek	Biblioteket förser ditt magiskrå med ytterligare trollformler.	
+Kunskapens Vägg	Kunskapens vägg ökar Kunskapen hos varje besökande hjälte med +1.	
 		
 		
-Luftskepp	"The presence of the Skyship increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, reveals the entire world map, and increases the knowledge of any defending hero by +15 (these spell points do not follow a hero who leaves the town)."	
-Resurssilo	The Resource Silo provides you with an additional +1 gems each day.	
+Luftskepp	"Luftskeppets närvaro ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag, avtäcker hela världskartan och ökar kunskapen hos en försvarande hjälte med +15 (Dessa trollformelspoäng följer inte med hjälten som lämnar staden)."	
+Resurssilo	Resurssilon förser dig med ytterligare +1 ädelstenar varje dag.	
 		
-Födelsepooler	The Birthing Pools increase Imp production by 8 per week.	
-Födelsepooler	The Birthing Pools increase Familiar production by 8 per week.	
+Födelsepöler	Födelsepoolerna ökar produktionen av Pukar med 8 per vecka.	
+Födelsepöler	Födelsepoolerna ökar produktionen av Bjäror med 8 per vecka.	
 		
 Svavelstormsmoln	The Brimstone Stormclouds boost a garrison hero's power by +2 during any siege defense.	
 Slottsport	Allows travel between Inferno towns containing Castle Gates. Destination town must be unoccupied.	
 Eldsorden	The Order of Fire increases the Power skill of any visiting hero by +1.	
-Burar	The Cages increase Hell Hound production by 3 per week.	
-Burar	The Cages increase Cerberus production by 3 per week.	
-Eldens Gudom	The presence of the Deity of Fire increases weekly creature generation by 50% and provides your empire with an additional 5000 gold each day.  Every week hereafter will be a Week of the Imp.	
-Resurssilo	The Resource Silo provides you with an additional +1 mercury each day.	
+Burar	The Cages ökar produktionen av Hell Hound med 3 per vecka.	
+Burar	The Cages ökar produktionen av Cerberus med 3 per vecka.	
+Eldens Gudom	The presence of the Deity of Fire increases weekly creature generation by 50% and provides your empire with an additional 5000 gold each day.  Every week hereafter will be a Week of the Puke.	
+Resurssilo	Resurssilon förser dig med ytterligare +1 kvicksilver varje dag.	
 Mörkertäcke	The Cover of Darkness covers your city with a permanent shroud to all other players.	
-Skändade Gravar	The Unearthed Graves increase Skeleton production by 6 per week.	
-Skändade Gravar	The Unearthed Graves increase Skeleton Warrior production by 6 per week.	
-Varv	The Shipyard allows you to purchase ships.	
+Skändade Gravar	The Unearthed Graves ökar produktionen av Skeleton med 6 per vecka.	
+Skändade Gravar	The Unearthed Graves ökar produktionen av Skeleton Warrior med 6 per vecka.	
+Varv	Varvet låter dig köpa fartyg.	
 Nekromantiförstärkare	The Necromancy Amplifier increases the Necromancy skill of all heroes you control (with the Necromancy skill) by 10%.	
 Skelettransformator	The Skeleton Transformer allows you to convert any creature into a skeleton.	
 		
 		
 		
-Själafängelse	"The presence of the Soul Prison increases weekly creature generation by 50%, provides your empire with an additional 5000 gold each day, and boosts the Necromancy skill of all allied heroes (who possess the skill) by 20%."	
-Resurssilo	The Resource Silo provides you with an additional +1 wood and +1 ore each day.	
-Artefakthandlare	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
-Svampringar	The Mushroom Rings increase Troglodyte production by 7 per week.	
-Svampringar	The Mushroom Rings increase Infernal Troglodyte production by 7 per week.	
+Själafängelse	"The presence of the Soul Prison ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt imperie med ytterligare 5000 guld varje dag, and boosts the Necromancy skill of all allied heroes (who possess the skill) by 20%."	
+Resurssilo	Resurssilon förser dig med ytterligare +1 ved och +1 sten varje dag.	
+Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
+Svampringar	The Mushroom Rings ökar produktionen av Troglodyte med 7 per vecka.	
+Svampringar	The Mushroom Rings ökar produktionen av Infernal Troglodyte med 7 per vecka.	
 		
 Manavirvel	The Mana Vortex temporarily doubles spell points for any garrison or visiting hero.	
 Åkallandeportal	"With the Portal of Summoning, you can recruit creatures from an externally flagged dwelling."	
 Stridsmästarakademien	The Academy of Battle Scholars teaches new skills to any hero (+1000 experience) once.	
 		
 		
-Jordens Väktare	"The presence of the Guardian of Earth increases weekly creature generation by 50%, provides your empire with an additional 5000 gold each day, and increases the Power of a garrison hero by +12 when defending against a siege."	
-Resurssilo	The Resource Silo provides you with an additional +1 sulfur each day.	
+Jordens Väktare	"The presence of the Guardian of Earth ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt imperie med ytterligare 5000 guld varje dag, and increases the Power of a garrison hero by +12 when defending against a siege."	
+Resurssilo	Resurssilon förser dig med ytterligare +1 kvicksilver varje dag.	
 Flykttunnel	The Escape Tunnel allows a garrison hero to flee from defending against a siege.	
-Skräphall	The Mess Hall increases Goblin production by 8 per week.	
-Skräphall	The Mess Hall increases Hobgoblin production by 8 per week.	
+Skräphall	The Mess Hall ökar produktionen avs Goblin med 8 per vecka.	
+Skräphall	The Mess Hall ökar produktionen avs Hobgoblin med 8 per vecka.	
 		
 Frilansarskrå	The Freelancer's Guild allows you to trade creatures for resources.	
 Ballistagård	This Blacksmith upgrade provides your armies with ballistas.	
 Valhallahallen	The Hall of Valhalla increases the Attack skill of any visiting hero by +1.	
 		
 		
-Krigsherrarnas Monument	"The presence of the Warlords' Monument increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the Attack strength of a garrison hero by +20 when defending against a siege."	
-Resurssilo	The Resource Silo provides you with an additional +1 wood and +1 ore each day.	
+Krigsherrarnas Monument	"The presence of the Warlords' Monument ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag, and increases the Attack strength of a garrison hero by +20 when defending against a siege."	
+Resurssilo	Resurssilon förser dig med ytterligare +1 ved och +1 sten varje dag.	
 Cage of Warlords	The Cage of Warlords increases the Defense strength of any visiting hero by +1.	
-Kaptenskvarteren	The Captain's Quarters increase Gnoll production by 6 per week.	
-Kaptenskvarteren	The Captain's Quarters increase Gnoll Marauder production by 6 per week.	
-Varv	The Shipyard allows you to purchase ships.	
+Kaptenskvarteren	The Captain's Quarters increase Gnoll med 6 per vecka.	
+Kaptenskvarteren	The Captain's Quarters increase Gnoll Marauder med 6 per vecka.	
+Varv	Varvet låter dig köpa fartyg.	
 Skräckskåran	The Glyphs of Fear add +2 to a garrison hero's defense skill when defending against a siege.	
 Blodobelisk	The presence of a Blood Obelisk adds +2 to a garrison hero's attack skill when defending against a siege.	
 		
 		
 		
-Köttätande Växt	"The presence of the Carnivorous Plant increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the Attack and Defense strength of a garrison hero by +10 each when defending against a siege."	
-Resurssilo	The Resource Silo provides you with an additional +1 wood and +1 ore each day.	
-Artefakthandlare	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
+Köttätande Växt	"The presence of the Carnivorous Plant ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag, and increases the Attack and Defense strength of a garrison hero by +10 each when defending against a siege."	
+Resurssilo	Resurssilon förser dig med +1 ved och +1 sten varje dag.	
+Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
 Livets Trädgård	This structure increases weekly production of Pixies by 10 per week.	
 Livets Trädgård	This structure increases weekly production of Sprites 10 per week.	
-Varv	The Shipyard allows you to purchase ships.	
+Varv	Varvet låter dig köpa fartyg.	
 Magiuniversitet	"At the Magic University, you can pay to learn any, or all, of the four schools of magic."	
 		
 		
 		
 		
-Norrsken	"The presence of the Aurora Borealias increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and places all spells in your mage guild."	
-Resurssilo	The Resource Silo provides you with an additional 1 Mercury each day.	
-Artefakthandlare	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
+Norrsken	"The presence of the Aurora Borealias ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag, and places all spells in your mage guild."	
+Resurssilo	Resurssilon förser dig med ytterligare +1 kvicksilver varje dag.	
+Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
 Level 1 Creature Horde	This structure increases weekly production of Level 1 Creatures.	
 Level 2 Creature Horde	This structure increases weekly production of Level 2 Creatures.	
-Varv	The Shipyard allows you to purchase ships.	
+Varv	Varvet låter dig köpa fartyg.	
 		
 		
 Level 3 Creature Horde	This structure increases weekly production of Level 3 Creatures.	
 Level 4 Creature Horde	This structure increases weekly production of Level 4 Creatures.	
 Level 5 Creature Horde	This structure increases weekly production of Level 5 Creatures.	
-Grail	"The presence of the Grail increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and provides an additional bonus unique to each town type."	
+Grail	"The presence of the Grail ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag, and provides an additional bonus unique to each town type."	
 Resource Silo	The Resource Silo provides you with an additional resource ore each day.	
