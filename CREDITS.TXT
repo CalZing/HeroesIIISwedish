@@ -1,51 +1,51 @@
-Credits
-"{Created By:}
+Lista Över Medverkande
+"{Skapad Av:}
 Jon Van Caneghem
 
 
 
-{Executive Producer:}
+{Verkställande Producent:}
 Mark Caldwell
 
 
 
-{Producer:}
+{Producent:}
 Jeff Blattner
 
 
 
-{Director:}
+{Regissör:}
 David Mullich
 
 
-{Designers:}
+{Designer:}
 Jennifer Bullard
 Jon Van Caneghem
 
 
-{Lead Programmers:}
+{Huvudprogrammerare:}
 John Bolton (ROE)
 David Richey (SOD)
 Gus Smedstad (AB)
 
 
-{Programmers:}
+{Programmerare:}
 Mark Caldwell
 John Krause
 Jeff Leggett
 
 
-{Installer Programmer:}
+{Installerarprogrammerare:}
 Riki Corredera
 
 
-{Lead Artists:}
+{Huvudkonstnärer:}
 Bonita Long-Hemsath (AB)
 Joseph McGuffin (SOD)
 Phelan Sykes (ROE)
 
 
-{Artists:}
+{Huvudkonstnärer:}
 George Almond
 Jeff Bigman
 Fernando Castillo
@@ -71,11 +71,11 @@ Scott White
 Charles Zilm
 
 
-{Asset Coordinator:}
+{Tillgångssamordnare:}
 Jack Russell
 
 
-{Level Designers:}
+{Banskapare:}
 Benjamin Bent
 Dave Botan
 Ryan Den
@@ -86,33 +86,33 @@ Lisa Whitman
 Michael Wolf
 
 
-{Music Producer:}
+{Musikproducent:}
 Rob King
 
 
-{Town Themes:}
+{Stadsteman:}
 Paul Romero
 
 
-{Music:}
+{Musik:}
 Paul Romero
 Rob King
 Steve Baca
 
 
-{Sound Design:}
+{Ljudutformning:}
 Rob King
 Steve Baca
 Chuck Russom
 
 
-{Voice Production:}
+{Röstproduktion:}
 Rob King
 Green Street Studios
 South Pasadena, Ca.
 
 
-{Voice Talent:}
+{Rösttalanger:}
 Mark Arnott
 Mari Devon
 Aric Devone
@@ -123,15 +123,15 @@ Mona Marshall
 Laird McCintosh
 
 
-{Lead Tester:}
+{Huvudtestare:}
 Karl Drown
 
 
-{Senior Tester:}
+{Erfaren Testare:}
 Ernie Gallardo
 
 
-{Testers:}
+{Testare:}
 Jeff Abney
 Edward Campos
 Michael Dallenbach
@@ -140,15 +140,15 @@ Clifton Webster
 Eric Williamson
 
 
-{Special Thanks:}
+{Speciellt Tack Till:}
 Rad Game Tools
 Sonic Foundry
 Sound Forge
 Soundscape
 
 
-{Visit us on the Web:}
+{Besök oss på Webben:}
 www.3do.com
 
 "
-"Copyright 2000 The 3DO Company.  All Rights Reserved.  3DO, Heroes, Heroes of Might and Magic, Armageddon's Blade, Shadow of Death, New World Computing, and their respective logos, are trademarks and/or service marks of The 3DO Company in the U.S. and other countries.  All other trademarks belong to their respective owners."
+"Copyright 2000 The 3DO Company.  Alla Rättigheter Förbehållna.  3DO, Heroes, Heroes of Might and Magic, Armageddon's Blade, Shadow of Death, New World Computing  och deras respektive logotyper är varumärken och/eller servicemärken för The 3DO Company i de Förenta Staterna och andra länder.  Alla andra varumärken tillhör deras respektive ägare."
