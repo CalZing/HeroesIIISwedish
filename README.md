@@ -11,10 +11,7 @@ Status
 |               | GENRLTXT.TXT  |              |
 |               | BldgSpec.txt  |              |
 |               | CrGen1.txt    |              |
-|               | SPTRAITS.TXT  |              |
 | Help.txt      |               |              |
-| TCommand.txt  |               |              |
-| Walls.txt     |               |              |
 | SeerHut.txt   |               |              |
 | randsign.txt  |               |              |
 | randtvrn.txt  |               |              |
@@ -24,6 +21,9 @@ Status
 | advevent.txt  |               |              |
 | artevent.txt  |               |              |
 | CREDITS.TXT   |               |              |
+|               |               | Walls.txt    |
+|               |               | TCommand.txt |
+|               |               | SPTRAITS.TXT |
 |               |               | Overview.txt |
 |               |               | ObjNames.txt |
 |               |               | TvrnInfo.txt |
@@ -70,8 +70,10 @@ Spell         | Trollformel
 Spell Point   | Trollformelspoäng
 Artifact      | Artefakt
 Town          | Stad
-
-
+Cause         | Förmå/Låta/Orsaka/Vålla
+Inflict       | Åsamka/Vålla/Tillfoga
+Friendly      | Vänskapliga
+Ranged        | Skotthåll
 
 Redigering
 ----------

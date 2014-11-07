@@ -457,18 +457,18 @@ Skyddet är dubbelt så bra som Grundläggande Luftsköld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Eldskjöld	Eldskjöld	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Eldskjöld}
 
-När den kastas på en vänlig enhete ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
+När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
 "	"{Grundläggande Eldskjöld}
 
-När den kastas på en vänlig enhete ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
+När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
 "	"{Avancerad Eldskjöld}
 
-När den kastas på en vänlig enhete ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
+När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
 
 Skadan för anfallande fiendeenheter är 5% mer än Grundläggande Eldskjöld.
 "	"{Sofistikerad Eldskjöld}
 
-När den kastas på en vänlig enhete ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
+När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
 
 Skadan för anfallande fiendeenheter är 10% mer än Grundläggande Eldskjöld.
 "	 COMBAT_SPELL|CREATURE_TARGET
@@ -555,13 +555,13 @@ Skyddar vald enhet från alla trollformler.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Bryt Förtrollning	Bryt Förtrollning	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Bryt Förtrollning}
 
-Tar bort samtliga förtrollningseffekter från en vänlig varelse.
+Tar bort samtliga förtrollningseffekter från en vänskaplig varelse.
 "	"{Grundläggande Bryt Förtrollning}
 
-Tar bort samtliga förtrollningseffekter från en vänlig varelse.
+Tar bort samtliga förtrollningseffekter från en vänskaplig varelse.
 "	"{Avancerad Bryt Förtrollning}
 
-Tar bort samtliga förtrollningseffekter från en vänlig eller fientlig varelse.
+Tar bort samtliga förtrollningseffekter från en vänskaplig eller fientlig varelse.
 "	"{Sofistikerad Bryt Förtrollning}
 
 Tar bort samtliga förtrollningseffekter från alla enheter på slagfältet.
@@ -632,18 +632,18 @@ Ger ytterligare 130 skadepoäng utöver Grundläggande Besjäla Döda.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Offra	Offra	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Offra}
 
-Förstör en vänlig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
+Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
 "	"{Grundläggande Offra}
 
-Förstör en vänlig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
+Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
 "	"{Avancerad Offra}
 
-Förstör en vänlig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
+Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
 
 Återställer mer varelsehälsa än Grundläggande Offra.
 "	"{Sofistikerad Offra}
 
-Förstör en vänlig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
+Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
 
 Återställer mer varelsehälsa än Avancerad Offra.
 "	 COMBAT_SPELL|CREATURE_TARGET
@@ -829,11 +829,9 @@ Effekten är dubbelt så stor som Grundläggande Flax.
 Otur	Otur	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Otur}
 
 Minskar turen hos den valda fiendeenheten.
-Reduces the luck of the selected enemy unit.
 "	"{Grundläggande Otur}
 
 Minskar turen hos den valda fiendeenheten.
-Reduces the luck of the selected enemy unit.
 
 Trollformelspoängskostnaden hälften av Normal Otur.
 "	"{Avancerad Otur}
