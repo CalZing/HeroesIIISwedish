@@ -134,16 +134,16 @@ Fyra gånger om dagen får du teleportera din hjälte till en synlig, oupptagen pla
 "	 ADV_SPELL
 Stadsportal	Stadsportal	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Stadsportal}
 
-Teleporterar din hjälte till närmaste vänliga stad.  Staden måste vara ledig.
+Teleporterar din hjälte till närmaste vänskapliga stad.  Staden måste vara ledig.
 "	"{Grundläggande Stadsportal}
 
-Teleporterar din hjälte till närmaste vänliga stad.  Staden måste vara ledig.
+Teleporterar din hjälte till närmaste vänskapliga stad.  Staden måste vara ledig.
 "	"{Avancerad Stadsportal}
 
-Teleporterar din hjälte till valfri vänliga stad.  Staden måste vara ledig.
+Teleporterar din hjälte till valfri vänskapliga stad.  Staden måste vara ledig.
 "	"{Sofistikerad Stadsportal}
 
-Teleporterar din hjälte till valfri vänliga stad.  Staden måste vara ledig.
+Teleporterar din hjälte till valfri vänskapliga stad.  Staden måste vara ledig.
 "	 ADV_SPELL
 																																	
 Combat Spells																																	
@@ -193,7 +193,7 @@ Placerar ett mellanstort kraftfält på slagfältet på en punkt specificerad av kas
 "	 COMBAT_SPELL|LOCATION_TARGET
 Eldmur	Eldmur	2	 	 	x	 	8	6	6	6	10	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Eldmur}
 
-Places a small wildfire on the battlefield at a point specified by the caster.  Any units passing through the wall take damage.
+Placerar en liten löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
 "	"{Grundläggande Eldmur}
 
 Placerar en liten löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
@@ -434,7 +434,7 @@ Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-att
 Skyddet är dubbelt så bra som Grundläggande Sköld.
 "	"{Sofistikerad Sköld}
 
-Skyddar alla vänliga enheter, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
+Skyddar alla vänskapliga enheter, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
 
 Skyddet är dubbelt så bra som Grundläggande Sköld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
@@ -451,7 +451,7 @@ Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
 Skyddet är dubbelt så bra som Grundläggande Luftsköld.
 "	"{Sofistikerad Luftskjöld}
 
-Skyddar alla vänliga enheter, vilket reducerar mängden mottagen skada från skotthåll.
+Skyddar alla vänskapliga enheter, vilket reducerar mängden mottagen skada från skotthåll.
 
 Skyddet är dubbelt så bra som Grundläggande Luftsköld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
@@ -502,7 +502,7 @@ Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
 Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Eld.
 "	"{Sofistikerad Skydd mot Eld}
 
-Protects the selected unit, reducing damage received from Fire spells.
+Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
 
 Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Eld.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
@@ -592,7 +592,7 @@ Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng
 Läkt skada är 10 poäng mer än Grundläggande Kurera.
 "	"{Sofistikerad Kurera}
 
-Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på alla vänliga enheter.
+Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på alla vänskapliga enheter.
 
 Läkt skada är 20 poäng mer än Grundläggande Kurera.
 "	 COMBAT_SPELL|CREATURE_TARGET_1
@@ -613,502 +613,504 @@ Förser 40 skadepoäng ytterligare gentemot Grundläggande Återuppliva.
 
 Förser 120 skadepoäng ytterligare gentemot Grundläggande Återuppliva.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Animera Döda	Animera Döda	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Animera Döda}
+Besjäla Döda	Besjäla Döda	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Besjäla Döda}
 
-Re-animates any destroyed undead in the selected group by restoring a fixed number of hit points to the target.
-"	"{Grundläggande Animera Döda}
+Återbesjälar odöda förstörda i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+"	"{Grundläggande Besjäla Döda}
 
-Re-animates any destroyed undead in the selected group by restoring a fixed number of hit points to the target.
-"	"{Avancerad Animera Döda}
+Återbesjälar odöda förstörda i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+"	"{Avancerad Besjäla Döda}
 
-Re-animates any destroyed undead in the selected group by restoring a fixed number of hit points to the target.
+Återbesjälar odöda förstörda i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
 
-Provides an additional 30 hit points over Grundläggande Animera Döda.
-"	"{Sofistikerad Animera Döda}
+Ger ytterligare 30 skadepoäng utöver Grundläggande Besjäla Döda.
+"	"{Sofistikerad Besjäla Döda}
 
-Re-animates any destroyed undead in the selected group by restoring a fixed number of hit points to the target.
+Återbesjälar odöda förstörda i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
 
-Provides an additional 130  hit points over Grundläggande Animera Döda.
+Ger ytterligare 130 skadepoäng utöver Grundläggande Besjäla Döda.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Offra	Offra	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Offra}
 
-Destroys a friendly creature group in order to resurrect a dead group.  Number of resurrected creatures depends on the caster's spell power and the health of the destroyed stack.
+Förstör en vänlig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
 "	"{Grundläggande Offra}
 
-Destroys a friendly creature group in order to resurrect a dead group.  Number of resurrected creatures depends on the caster's spell power and the health of the destroyed stack.
+Förstör en vänlig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
 "	"{Avancerad Offra}
 
-Destroys a friendly creature group in order to resurrect a dead group.  Number of resurrected creatures depends on the caster's spell power and the health of the destroyed stack.
+Förstör en vänlig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
 
-Restores more creature health than Grundläggande Offra.
+Återställer mer varelsehälsa än Grundläggande Offra.
 "	"{Sofistikerad Offra}
 
-Destroys a friendly creature group in order to resurrect a dead group.  Number of resurrected creatures depends on the caster's spell power and the health of the destroyed stack.
+Förstör en vänlig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
 
-Restores more creature health than Avancerad Offra.
+Återställer mer varelsehälsa än Avancerad Offra.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Välsigna	Välsigna	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Välsigna}
 
-Causes the selected unit to inflict maximum damage in combat.
+Låter den valda enheten vålla maximal skada i strid.
 "	"{Grundläggande Välsigna}
 
-Causes the selected unit to inflict maximum damage in combat.
+Låter den valda enheten vålla maximal skada i strid.
 "	"{Avancerad Välsigna}
 
-Causes the selected unit to inflict greater than their normal maximum damage in combat.
+Låter den valda enheten vålla större skada än dess maximala i strid.
 "	"{Sofistikerad Välsigna}
 
-Causes all friendly units to inflict greater than their normal maximum damage in combat.
+Låter alla vänskapliga enheter vålla större skada än deras maximala i strid.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Förbanna	Förbanna	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Förbanna}
 
-Causes the selected enemy unit to inflict minimum damage in combat.
+Låter den valda enheten vålla minimal skada i strid.
 "	"{Grundläggande Förbanna}
 
-Causes the selected enemy unit to inflict minimum damage in combat.
+Låter den valda enheten vålla minimal skada i strid.
 "	"{Avancerad Förbanna}
 
-Causes the selected enemy unit to inflict less than their normal minimum damage in combat.
+Låter den valda enheten vålla mindre skada än dess minimala i strid.
 "	"{Sofistikerad Förbanna}
 
-Causes all enemy units to inflict less than their normal minimum damage in combat.
+Låter alla fiendens enheter vålla mindre skada än deras minimala i strid.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Blodtörst	Blodtörst	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Blodtörst}
 
-Increases the hand-to-hand damage inflicted by the selected unit.
+Ökar man-mot-man-skadan vållad av den valda enheten.
 "	"{Grundläggande Blodtörst}
 
-Increases the hand-to-hand damage inflicted by the selected unit.
+Ökar man-mot-man-skadan vållad av den valda enheten.
 "	"{Avancerad Blodtörst}
 
-Increases the hand-to-hand damage inflicted by the selected unit.
+Ökar man-mot-man-skadan vållad av den valda enheten.
 
-Effect is twice that of Grundläggande Blodtörst.
+Effekten är dubbelt så stor som Grundläggande Blodtörst.
 "	"{Sofistikerad Blodtörst}
 
-Increases the hand-to-hand damage inflicted by all friendly units.
+Ökar man-mot-man-skadan vållad av alla vänskapliga enheter.
 
-Effect is twice that of Grundläggande Blodtörst.
+Effekten är dubbelt så stor som Grundläggande Blodtörst.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Precision	Precision	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Precision}
 
-Increases the ranged attack damage inflicted by the selected unit.
+Ökar skotthållsskadan vållad av den valda enheten.
 "	"{Grundläggande Precision}
 
-Increases the ranged attack damage inflicted by the selected unit.
+Ökar skotthållsskadan vållad av den valda enheten.
 "	"{Avancerad Precision}
 
-Increases the ranged attack damage inflicted by the selected unit.
+Ökar skotthållsskadan vållad av den valda enheten.
 
-Effect is twice that of Grundläggande Precision.
+Effekten är dubbelt så stor som Grundläggande Precision.
 "	"{Sofistikerad Precision}
 
-Increases the ranged attack damage inflicted by all friendly units.
+Ökar skotthållsskadan vållad av alla vänskapliga enheter.
 
-Effect is twice that of Grundläggande Precision.
+Effekten är dubbelt så stor som Grundläggande Precision.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Svaghet	Svaghet	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Svaghet}
 
-Reduces the selected enemy unit's attack strength.
+Minskar den valda fiendeenhetens anfallsstyrka.
 "	"{Grundläggande Svaghet}
 
-Reduces the selected enemy unit's attack strength.
+Minskar den valda fiendeenhetens anfallsstyrka.
 "	"{Avancerad Svaghet}
 
-Reduces the selected enemy unit's attack strength.
+Minskar den valda fiendeenhetens anfallsstyrka.
 
-Effect is twice that of Grundläggande Svaghet.
+Effekten är dubbelt så stor som Grundläggande Svaghet.
 "	"{Sofistikerad Svaghet}
 
-Reduces the attack strength of all enemy units.
+Minskar alla fiendeenhetens anfallsstyrka.
 
-Effect is twice that of Grundläggande Svaghet.
+Effekten är dubbelt så stor som Grundläggande Svaghet.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Stenskinn	Stenskinn	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Stenskinn}
 
-Increases the selected unit's defense strength.
+Ökar den valda enhetens försvarsstyrka.
 "	"{Grundläggande Stenskinn}
 
-Increases the selected unit's defense strength.
+Ökar den valda enhetens försvarsstyrka.
 "	"{Avancerad Stenskinn}
 
-Increases the selected unit's defense strength.
+Ökar den valda enhetens försvarsstyrka.
 
-Effect is twice that of Grundläggande Stenskinn.
+Effekten är dubbelt så stor som Grundläggande Stenskinn.
 "	"{Sofistikerad Stenskinn}
 
-Increases the defense strength of all friendly units.
+Ökar alla vänskapliga enheters försvarsstyrka.
 
-Effect is twice that of Grundläggande Stenskinn.
+Effekten är dubbelt så stor som Grundläggande Stenskinn.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Störande Stråle	Störande Stråle	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Störande Stråle}
 
-Reduces the selected enemy unit's defense strength.  A single enemy may be targeted multiple times by this spell.
+Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestrålas flera gånger av den här trollformeln.
 "	"{Grundläggande Störande Stråle}
 
-Reduces the selected enemy unit's defense strength.  A single enemy may be targeted multiple times by this spell.
+Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestrålas flera gånger av den här trollformeln.
 "	"{Avancerad Störande Stråle}
 
-Reduces the selected enemy unit's defense strength.  A single enemy may be targeted multiple times by this spell.
+Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestrålas flera gånger av den här trollformeln.
 
-Effect is greater than that of Grundläggande Störande Stråle.
+Effekten är större än den för Grundläggande Störande Stråle.
 "	"{Sofistikerad Störande Stråle}
 
-Reduces the selected enemy unit's defense strength.  A single enemy may be targeted multiple times by this spell.
+Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestrålas flera gånger av den här trollformeln.
 
-Effect is greater than that of Avancerad Störande Stråle.
+Effekten är större än den för Avancerad Störande Stråle.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Bön	Bön	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Bön}
 
-Bestows a bonus to the attack strength, defense strength and speed of the selected unit.
+Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt den valda enheten.
 "	"{Grundläggande Bön}
 
-Bestows a bonus to the attack strength, defense strength and speed of the selected unit.
+Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt den valda enheten.
 "	"{Avancerad Bön}
 
-Bestows a bonus to the attack strength, defense strength and speed of the selected unit.
+Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt den valda enheten.
 
-Effect is twice that of Grundläggande Bön.
+Effekten är dubbelt så stor som Grundläggande Bön.
 "	"{Sofistikerad Bön}
 
-Bestows a bonus to the attack strength, defense strength and speed of all friendly units.
+Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt alla vänskapliga enheter.
 
-Effect is twice that of Grundläggande Bön.
+Effekten är dubbelt så stor som Grundläggande Bön.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Glädje	Glädje	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Glädje}
 
-Increases the selected unit's morale.
+Ökar den valda enhetens moral.
 "	"{Grundläggande Glädje}
 
-Increases the selected unit's morale.
+Ökar den valda enhetens moral.
 "	"{Avancerad Glädje}
 
-Increases the selected unit's morale.
+Ökar den valda enhetens moral.
 
-Effect is twice that of Grundläggande Glädje.
+Effekten är dubbelt så stor som Grundläggande Glädje.
 "	"{Sofistikerad Glädje}
 
-Increases the morale of all friendly units.
+Ökar alla vänskapliga enheters moral.
 
-Effect is twice that of Grundläggande Glädje.
+Effekten är dubbelt så stor som Grundläggande Glädje.
 "	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
 Sorg	Sorg	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Sorg}
 
-Reduces the morale of the selected enemy unit.
+Minskar moralen hos den valda fiendeenheten.
 "	"{Grundläggande Sorg}
 
-Reduces the morale of the selected enemy unit.
+Minskar moralen hos den valda fiendeenheten.
 "	"{Avancerad Sorg}
 
-Reduces the morale of the selected enemy unit.
+Minskar moralen hos den valda fiendeenheten.
 
-Effect is twice that of Grundläggande Sorg.
+Effekten är dubbelt så stor som Grundläggande Sorg.
 "	"{Sofistikerad Sorg}
 
-Reduces the morale of all enemy units.
+Minskar moralen hos alla fiendeenheter.
 
-Effect is twice that of Grundläggande Sorg.
+Effekten är dubbelt så stor som Grundläggande Sorg.
 "	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
 Flax	Flax	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Flax}
 
-Increases the selected unit's luck.
+Ökar den valda enhetens tur.
 "	"{Grundläggande Flax}
 
-Increases the selected unit's luck.
+Ökar den valda enhetens tur.
 "	"{Avancerad Flax}
 
-Increases the selected unit's luck.
+Ökar den valda enhetens tur.
 
-Effect is twice that of Grundläggande Flax.
+Effekten är dubbelt så stor som Grundläggande Flax.
 "	"{Sofistikerad Flax}
 
-Increases the luck of all friendly units.
+Ökar alla vänskapliga enheters tur.
 
-Effect is twice that of Grundläggande Flax.
+Effekten är dubbelt så stor som Grundläggande Flax.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Otur	Otur	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Otur}
 
+Minskar turen hos den valda fiendeenheten.
 Reduces the luck of the selected enemy unit.
 "	"{Grundläggande Otur}
 
+Minskar turen hos den valda fiendeenheten.
 Reduces the luck of the selected enemy unit.
 
-Spell Point cost is half that of Normal Otur.
+Trollformelspoängskostnaden hälften av Normal Otur.
 "	"{Avancerad Otur}
 
-Reduces the luck of the selected enemy unit.
+Minskar turen hos den valda fiendeenheten.
 
-Effect is twice that of Grundläggande Otur.
+Effekten är dubbelt så stor som Grundläggande Otur.
 "	"{Sofistikerad Otur}
 
-Reduces the luck of all enemy units.
+Minskar turen hos alla fiendeenheter.
 
-Effect is twice that of Grundläggande Otur.
+Effekten är dubbelt så stor som Grundläggande Otur.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Skynda	Skynda	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Skynda}
 
-Increases the speed of the selected unit.
+Ökar snabbheten hos den valda enheten.
 "	"{Grundläggande Skynda}
 
-Increases the speed of the selected unit.
+Ökar snabbheten hos den valda enheten.
 "	"{Avancerad Skynda}
 
-Increases the speed of the selected unit.
+Ökar snabbheten hos den valda enheten.
 
-Effect is nearly twice that of Grundläggande Skynda.
+Effekten är nästan dubbelt så stor som Grundläggande Skynda.
 "	"{Sofistikerad Skynda}
 
-Increases the speed of all friendly units.
+Ökar snabbheten hos alla vänskapliga enheter.
 
-Effect is nearly twice that of Grundläggande Skynda.
+Effekten är nästan dubbelt så stor som Grundläggande Skynda.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Sakta Ner	Sakta Ner	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Sakta Ner}
 
-Reduces the speed of the selected enemy unit.
+Minskar snabbheten hos den valda fiendeenheten.
 "	"{Grundläggande Sakta Ner}
 
-Reduces the speed of the selected enemy unit.
+Minskar snabbheten hos den valda fiendeenheten.
 "	"{Avancerad Sakta Ner}
 
-Reduces the speed of the selected enemy unit.
+Minskar snabbheten hos den valda fiendeenheten.
 
-Effect is twice that of Grundläggande Sakta Ner.
+Effekten är dubbelt så stor som Grundläggande Sakta Ner.
 "	"{Sofistikerad Sakta Ner}
 
-Reduces the speed of all enemy units.
+Minskar snabbheten hos alla fiendeenheten.
 
-Effect is twice that of Grundläggande Sakta Ner.
+Effekten är dubbelt så stor som Grundläggande Sakta Ner.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Dräpare	Dräpare	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Dräpare}
 
-Increases the amount of damage inflicted by a unit when fighting against Dragons, Behemoths and Hydras.
+Ökar mångden skada vållad av en enhet när den slåss mot Drakar, Behemoter eller Hydror.
 "	"{Grundläggande Dräpare}
 
-Increases the amount of damage inflicted by a unit when fighting against Dragons, Behemoths and Hydras.
+Ökar mångden skada vållad av en enhet när den slåss mot Drakar, Behemoter eller Hydror.
 "	"{Avancerad Dräpare}
 
-Increases the amount of damage inflicted by a unit when fighting against Dragons, Behemoths, Hydras, Devils and Angels.
+Ökar mångden skada vållad av en enhet när den slåss mot Drakar, Behemoter, Hydror, Djävlar eller Änglar.
 "	"{Sofistikerad Dräpare}
 
-Increases the amount of damage inflicted by a unit when fighting against Dragons, Behemoths, Hydras, Devils, Angels and Titans.
+Ökar mångden skada vållad av en enhet när den slåss mot Drakar, Behemoter, Hydror, Djävlar, Änglar eller Titaner.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Frenesi	Frenesi	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Frenesi}
 
-Selected troop intentionally lowers its defenses to increase the ferocity of its attack.
+Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
 "	"{Grundläggande Frenesi}
 
-Selected troop intentionally lowers its defenses to increase the ferocity of its attack.
+Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
 "	"{Avancerad Frenesi}
 
-Selected troop intentionally lowers its defenses to increase the ferocity of its attack.
+Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
 
-Bonus to attack is 50% greater than Grundläggande Frenesi.
+Anfallsbonus är 50% mer än Grundläggande Frenesi.
 "	"{Sofistikerad Frenesi}
 
-Selected troop intentionally lowers its defenses to increase the ferocity of its attack.
+Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
 
-Bonus to attack is double Grundläggande Frenesi.
+Anfallsbonus är dubbel jämfört med Grundläggande Frenesi.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Titanens Åskblixt	Titanens Blixt	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Titanens Åskblixt}
 
-Does 600 points of damage at no spell cost to the spellcaster."	"{Titanens Åskblixt}
+Gör 600 skadepoäng utan något trollformelskostnad åt trollformelkastaren."	"{Titanens Åskblixt}
 
-Does 600 points of damage at no spell cost to the spellcaster."	"{Titanens Åskblixt}
+Gör 600 skadepoäng utan något trollformelskostnad åt trollformelkastaren."	"{Titanens Åskblixt}
 
-Does 600 points of damage at no spell cost to the spellcaster."	"{Titanens Åskblixt}
+Gör 600 skadepoäng utan något trollformelskostnad åt trollformelkastaren."	"{Titanens Åskblixt}
 
-Does 600 points of damage at no spell cost to the spellcaster."	
+Gör 600 skadepoäng utan något trollformelskostnad åt trollformelkastaren."	
 Motslag	Motslag	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Motslag}
 
-The selected unit will retaliate against one additional attack each round.
+Den valda enheten kommer återslå mot ett ytterligare anfall varje runda.
 "	"{Grundläggande Motslag}
 
-The selected unit will retaliate against one additional attack each round.
+Den valda enheten kommer återslå mot ett ytterligare anfall varje runda.
 "	"{Avancerad Motslag}
 
-The selected unit will retaliate against two additional attacks each round.
+Den valda enheten kommer återslå mot två ytterligare anfall varje runda.
 "	"{Sofistikerad Motslag}
 
-All friendly units will retaliate against two additional attacks each round.
+Alla vänskapliga enheter kommer återslå mot två ytterligare anfall varje runda.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
 Bärsärkargång	Bärsärkargång	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Bärsärkargång}
 
-The targeted unit will randomly attack the nearest unit, be it friend or foe.
+Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende.
 "	"{Grundläggande Bärsärkargång}
 
-The targeted unit will randomly attack the nearest unit, be it friend or foe.
+Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende.
 "	"{Avancerad Bärsärkargång}
 
-The targeted unit will randomly attack the nearest unit, be it friend or foe.
+Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende.
 
-Area of effect is six hexes greater than Grundläggande Bärsärkargång.
+Effektarealen är sex hexagoner större än Grundläggande Bärsärkargång.
 "	"{Sofistikerad Bärsärkargång}
 
-The targeted unit will randomly attack the nearest unit, be it friend or foe.
+Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende.
 
-Area of effect is eighteen hexes greater than Grundläggande Bärsärkargång.
+Effektarealen är arton hexagoner större än Grundläggande Bärsärkargång.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Hypnotisera	Hypnotisera	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hypnotisera}
 
-Puts an enemy unit temporarily under your control.
+Sätter en fiendeenhet tillfälligt under ditt kommando.
 "	"{Grundläggande Hypnotisera}
 
-Puts an enemy unit temporarily under your control.
+Sätter en fiendeenhet tillfälligt under ditt kommando.
 "	"{Avancerad Hypnotisera}
 
-Puts an enemy unit temporarily under your control.
+Sätter en fiendeenhet tillfälligt under ditt kommando.
 
-Allows you to control an additional 10 hit points of enemies over Grundläggande Hypnotisera.
+Låter dig kontrollera fiender med 10 skadepoäng mer än Grundläggande Hypnotisera.
 "	"{Sofistikerad Hypnotisera}
 
-Puts an enemy unit temporarily under your control.
+Sätter en fiendeenhet tillfälligt under ditt kommando.
 
-Allows you to control an additional 40 hit points of enemies over Grundläggande Hypnotisera.
+Låter dig kontrollera fiender med 40 skadepoäng mer än Grundläggande Hypnotisera.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Glömska	Glömska	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Glömska}
 
-Half of the selected enemy unit forgets to use its ranged attack.
+Halva den valda fiendeenheten glömmer att använda sitt skotthållsanfall.
 "	"{Grundläggande Glömska}
 
-Half of the selected enemy unit forgets to use its ranged attack.
+Halva den valda fiendeenheten glömmer att använda sitt skotthållsanfall.
 "	"{Avancerad Glömska}
 
-Causes the selected enemy unit to forget to use its ranged attack in combat.
+Gör att den valda fiendeenheten glömmer att använda sitt skotthållsanfall.
 "	"{Sofistikerad Glömska}
 
-Causes all enemy troops to forget to use their ranged attack in combat.
+Gör att alla fiendeenheter glömmer att använda sina skotthållsanfall.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Förblinda	Förblinda	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Förblinda}
 
-Förblindas a creature so that it cannot move and causes it to counterattack at half its normal attack strength.  Blindness persists until the unit is attacked or dispelled.
+Förblindar en varelse så den ej kan förflytta sig och orsakar att dess återslag att ske med halv anfallsstyrka. Förblindelsen varar tills enheten anfalls eller förtrollningen bryts.
 "	"{Grundläggande Förblinda}
 
-Förblindas a creature so that it cannot move and causes it to counterattack at half its normal attack strength.  Blindness persists until the unit is attacked or dispelled.
+Förblindar en varelse så den ej kan förflytta sig och orsakar att dess återslag att ske med halv anfallsstyrka. Förblindelsen varar tills enheten anfalls eller förtrollningen bryts.
 "	"{Avancerad Förblinda}
 
-Förblindas a creature so that it cannot move and causes it to counterattack at one-quarter of its normal attack strength.  Blindness persists until the unit is attacked or dispelled.
+Förblindar en varelse så den ej kan förflytta sig och orsakar att dess återslag att ske med en fjärdedels anfallsstyrka. Förblindelsen varar tills enheten anfalls eller förtrollningen bryts.
 "	"{Sofistikerad Förblinda}
 
-Förblindas a creature so that it cannot move or counterattack.  Blindness persists until the unit is attacked or dispelled.
+Förblindar en varelse så den ej kan förflytta sig.  Förblindelsen varar tills enheten anfalls eller förtrollningen bryts.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Teleportera	Teleportera	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleportera}
 
-Teleporteras any friendly unit to any unoccupied spot on the battlefield.
+Teleporterar valfri vänskaplig enhet till valfri oupptagen plats på slagfältet.
 "	"{Grundläggande Teleportera}
 
-Teleporteras any friendly unit to an unoccupied spot on the battlefield.
+Teleporterar valfri vänskaplig enhet till valfri oupptagen plats på slagfältet.
 
-Troop cannot Teleportera over walls or moats.
+Truppen kan ej Teleportera över murar eller vallgravar.
 "	"{Avancerad Teleportera}
 
-Teleporteras any friendly unit to an unoccupied spot on the battlefield.
+Teleporterar valfri vänskaplig enhet till valfri oupptagen plats på slagfältet.
 
-Troop cannot Teleportera over walls.
+Truppen kan ej Teleportera över murar.
 "	"{Sofistikerad Teleportera}
 
-Teleporteras any friendly unit to any unoccupied spot on the battlefield.
+Teleporterar valfri vänskaplig enhet till valfri oupptagen plats på slagfältet.
 "	 COMBAT_SPELL|CREATURE_TARGET
 Ta bort Hinder	Ta bort Hinder	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Ta bort Hinder}
 
-Removes any normal obstacle (trees, rocks, etc.) of the caster's choice from the battlefield.
+Tar bort valfritt normalt hinder (träd, stenar, etc.) efter kastarens eget val från slagfältet.
 "	"{Grundläggande Ta bort Hinder}
 
-Removes any normal obstacle (trees, rocks, etc.) of the caster's choice from the battlefield.
+Tar bort valfritt normalt hinder (träd, stenar, etc.) efter kastarens eget val från slagfältet.
 "	"{Avancerad Ta bort Hinder}
 
-Removes any normal obstacle (trees, rocks, etc.) or Fire Wall of the caster's choice from the battlefield.
+Tar bort valfritt normalt hinder (träd, stenar, etc.) efter kastarens eget val från slagfältet.
 "	"{Sofistikerad Ta bort Hinder}
 
-Removes any normal or magical obstacle of the caster's choice from the battlefield.
+Tar bort valfritt normalt eller magiskt hinder efter kastarens eget val från slagfältet.
 "	 COMBAT_SPELL|OBSTACLE_TARGET
 Klona	Klona	4	 	x	 	 	24	20	20	20	0	5	5	6	7	5	5	10	5	5	5	0	0	10	20	20	40	50	"{Klona}
 
-Creates a duplicate of the selected unit stack.  The image is dispelled if it is attacked.
+Skapar en duplicerad stack från en vald enhet.  Trollformeln bryts om den anfalls.
 
-Klonas creatures of levels 1-5.
+Klonar varelser av nivå 1-5.
 "	"{Grundläggande Klona}
 
-Creates a duplicate of the selected unit stack.  The image is dispelled if it is attacked.
+Skapar en duplicerad stack från en vald enhet.  Trollformeln bryts om den anfalls.
 
-Klonas creatures of levels 1-5.
+Klonar varelser av nivå 1-5.
 "	"{Avancerad Klona}
 
-Creates a duplicate of the selected unit stack.  The image is dispelled if it is attacked.
+Skapar en duplicerad stack från en vald enhet.  Trollformeln bryts om den anfalls.
 
-Klonas creatures of levels 1-6.
+Klonar varelser av nivå 1-6.
 "	"{Sofistikerad Klona}
 
-Creates a duplicate of the selected unit stack.  The image is dispelled if it is attacked.
+Skapar en duplicerad stack från en vald enhet.  Trollformeln bryts om den anfalls.
 
-Klonas creatures of any level.
+Klonar varelser av alla nivåer.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Fire Elemental	Fire Elemental	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Summon Fire Elemental}
+Eldelementär	Eldelementär	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Åkalla Eldelementär}
 
-Allows you to summon fire elementals.  Once cast, no other elemental types may be summoned.
-"	"{Grundläggande Summon Fire Elemental}
+Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Grundläggande Åkalla Eldelementär}
 
-Allows you to summon fire elementals.  Once cast, no other elemental types may be summoned.
-"	"{Avancerad Summon Fire Elemental}
+Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Avancerad Åkalla Eldelementär}
 
-Allows you to summon fire elementals.  Once cast, no other elemental types may be summoned.
+Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
-Summons approximately one-and-a-half times the number of units as Grundläggande Summon Fire Elemental.
-"	"{Sofistikerad Summon Fire Elemental}
+Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Eldelementär.
+"	"{Sofistikerad Åkalla Eldelementär}
 
-Allows you to summon fire elementals.  Once cast, no other elemental types may be summoned.
+Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
-Summons approximately twice the number of units as Grundläggande Summon Fire Elemental.
+Åkallar uppskattningsvis dubbelt så många enheter som Grundläggande Åkalla Eldelementär.
 "	 COMBAT_SPELL
-Earth Elemental	Earth Elemental	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Summon Earth Elemental}
+Jordelementär	Jordelementär	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Åkalla Jordelementär}
 
-Allows you to summon earth elementals.  Once cast, no other elemental types may be summoned.
-"	"{Grundläggande Summon Earth Elemental}
+Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Grundläggande Åkalla Jordelementär}
 
-Allows you to summon earth elementals.  Once cast, no other elemental types may be summoned.
-"	"{Avancerad Summon Earth Elemental}
+Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Avancerad Åkalla Jordelementär}
 
-Allows you to summon earth elementals.  Once cast, no other elemental types may be summoned.
+Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
-Summons approximately one-and-a-half times the number of units as Grundläggande Summon Creature.
-"	"{Sofistikerad Summon Earth Elemental}
+Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Jordelementär.
+"	"{Sofistikerad Summon Jordelementär}
 
-Allows you to summon earth elementals.  Once cast, no other elemental types may be summoned.
+Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
-Summons approximately twice the number of units as Grundläggande Summon Creature.
+Åkallar uppskattningsvis dubbelt så många enheter som Grundläggande Åkalla Jordelementär.
 "	 COMBAT_SPELL
-Water Elemental	Water Elemental	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Summon Water Elemental}
+Vattenelementär	Vattenelementär	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Åkalla Vattenelementär}
 
-Allows you to summon water elementals.  Once cast, no other elemental types may be summoned.
-"	"{Grundläggande Summon Water Elemental}
+Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Grundläggande Åkalla Vattenelementär}
 
-Allows you to summon water elementals.  Once cast, no other elemental types may be summoned.
-"	"{Avancerad Summon Water Elemental}
+Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Avancerad Åkalla Vattenelementär}
 
-Allows you to summon water elementals.  Once cast, no other elemental types may be summoned.
+Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
-Summons approximately one-and-a-half times the number of units as Grundläggande Summon Water Elemental.
-"	"{Sofistikerad Summon Water Elemental}
+Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Vattenelementär.
+"	"{Sofistikerad Åkalla Vattenelementär}
 
-Allows you to summon water elementals.  Once cast, no other elemental types may be summoned.
+Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
-Summons approximately twice the number of units as Grundläggande Summon Water Elemental.
+Åkallar uppskattningsvis dubbelt så många enheter som Grundläggande Åkalla Vattenelementär.
 "	 COMBAT_SPELL
-Air Elemental	Air Elemental	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Summon Air Elemental}
+Luftelementär	Luftelementär	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Åkalla Luftelementär}
 
-Allows you to summon air elementals.  Once cast, no other elemental types may be summoned.
-"	"{Grundläggande Summon Air Elemental}
+Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Grundläggande Åkalla Luftelementär}
 
-Allows you to summon air elementals.  Once cast, no other elemental types may be summoned.
-"	"{Avancerad Summon Air Elemental}
+Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Avancerad Åkalla Luftelementär}
 
-Allows you to summon air elementals.  Once cast, no other elemental types may be summoned.
+Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
-Summons approximately one-and-a-half times the number of units as Grundläggande Summon Air Elemental.
-"	"{Sofistikerad Summon Air Elemental}
+Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Luftelementär.
+"	"{Sofistikerad Åkalla Luftelementär}
 
-Allows you to summon air elementals.  Once cast, no other elemental types may be summoned.
+Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
-Summons approximately twice the number of units as Grundläggande Summon Air Elemental.
+Åkallar uppskattningsvis dubbelt så många enheter som Grundläggande Åkalla Luftelementär.
 "	 COMBAT_SPELL
 																																	
 Creature Abilities																																	
