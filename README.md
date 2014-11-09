@@ -9,17 +9,17 @@ Status
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
 |               | GENRLTXT.TXT  |              |
-|               | BldgSpec.txt  |              |
-|               | CrGen1.txt    |              |
 | Help.txt      |               |              |
 | SeerHut.txt   |               |              |
 | randsign.txt  |               |              |
 | randtvrn.txt  |               |              |
 | HeroBios.txt  |               |              |
 | HeroSpec.txt  |               |              |
-| MINEEVNT.TXT  |               |              |
 | advevent.txt  |               |              |
 | artevent.txt  |               |              |
+|               |               | CrGen1.txt   |
+|               |               | MINEEVNT.TXT |
+|               |               | BldgSpec.txt |
 |               |               | CREDITS.TXT  |
 |               |               | Walls.txt    |
 |               |               | TCommand.txt |

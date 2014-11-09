@@ -73,14 +73,14 @@ Vråkloft	Vråkloftet låter dig rekrytera Harpyor.
 Ögonpelare	Ögonpelaren låter dig rekrytera Åskådare.
 Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusor.
 Labyrint	Labyrinten låter dig rekrytera Minotaurer.
-Manticore Lair	The Manticore Lair allows you to recruit Manticores.
+Mantikornäste	Mantikornästet låter dig rekrytera Mantikoror.
 Drakgrotta	Drakgrottan låter dig rekrytera Röddrakar.
 Upg. Grotta	Grottan låter dig rekrytera Infernaliska Troglodyter.
 Upg. Vråkloft	Vråkloftet låter dig rekrytera Vildvittror.
 Upg. Ögonpelare	Ögonpelaren låter dig rekrytera Onda Ögon.
 Upg. Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusadrottningar.
 Upg. Labyrint	Labyrinten låter dig rekrytera Minotaurkungar.
-Upg. Manticore Lair	The Manticore Lair allows you to recruit Scorpicores.
+Upg. Manticornäste	Mantikornästet låter dig rekrutera Skorpionsvansmantikoror.
 Upg. Drakgrotta	Drakgrottan låter dig rekrytera Svartdrakar.
 Koboldbarack	Koboldbarackerna låter dig rekrytera Kobolder.
 Varggryt	Varggrytet låter dig rekrytera Vargryttare.
@@ -115,9 +115,9 @@ Luftaltare	Luftaltaret låter dig rekrytera Luftelementärer.
 Vattenaltare	Vattenaltaret låter dig rekrytera Vattenelementärer.
 Eldaltare	Eldaltaret låter dig rekrytera Eldelementärer.
 Jordaltare	Jordaltaret låter dig rekrytera Jordelementärer.
-Tankealtare	The Altar of Thought allows you to recruit Psychic Elementals.
-Bål	The Pyre allows you to recruit Fire Birds.
-Upg. Magisk Lykta	The Magic Pool allows you to recruit Sprites.
+Tankealtare	Tankealtaret låter dig rekrytera Övernaturliga Elementärer.
+Bål	Bålet låter dig rekrutera Eldfåglar.
+Upg. Magisk Lykta	Den Magiska lyktan låter dig rekrytera Diser.
 Upg. Luftaltare	Åsktemplet låter dig rekrytera Stormelementärer.
 Upg. Vattenaltare	Istemplet låter dig rekrytera Iselementärer.
 Upg. Eldaltare	Energitemplet låter dig rekrytera Energielementärer.

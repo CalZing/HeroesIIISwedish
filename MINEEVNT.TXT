@@ -1,24 +1,24 @@
-"{Sawmill}
+"{Sågverk}
 
-You gain control of a Sawmill. It will provide you with two units of wood per day."
-"{Alchemist Lab}
+Du får kontroll över ett Sågverk. Det kommer att förse dig med två enheter trä per dag."
+"{Alkemistlabb}
 
-You gain control of an Alchemist Lab. It will provide you with one unit of mercury per day."
-"{Ore Pit}
+Du får kontroll över ett Alkemistlabb. Det kommer att förse dig med en enhet kvicksilver per dag."
+"{Dagbrott}
 
-You gain control of an Ore Pit. It will provide you with two units of ore per day."
-"{Sulfur Dune}
+Du får kontroll över ett Dagbrott. Det kommer att förse dig med två enheter sten per dag."
+"{Svaveldyna}
 
-You gain control of a Sulfur Dune. It will provide you with one unit of sulfur per day."
-"{Crystal Cavern}
+Du får kontroll över en Svaveldyna. Den kommer att förse dig med en enhet svavel per dag."
+"{Kristallgrotta}
 
-You gain control of a Crystal Cavern. It will provide you with one unit of crystal per day."
-"{Gem Pond}
+Du får kontroll över en Kristallgrotta. Den kommer att förse dig med en enhet kristall per dag."
+"{Ädelstensdamm}
 
-You gain control of a Gem Pond. It will provide you with one unit of gems per day."
-"{Gold Mine}
+Du får kontroll över en Ädelstensdamm. Den kommer att förse dig med en enhet ädelstenar per dag."
+"{Guldgruva}
 
-You gain control of a Gold Mine. It will provide you with 1000 gold per day."
-"{Abandoned Mine}
+Du får kontroll över en Guldgruva. Den kommer att förse dig med 1000 guld per dag."
+"{Övergiven Gruva}
 
-You gain control of an Abandoned Gold Mine. It will provide you with 1000 gold per day."
+Du får kontroll över en Övergiven Guldgruva. Den kommer att förse dig med 1000 guld per dag."

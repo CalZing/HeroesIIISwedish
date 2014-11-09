@@ -1,10 +1,10 @@
-Lista Ã–ver Medverkande
+Lista Över Medverkande
 "{Skapad Av:}
 Jon Van Caneghem
 
 
 
-{VerkstÃ¤llande Producent:}
+{Verkställande Producent:}
 Mark Caldwell
 
 
@@ -14,7 +14,7 @@ Jeff Blattner
 
 
 
-{RegissÃ¶r:}
+{Regissör:}
 David Mullich
 
 
@@ -39,13 +39,13 @@ Jeff Leggett
 Riki Corredera
 
 
-{HuvudkonstnÃ¤rer:}
+{Huvudkonstnärer:}
 Bonita Long-Hemsath (AB)
 Joseph McGuffin (SOD)
 Phelan Sykes (ROE)
 
 
-{HuvudkonstnÃ¤rer:}
+{Huvudkonstnärer:}
 George Almond
 Jeff Bigman
 Fernando Castillo
@@ -71,7 +71,7 @@ Scott White
 Charles Zilm
 
 
-{TillgÃ¥ngssamordnare:}
+{Tillgångssamordnare:}
 Jack Russell
 
 
@@ -106,13 +106,13 @@ Steve Baca
 Chuck Russom
 
 
-{RÃ¶stproduktion:}
+{Röstproduktion:}
 Rob King
 Green Street Studios
 South Pasadena, Ca.
 
 
-{RÃ¶sttalanger:}
+{Rösttalanger:}
 Mark Arnott
 Mari Devon
 Aric Devone
@@ -147,8 +147,8 @@ Sound Forge
 Soundscape
 
 
-{BesÃ¶k oss pÃ¥ Webben:}
+{Besök oss på Webben:}
 www.3do.com
 
 "
-"Copyright 2000 The 3DO Company.  Alla RÃ¤ttigheter FÃ¶rbehÃ¥llna.  3DO, Heroes, Heroes of Might and Magic, Armageddon's Blade, Shadow of Death, New World Computing  och deras respektive logotyper Ã¤r varumÃ¤rken och/eller servicemÃ¤rken fÃ¶r The 3DO Company i de FÃ¶renta Staterna och andra lÃ¤nder.  Alla andra varumÃ¤rken tillhÃ¶r deras respektive Ã¤gare."
+"Copyright 2000 The 3DO Company.  Alla Rättigheter Förbehållna.  3DO, Heroes, Heroes of Might and Magic, Armageddon's Blade, Shadow of Death, New World Computing  och deras respektive logotyper är varumärken och/eller servicemärken för The 3DO Company i de Förenta Staterna och andra länder.  Alla andra varumärken tillhör deras respektive ägare."

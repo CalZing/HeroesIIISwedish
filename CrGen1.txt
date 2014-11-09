@@ -5,20 +5,20 @@ Mörkrets sal
 Drakvalv
 Träningsområde
 Kentaurstall
-Air Elemental Conflux
+Luftelementärflöde
 Pärleport
 Cyklopgrotta
 Övergivet Palats
 Sländebo
 Dvärgstuga
-Earth Elemental Conflux
+Jordelementärflöde
 Eldsjö
 Hemman
-Fire Elemental Conflux
+Eldelementärflöde
 Balustrad
 Önskealtare
 Varggryt
-Krokotaurstuga
+Krokutaurstuga
 Koboldbarack
 Syndernas Sal
 Gorgonlya
@@ -30,8 +30,8 @@ Hydradamm
 Impdegel
 Ödlehåla
 Magikertorn
-Manticore Lair
-Tysta Rösternas Kapell
+Mantikornäste
+Tlysta Rösternas Kapell
 Labyrint
 Kloster
 Guldpaviljong
@@ -45,36 +45,36 @@ Verkstad
 Molntempel
 Dendroidglänta
 Grotta
-Water Elemental Conflux
+Vattenelementärflöde
 Själsgrav
 Lindormsnäste
-Enchanted Spring
-Unicorn Glade
+Förtrollad källa
+Enhörningsdunge
 Mausoleum
-Estate
-Cursed Temple
-Graveyard
-Guardhouse
-Archers' Tower
-Barracks
-Magic Lantern
-Altar of Thought
-Pyre
-Frozen Cliffs
-Crystal Cavern
-Magic Forest
-Sulfurous Lair
-Enchanter's Hollow
-Treetop Tower
-Unicorn Glade
-Altar of Air
-Altar of Earth
-Altar of Fire
-Altar of Water
-Thatched Hut
-Hovel
-Boar Glen
-Tomb of Curses
-Nomad Tent
-Rogue Cavern
-Troll Bridge
+Gods
+Förbannat Tempel
+Kyrkogård
+Vaktpost
+Bågskyttstorn
+Barack
+Magisk Lykta
+Tankealtare
+Bål
+Frusna Klippor
+Kristallgrotta
+Magisk Skog
+Svavligt Näste
+Förbättrarens Sänka
+Trädkronstorn
+Enhörningsdunge
+Luftaltare
+Jordaltare
+Eldaltare
+Vattenaltare
+Halmtakshydda
+Ruckel
+Vildsvinsdal
+Förbannelsernas Grav
+Nomadtält
+Skurkhåla
+Trollbro
