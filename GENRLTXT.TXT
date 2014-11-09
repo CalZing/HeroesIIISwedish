@@ -17,7 +17,7 @@ NYTT SPEL
 Är du säker på att du vill säga adjö till denna armé?
 %ss tur.
 Ett fel inträffade vid överföringen av data. Ska jag fortsätta försöka?
-%s dendär %s
+%s %s
 Rekrytera
 Denna armé får inte plats i garnisonen.
 Du har redan %d hjältar till förfogande.
