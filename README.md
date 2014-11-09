@@ -9,7 +9,7 @@ Status
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
 |               | GENRLTXT.TXT  |              |
-| Help.txt      |               |              |
+|               | Help.txt      |              |
 | SeerHut.txt   |               |              |
 | randsign.txt  |               |              |
 | randtvrn.txt  |               |              |

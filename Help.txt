@@ -1,92 +1,92 @@
 Rollover Text	Right-Click Text																						
 "Note: Do not change the headings in this file, they are used to detect problems"																							
 Main Menu																							
-	"{New Game}
+	"{Nytt Spel}
 
-Start a new game."																						
-	"{Load Game}
+Starta ett nytt spel."																						
+	"{Ladda Spel}
 
-Load a saved game."																						
-	"{High Scores}
+Ladda ett sparat spel."																						
+	"{Höga Poäng}
 
-View the legendary Heroes of Might and Magic."																						
-	"{Credits}
+Se de legendariska Makten och Magins Hjältar."																						
+	"{Medverkandelista}
 
-View game credits."																						
-	"{Quit}
+Se spelets medverkandelista."																						
+	"{Avsluta}
 
-Return to Windows."																						
+Återgå till Windows."																						
 																							
-New Game	New Game																						
-	"{Single Scenario}
+Nytt Spel	Nytt Spel																						
+	"{Enskilt Scenario}
 
-Play a single scenario."																						
-	"{Campaign}
+Spela ett enskilt scenario."																						
+	"{Kampanj}
 
-Play a campaign."																						
-	"{Multiplayer}
+Spela en kampanj."																						
+	"{Flera Spelare}
 
-Play a multiplayer single scenario."																						
-	"{Tutorial}
+Spela ett enskilt scenario med andra spelare."																						
+	"{Handledning}
 
-Play a tutorial scenario teaching the basics needed to play Heroes III."																						
-	"{Back}
+Spela ett handledningsscenario som lär ut grunderna som behöver för att spela Heroes III."																						
+	"{Tillbaka}
 
-Return to the previous screen."																						
+Återgå till föregående skärm."																						
 																							
-Single Scenario Selection	Single Scenario Selection																						
+Val Av Enskilt Scenario	Val Av Enskilt Scenario																						
 																							
-SCENARIO_BACKGROUND 	Choose a scenario																						
-ADVANCED_BACKGROUND 	Set advanced options																						
-Background for random map menu	Customize and create a random map																						
-SCENARIO_NAME 	Scenario Name																						
-Description Title	Displays scenario briefing																						
-Description text	Displays scenario briefing																						
-EASY 	"{Easy Difficulty}
+SCENARIO_BACKGROUND 	Välj ett scenario																						
+ADVANCED_BACKGROUND 	Sätt avancerade alternativ																						
+Bakgrund för slumpkartmeny	Anpassa och skapa en slumpgenererad karta																						
+SCENARIO_NAME 	Scenarionamn																						
+Förklaringsrubrik	Visar svenariogenomgång																						
+Förklaringstext	Visar scenariogenomgång																						
+EASY 	"{Lätt Svårighetsgrad}
 
-The player starts with a large advantage in resources, and the computer plays poorly."																						
-NORMAL 	"{Normal Difficulty}
+Spelaren startar med ett stort övertag i resurser, och datorn presterar dåligt."																						
+NORMAL 	"{Normal Svårighetsgrad}
 
-The player starts with a moderate advantage in resources, and the computer plays reasonably well."																						
-HARD 	"{Hard Difficulty}
+Spelaren startar med ett hyfsat övertag i resurser, och datorn presterar relativt väl."																						
+HARD 	"{Svår Svårighetsgrad}
 
-The player and the computer start with the same resources, and the computer plays to the best of its ability."																						
-EXPERT 	"{Expert Difficulty}
+Spelaren och datorn startar med samma resurser, och datorn spelar efter sin bästa förmåga."																						
+EXPERT 	"{Professionell Svårighetsgrad}
 
-The player starts with a handicap in resources, and the computer plays to the best of its ability."																						
-IMPOSSIBLE 	"{Impossible Difficulty}
+Spelaren startar med ett underläge i resurser, och datorn spelar efter sin bästa förmåga."																						
+IMPOSSIBLE 	"{Omöjlig Svårighetsgrad}
 
-The player starts with no resources, and the computer plays to the best of its ability."																						
-ALLY_FLAG1 	This is your color																						
-ALLY_FLAG2 	This color is allied with you																						
-ALLY_FLAG3 	This color is allied with you																						
-ALLY_FLAG4 	This color is allied with you
-ALLY_FLAG5 	This color is allied with you
-ALLY_FLAG6 	This color is allied with you
-ALLY_FLAG7 	This color is allied with you
-ALLY_FLAG8 	This color is allied with you
-ENEMY_FLAG1 	This color is your enemy
-ENEMY_FLAG2 	This color is your enemy
-ENEMY_FLAG3 	This color is your enemy
-ENEMY_FLAG4 	This color is your enemy
-ENEMY_FLAG5 	This color is your enemy
-ENEMY_FLAG6 	This color is your enemy
-ENEMY_FLAG7 	This color is your enemy
-ENEMY_FLAG8 	This color is your enemy
-SCENARIO_OPTIONS 	View/hide scenario list
-ADVANCED_OPTIONS 	View/hide advanced options
-random map button	Play a randomly created map
-CHAT_DESC 	Toggle between Scenario Description and Chat Window
-MAP_DIFFICULTY 	These allow you to modify the overall difficulty of the scenario
-RATING 	Displays overall difficulty based on Map and Player difficulty settings
-MAP_SIZE 	"Map difficulty can be Easy, Normal, Hard, Expert or Impossible"
-VICTORY_CONDITION 	Victory Conditions for the current scenario
-LOSS_CONDITION 	Loss Conditions for the current scenario
-SMALL_FILTER 	View all small maps
-MEDIUM_FILTER 	View all medium maps
-LARGE_FILTER 	View all large maps
-EXTRALARGE_FILTER 	View all extra large maps
-ALL_FILTER 	View all maps
+Spelaren startar utan resurser, och datorn spelar efter sin bästa förmåga."																						
+ALLY_FLAG1 	Det här är din färg																						
+ALLY_FLAG2 	Den här färgen är din allierade																						
+ALLY_FLAG3 	Den här färgen är din allierade																						
+ALLY_FLAG4 	Den här färgen är din allierade
+ALLY_FLAG5 	Den här färgen är din allierade
+ALLY_FLAG6 	Den här färgen är din allierade
+ALLY_FLAG7 	Den här färgen är din allierade
+ALLY_FLAG8 	Den här färgen är din allierade
+ENEMY_FLAG1 	Den här färgen är din fiende
+ENEMY_FLAG2 	Den här färgen är din fiende
+ENEMY_FLAG3 	Den här färgen är din fiende
+ENEMY_FLAG4 	Den här färgen är din fiende
+ENEMY_FLAG5 	Den här färgen är din fiende
+ENEMY_FLAG6 	Den här färgen är din fiende
+ENEMY_FLAG7 	Den här färgen är din fiende
+ENEMY_FLAG8 	Den här färgen är din fiende
+SCENARIO_OPTIONS 	Visa/dölj scenariolista
+ADVANCED_OPTIONS 	Visa/dölj avancerade alternativ
+slumpkarteknapp	Spela en slumpgenererad karta
+CHAT_DESC 	Växla mellan Svenarioförklaring och Chattfönster
+MAP_DIFFICULTY 	Dessa låter dig modifiera den övergripande Svårighetsgraden på scenariot
+RATING 	Visar övergripande Svårighetsgrad baserat på Karta och Spelarsvårighetsgradinställningar
+MAP_SIZE 	"Kartans Svårighetsgrad kan vara Lätt, Normal, Svår, Professionell eller omöjlig"
+VICTORY_CONDITION 	Segerförutsättningar för nuvarande scenario
+LOSS_CONDITION 	Förlusförutsättningar för nuvarande scenario
+SMALL_FILTER 	Visa alla små kartor
+MEDIUM_FILTER 	Visa alla mellanstora kartor
+LARGE_FILTER 	Visa alla stora kartor
+EXTRALARGE_FILTER 	Visa alla extra stora kartor
+ALL_FILTER 	Visa alla kartor
 SCENARIO_NAME_1 	SCENARIO_NAME_1 
 SCENARIO_NAME_2 	SCENARIO_NAME_2 
 SCENARIO_NAME_3 	SCENARIO_NAME_3 
@@ -123,101 +123,101 @@ ENTRY_SCENARIO_NAME_15 	ENTRY_SCENARIO_NAME_15
 ENTRY_SCENARIO_NAME_16 	ENTRY_SCENARIO_NAME_16 
 ENTRY_SCENARIO_NAME_17 	ENTRY_SCENARIO_NAME_17 
 ENTRY_SCENARIO_NAME_18 	ENTRY_SCENARIO_NAME_18 
-TURN_DURATION 	Turn Duration
-CHAT_TEXT 	Chat Messages						
+TURN_DURATION 	Dragens Varaktighet
+CHAT_TEXT 	Chattmeddelanden						
 CHAT_ENTRY 	CHAT_ENTRY 						
 CHAT_PLUG 	CHAT_PLUG 						
-CHAT_PLAYER 	Players						
+CHAT_PLAYER 	Spelare						
 "CHAT_PLAYER_SLIDER,"	"CHAT_PLAYER_SLIDER,"						
 ROLLOVER 	ROLLOVER 						
-NEXT 	Save the currently selected game						
-BEGIN 	Start the selected scenario						
+NEXT 	Spara det nuvarande valda spelet						
+BEGIN 	Starta det valda scenariot						
 BACK 	BACK 						
-SSEXIT 	"Close this window
-(no action taken)"						
-WHICHMAP 	"Current Map Size
-(Small, Medium, Large, Extra Large)"						
-SORT_NUMBER 	Sorts maps by number of players						
-SORT_SIZE 	Sorts maps by size of maps						
-k_sort_version	Sort maps by map version						
-SORT_ALPHA 	Sorts maps alphabetically by name						
-SORT_VICTORY 	Sorts maps by victory conditions						
-SORT_LOSS 	Sorts maps by loss conditions
+SSEXIT 	"Stäng detta fönster
+(ingen handling gjord)"						
+WHICHMAP 	"Nuvarande Kartstorlek
+(Liten, Mellan, Stor, Extra Stor)"						
+SORT_NUMBER 	Sorterar kartor efter antal spelare						
+SORT_SIZE 	Sorterar kartor efter kartstorlek						
+k_sort_version	Sorterar kartor efter kartversion						
+SORT_ALPHA 	Sorterar kartor alfabetiskt efter namn						
+SORT_VICTORY 	Sorterar kartor efter segerförutsättningar						
+SORT_LOSS 	Sorterar kartor efter förlustförutsättningar
 BRIEFING 	BRIEFING 
 SSHERO 	SSHERO 
 GOLDPIC 	GOLDPIC 
-HUMAN_CPU1 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU2 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU3 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU4 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU5 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU6 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU7 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU8 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HANDICAP1 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP2 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP3 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP4 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP5 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP6 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP7 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP8 	Allows you to handicap this player by diminishing their starting resources
-TOWN_LEFT1 	Allows you to choose a starting town type
-TOWN_LEFT2 	Allows you to choose a starting town type
-TOWN_LEFT3 	Allows you to choose a starting town type
-TOWN_LEFT4 	Allows you to choose a starting town type
-TOWN_LEFT5 	Allows you to choose a starting town type
-TOWN_LEFT6 	Allows you to choose a starting town type
-TOWN_LEFT7 	Allows you to choose a starting town type
-TOWN_LEFT8 	Allows you to choose a starting town type
-TOWN_RITE1 	Allows you to choose a starting town type
-TOWN_RITE2 	Allows you to choose a starting town type
-TOWN_RITE3 	Allows you to choose a starting town type
-TOWN_RITE4 	Allows you to choose a starting town type
-TOWN_RITE5 	Allows you to choose a starting town type
-TOWN_RITE6 	Allows you to choose a starting town type
-TOWN_RITE7 	Allows you to choose a starting town type
-TOWN_RITE8 	Allows you to choose a starting town type
-HERO_LEFT1 	Allows you to choose a starting hero based on your town type
-HERO_LEFT2 	Allows you to choose a starting hero based on your town type
-HERO_LEFT3 	Allows you to choose a starting hero based on your town type
-HERO_LEFT4 	Allows you to choose a starting hero based on your town type
-HERO_LEFT5 	Allows you to choose a starting hero based on your town type
-HERO_LEFT6 	Allows you to choose a starting hero based on your town type
-HERO_LEFT7 	Allows you to choose a starting hero based on your town type
-HERO_LEFT8 	Allows you to choose a starting hero based on your town type
-HERO_RITE1 	Allows you to choose a starting hero based on your town type
-HERO_RITE2 	Allows you to choose a starting hero based on your town type
-HERO_RITE3 	Allows you to choose a starting hero based on your town type
-HERO_RITE4 	Allows you to choose a starting hero based on your town type
-HERO_RITE5 	Allows you to choose a starting hero based on your town type
-HERO_RITE6 	Allows you to choose a starting hero based on your town type
-HERO_RITE7 	Allows you to choose a starting hero based on your town type
-HERO_RITE8 	Allows you to choose a starting hero based on your town type
-RES_LEFT1 	Allows you to choose a starting bonus for your hero
-RES_LEFT2 	Allows you to choose a starting bonus for your hero
-RES_LEFT3 	Allows you to choose a starting bonus for your hero
-RES_LEFT4 	Allows you to choose a starting bonus for your hero
-RES_LEFT5 	Allows you to choose a starting bonus for your hero
-RES_LEFT6 	Allows you to choose a starting bonus for your hero
-RES_LEFT7 	Allows you to choose a starting bonus for your hero
-RES_LEFT8 	Allows you to choose a starting bonus for your hero
-RES_RITE1 	Allows you to choose a starting bonus for your hero
-RES_RITE2 	Allows you to choose a starting bonus for your hero
-RES_RITE3 	Allows you to choose a starting bonus for your hero
-RES_RITE4 	Allows you to choose a starting bonus for your hero
-RES_RITE5 	Allows you to choose a starting bonus for your hero
-RES_RITE6 	Allows you to choose a starting bonus for your hero
-RES_RITE7 	Allows you to choose a starting bonus for your hero
-RES_RITE8 	Allows you to choose a starting bonus for your hero
-HERO_SETTING_1 	Click here to play this color
-HERO_SETTING_2 	Click here to play this color
-HERO_SETTING_3 	Click here to play this color
-HERO_SETTING_4 	Click here to play this color
-HERO_SETTING_5 	Click here to play this color
-HERO_SETTING_6 	Click here to play this color
-HERO_SETTING_7 	Click here to play this color
-HERO_SETTING_8 	Click here to play this color
+HUMAN_CPU1 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU2 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU3 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU4 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU5 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU6 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU7 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU8 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
+HANDICAP1 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
+HANDICAP2 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
+HANDICAP3 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
+HANDICAP4 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
+HANDICAP5 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
+HANDICAP6 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
+HANDICAP7 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
+HANDICAP8 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
+TOWN_LEFT1 	Låter dig välja en typ på din startstad
+TOWN_LEFT2 	Låter dig välja en typ på din startstad
+TOWN_LEFT3 	Låter dig välja en typ på din startstad
+TOWN_LEFT4 	Låter dig välja en typ på din startstad
+TOWN_LEFT5 	Låter dig välja en typ på din startstad
+TOWN_LEFT6 	Låter dig välja en typ på din startstad
+TOWN_LEFT7 	Låter dig välja en typ på din startstad
+TOWN_LEFT8 	Låter dig välja en typ på din startstad
+TOWN_RITE1 	Låter dig välja en typ på din startstad
+TOWN_RITE2 	Låter dig välja en typ på din startstad
+TOWN_RITE3 	Låter dig välja en typ på din startstad
+TOWN_RITE4 	Låter dig välja en typ på din startstad
+TOWN_RITE5 	Låter dig välja en typ på din startstad
+TOWN_RITE6 	Låter dig välja en typ på din startstad
+TOWN_RITE7 	Låter dig välja en typ på din startstad
+TOWN_RITE8 	Låter dig välja en typ på din startstad
+HERO_LEFT1 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_LEFT2 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_LEFT3 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_LEFT4 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_LEFT5 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_LEFT6 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_LEFT7 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_LEFT8 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_RITE1 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_RITE2 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_RITE3 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_RITE4 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_RITE5 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_RITE6 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_RITE7 	Låter dig välja en starthjälte baserat på din stadstyp
+HERO_RITE8 	Låter dig välja en starthjälte baserat på din stadstyp
+RES_LEFT1 	Låter dig välja en startbonus för din hjälte
+RES_LEFT2 	Låter dig välja en startbonus för din hjälte
+RES_LEFT3 	Låter dig välja en startbonus för din hjälte
+RES_LEFT4 	Låter dig välja en startbonus för din hjälte
+RES_LEFT5 	Låter dig välja en startbonus för din hjälte
+RES_LEFT6 	Låter dig välja en startbonus för din hjälte
+RES_LEFT7 	Låter dig välja en startbonus för din hjälte
+RES_LEFT8 	Låter dig välja en startbonus för din hjälte
+RES_RITE1 	Låter dig välja en startbonus för din hjälte
+RES_RITE2 	Låter dig välja en startbonus för din hjälte
+RES_RITE3 	Låter dig välja en startbonus för din hjälte
+RES_RITE4 	Låter dig välja en startbonus för din hjälte
+RES_RITE5 	Låter dig välja en startbonus för din hjälte
+RES_RITE6 	Låter dig välja en startbonus för din hjälte
+RES_RITE7 	Låter dig välja en startbonus för din hjälte
+RES_RITE8 	Låter dig välja en startbonus för din hjälte
+HERO_SETTING_1 	Klicka här för att spela denna färg
+HERO_SETTING_2 	Klicka här för att spela denna färg
+HERO_SETTING_3 	Klicka här för att spela denna färg
+HERO_SETTING_4 	Klicka här för att spela denna färg
+HERO_SETTING_5 	Klicka här för att spela denna färg
+HERO_SETTING_6 	Klicka här för att spela denna färg
+HERO_SETTING_7 	Klicka här för att spela denna färg
+HERO_SETTING_8 	Klicka här för att spela denna färg
 TOWN_SETTING_1 	TOWN_SETTING_1 
 TOWN_SETTING_2 	TOWN_SETTING_2 
 TOWN_SETTING_3 	TOWN_SETTING_3 
@@ -501,7 +501,7 @@ This option allows the computer to handle all combat calculations, and the playe
 This option will display subtitles on any of the animated cutscenes."
 VIDEO_QUALITY_LOW	"{Low Quality Video}
 
-This option is reccommended for slower computers which have difficulty running the videos at full screen."
+This option is reccommended for slower computers which have Svårighetsgrad running the videos at full screen."
 VIDEO_QUALITY_HIGH	"{High Quality Video}
 
 Faster machines can handle more data, and this this option allows those machines to view the videos at their highest quality."
@@ -690,21 +690,21 @@ View Campaign Intro	"{View Campaign Intro}
 
 Show the intro movie for this campaign"
 ALLY_FLAG1_ID	This is your color
-ALLY_FLAG2_ID	This color is allied with you
-ALLY_FLAG3_ID	This color is allied with you
-ALLY_FLAG4_ID	This color is allied with you
-ALLY_FLAG5_ID	This color is allied with you
-ALLY_FLAG6_ID	This color is allied with you
-ALLY_FLAG7_ID	This color is allied with you
-ALLY_FLAG8_ID	This color is allied with you
-ENEMY_FLAG1_ID	This color is your enemy
-ENEMY_FLAG2_ID	This color is your enemy
-ENEMY_FLAG3_ID	This color is your enemy
-ENEMY_FLAG4_ID	This color is your enemy
-ENEMY_FLAG5_ID	This color is your enemy
-ENEMY_FLAG6_ID	This color is your enemy
-ENEMY_FLAG7_ID	This color is your enemy
-ENEMY_FLAG8_ID	This color is your enemy
+ALLY_FLAG2_ID	Den här färgen är din allierade
+ALLY_FLAG3_ID	Den här färgen är din allierade
+ALLY_FLAG4_ID	Den här färgen är din allierade
+ALLY_FLAG5_ID	Den här färgen är din allierade
+ALLY_FLAG6_ID	Den här färgen är din allierade
+ALLY_FLAG7_ID	Den här färgen är din allierade
+ALLY_FLAG8_ID	Den här färgen är din allierade
+ENEMY_FLAG1_ID	Den här färgen är din fiende
+ENEMY_FLAG2_ID	Den här färgen är din fiende
+ENEMY_FLAG3_ID	Den här färgen är din fiende
+ENEMY_FLAG4_ID	Den här färgen är din fiende
+ENEMY_FLAG5_ID	Den här färgen är din fiende
+ENEMY_FLAG6_ID	Den här färgen är din fiende
+ENEMY_FLAG7_ID	Den här färgen är din fiende
+ENEMY_FLAG8_ID	Den här färgen är din fiende
 WHICHMAP_ID	This is the size of the Map you're about to play
 MAP_AREA_1	MAP_AREA_1
 MAP_AREA_2	MAP_AREA_2

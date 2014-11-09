@@ -1,15 +1,15 @@
 "Note: Do not change the headings in this file, they are used to detect problems"
 gStatDesc
-"{Attack}
+"{Anfall}
 
 Anfallsförmåga är en bonus som läggs till anfallsförmågan hos varje trupp som din hjälte kontrollerar, så att de kan åsamka mer skada i strid."
-"{Defense}
+"{Försvar}
 
 Försvarsförmåga är en bonus som läggs till försvarsförmågan hos varje trupp som din hjälte kontrollerar, så att de kan utstå mer skada i strid."
-"{Spell Power}
+"{Trollformelskraft}
 
 Trollformelskraften bestämmer styrkan på din trollformel och hur länge den ska verka."
-"{Knowledge}
+"{Kunskap}
 
 Kunskapen bestämmer hur många trollformelspoäng din hjälte kan ha. Under normala omständigheter har din hjälte 10 trollformelspoäng för varje nivå kunskap."
 gLuckText
@@ -65,19 +65,19 @@ Sköldpaddan
 Igelkotten
 Kondoren
 cLuckInfo
-"{Good Luck}
+"{Bra Tur}
 
 När du har bra tur får dina arméer ibland slå turslag (dubbel skada) i strid."
-"{Neutral Luck}
+"{Neutral Tur}
 
 När du har normal tur så slår dina arméer aldrig turslag eller oturslag mot fienden."
-"{Bad Luck}
+"{Dålig Luck}
 
 När du har dålig tur slår dina arméer ibland oturslag mot fienden, vilket gör att de bara utdelar halv skada."
 "%s
 
 
-{Current Luck Modifiers:}"
+{Nuvarande Turbestämmare:}"
 "
 Stilla drakens öga +1"
 "
@@ -121,19 +121,19 @@ Inga tureffekter på förhäxad mark"
 "
 Varelse från en stad med neutral inriktning på klöverbeklädd mark +2"
 cMoraleInfo
-"{Good Morale}
+"{Bra Moral}
 
 God moral kan ge dina arméer extra attacker i strid."
-"{Neutral Morale}
+"{Neutral Moral}
 
 Neutral moral innebär att dina arméer varken kommer få extra attacker, eller riskera att förstenas av skräck i strid."
-"{Bad Morale}
+"{Dålig Moral}
 
 Dålig moral kan få dina arméer att förstenas av skräck i strid."
 "%s
 
 
-{Current Morale Modifiers:}"
+{Nuvarande Moralbestämmare:}"
 "
 Stilla drakens öga +1"
 "
