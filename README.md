@@ -10,6 +10,7 @@ Status
 | ------------- |:-------------:| ------------:|
 |               | GENRLTXT.TXT  |              |
 |               | Help.txt      |              |
+| #sv.ini       |               |              |
 | SeerHut.txt   |               |              |
 | randsign.txt  |               |              |
 | randtvrn.txt  |               |              |

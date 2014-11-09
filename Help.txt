@@ -146,14 +146,14 @@ SORT_LOSS 	Sorterar kartor efter förlustförutsättningar
 BRIEFING 	BRIEFING 
 SSHERO 	SSHERO 
 GOLDPIC 	GOLDPIC 
-HUMAN_CPU1 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
-HUMAN_CPU2 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
-HUMAN_CPU3 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
-HUMAN_CPU4 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
-HUMAN_CPU5 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
-HUMAN_CPU6 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
-HUMAN_CPU7 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
-HUMAN_CPU8 	Människa eller CPU betyder att denna färg kan spelas av en människa eller av datorn.  CPU endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU1 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU2 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU3 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU4 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU5 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU6 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU7 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
+HUMAN_CPU8 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
 HANDICAP1 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
 HANDICAP2 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
 HANDICAP3 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
