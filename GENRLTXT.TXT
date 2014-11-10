@@ -675,54 +675,54 @@ Eldens Ordernsällskap lär dig nya sätt att fokusera din magi på (+1 Kraft).
 Ett besök på Slagkämparnas Akademi lär dig många nya förmågor (+1000 Erfarenhet).
 Efter att ha spenderat lite tid i Valhallahallen så har du lärt dig många nya stridstekniker (+1 Attackförmåga).
 "Efter att ha spenderat lite tid i Krigskungens Bur så har du fått lära dig nya försvarstekniker (+1 Försvar)."
-%s has built a %s.
-%d additional %s available to recruit in %s
-%s growth per week
-Weekly %s growth is %d
+%s har byggt en %s.
+%d extra %s tillgänglig för rekrytering i %s
+%s tillväxt per vecka
+Veckolig %s tillväxt är %d
 "
 
-Basic growth %d"
+Grundläggande tillväxt %d"
 "
-External dwellings %+d"
+Externa hålor %+d"
 Hall
-Exit Mage Guild
-Garrison
-Build %s
-Don't build %s
-Do you wish this to be the permanent home of the Grail?
-Build ship
-Don't build ship
-Exit
-Castle
-University
-"Your hero's footsteps echo through the quiet halls of this ancient university.  A clerk informs you that while here, your hero may receive instruction on the following subjects."
-Your hero already knows this skill.
-Your hero cannot learn this skill.
-Your hero cannot learn any more skills.
-%s %s will cost %d gold
-"With a subtle smile and a raised eyebrow, the clerk informs you, ""Tuition for learning %s %s is %d gold."""
-Purchase %s
-"%s, duration: %d rounds."
-View World
-Town
-Hero
-Artifact
-Teleporter
-Gate
-Mine
-Resource
-Wood
-Mercury
-Ore
-Sulfur
-Crystal	
-Gems	
-Gold	
-You have 1 second remaining in your turn.	
-You have %d seconds remaining in your turn.	
-You have 1 minute remaining in your turn.	
-You have %0.1f minutes remaining in your turn.	
-Current player is...	
+Gå ut ur Magikerskrået
+Garnisonen
+Bygg %s
+Bygg inte %s
+Vill du att detta ska bli den permanenta bostaden för Gralen?
+Bygg båt
+Bygg ingen båt
+Gå ut
+Slott
+Universitet
+"Din hjältes fotsteg ekar bland de tysta korridorerna på universitetet. En lärare ber dig att vänta här, du får instruktioner om följande ämnen."
+Din hjälte har redan den förmågan
+Din hjälte kan inte lära sig den förmågan
+Din hjälte kan inte lära sig några fler förmågor
+%s %s kommer kosta %d guld
+"Med ett subtilt leende och höjda ögonbryn informerare läraren dig att ""våra kurser i %s %s kostar faktiskt %d guld."""
+Köp %s
+"%s, tid: %d rundor."
+Se Världen
+Stad
+Hjälte
+Artefakt
+Teleport
+Port
+Gruva
+Resurs
+Trä
+Kvicksilver
+Malm
+Svavel
+Kristall	
+Ädelstenar	
+Guld
+Du har en sekund kvar på din tur
+Du har %d sekunder kvar på din tur
+Du har en minut kvar på din tur
+Du har %0.1f minuter kvar på din tur
+Den nuvarande spelaren är...	
 "%s found the %s, and can claim victory!"	
 "%s found the %s, and can claim victory!"	
 %s has over %d %s. You have no choice but to admit defeat!	
@@ -747,13 +747,13 @@ Congratulations! %s has delivered the precious cargo intact. Your team claims vi
 "%s has delivered the precious cargo intact, and can claim victory!"	
 %s have delivered the precious cargo intact. Victory is theirs!	
 "Sorry, the host has left the game.  You must have the CDROM in order to host a game."	
-Show Saved Games
-Team %d
-{Team Alignments}
+Visa Sparade spel
+Lag %d
+{Laginriktningar}
 Recovering from player drop... One moment please...
-Congratulations! All your enemies have been defeated! Victory is yours!
-"All your forces have been defeated, and you are banished from this land!"
-Scenario Information
+Grattis! Alla dina fiender är besegrade! Segern är din!
+"Alla dina trupper är besegrade och du har blivit bannlyst ifrån detta land!"
+Uppdragsinformation
 Press ESC to cancel solo mode.
 Can't open file - Heroes3.snd
 Sound File Error!
@@ -762,38 +762,38 @@ Sound File Error!
 
 Are you sure you want to reset the High Scores?"
 "
-The %s is destroyed."
+%s är förstörd."
 Defeat the %s in the %s region of the underworld.
 %s has failed to complete their quest in time. They have lost.
 %s has lost the hero %s.  Your quest is over.
-Do you wish to play a saved game?
-Campaign
+Vill du spela ett sparat spel?
+Kampanj
 "Recounting the Grail legend to the townsfolk, your words are met with disbelief.  This town does not have enough faith.  You must seek a more deserving home for the Grail."
-No active spells
-%s summons %d %s
-"Your
+Inga aktiva trollformler
+%s åkallar %d %s
+"Din
 Rank"
-The pond has not produced anything yet.
-The pond produced %d %s this week.
-"%s, duration: %s."
-until binder moves or dies
-until next attack
-until end of combat
-"%s wields the %s, an ancient artifact which creates a pocket dead to all magic."
+Dammen har inte producerat nåt än.
+Dammen producerade %d %s denna veckan.
+"%s, tid: %s."
+Till bindaren rör sig eller dör
+Till nästa attack
+Till stridens slut
+"%s har med sig %s, en uråldrig artefakt som fullkomligt dödar all magi."
 This garrison has a powerful enchantment that suppresses all other magic.
-"There are no Saved Games to load.
+"Det finns inga sparade spel att ladda.
 
 Perhaps you meant to Start a New Game instead. Go back to the Main Menu and select New Game."
 Select a destination
 Are you sure you want to delete %s?
-"At the start of the game, 3-6 crystal are added to your Kingdom's resource pool."
-"At the start of the game, 3-6 gems are added to your Kingdom's resource pool."
-"At the start of the game, 3-6 mercury are added to your Kingdom's resource pool."
-"At the start of the game, 3-6 sulfur are added to your Kingdom's resource pool."
-3-6 Crystal
-3-6 Gems
-3-6 Mercury
-3-6 Sulfur
+"I början av matchen läggs 3-6 kristaller till till kungadömes resurser."
+"I början av matchen läggs 3-6 ädelstenar till till kungadömes resurser."
+"I början av matchen läggs 3-6 kvicksilvergrytor till till kungadömes resurser."
+"I början av matchen läggs 3-6 svavel till till kungadömes resurser."
+3-6 Kristall
+3-6 Ädelstenar
+3-6 Kvicksilvergrytor
+3-6 Svavel
 The %s has exhausted his spell points
 The %s have exhausted their spell points
 Cursed Ground prevents all spellcasting except for level one spells.
