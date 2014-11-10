@@ -603,81 +603,78 @@ M
 S
 JS
 Avancerade alternativ
-"Select starting options, handicap, and name for each player in the game."
-"Player Name
-Handicap Type"
-"Starting
-Town"
-"Starting
-Hero"
-"Starting
-Bonus"
-Player Turn Duration
-Random
-None
-"Sorry, the host has launched the game without you in it!"
-%s enters the game.
-%s left the game.
-Unknown player left the game!
-%s is the new host.
-There are no maps to play.
-You must position yourself prior to starting the game.
-Hide Chat
-Show Chat
-Host is preparing to launch game....
-Can't open file - Video.vid
-Video File Error!
-The %s prevents %s from casting 3rd level or higher spells.
-Winds from the surrounding 'cursed ground' sap your mystical energies.  You cannot cast spells over level one here.
-"Because %s has already summoned %s, no other elementals will come to %s aid."
-his
-her
-%s recites the incantations but they seem to have no effect.
-Choose an army to resurrect
-Choose an army to sacrifice
-The %s resists %d damage
-The %s resist %d damage
-The %s takes %d extra damage
-The %s take %d extra damage
-Resurrect the %s
-Sacrifice the %s
-Remove this obstacle
-"The %s shrivels with age, and loses %d hit points."
-"The %s shrivel with age, and lose %d hit points."
-The %s suddenly becomes very ill!
-The %s suddenly become very ill!
-All beneficial spells on the %s are dispelled.
-The %s cannot see!
-The %s just can't seem to do anything right.
-The %s has been turned to stone!
-The %s have been turned to stone!
-Roots and vines bind the %s to the ground!
-The %s writhes in pain as the poison courses through its veins.
-The %s writhe in pain as the poison courses through their veins.
-The %s is paralyzed and cannot move!
-The %s are paralyzed and cannot move!
-The %s casts %s
-The %s cast %s
- on the %s
-System Options
-Hero Speed
-Enemy Speed
-Map Scroll Speed
-Show Move Path
-Show Hero Reminder
-Quick Combat
-Video Subtitles
-Town Building Outlines
-Spell Book Animation
-"Are you sure you wish to do this?
-(Any unsaved games will be lost)"
-As you near the Mana Vortex your body is filled with new energy. You have doubled your normal spell points.
-"The head groom approaches leading a fine looking war horse. ""This steed will help speed you in your travels. Alas, his endurance will wane with a lot of heavy riding, and you must return for a fresh mount at the start of the week."""
-You study the glyphs on the Wall of Knowledge and gain insight into the workings of various magics (+1 Knowledge).
-The Order of Fire teaches you new ways to focus your magical powers (+1 Power).
-A visit to the Academy of Battle Scholars teaches you many new skills (+1000 Experience).
-Some time spent at the Hall of Valhalla allows you to learn more effective combat skills (+1 Attack Skill).
-"Spending time in the Cage of Warlords, the experienced warriors therein teach you additional defensive skills (+1 Defense)."
+"Välj startalternativ, handikapp och namn på spelarna."
+"Spelarnamn
+Handikapptyp"
+"Startstad"
+"Starthjälte"
+"Startbonus"
+Turtid för spelarna
+Slumpmässig
+Inget
+"Värden har redan startat spelet, utan att du fick vara med!"
+%s kommer in i matchen.
+%s lämnar matchen.
+En okänd spelare har kommit in i matchen!
+%s är den nya värden.
+Det finns inga kartor att spela.
+Du måste placera dig själv innan du kan starta matchen.
+Göm chatt
+Visa chatt
+Värden förbereder sig för att starta spelet...
+Kan inte öppna filen - Video.vid
+Fel på videofilen!
+%s förhindrar %s att kasta trollformler från nivå 3 och uppåt.
+Vinden som omringar Den förbannade marken suger musten ur dig, du kan bara kasta trollformler på nivå 1.
+"Eftersom %s redan har åkallat %skan inga andra element åkallas av %s ."
+hans
+hennes
+%s reciterar inskriptionen, men det har ingen effekt.
+Välj en armé att återuppväcka
+Välj en armé att offra
+%s motstår %d skada
+%s motstår %d skada
+%s tar %d extra skada
+%s tar %d extra skada
+Återuppväck %s
+Offra %s
+Ta bort hinder
+"%s skrumpnar ihop av ålder och förlorar %d hälsopoäng."
+"%s skrumpnar ihop av ålder och förlorar %d hälsopoäng."
+%s blir plötsligt väldigt sjuka!
+%s blir plötsligt väldigt sjuk!
+Alla fördelaktiga trollformler kastade på %s upphör.
+%s kan inte se!
+%s verkar inte kunna få något rätt gjort.
+%s har blivit förstenad!
+%s har blivit förstenade!
+Rötter och rankor binder %s till marken!
+%s vrider sig i smärta då giftet forsar fram genom ådrorna.
+%s vrider sig i smärta då giftet forsar fram genom ådrorna.
+%s är förlamad och kan inte röra sig!
+%s är förlamade och kan inte röra sig!
+%s kastarcasts %s
+%s kastar %s
+ på %s
+Systeminställningar
+Hjältehastighet
+Fiendehastighet
+Kartans bläddringshastighet
+Visa förflyttningsstig
+Visa hjältens påminnelse
+Snabbstrid
+Undertexter
+Byggnadskonturer
+Trollformelsanimation
+"Är du säker på att du vill göra detta?
+(Ingen osparad information kommer sparas)"
+När du närmar dig Mana-virveln fylls din kropp med energi. Du har dubblat dina normala trollformelspoäng.
+"Den lille stallpojken kommer fram med en fin häst till dig. ""Denna hästen kommer hjälpa dig att komma fram snabbare. Men han kommer bli trött efter helgen, så kom tillbaka igen på måndag."""
+Du studerar inskriptionerna på Kunskapens Vägg och får då insikt om magiernas hemligheter (+1 Kunskap).
+Eldens Ordernsällskap lär dig nya sätt att fokusera din magi på (+1 Kraft).
+Ett besök på Slagkämparnas Akademi lär dig många nya förmågor (+1000 Erfarenhet).
+Efter att ha spenderat lite tid i Valhallahallen så har du lärt dig många nya stridstekniker (+1 Attackförmåga).
+"Efter att ha spenderat lite tid i Krigskungens Bur så har du fått lära dig nya försvarstekniker (+1 Försvar)."
 %s has built a %s.
 %d additional %s available to recruit in %s
 %s growth per week
