@@ -227,130 +227,130 @@ TOWN_SETTING_6 	TOWN_SETTING_6
 TOWN_SETTING_7 	TOWN_SETTING_7 	
 TOWN_SETTING_8 	TOWN_SETTING_8 	
 "const_create_map,"		
-"const_map_size_label,"	Select a map size	
-"const_small_map,"	Create a small map	
-"const_medium_map,"	Create a medium map	
-"const_large_map,"	Create a large map	
-"const_huge_map,"	Create a huge map	
-"const_map_levels,"	Select single or two level map	
-"const_human_positions_label,"	Select number of human-playable positions	
-"const_1_human,"	Create 1 human player	
-"const_2_humans,"	Create 2 human players	
-"const_3_humans,"	Create 3 human players	
-"const_4_humans,"	Create 4 human players	
-"const_5_humans,"	Create 5 human players	
-"const_6_humans,"	Create 6 human players	
-"const_7_humans,"	Create 7 human players	
-"const_8_humans,"	Create 8 human players	
-"const_random_humans,"	Create 1-8 human players	
-"const_human_teams_label,"	Select the number of teams for human-playable positions	
-"const_no_human_teams,"	No teams	
-"const_1_human_team,"	Create 1 human team	
-"const_2_human_teams,"	Create 2 human teams	
-"const_3_human_teams,"	Create 3 human teams	
-"const_4_human_teams,"	Create 4 human teams	
-"const_5_human_teams,"	Create 5 human teams	
-"const_6_human_teams,"	Create 6 human teams	
-"const_7_human_teams,"	Create 7 human teams	
-"const_random_human_teams,"	Create a random number of human teams	
-"const_computer_positions_label,"	Select the number of computer-only positions	
-"const_no_computers,"	Create no computer players	
-"const_1_computer,"	Create 1 computer position	
-"const_2_computers,"	Create 2 computer positions	
-"const_3_computers,"	Create 3 computer positions	
-"const_4_computers,"	Create 4 computer positions	
-"const_5_computers,"	Create 5 computer positions	
-"const_6_computers,"	Create 6 computer positions	
-"const_7_computers,"	Create 7 computer positions	
-"const_random_computers,"	Create a random number of computer positions	
-"const_computer_teams_label,"	Select the number of computer teams	
-"const_no_computer_teams,"	No computer teams	
-"const_1_computer_team,"	Create 1 computer team	
-"const_2_computer_teams,"	Create 2 computer teams	
-"const_3_computer_teams,"	Create 3 computer teams	
-"const_4_computer_teams,"	Create 4 computer teams	
-"const_5_computer_teams,"	Create 5 computer teams	
-"const_6_computer_teams,"	Create 6 computer teams	
-"const_random_computer_teams,"	Create a random number of computer teams	
+"const_map_size_label,"	Välj en kartstorlek	
+"const_small_map,"	Skapa en liten karta	
+"const_medium_map,"	Skapa en mellanstor karta	
+"const_large_map,"	Skapa en stor karta	
+"const_huge_map,"	Skapa en jättestor karta	
+"const_map_levels,"	Välj 1- eller 2-nivåkarta	
+"const_human_positions_label,"	Välj antal människospelbara positioner	
+"const_1_human,"	Skapa 1 människospelare	
+"const_2_humans,"	Skapa 2 människospelare	
+"const_3_humans,"	Skapa 3 människospelare	
+"const_4_humans,"	Skapa 4 människospelare	
+"const_5_humans,"	Skapa 5 människospelare	
+"const_6_humans,"	Skapa 6 människospelare	
+"const_7_humans,"	Skapa 7 människospelare	
+"const_8_humans,"	Skapa 8 människospelare	
+"const_random_humans,"	Skapa 1-8 människospelare	
+"const_human_teams_label,"	Välj antal lag för människospelbara positioner	
+"const_no_human_teams,"	Inga lag	
+"const_1_human_team,"	Skapa 1 människolag	
+"const_2_human_teams,"	Skapa 2 människolag	
+"const_3_human_teams,"	Skapa 3 människolag	
+"const_4_human_teams,"	Skapa 4 människolag	
+"const_5_human_teams,"	Skapa 5 människolag	
+"const_6_human_teams,"	Skapa 6 människolag	
+"const_7_human_teams,"	Skapa 7 människolag	
+"const_random_human_teams,"	Skapar ett slumpvalt antal människolag	
+"const_computer_positions_label,"	Välj antal positioner endast spelbara av datorn	
+"const_no_computers,"	Skapa inga datorspelare	
+"const_1_computer,"	Skapa 1 datorposition	
+"const_2_computers,"	Skapa 2 datorpositioner	
+"const_3_computers,"	Skapa 3 datorpositioner	
+"const_4_computers,"	Skapa 4 datorpositioner	
+"const_5_computers,"	Skapa 5 datorpositioner	
+"const_6_computers,"	Skapa 6 datorpositioner	
+"const_7_computers,"	Skapa 7 datorpositioner	
+"const_random_computers,"	Skapa ett slumpvis antal datorpositioner	
+"const_computer_teams_label,"	Välj antal datorlag	
+"const_no_computer_teams,"	Inga datorlag	
+"const_1_computer_team,"	Skapa 1 datorlag	
+"const_2_computer_teams,"	Skapa 2 datorlag	
+"const_3_computer_teams,"	Skapa 3 datorlag	
+"const_4_computer_teams,"	Skapa 4 datorlag	
+"const_5_computer_teams,"	Skapa 5 datorlag	
+"const_6_computer_teams,"	Skapa 6 datorlag	
+"const_random_computer_teams,"	Skapa ett slumpvis antal datorlag	
 "const_water_label,"	Select the amount of water on the map	
-"const_no_water,"	Minimum or no water	
-"const_normal_water,"	Create a continent surrounded by water	
-"const_islands,"	Create many small land masses created by water	
-"const_random_water,"	Include a random amount of water	
-"const_monster_strength_label,"	Select the relative strength of guardian monsters	
-"const_weak_monsters,"	Make monsters weaker than normal	
-"const_normal_monsters,"	Normal strength guardians	
-"const_strong_monsters,"	Create strong guardians	
-"const_random_monsters,"	Choose a random overall strength for guardian monsters	
-"const_show_saved_random_maps,"	Show recently generated random maps	
-SLIDER_CHATWINDOW 	Scroll through chat text	
-SLIDER_FILEMENU 	Scroll through scenario or save game list	
-SLIDER_DURATION 	Allows you to change player turn duration	
-"PLAYER_HANDICAP_HEADER_ID,"	"{Player Name / Handicap Type}
+"const_no_water,"	Minimalta eller inget vatten	
+"const_normal_water,"	Skapa en liten kontinent omgärdad av vatten	
+"const_islands,"	Skapa många små landmassor omgivna av vatten	
+"const_random_water,"	Inkludera en slumvis mängd vatten	
+"const_monster_strength_label,"	Välj den relativa styrkan på väktarmonster	
+"const_weak_monsters,"	Gör monster svagare än vanligt	
+"const_normal_monsters,"	Normal väktarstyrka	
+"const_strong_monsters,"	Skapa starka väktare	
+"const_random_monsters,"	Väljt en slumpvis övergripande styrka för väktarmonstrena	
+"const_show_saved_random_maps,"	Visa nyligen genererade kartor	
+SLIDER_CHATWINDOW 	Bläddra igenom chatt-text	
+SLIDER_FILEMENU 	Bläddra igenom scnario- eller sparade spel-lista	
+SLIDER_DURATION 	Låter dig ändra dragens varaktighet	
+"PLAYER_HANDICAP_HEADER_ID,"	"{Spelarnamn / Handikapp-Typ}
 
-Each potential slot a human player can occupy is marked with an adjacent banner.  Click the banner to change position.  You may also click inside the name field to change your player name.
+Varje möjlig plats en människospelare kan uppta är markerad med en intilliggande flagga.  Klicka på flaggan för att ändra position.  Du kan också klocka inuti namnfältet för att ändra spelarnamn.
 
-Each player may be 'handicapped' by clicking the 'handicap' button.  There are three settings: No Handicap, Mild Handicap, and Severe Handicap.  Mild and Severe diminish a player's starting resources.
+Varje spelare kan få ett 'handikap' genom att klicka på handikapp-knappen.  Det finns tre inställningar: Inget Handikapp, Milt Handikapp och Allvarligt Handikapp.  Milt och Allvarligt minskar en spelares startresurser.
 "																						
-"TURN_DURATION_HEADER_ID,"	"{Player Turn Duration}
+"TURN_DURATION_HEADER_ID,"	"{Dragens Varaktighet}
 
-Using the slider, you may set 'soft' player turn durations.  By 'soft', a timer counts down a player's turn when not in combat.  When in combat, the timer is paused.
+Genom att använda reglaget kan du sätta 'mjuka' spelardragsvaraktigheter.  Med 'mjuka' menas att den klockar räknar ned en spelares tid då denne inte är i strid.  När spelaren är i strid pausas klockan.
 
-Turn durations are 1, 2, 4, 6, 8, 10, 15, 20, 25, and 30 minutes.
-'Unlimited' is the default setting.
+Dragvaraktigheterna är 1, 2, 4, 6, 8, 10, 15, 20, 25 och 30 minuter.
+'Obegränsad' är standardinställningen.
 "																						
-"STARTING_TOWN_HEADER_ID,"	"{Starting Town}
+"STARTING_TOWN_HEADER_ID,"	"{Startstad}
 
-Each player may, or may not, start with a town.  Choices may be Random, Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, and Fortress.
+Varje spelare kan, eller inte, starta med en stad.  Möjliga val är Slumpvalt, Borg, Fästingvall, Torn, Inferno, Nekroborg, Håla, Fäste och Fästning.
 
-When you do not start with a town, these settings may be used to help choose the alignment of a potential starting hero.
+När du inte startar med en stad kan dessa inställningar användas för att välja inriktning på en potintiell starthjälte.
 "																						
-"STARTING_TOWN_HEADER_W_CONFLUX_ID,"	"{Starting Town}
+"STARTING_TOWN_HEADER_W_CONFLUX_ID,"	"{Startstad}
 
-Each player may, or may not, start with a town.  Choices may be Random, Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, Fortress, and Conflux.
+Varje spelare kan, eller inte, starta med en stad.  Möjliga val är Slumpvalt, Borg, Fästingvall, Torn, Inferno, Nekroborg, Håla, Fäste, Fästning och Sammankomsten.
 
-When you do not start with a town, these settings may be used to help choose the alignment of a potential starting hero.
+När du inte startar med en stad kan dessa inställningar användas för att välja inriktning på en potintiell starthjälte.
 "																						
-"STARTING_HERO_HEADER_ID,"	"{Starting Hero}
+"STARTING_HERO_HEADER_ID,"	"{Starthjälte}
 
-Each player may, or may not, start with a Hero.  At times, this option may be locked, or absent.  At other times, you may cycle through up to sixteen different hero choices.  If the Starting Town option is enabled, you can change the hero classes for a different set of hero choices.
+Varje spelar kan, eller inte, starta med en Hjälte.  Ibland kan detta val vara låst eller otillgänglig.  I andra fall kan du bläddra igenom upp till sexton olika hjälteval.  Om startstadsval är påslaget så kan du ändra hjälteklasser för att få en annan uppsättning hjälteval.
 
-To see a hero's name, class, and specialty, right click the hero's portrait.
+För att se en hjältes namn, klass och specialitet: högreklicka på hjältens porträtt.
 "																						
-"STARTING_BONUS_HEADER_ID,"	"{Starting Bonus}
+"STARTING_BONUS_HEADER_ID,"	"{Startbonus}
 
-With a Starting Bonus, you may choose a random artifact, 500-1000 gold, or 5-10 wood and ore.
+Med en startbonus kan du välja mellan en slumpvald artefakt, 500-1000 guld eller 5-10 skog och sten.
 "																						
 																							
-Multiplayer Selection	Multiplayer Selection																						
+Flerspelarval	Flerspelarval																						
 																							
-Online Service	"{Online Service}
+Onlinetjänster	"{Onlinetjänster}
 
-Allows you to play over an Online Service"																						
-Hot Seat	"{Hot Seat}
+Låter dig spela över en Onlinetjänst"																						
+Heta Stolen	"{Heta Stolen}
 
-Allows multiple people to play different players on the same computer"																						
+Låter flera människor spela olika spelare på samma dator"																						
 IPX	"{IPX}
 
-Allows multiple people to play on their own computers across a local area network"																						
+Låter flera människor spela på deras egna datorer över ett localt nätverk (LAN)"																						
 TCP/IP	"{TCP/IP}
 
-Allows multiple people to play on their own computers across a local area network or via the internet"																						
+Låter flera människor spela på deras egna datorer över ett localt nätverk (LAN) eller via internet"																						
 Modem	"{Modem}
 
-Allows two people to connect via modem"																						
-Direct Connect	"{Direct Connect}
+Låter två spelare ansluta via modem"																						
+Direktanslutning	"{Direktanslutning}
 
-Allows two people to connect via a direct serial connection"																						
-Host a Game	"{Host Game}
+Låter två spelare ansluta via en direkt seriellkommunikation"																						
+Var värd för ett spel	"{Var värd för ett spel}
 
-Allows you to set up and create the game that others will join"																						
-Join a Game	"{Join Game}
+Låter dig sätta upp och skapa spelet som andra går med i"																						
+Gå med i Spel	"{Gå med i Spel}
 
-Displays a list of available games for you to join"
-Search for a Game	"{Search for Game}
+Visar en lista över tillgängliga spela du kan gå med i"
+Sök efter ett spel	"{Sök efter Spel}
 
-Allows you to enter a specific IP address to connect to"
+Låter gid skriva en specifik IP-adress att ansluta till"
 GAMENAME 1	GAMENAME 1
 GAMENAME 2	GAMENAME 2
 GAMENAME 3	GAMENAME 3
@@ -363,35 +363,35 @@ GAMENAME 9	GAMENAME 9
 GAMENAME 10	GAMENAME 10
 GAMENAME 11	GAMENAME 11
 GAMENAME 12	GAMENAME 12
-Scroll through available games	Scroll through available games
+Bläddra igenom tillgängliga spel	Bläddra igenom tillgängliga spel
 	
-Cancel	Return to previous menu																						
+Avbryt	Återgå till föregående meny																						
 																							
-Adventure Map Window																							
-World Map	"This is a zoomed out view of the world.  Clicking anywhere in this window will center the adventure map on that location, or you can drag the outline box to scroll the adventure map."																						
-Status Window	SELECTION WINDOW																						
-Kingdom Overview	"{Kingdom Overview}
+Äventyrskartefönster																							
+Världskarta	"Detta är en utzoomad vy av världen.  Att klicka någonstans i detta fönster kommer centrera äventyrskartan på den platsen, eller så kan du dra i konturboxen för att rulla äventyrskartan."																						
+Statusfönster	SELECTION WINDOW																						
+Kungadömesöverblick	"{Kungadömesöverblick}
 
-Displays an overview of your Kingdom's towns and heroes"																						
-Surface/Underworld View	"{Surface/Underworld View}
+Visar en överblick över ditt Kungadömes städer och hjältar"																						
+Lands-/Underjordsvy	"{Lands-/Underjordsvy}
 
-Switches the adventure map between map levels"																						
-Quest Log	"{Quest Log}
+Växlar äventyrskartan mellan kartenivåer"																						
+Uppdragslogg	"{Uppdragslogg}
 
-Displays a list of all current quests"																						
-Sleep/Wake Hero	"{Sleep/Wake Hero}
+Visar en lista över alla nuvarande uppdrag"																						
+Söv/Väck Hjälte	"{Söv/Väck Hjälte}
 
-Sleeps the selected hero or wakes a sleeping hero.  Any sleeping heroes will be ignored by the Next Hero button."																						
-Move Hero	"{Move Hero}
+Söver den valda hjälten eller väcker en sövd hjälte.  En sovande hjälte kommer bli ignorerad av Nästa Hjälte-knappen."																						
+Förflytta Hjälte	"{Förflytta Hjälte}
 
-Moves the current hero along its selected path"																						
-Cast Spell	"{Cast Spell}
+Förflyttar nuvarande hjälte längs den valda rutten"																						
+Kasta Trollformel	"{Kasta Trollformel}
 
-Cast a non-combat spell"																						
-Adventure Options	"{Adventure Options}
+Kastar en icke-strids-trollformel"																						
+Äventyrsalternativ	"{Äventyrsalternativ}
 
-Allows you to dig for the Grail, view the current Grail Puzzle, World Map, or Scenario Briefing.  In multiplayer games you will also be allowed to view your opponents' last turn."																						
-System Options	"{System Options}
+Låter dig gräva efter Gralen, se nuvarande Gralpusslet, världskartan eller scenariouppdrag.  I flerspelarspel kan du också se dina motståndares senaste drag."																						
+Systemalternativ	"{Systemalternativ}
 
 Allows you to view and change the current game options"																						
 Next Hero	"{Next Hero}
@@ -418,14 +418,14 @@ Scroll down through available towns"
 Town Portrait	"{Town Portrait}
 
 Click once to select this town and center the adventure map on its location.  Click again to enter and view the Town Screen."																						
-Gold	Amount of gold in your treasury																						
-Wood	Your total available wood																						
-Mercury	Your total available mercury																						
-Ore	Your total available ore																						
-Sulfur	Your total available sulfur																						
-Crystal	Your total available crystal																						
-Gems	Your total available gems																						
-Date	"{Date}
+Guld	Amount of gold in your treasury																						
+Trä	Your total available wood																						
+Kvicksilver	Your total available mercury																						
+Malm	Your total available ore																						
+Svavel	Your total available sulfur																						
+Kristall	Your total available crystal																						
+Ädelstenar	Your total available gems																						
+Datum	"{Datum}
 
 Current Month, Week, and Day"																						
 ROLLOVER	ROLLOVER																						
