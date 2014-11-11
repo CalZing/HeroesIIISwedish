@@ -794,17 +794,17 @@ Are you sure you want to delete %s?
 3-6 Ädelstenar
 3-6 Kvicksilvergrytor
 3-6 Svavel
-The %s has exhausted his spell points
-The %s have exhausted their spell points
-Cursed Ground prevents all spellcasting except for level one spells.
-An aura of anti-magic prevents spellcasting in this garrison.
-The %s prevents all spellcasting
-Can only summon %s from the corpses of living creatures
-The dead %s does not have sufficient life-force to summon %s
-The dead %s do not have sufficient life-force to summon %s
-Only the living can be resurrected.
-The %s is not powerful enough to resurrect the %s
-The %s are not powerful enough to resurrect the %s
+%s har tagit slut på sina trollformelspoäng
+%s har tagit slut på sina trollformelspoäng
+Förbannad mark förhindrar dig att kasta trollformler som är högre än nivå 1.
+En anti-magi aura gör att du inte kan kasta trollformler i denna garnisonen.
+%s förhindrar kastandet av trollformler
+Kan bara åkalla %s från liken av levande varelser
+De döda %s har inte tillräckligt mycket livskraft för att åkalla %s
+De döda %s har inte tillräckligt mycket livskraft för att åkalla %s
+Bara de levande kan bli återuppväckta.
+%s är inte kraftfull nog för att återuppväcka %s
+%s är inte kraftfull nog för att återuppväcka %s
 "{Insufficient Disk Space}
 
 Heroes III requires at least 5 MB of free space on the current drive.
@@ -817,26 +817,26 @@ Heroes III requires at least 1 MB of free space on the current drive to save a g
 To delete a previously saved game select it and press CTRL-DELETE.
 
 To make room manually press ALT-TAB to return to Windows."
-Leave Guards
-The %s freezes in fear.
-The %s freeze in fear.
-That spell will not affect anything.
-"At last, you have the last artifact needed to construct the Blade.  Soon, the world will tremble at your feet."
-The %s makes all spells available.
-Start with %s
-Start with a scroll of %s
-Start with %d %s
-Start with %s %s
-Start with heroes from %s
-Start with a random hero
-Wood and Ore
-"Sulfur, Mercury, Crystal, and Gems"
+Lämna Vakter
+%s fryser av skräck.
+%s fryser av skräck.
+Den trollformlern fungerar inte på någonting!
+"Äntligen har du den sista artefakten som krävs för att smida svärden. Snart kommer världen ligga vid dina fötter."
+%s gör så att alla trollformler är tillgängliga.
+Startar med %s
+Startar med en pergamentrulle med %s
+Startar med %d %s
+Startar med %s %s
+Startar med hjjältar från %s
+Startar med en slumpmässig hjälte
+Trä och Malm
+"Svavel, Kvicksilver, Kristaller och Ädelstenar"
 %s is in incorrect format
 Select Armageddon's Blade campaign
 Select Restoration of Erathia campaign
 Select custom campaign
-Return to main menu
-Fear of the %s causes the %s to freeze.
+Återvänd till huvudmenyn
+Rädslan för %s gör att %s fryser av skräck.
 "Found the Heroes III: %s CD-ROM.
 
 To play Heroes III: %s, you need the %s CD.  
@@ -844,37 +844,37 @@ To play Heroes III: %s, you need the %s CD.
 If you wish to join a Multi-player Game hosted by another player, a CD is not required, and you may proceed.
 
 If you wish to play a Single Scenario or a Campaign, please quit and insert the %s CD, before re-running %s."
-Host is generating a random map
-Spell cancelled
-You possess all of the components needed to assemble the %s.  Do you wish to assemble this artifact?
-Do you wish to disassemble this artifact?
+Värden genererar en slumpmässig karta
+Trollformeln upphörde
+Du innehar alla delar för att skapa %s.  Vill du skapa denna artefakt?
+Vill du ta isär denna artefakt?
 Select Shadow of Death Campaign
-Sorceress
-Yog has given up magic in all of its forms.  His knowledge of battle and tactics will have to be enough to get him through the rest of his life.
+Trollpacka
+Yog har gett upp magi i alla sina former. Hans kunskaper om strid och taktik kommer få vara nog i resten av hans liv.
 "Congratulations, you have recovered the three pieces you needed from the barbarian brothers."
-Random Map Setup
-Select options for creating a random map
-Random Map
-Play a randomly created map
+Skapa Slumpmässig karta
+Välj inställningar för en slumpmässig karta
+Slumpmässig karta
+Spela en slumpmässigt skapad karta
 "The tutorial map file ""tutorial.tut"" is missing from the maps directory.  You cannot start a tutorial without this file."
 Playing the selected saved game requires all players to be running %s.  Some of the connected players cannot play this saved game.
 Playing the selected map requires all players to be running %s.  Some of the connected players cannot play this map.
 Armageddon's Blade
 The Shadow of Death
 The magical energies of more spells more powerful than level one are sucked away by the cursed ground.
-Random map created!
+Slumpmässig karta skapad!
 Cannot create Random_Map.H3M in data directory.
 Error writing random map to disk.
-Could not create a random map that fits current choices.
-Map Size
-Human or Computer players
-Human or Computer teams
-Computer only players
-Computer only teams
-Water content
-Monster strength
-Random Map
-Creating Map
-Only Gelu can carry Armageddon's Blade.
-The Restoration of Erathia
-"Congratulations, you have recovered all three artifacts."
+Kan inte skapa en slumpmässig karta med dessa förutsättningarna.
+Kartstorlek
+Mänskliga eller Datorkontrollerade spelare
+Mänskliga eller Datorkontrollerade lag
+Enbart Datorkontrollerade spelare
+Enbart Datorkontrollerade lag
+Vatteninnehåll
+Monsterstyrka
+Slumpmässig karta
+Skapar karta
+Bara Gelu kan bära Armageddons svärd.
+Erathias upprättande
+"Grattis! Du har funnit alla tre artefakter!."
