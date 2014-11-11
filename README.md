@@ -8,16 +8,16 @@ Status
 
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
-|               | GENRLTXT.TXT  |              |
 |               | Help.txt      |              |
-| #sv.ini       |               |              |
 | SeerHut.txt   |               |              |
-| randsign.txt  |               |              |
-| randtvrn.txt  |               |              |
-| HeroBios.txt  |               |              |
 | HeroSpec.txt  |               |              |
 | advevent.txt  |               |              |
+| randtvrn.txt  |               |              |
 | artevent.txt  |               |              |
+| HeroBios.txt  |               |              |
+| randsign.txt  |               |              |
+|               |               | #sv.ini      |
+|               |               | GENRLTXT.TXT |
 |               |               | CrGen1.txt   |
 |               |               | MINEEVNT.TXT |
 |               |               | BldgSpec.txt |
