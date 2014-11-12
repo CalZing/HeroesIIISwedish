@@ -8,10 +8,10 @@ Status
 
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
-|               | Help.txt      |              |
-| SeerHut.txt   |               |              |
-| HeroSpec.txt  |               |              |
+|               | Help.txt  (Andreas)    |              |
+|               | SeerHut.txt (Simon)  |              |
 | advevent.txt  |               |              |
+| HeroSpec.txt  |               |              |
 | randtvrn.txt  |               |              |
 | artevent.txt  |               |              |
 | HeroBios.txt  |               |              |
