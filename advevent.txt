@@ -3,20 +3,20 @@
 "Du kan inte ta med denna artefakt, du har fullt i ryggsäcken!"
 "{Artifact}
 
-You've found the humble dwelling of a withered hermit.  The hermit tells you that he is willing to give the %s to the first wise person he meets."
+Du kommer till den enkla boningen av en eremit. Eremiten berättar att han tänker ge %s till den förste kloke han möter."
 "{Artifact}
 
-You've come across the spartan quarters of a retired soldier.  The soldier tells you that he is willing to pass on the %s to the first true leader he meets."
+Du möter en pensionerad soldat. Soldaten berättar att han är villig att ge %s till den förste sanne ledaren han möter."
 "{Artifact}
 
-A leprechaun offers you the %s for the small price of 2000 gold.  Do you wish to buy this artifact?"
+En pyssling erbjuder %s för det låga priset av 2000 guld. Vill du köpa?"
 "{Artifact}
 
-A leprechaun offers you the %s for the small price of 2500 gold and 3 %s.  Do you wish to buy this artifact?"
+En pyssling erbjuder %s för det låga priset av 2500 gold och 3 %s.  Vill du köpa?"
 "{Artifact}
 
-A leprechaun offers you the %s for the small price of 3000 gold and 5 %s.  Do you wish to buy this artifact?"
-"Victorious, you take your prize, the %s."
+En pyssling erbjuder %s för det låga priset av 3000 gold och 5 %s.  Vill du köpa?"
+"Segrande tar du med dig priset %s."
 "{Artifact}
 
 You come upon an ancient artifact.  As you reach for it, a pack of Cerberi leap out of the brush to attack, not willing to give up their treasure without a fight."
@@ -26,57 +26,57 @@ Through a clearing you observe an ancient artifact.  Unfortunately, it's guarded
 "Discretion is the better part of valor, and you decide to avoid this fight for today."
 "You try to pay the leprechaun, but realize that you can't afford it.  The leprechaun stamps his foot and ignores you."
 "Insulted by your refusal of his generous offer, the leprechaun stamps his foot and ignores you."
-Do you wish to open the box?
-"You peek inside.  Relieved, you discover the box is empty."
-You should have known better - you are attacked!
-"As you reign in your horse, a guard steps up to you, ""Welcome.  I have received word of your arrival.  Do you wish to pass at this time?"""
+Vill du öppna den lilla lådan?
+"Du kikar in. Lättad märker du att den är tom."
+Du borde veta bättre! Du blir anfallen!
+"När du rider in med din häst kliver en vakt fram till dig. ""Hallå där. Jag hörde att du skulle komma. Vill du komma förbi eller?"""
 """No one told me of your coming,"" says the Border Guard.  ""I cannot let you pass.  Perhaps you should first seek a Keymaster's Tent."""
 "The caretaker of this Keymaster's Tent seems happy to see you.  ""Ah, finally someone worthy,"" he says.  ""I shall send word immediately to the Border Guard that you be allowed to pass."""
 "The caretaker of this keymaster's tent recognizes you as you approach.  ""I have already sent word that you be allowed to pass."" he says.  ""Begone."""
-"{Buoy}
+"{Boj}
 
-Your men spot a navigational buoy, confirming that you are on course and increasing their morale."
-"{Buoy}
+Dina mannar ser en boj i vattnet vilket betyder att ni är på rätt kurs. Moralen ökar är god ombord!"
+"{Boj}
 
-Your men spot a navigational buoy, confirming that you are on course."
-"{Campfire}
+Dina mannar ser en boj i vattnet vilket betyder att ni är på rätt kurs."
+"{Lägereld}
 
-Ransacking an enemy camp, you discover a hidden cache of treasures."
-"You've already seen all my maps laddy, now run along."
-You find an old fisherman who has the most detailed maps of the seas that you have ever seen.  Would you like to purchase a set of maps for 1000 gold?
-You find a cartographer who sells maps of the land for 1000 gold.  Would you like to buy a map?
-You discover an old dwarven miner who has kept several sets of maps from his working days.  He is willing to sell you a map of the tunnels for 1000 gold.  Do you agree?
-"My maps cost 1000 gold, which you don't seem to have.  Please stop wasting my time."
-"{Swan Pond}
+När du letar igenom ett fiendeläger hittar du en gömd kista med skatter."
+"Du har redan sett alla mina kartor. Kila vidare."
+DU möter en gammal fiskare med de mest detaljerade kartor över havet du någonsin sett. Vill du köpa dessa för 1000 guld?
+Du träffar kartografen som säljer kartor för bara 100 guld. Vill du köpa dig en karta?
+Du träffar en pensionerad dvärg i gruvan som har sparat massor av kartor från sina arbetsdagar. Han är villig att sälja dessa för bara 1000 guld. Ska du slå till?
+"Mina kartor kostar faktiskt 1000 guld och det har ju inte du. Kom tillbaka med riktiga pengar!"
+"{Svandammen}
 
-Childhood stories said that a scarlet swan was a portent of good fortune.  You decide to rest here for the remainder of the day."
-"{Swan Pond}
+Sagorna berättar om att en röd svan av någon anledning betyder lycka och välgång. Du bestämmer dig för att vila här resten av dagen."
+"{Svandammen}
 
-Childhood stories said that a scarlet swan was a portent of good fortune.  However, you are still blessed with luck from your last visit here.  Since there is nothing more to gain here, you move on."
+Sagorna berättar om att en röd svan av någon anledning betyder lycka och välgång. Men, du är redan välsignad med tur ifrån ditt senaste besök så du drar vidare."
 "{Cover of Darkness}
 
 You touch the Cover of Darkness, and the land around you is covered in a haze which only your eyes can penetrate."
-You have found a %s.  Do you wish to attack the guards?
-"You have found what was once a %s, but it has been deserted for some time."
-"Having defeated the %s, you discover %s."
+DU har hittat en %s.  Vill du attackera vakterna?
+"Du har funnit vad som en gång var en %s, men den verkar vara övergiven nu."
+"Efter att ha besegrat %s, finner du %s."
 "{%s}
 
-Would you like to recruit %s?"
+Vill du rekrytera %s?"
 "{%s}
 
-Would you like to recruit %s, %s, %s, or %s?"
-"{Skeleton}
+Skulle du vilja rekrytera %s, %s, %s, eller %s?"
+"{Skelett}
 
-You come upon the remains of an unfortunate adventurer.  Searching through the scattered bones, you find "
-"{Skeleton}
+Du hittar kvarlevorna av en stackars olycklig äventyrare. När du letar igenom benknotorna finner du"
+"{Skelett}
 
-You come upon the remains of an unfortunate adventurer.  Searching through the scattered bones, you find nothing."
-"{Marletto Tower}
+Du hittar kvarlevorna av en stackars olycklig äventyrare. Men när du letar igenom benknotorna finner du ingenting."
+"{Marletto Tornet}
 
-The soldiers living in the tower teach you a few new defensive tricks."
-"{Marletto Tower}
+Soldaterna som jobbar i tornet lär dig några nya försvarsknep."
+"{Marletto Tornet}
 
-""I'm sorry sir,"" the leader of the soldiers says, ""but you already know everything we have to teach."""
+""Jag är ledsen,"" säger soldaternas ledare, ""Du kan redan allt vi kan lära dig."""
 "{Derelict Ship}
 
 The rotting hulk of a great pirate ship creaks eerily as it is pushed against the rocks.  Do you wish to search the ship?"
@@ -84,21 +84,21 @@ Upon defeating the Water Elementals you spend several hours sifting through the 
 Upon defeating the Water Elementals you sift through the debris and find something!
 "{%s}
 
-The camp is deserted.  Perhaps you should try next week."
+Lägret är övergivet. Försök igen nästa vecka."
 the %s
-"{Dragon Utopia}
+"{Drakarnas utopi}
 
 This text is no longer used.  If you see it, it is a bug."
-"{Dragon Utopia}
+"{Drakarnas utopi}
 
-You stand before the Dragon Utopia, a place off-limits to mere humans.  Do you wish to violate this rule and challenge the Dragons to a fight?"
-"This strange eye turns and studies you as you approach.  After a few moments, it returns to its slow scan of the area.  You can't help but feel like someone, or something, is using this eye to spy from another location."
-"{Faerie Ring}
+Du står framför Drakarnas utopi. En plats icke avsedd för människor. Vill du bryta mot reglerna och utmana drakarna på strid?"
+"Detta konstiga öga vänder på sig och ser på dig när du närmar dig. Efter ett tag återvänder det till att se på omgivningen. Du kan inte hjälpa att få en känsla av att någon, eller något, använder ögat för att spionera på dig någonstans ifrån..."
+"{FFeernas ring}
 
-You enter a faerie ring, and your army gains luck for its next battle."
-"{Faerie Ring}
+Du träder in i feernas ring och dina trupper får med sig extra tur till nästa slag."
+"{Feernas ring}
 
-You enter a faerie ring, but nothing happens."
+Du träder in i feernas ring, men inget händer."
 "{Flotsam}
 
 You search through the flotsam, but find nothing."
@@ -113,70 +113,70 @@ You search through the flotsam and find some wood and some gold."
 You search through the flotsam and find some wood and some gold."
 "{Fountain of Fortune}
 
-As you drink the bittersweet water, you feel your luck changing."
-"{Fountain of Fortune}
+När du dricker det sötsura vattnet känner du hur turen vänder."
+"{Lyckans fontän}
 
-You drink from the enchanted fountain, but nothing happens."
-"{Fountain of Youth}
+Du dricket ur den förtrollare källan, men inget händer."
+"{Ungdomens källa}
 
-You drink from the fountain's waters and feel young again!  Sensing your renewed vigor, your army's morale improves, allowing you to cover additional ground as you head for your next battle."
-"{Fountain of Youth}
+Du dricker ur källans vatten och känner dig ung på nytt! När dina mannar ser din spänst känner de ny moral vilket även gör att de kan gå längre inför nästa strid!"
+"{Ungdomens källa}
 
-You drink from the enchanted fountain, but nothing happens."
-"{Garden of Revelation}
+Du dricker ur källans vatten, men inget händer."
+"{Insiktens trädgård}
 
-A monk sitting in the center of a garden invites you to meditate with him.  You do, and after a short time you feel enlightened."
-"{Garden of Revelation}
+En munk som sitter mitt i trädgården bjuder in dig att meditera med honom. Du gör det och efter en stund känner du dig alldeles upplyst."
+"{Insiktens trädgård}
 
-You enter the garden, and the monk, recognizing you, says, ""My child, the blessing of knowledge comes but once in a person's lifetime."""
-You enter a rickety hut and talk to the magician who lives there.  He tells you of places near and far which may aid you in your journeys.
-"{Idol of Fortune}
+Du kommer in i trädgården och en munk känner igen dig och säger ""Mitt barn, insiktens välsignelse kommer bara en gång i livet av någon anledning."""
+Du kommer in i en skraltig stuga och pratar med magikern som bor där. Han berättar om platser långt bort och hjälper dig i dina äventyr.
+"{Välgångens staty}
 
 You've found an ancient and weathered stone idol.  Kissing it is supposed to bring luck or happiness, so you do.  The stone is very cold to the touch."
-"{Idol of Fortune}
+"{Välgångens staty}
 
-You've found an ancient and weathered stone idol.  It is supposed to grant luck or happiness to visitors, but since the stars are already shining upon you, it does nothing."
-"{Lean To}
+Du hittar en gammal vindpinad stenstod. Den ska visst ge tur och lycka till sina besökare, men eftersom stjärnorna redan lyser över dig händer ingenting."
+"{Vindskydd}
 
-You've found an abandoned lean-to.  Poking about, you discover some resources hidden nearby."
-"{Lean To}
+Du hittar ett gammalt vindskydd. När du letar runt så hittar du en liten skatt gömd bakom."
+"{Vindskydd}
 
-This lean-to is long abandoned.  There is nothing of value here."
-"{Library of Enlightenment}
+Det här vindskyddet har varit övergivet länge. Här finns inget att hämta."
+"{Upplysningens bibliotek}
 
-The caretaker admits you into the Library of Enlightenment.  You are able to learn much in the short time you spend here."
-"{Library of Enlightenment}
+Vaktmästaren släpper in dig i Upplysningens bibliotek. Du får lära dig mycket under den korta tid du spenderar här."
+"{Upplysningens bibliotek}
 
-Recognizing you, the caretaker refuses to admit you.  ""The Library of Enlightenment,"" he says, ""may be visited but once."""
-"{Library of Enlightenment}
+Vaktmästaren känner igen dig men vägrar släppa in dig. ""Upplysningens bibliotek, får bara besökas en gång av någon anledning"" säger han barskt"
+"{Upplysningens bibliotek}
 
-The caretaker opens the door and looks you up and down.  ""You are neither famous nor diplomatic enough to be admitted to the Library of Enlightenment,"" he sniffs.  ""Come back when you think yourself worthy."""
-"{Lighthouse}
+Vaktmästaren låser upp dörren och synar dig från topp till tå.  ""Du är varken en kändis, eller diplomatisk nog för att få komma in i biblioteket"" fnyser han.  ""Kom tillbaka när du tror att du är värdig."""
+"{Fyr}
 
 This lighthouse is now under your control, and all of your ships will now move further each turn."
 "This structure is obviously a travel gate, but it no longer appears to be functioning."
+"{Magiskolan}
+
+Doften av magi fyller luften i denna skola hängiven till att studera mystiken inom magin. En lärling erbjuder dig att ta en kurs för 1000 guld. Vill du gå en kurs för att öka din kunskap, eller vill du fokusera på att öka din kraft?"
 "{School of Magic}
 
-The tingle of magic fills the air of this school of mystical arts.  An acolyte offers to sign you up for the next class for 1000 gold.  You will have your choice of increasing your knowledge, or learning to better focus your powers."
-"{School of Magic}
+En gammal trollkarl kommer fram ur tomma intet. ""Mästare,"" säger han, ""Du kan redan allt som vi skulle kunna lära dig."""
+"{Magiskolan}
 
-An old wizard appears out of thin air.  ""Master,"" he says, ""you have learned all that we could possibly teach you."""
-"{School of Magic}
+Doften av magi fyller luften i denna skola hängiven till att studera mystiken inom magin. En lärling erbjuder dig att ta en kurs för 1000 guld. Tyvärr har du inte med dig tillräckligt mycket pengar."
+"{Magisk källa}
 
-The tingle of magic fills the air of this school of mystical arts.  An acolyte informs you that he could sign you up for the next class, but that you do not have the required tuition of 1000 gold."
-"{Magic Spring}
+Efter att ha tagit en klunk ur källan fylls ditt blod av magi! Du har dubbelt så mycket trollformelspoäng än vanligt."
+"{Magisk källa}
 
-A drink from the spring fills your blood with magic!  You have twice your normal spell points in reserve."
-"{Magic Spring}
+Den magiska källan har torkat ut. Kom tillbaka nästa vecka."
+"{Magisk källa}
 
-The magic spring only regenerates once a week, and someone has already been here this week."
-"{Magic Spring}
+En klunk från källan ska visst ge dig dubbelt antal trollformelspoäng, men då du redan har det händer inget."
+"{Magisk brunn}
 
-A drink at the spring is supposed to give you twice your normal spell points, but you are already at that level."
-"{Magic Well}
-
-A drink from the well has restored your spell points to maximum."
-"{Magic Well}
+En klunk ifrån brunnen har gett dig alla dina trollformelspoäng tillbaka."
+"{Magisk brunn}
 
 A second drink at the well in one day will not help you."
 "{Magic Well}
