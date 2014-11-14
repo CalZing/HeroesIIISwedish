@@ -1,21 +1,21 @@
 "You enter the arena and face a pack of vicious lions.  You handily defeat them, to the wild cheers of the crowd.  Impressed by your skill, the aged trainer of gladiators agrees to train you in a skill of your choice."
 "The Arena guards prevent you from entering.  ""You've already beaten our best.  Begone from here."""
-"Du kan inte ta med denna artefakt, du har fullt i ryggsÃ¤cken!"
+"Du kan inte ta med denna artefakt, du har fullt i ryggsäcken!"
 "{Artifact}
 
-Du kommer till den enkla boningen av en eremit. Eremiten berÃ¤ttar att han tÃ¤nker ge %s till den fÃ¶rste kloke han mÃ¶ter."
+Du kommer till den enkla boningen av en eremit. Eremiten berättar att han tänker ge %s till den förste kloke han möter."
 "{Artifact}
 
-Du mÃ¶ter en pensionerad soldat. Soldaten berÃ¤ttar att han Ã¤r villig att ge %s till den fÃ¶rste sanne ledaren han mÃ¶ter."
+Du möter en pensionerad soldat. Soldaten berättar att han är villig att ge %s till den förste sanne ledaren han möter."
 "{Artifact}
 
-En pyssling erbjuder %s fÃ¶r det lÃ¥ga priset av 2000 guld. Vill du kÃ¶pa?"
+En pyssling erbjuder %s för det låga priset av 2000 guld. Vill du köpa?"
 "{Artifact}
 
-En pyssling erbjuder %s fÃ¶r det lÃ¥ga priset av 2500 gold och 3 %s.  Vill du kÃ¶pa?"
+En pyssling erbjuder %s för det låga priset av 2500 gold och 3 %s.  Vill du köpa?"
 "{Artifact}
 
-En pyssling erbjuder %s fÃ¶r det lÃ¥ga priset av 3000 gold och 5 %s.  Vill du kÃ¶pa?"
+En pyssling erbjuder %s för det låga priset av 3000 gold och 5 %s.  Vill du köpa?"
 "Segrande tar du med dig priset %s."
 "{Artifact}
 
@@ -26,38 +26,38 @@ Through a clearing you observe an ancient artifact.  Unfortunately, it's guarded
 "Discretion is the better part of valor, and you decide to avoid this fight for today."
 "You try to pay the leprechaun, but realize that you can't afford it.  The leprechaun stamps his foot and ignores you."
 "Insulted by your refusal of his generous offer, the leprechaun stamps his foot and ignores you."
-Vill du Ã¶ppna den lilla lÃ¥dan?
-"Du kikar in. LÃ¤ttad mÃ¤rker du att den Ã¤r tom."
-Du borde veta bÃ¤ttre! Du blir anfallen!
-"NÃ¤r du rider in med din hÃ¤st kliver en vakt fram till dig. ""HallÃ¥ dÃ¤r. Jag hÃ¶rde att du skulle komma. Vill du komma fÃ¶rbi eller?"""
+Vill du öppna den lilla lådan?
+"Du kikar in. Lättad märker du att den är tom."
+Du borde veta bättre! Du blir anfallen!
+"När du rider in med din häst kliver en vakt fram till dig. ""Hallå där. Jag hörde att du skulle komma. Vill du komma förbi eller?"""
 """No one told me of your coming,"" says the Border Guard.  ""I cannot let you pass.  Perhaps you should first seek a Keymaster's Tent."""
 "The caretaker of this Keymaster's Tent seems happy to see you.  ""Ah, finally someone worthy,"" he says.  ""I shall send word immediately to the Border Guard that you be allowed to pass."""
 "The caretaker of this keymaster's tent recognizes you as you approach.  ""I have already sent word that you be allowed to pass."" he says.  ""Begone."""
 "{Boj}
 
-Dina mannar ser en boj i vattnet vilket betyder att ni Ã¤r pÃ¥ rÃ¤tt kurs. Moralen Ã¶kar Ã¤r god ombord!"
+Dina mannar ser en boj i vattnet vilket betyder att ni är på rätt kurs. Moralen ökar är god ombord!"
 "{Boj}
 
-Dina mannar ser en boj i vattnet vilket betyder att ni Ã¤r pÃ¥ rÃ¤tt kurs."
-"{LÃ¤gereld}
+Dina mannar ser en boj i vattnet vilket betyder att ni är på rätt kurs."
+"{Lägereld}
 
-NÃ¤r du letar igenom ett fiendelÃ¤ger hittar du en gÃ¶md kista med skatter."
+När du letar igenom ett fiendeläger hittar du en gömd kista med skatter."
 "Du har redan sett alla mina kartor. Kila vidare."
-DU mÃ¶ter en gammal fiskare med de mest detaljerade kartor Ã¶ver havet du nÃ¥gonsin sett. Vill du kÃ¶pa dessa fÃ¶r 1000 guld?
-Du trÃ¤ffar kartografen som sÃ¤ljer kartor fÃ¶r bara 100 guld. Vill du kÃ¶pa dig en karta?
-Du trÃ¤ffar en pensionerad dvÃ¤rg i gruvan som har sparat massor av kartor frÃ¥n sina arbetsdagar. Han Ã¤r villig att sÃ¤lja dessa fÃ¶r bara 1000 guld. Ska du slÃ¥ till?
+DU möter en gammal fiskare med de mest detaljerade kartor över havet du någonsin sett. Vill du köpa dessa för 1000 guld?
+Du träffar kartografen som säljer kartor för bara 100 guld. Vill du köpa dig en karta?
+Du träffar en pensionerad dvärg i gruvan som har sparat massor av kartor från sina arbetsdagar. Han är villig att sälja dessa för bara 1000 guld. Ska du slå till?
 "Mina kartor kostar faktiskt 1000 guld och det har ju inte du. Kom tillbaka med riktiga pengar!"
 "{Svandammen}
 
-Sagorna berÃ¤ttar om att en rÃ¶d svan av nÃ¥gon anledning betyder lycka och vÃ¤lgÃ¥ng. Du bestÃ¤mmer dig fÃ¶r att vila hÃ¤r resten av dagen."
+Sagorna berättar om att en röd svan av någon anledning betyder lycka och välgång. Du bestämmer dig för att vila här resten av dagen."
 "{Svandammen}
 
-Sagorna berÃ¤ttar om att en rÃ¶d svan av nÃ¥gon anledning betyder lycka och vÃ¤lgÃ¥ng. Men, du Ã¤r redan vÃ¤lsignad med tur ifrÃ¥n ditt senaste besÃ¶k sÃ¥ du drar vidare."
+Sagorna berättar om att en röd svan av någon anledning betyder lycka och välgång. Men, du är redan välsignad med tur ifrån ditt senaste besök så du drar vidare."
 "{Cover of Darkness}
 
 You touch the Cover of Darkness, and the land around you is covered in a haze which only your eyes can penetrate."
 DU har hittat en %s.  Vill du attackera vakterna?
-"Du har funnit vad som en gÃ¥ng var en %s, men den verkar vara Ã¶vergiven nu."
+"Du har funnit vad som en gång var en %s, men den verkar vara övergiven nu."
 "Efter att ha besegrat %s, finner du %s."
 "{%s}
 
@@ -67,16 +67,16 @@ Vill du rekrytera %s?"
 Skulle du vilja rekrytera %s, %s, %s, eller %s?"
 "{Skelett}
 
-Du hittar kvarlevorna av en stackars olycklig Ã¤ventyrare. NÃ¤r du letar igenom benknotorna finner du"
+Du hittar kvarlevorna av en stackars olycklig äventyrare. När du letar igenom benknotorna finner du"
 "{Skelett}
 
-Du hittar kvarlevorna av en stackars olycklig Ã¤ventyrare. Men nÃ¤r du letar igenom benknotorna finner du ingenting."
+Du hittar kvarlevorna av en stackars olycklig äventyrare. Men när du letar igenom benknotorna finner du ingenting."
 "{Marletto Tornet}
 
-Soldaterna som jobbar i tornet lÃ¤r dig nÃ¥gra nya fÃ¶rsvarsknep."
+Soldaterna som jobbar i tornet lär dig några nya försvarsknep."
 "{Marletto Tornet}
 
-""Jag Ã¤r ledsen,"" sÃ¤ger soldaternas ledare, ""Du kan redan allt vi kan lÃ¤ra dig."""
+""Jag är ledsen,"" säger soldaternas ledare, ""Du kan redan allt vi kan lära dig."""
 "{Derelict Ship}
 
 The rotting hulk of a great pirate ship creaks eerily as it is pushed against the rocks.  Do you wish to search the ship?"
@@ -84,21 +84,21 @@ Upon defeating the Water Elementals you spend several hours sifting through the 
 Upon defeating the Water Elementals you sift through the debris and find something!
 "{%s}
 
-LÃ¤gret Ã¤r Ã¶vergivet. FÃ¶rsÃ¶k igen nÃ¤sta vecka."
+Lägret är övergivet. Försök igen nästa vecka."
 the %s
 "{Drakarnas utopi}
 
 This text is no longer used.  If you see it, it is a bug."
 "{Drakarnas utopi}
 
-Du stÃ¥r framfÃ¶r Drakarnas utopi. En plats icke avsedd fÃ¶r mÃ¤nniskor. Vill du bryta mot reglerna och utmana drakarna pÃ¥ strid?"
-"Detta konstiga Ã¶ga vÃ¤nder pÃ¥ sig och ser pÃ¥ dig nÃ¤r du nÃ¤rmar dig. Efter ett tag Ã¥tervÃ¤nder det till att se pÃ¥ omgivningen. Du kan inte hjÃ¤lpa att fÃ¥ en kÃ¤nsla av att nÃ¥gon, eller nÃ¥got, anvÃ¤nder Ã¶gat fÃ¶r att spionera pÃ¥ dig nÃ¥gonstans ifrÃ¥n..."
+Du står framför Drakarnas utopi. En plats icke avsedd för människor. Vill du bryta mot reglerna och utmana drakarna på strid?"
+"Detta konstiga öga vänder på sig och ser på dig när du närmar dig. Efter ett tag återvänder det till att se på omgivningen. Du kan inte hjälpa att få en känsla av att någon, eller något, använder ögat för att spionera på dig någonstans ifrån..."
 "{FFeernas ring}
 
-Du trÃ¤der in i feernas ring och dina trupper fÃ¥r med sig extra tur till nÃ¤sta slag."
+Du träder in i feernas ring och dina trupper får med sig extra tur till nästa slag."
 "{Feernas ring}
 
-Du trÃ¤der in i feernas ring, men inget hÃ¤nder."
+Du träder in i feernas ring, men inget händer."
 "{Flotsam}
 
 You search through the flotsam, but find nothing."
@@ -113,79 +113,79 @@ You search through the flotsam and find some wood and some gold."
 You search through the flotsam and find some wood and some gold."
 "{Fountain of Fortune}
 
-NÃ¤r du dricker det sÃ¶tsura vattnet kÃ¤nner du hur turen vÃ¤nder."
-"{Lyckans fontÃ¤n}
+När du dricker det sötsura vattnet känner du hur turen vänder."
+"{Lyckans fontän}
 
-Du dricket ur den fÃ¶rtrollare kÃ¤llan, men inget hÃ¤nder."
-"{Ungdomens kÃ¤lla}
+Du dricket ur den förtrollare källan, men inget händer."
+"{Ungdomens källa}
 
-Du dricker ur kÃ¤llans vatten och kÃ¤nner dig ung pÃ¥ nytt! NÃ¤r dina mannar ser din spÃ¤nst kÃ¤nner de ny moral vilket Ã¤ven gÃ¶r att de kan gÃ¥ lÃ¤ngre infÃ¶r nÃ¤sta strid!"
-"{Ungdomens kÃ¤lla}
+Du dricker ur källans vatten och känner dig ung på nytt! När dina mannar ser din spänst känner de ny moral vilket även gör att de kan gå längre inför nästa strid!"
+"{Ungdomens källa}
 
-Du dricker ur kÃ¤llans vatten, men inget hÃ¤nder."
-"{Insiktens trÃ¤dgÃ¥rd}
+Du dricker ur källans vatten, men inget händer."
+"{Insiktens trädgård}
 
-En munk som sitter mitt i trÃ¤dgÃ¥rden bjuder in dig att meditera med honom. Du gÃ¶r det och efter en stund kÃ¤nner du dig alldeles upplyst."
-"{Insiktens trÃ¤dgÃ¥rd}
+En munk som sitter mitt i trädgården bjuder in dig att meditera med honom. Du gör det och efter en stund känner du dig alldeles upplyst."
+"{Insiktens trädgård}
 
-Du kommer in i trÃ¤dgÃ¥rden och en munk kÃ¤nner igen dig och sÃ¤ger ""Mitt barn, insiktens vÃ¤lsignelse kommer bara en gÃ¥ng i livet av nÃ¥gon anledning."""
-Du kommer in i en skraltig stuga och pratar med magikern som bor dÃ¤r. Han berÃ¤ttar om platser lÃ¥ngt bort och hjÃ¤lper dig i dina Ã¤ventyr.
-"{VÃ¤lgÃ¥ngens staty}
+Du kommer in i trädgården och en munk känner igen dig och säger ""Mitt barn, insiktens välsignelse kommer bara en gång i livet av någon anledning."""
+Du kommer in i en skraltig stuga och pratar med magikern som bor där. Han berättar om platser långt bort och hjälper dig i dina äventyr.
+"{Välgångens staty}
 
 You've found an ancient and weathered stone idol.  Kissing it is supposed to bring luck or happiness, so you do.  The stone is very cold to the touch."
-"{VÃ¤lgÃ¥ngens staty}
+"{Välgångens staty}
 
-Du hittar en gammal vindpinad stenstod. Den ska visst ge tur och lycka till sina besÃ¶kare, men eftersom stjÃ¤rnorna redan lyser Ã¶ver dig hÃ¤nder ingenting."
+Du hittar en gammal vindpinad stenstod. Den ska visst ge tur och lycka till sina besökare, men eftersom stjärnorna redan lyser över dig händer ingenting."
 "{Vindskydd}
 
-Du hittar ett gammalt vindskydd. NÃ¤r du letar runt sÃ¥ hittar du en liten skatt gÃ¶md bakom."
+Du hittar ett gammalt vindskydd. När du letar runt så hittar du en liten skatt gömd bakom."
 "{Vindskydd}
 
-Det hÃ¤r vindskyddet har varit Ã¶vergivet lÃ¤nge. HÃ¤r finns inget att hÃ¤mta."
+Det här vindskyddet har varit övergivet länge. Här finns inget att hämta."
 "{Upplysningens bibliotek}
 
-VaktmÃ¤staren slÃ¤pper in dig i Upplysningens bibliotek. Du fÃ¥r lÃ¤ra dig mycket under den korta tid du spenderar hÃ¤r."
+Vaktmästaren släpper in dig i Upplysningens bibliotek. Du får lära dig mycket under den korta tid du spenderar här."
 "{Upplysningens bibliotek}
 
-VaktmÃ¤staren kÃ¤nner igen dig men vÃ¤grar slÃ¤ppa in dig. ""Upplysningens bibliotek, fÃ¥r bara besÃ¶kas en gÃ¥ng av nÃ¥gon anledning"" sÃ¤ger han barskt"
+Vaktmästaren känner igen dig men vägrar släppa in dig. ""Upplysningens bibliotek, får bara besökas en gång av någon anledning"" säger han barskt"
 "{Upplysningens bibliotek}
 
-VaktmÃ¤staren lÃ¥ser upp dÃ¶rren och synar dig frÃ¥n topp till tÃ¥.  ""Du Ã¤r varken en kÃ¤ndis, eller diplomatisk nog fÃ¶r att fÃ¥ komma in i biblioteket"" fnyser han.  ""Kom tillbaka nÃ¤r du tror att du Ã¤r vÃ¤rdig."""
+Vaktmästaren låser upp dörren och synar dig från topp till tå.  ""Du är varken en kändis, eller diplomatisk nog för att få komma in i biblioteket"" fnyser han.  ""Kom tillbaka när du tror att du är värdig."""
 "{Fyr}
 
 This lighthouse is now under your control, and all of your ships will now move further each turn."
 "This structure is obviously a travel gate, but it no longer appears to be functioning."
 "{Magiskolan}
 
-Doften av magi fyller luften i denna skola hÃ¤ngiven till att studera mystiken inom magin. En lÃ¤rling erbjuder dig att ta en kurs fÃ¶r 1000 guld. Vill du gÃ¥ en kurs fÃ¶r att Ã¶ka din kunskap, eller vill du fokusera pÃ¥ att Ã¶ka din kraft?"
+Doften av magi fyller luften i denna skola hängiven till att studera mystiken inom magin. En lärling erbjuder dig att ta en kurs för 1000 guld. Vill du gå en kurs för att öka din kunskap, eller vill du fokusera på att öka din kraft?"
 "{School of Magic}
 
-En gammal trollkarl kommer fram ur tomma intet. ""MÃ¤stare,"" sÃ¤ger han, ""Du kan redan allt som vi skulle kunna lÃ¤ra dig."""
+En gammal trollkarl kommer fram ur tomma intet. ""Mästare,"" säger han, ""Du kan redan allt som vi skulle kunna lära dig."""
 "{Magiskolan}
 
-Doften av magi fyller luften i denna skola hÃ¤ngiven till att studera mystiken inom magin. En lÃ¤rling erbjuder dig att ta en kurs fÃ¶r 1000 guld. TyvÃ¤rr har du inte med dig tillrÃ¤ckligt mycket pengar."
-"{Magisk kÃ¤lla}
+Doften av magi fyller luften i denna skola hängiven till att studera mystiken inom magin. En lärling erbjuder dig att ta en kurs för 1000 guld. Tyvärr har du inte med dig tillräckligt mycket pengar."
+"{Magisk källa}
 
-Efter att ha tagit en klunk ur kÃ¤llan fylls ditt blod av magi! Du har dubbelt sÃ¥ mycket trollformelspoÃ¤ng Ã¤n vanligt."
-"{Magisk kÃ¤lla}
+Efter att ha tagit en klunk ur källan fylls ditt blod av magi! Du har dubbelt så mycket trollformelspoäng än vanligt."
+"{Magisk källa}
 
-Den magiska kÃ¤llan har torkat ut. Kom tillbaka nÃ¤sta vecka."
-"{Magisk kÃ¤lla}
+Den magiska källan har torkat ut. Kom tillbaka nästa vecka."
+"{Magisk källa}
 
-En klunk frÃ¥n kÃ¤llan ska visst ge dig dubbelt antal trollformelspoÃ¤ng, men dÃ¥ du redan har det hÃ¤nder inget."
+En klunk från källan ska visst ge dig dubbelt antal trollformelspoäng, men då du redan har det händer inget."
 "{Magisk brunn}
 
-En klunk ifrÃ¥n brunnen har gett dig alla dina trollformelspoÃ¤ng tillbaka."
+En klunk ifrån brunnen har gett dig alla dina trollformelspoäng tillbaka."
 "{Magisk brunn}
 
-En andra klunk frÃ¥n brunnen pÃ¥ samma dag gÃ¶r ingen nytta."
+En andra klunk från brunnen på samma dag gör ingen nytta."
 "{Magisk brunn}
 
 A drink at the well is supposed to restore your spell points, but you are already at maximum."
 "{Mercenary Camp}
 
-Du kommer fram till ett lÃ¤ger av hejdukar som Ã¤r i full fart att trÃ¤na pÃ¥ sina stridstekniker. De vÃ¤lkomnar dig och dina trupper och bjuder in dig att trÃ¤na med dem."
-"{Hejdukarnas lÃ¤ger}
+Du kommer fram till ett läger av hejdukar som är i full fart att träna på sina stridstekniker. De välkomnar dig och dina trupper och bjuder in dig att träna med dem."
+"{Hejdukarnas läger}
 
 You've come upon a camp of mercenaries practicing their combat tactics.  ""You're too advanced for us,"" the mercenary captain says.  ""We can teach you nothing more."""
 "{Mermaid}
@@ -196,66 +196,66 @@ The mermaids silently entice you to return later and be blessed again."
 The magical, soothing beauty of the Mermaids reaches you and your crew.  Briefly you forget your worries and bask in the beauty of the moment.  The mermaids' charms bless you with increased luck for your next combat."
 You come upon an abandoned mine.  The mine appears to be infested with Troglodytes.  Do you wish to enter?
 You beat the Troglodytes and are able to restore the mine to production.
-"{FÃ¶ljare}
+"{Följare}
 
-En grupp av %s med drÃ¶mmar om nÃ¥got stÃ¶rre i livet Ã¶nskar att fÃ¥ fÃ¶lja med dig pÃ¥ din fÃ¤rd. Accepterar du?"
-"De blir fÃ¶rnÃ¤rmade av att du nekar deras erbjudande och vÃ¤ljer att anfalal dig!"
-"%s blir imponerade av din hÃ¶gst diplomatiska tunga och erbjuder att fÃ¶lja med dig fÃ¶r en summa av %d guld. Accepterar du?"
-"Varelsen blir hÃ¶gst imponerad av din diplomatiska tunga och erbjuder dig:
+En grupp av %s med drömmar om något större i livet önskar att få följa med dig på din färd. Accepterar du?"
+"De blir förnärmade av att du nekar deras erbjudande och väljer att anfalal dig!"
+"%s blir imponerade av din högst diplomatiska tunga och erbjuder att följa med dig för en summa av %d guld. Accepterar du?"
+"Varelsen blir högst imponerad av din diplomatiska tunga och erbjuder dig:
 
 "
-Alla %d av %s vill gÃ¥ med i din armÃ© fÃ¶r %d guld.  Accepterar du?
-"%s, blir jÃ¤tterÃ¤dda nÃ¤r dom ser din mÃ¤ktiga armÃ© och bÃ¶rjar skingra sig. Vill du fÃ¶lja efter och anfalla dem?"
-"{Mystska trÃ¤dgÃ¥rden}
+Alla %d av %s vill gå med i din armé för %d guld.  Accepterar du?
+"%s, blir jätterädda när dom ser din mäktiga armé och börjar skingra sig. Vill du följa efter och anfalla dem?"
+"{Mystska trädgården}
 
-Ljudet av musik fÃ¶r dig till en liten trÃ¤dgÃ¥rd dÃ¤r du lyckas smyga pÃ¥ en liten pyssling som glatt dansar i glÃ¤ntan. Du lyckas fÃ¥nga honom, men i utbyte fÃ¶r hans frihet erbjuder han dig en liten gryta fylld med dyrbara saker."
-"{Mystiska trÃ¤dgÃ¥rden}
+Ljudet av musik för dig till en liten trädgård där du lyckas smyga på en liten pyssling som glatt dansar i gläntan. Du lyckas fånga honom, men i utbyte för hans frihet erbjuder han dig en liten gryta fylld med dyrbara saker."
+"{Mystiska trädgården}
 
-Ljudet av musik fÃ¶r dig till en liten trÃ¤dgÃ¥rd dÃ¤r du fÃ¶rsÃ¶ker smyga dig pÃ¥ en pyssling som glatt dansar i en glÃ¤nta. Men pysslingen Ã¤r fÃ¶r snabb och du kan inte fÃ¥ fatt pÃ¥ honom."
+Ljudet av musik för dig till en liten trädgård där du försöker smyga dig på en pyssling som glatt dansar i en glänta. Men pysslingen är för snabb och du kan inte få fatt på honom."
 "{Oas}
 
-Att dricka frÃ¥n oasen Ã¤r uppfriskande, men ger dig inte nÃ¥got. Du borde nog slÃ¥ss lite fÃ¶rst."
+Att dricka från oasen är uppfriskande, men ger dig inte något. Du borde nog slåss lite först."
 "{Oasis}
 
-NÃ¤r du dricker frÃ¥n oasen fylls dina trupper med styrka. Du kan resa extra lÃ¥ngt idag!"
+När du dricker från oasen fylls dina trupper med styrka. Du kan resa extra långt idag!"
 "{Obelisk}
 
-Du kommer fram till en obelisk, gjord av en sten som du aldrig sett tidigare. Du stirrar pÃ¥ stenen intensivt och efter en stund bÃ¶rjar stenens sÃ¤ta yta fÃ¶rÃ¤ndras infÃ¶r dina Ã¶gon. Ytan blir en inskription med delar av en urÃ¥ldrig karta. Du ritas snabbt av det du ser innan inspriptionen fÃ¶rsvinner in i stenen igen. Mystiskt."
+Du kommer fram till en obelisk, gjord av en sten som du aldrig sett tidigare. Du stirrar på stenen intensivt och efter en stund börjar stenens säta yta förändras inför dina ögon. Ytan blir en inskription med delar av en uråldrig karta. Du ritas snabbt av det du ser innan inspriptionen försvinner in i stenen igen. Mystiskt."
 "{Obelisk}
 
 Du har redan varit vid denna obelisk."
-"{Observatoriet av rÃ¶tt trÃ¤}
+"{Observatoriet av rött trä}
 
-FrÃ¥n toppen av observatoriet kan du se till fjÃ¤rran land."
+Från toppen av observatoriet kan du se till fjärran land."
 "{Pelare av eld}
 
-Du mÃ¶ter ett stort torn med ett gasljus i toppen. Du tÃ¤nder ljuser som Ã¤r starkt nog fÃ¶r att lysa upp mÃ¶rkret hÃ¤r i grottan."
-"{StjÃ¤rnring}
+Du möter ett stort torn med ett gasljus i toppen. Du tänder ljuser som är starkt nog för att lysa upp mörkret här i grottan."
+"{Stjärnring}
 
-Du hittar fler av landets bÃ¤sta astereologer, samlade vid en StjÃ¤rnring. De blir glada av att se dig och erbjuder sig att lÃ¤ra dig hur man anvÃ¤nder solen, mÃ¥nen och stjÃ¤rnorna fÃ¶r att fÃ¶rbÃ¤ttra dina trollformelsfÃ¶rmÃ¥gor.."
-"{StjÃ¤rnring}
+Du hittar fler av landets bästa astereologer, samlade vid en Stjärnring. De blir glada av att se dig och erbjuder sig att lära dig hur man använder solen, månen och stjärnorna för att förbättra dina trollformelsförmågor.."
+"{Stjärnring}
 
-Du hittar fler av landets bÃ¤sta astereologer, samlade vid en StjÃ¤rnring. Du spenderar en stund med dem, men upptÃ¤cker snart att de inte kan lÃ¤ra dig ett skit."
-"Efter att ha gjort en storstilad entrÃ© bryter du dig in i fÃ¤ngelset och befriar hjÃ¤lten som sitter oskyldigt fÃ¥ngad dÃ¤r. Hen blir sÃ¥ glad att hen vill hjÃ¤lpa dig i din strid."
-"Du har redan Ã¥tta hjÃ¤ltar sÃ¥ tyvÃ¤rr fÃ¥r du lÃ¤mna den stackars hjÃ¤lten i sin cell. Hur lÃ¤nge ska hen bli kvar hÃ¤r?"
-FÃ¥ngvaktaren berÃ¤ttar ayy hjÃ¤lten som hÃ¶lls hÃ¤r har blivit frigiven av sjÃ¤lvaste kungen.
-"Du kommer fram till en pyramid Ã¶ver en gammal kung. Du kÃ¤nner dig lockad att sÃ¶ka igenom den efter skatter, men alla de gamla historierna varnar ju fÃ¶r detta. Vill du verkligen leta?"
-"Efter att ha besegrat monstren sÃ¥ hittar du in hiereoglyf pÃ¥ en vÃ¤gg. Du lyckas lÃ¤ra dig trollformeln - "
-Du kommer fram till en pyramid Ã¶ver en gammal kund. Men tyvÃ¤rr Ã¤r den tom.
-"  TyvÃ¤rr har du inte tillrÃ¤ckligt med Visdom fÃ¶r att lÃ¤ra dig denna trollformeln, sÃ¥ du kan inte lÃ¤ra dig den."
-"  TyvÃ¤rr sÃ¥ har du inte Trollformelsbok att skriva ner trollformeln i."
+Du hittar fler av landets bästa astereologer, samlade vid en Stjärnring. Du spenderar en stund med dem, men upptäcker snart att de inte kan lära dig ett skit."
+"Efter att ha gjort en storstilad entré bryter du dig in i fängelset och befriar hjälten som sitter oskyldigt fångad där. Hen blir så glad att hen vill hjälpa dig i din strid."
+"Du har redan åtta hjältar så tyvärr får du lämna den stackars hjälten i sin cell. Hur länge ska hen bli kvar här?"
+Fångvaktaren berättar ayy hjälten som hölls här har blivit frigiven av självaste kungen.
+"Du kommer fram till en pyramid över en gammal kung. Du känner dig lockad att söka igenom den efter skatter, men alla de gamla historierna varnar ju för detta. Vill du verkligen leta?"
+"Efter att ha besegrat monstren så hittar du in hiereoglyf på en vägg. Du lyckas lära dig trollformeln - "
+Du kommer fram till en pyramid över en gammal kund. Men tyvärr är den tom.
+"  Tyvärr har du inte tillräckligt med Visdom för att lära dig denna trollformeln, så du kan inte lära dig den."
+"  Tyvärr så har du inte Trollformelsbok att skriva ner trollformeln i."
 "{Samlingsflagga}
 
 Du samlar dina trupper kring denna flagga."
 "{Samlingsflagga}
 
-Du samlar dina trupper kring denna flagga och samlar styra. Du kÃ¤nner dig pÃ¥ topp och kan dÃ¤rfÃ¶r resa lite extra lÃ¥ngt just idag."
+Du samlar dina trupper kring denna flagga och samlar styra. Du känner dig på topp och kan därför resa lite extra långt just idag."
 "{%s}
 
 Vill du rekrytera %s?"
-Du hittar en liten mÃ¤ngd %s.
-Du gÃ¥r in i helgedomen och kÃ¤nner att en stor bÃ¶rda lyfts av dina axlar. Du kÃ¤nner dig trygg hÃ¤r.
-"NÃ¤r du rider in i glÃ¤ntan ser du en universitetslÃ¤rare som rastar sin hÃ¤st. Han gÃ¥r med pÃ¥ att lÃ¤ra dig lite saker innan han ger sig av."
+Du hittar en liten mängd %s.
+Du går in i helgedomen och känner att en stor börda lyfts av dina axlar. Du känner dig trygg här.
+"När du rider in i gläntan ser du en universitetslärare som rastar sin häst. Han går med på att lära dig lite saker innan han ger sig av."
 "{Sea Chest}
 
 After spending hours trying to fish the chest out of the sea, you open it, only to find it empty."
@@ -267,9 +267,9 @@ After spending hours trying to fish the chest out of the sea, you open it and fi
 After spending hours trying to fish the chest out of the sea, you open it and find 1500 gold."
 "{Krypta}
 
-Du hittar en krypta som ser lite lockande ut. Vill du sÃ¶ka bland gravarna?"
-Efter att ha besegrat de odÃ¶da vÃ¤ktarna sÃ¥ spenderar du flera timmar pÃ¥ att leta bland granar.a Men du hittar ingenting. Vilket slÃ¶seri med tid! Nu fÃ¥r du lÃ¤gre moral till rÃ¥ga pÃ¥ allt.
-Efter att ha besegrat de odÃ¶da vÃ¤ktarna sÃ¥ letar du bland gravarna och hittar nÃ¥gonting!
+Du hittar en krypta som ser lite lockande ut. Vill du söka bland gravarna?"
+Efter att ha besegrat de odöda väktarna så spenderar du flera timmar på att leta bland granar.a Men du hittar ingenting. Vilket slöseri med tid! Nu får du lägre moral till råga på allt.
+Efter att ha besegrat de odöda väktarna så letar du bland gravarna och hittar någonting!
 "{Shipwreck}
 
 The rotting hulk of a great pirate ship creaks eerily as it is pushed against the rocks.  Do you wish to search the shipwreck?"
@@ -281,143 +281,143 @@ You've pulled a shipwreck survivor from certain death in an unforgiving ocean.  
 "{Shipwreck Survivor}
 
 You've pulled a shipwreck survivor from certain death in an unforgiving ocean.  Grateful, he says, ""I would give you an artifact as a reward, but you have no room in your backpack."""
-"{Altaret av magisk besvÃ¤rjelse}
+"{Altaret av magisk besvärjelse}
 
-Du kommer fram till ett litet altare dÃ¤r en grupp nybÃ¶rjarmagiker hÃ¥ller till. I utbyte mot ditt beskydd vill de lÃ¤ra dig en enkel trollformel - "
+Du kommer fram till ett litet altare där en grupp nybörjarmagiker håller till. I utbyte mot ditt beskydd vill de lära dig en enkel trollformel - "
 "{Altaret av den magiska gesten}
 
-Du kommer fram till ett vackert altare dÃ¤r ett gÃ¤ng tjocka munkar hÃ¥ller till. I utbyte mot ditt beskydd vill de lÃ¤ra dig en trollformel -  "
+Du kommer fram till ett vackert altare där ett gäng tjocka munkar håller till. I utbyte mot ditt beskydd vill de lära dig en trollformel -  "
 "{Altaret av den magiska tanken}
 
-Du kommer fram till ett pÃ¥kostat altare dÃ¤r en grupp hÃ¶gt uppsatta prÃ¤ster stÃ¥r och ber. I utbyte mot ditt beskydd vill de lÃ¤ra dig en sofistikerad trollformel - "
-"  TyvÃ¤rr sÃ¥ har du inte tillrÃ¤ckligt med Visdom fÃ¶r att fÃ¶rstÃ¥ denna trollformel."
-"  TyvÃ¤rr har du ingen Trollformelsbok att skriva ner trollformeln i."
+Du kommer fram till ett påkostat altare där en grupp högt uppsatta präster står och ber. I utbyte mot ditt beskydd vill de lära dig en sofistikerad trollformel - "
+"  Tyvärr så har du inte tillräckligt med Visdom för att förstå denna trollformel."
+"  Tyvärr har du ingen Trollformelsbok att skriva ner trollformeln i."
 "An eerie wailing song emanates from the sirens perched upon the rocks.  Many of your crew fall under its spell, and dive into the water where they drown.  You are now wiser for the visit, and gain %d experience."
 You have your crew stop up their ears with wax before the sirens' eerie song has any chance of luring them to a watery grave.
 "As the sirens sing their eerie song, your small, determined army manages to overcome the urge to dive headlong into the sea."
-Du hittar en pergamentsrulle dÃ¤r trollformeln %s Ã¤r nedtecknad. Du kastar ner den i ryggsÃ¤cken och drar vidare.
+Du hittar en pergamentsrulle där trollformeln %s är nedtecknad. Du kastar ner den i ryggsäcken och drar vidare.
 "{Stall}
 
-Du har redan besÃ¶kt stallet denhÃ¤r veckan."
+Du har redan besökt stallet denhär veckan."
 "{Stall}
 
-Den snÃ¤lle stallpojken fÃ¶rser hela din armÃ© nya hÃ¤star. Nu kan du rida lÃ¤ngre i en hel vecka!"
+Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre i en hel vecka!"
 "{Stall}
 
-Den snÃ¤lle stallpojken fÃ¶rser hela din armÃ© nya hÃ¤star. Nu kan du rida lÃ¤ngre i en hel vecka! Dessutom uppgraderar han alla dina Kavalerister till TornÃ©rspelare!"
+Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre i en hel vecka! Dessutom uppgraderar han alla dina Kavalerister till Tornérspelare!"
 "{Stall}
 
-Den snÃ¤lle stallpojken fÃ¶rser hela din armÃ© nya hÃ¤star. Nu kan du rida lÃ¤ngre i en hel vecka! Dessutom uppgraderar han alla dina Kavalerister till TornÃ©rspelare!"
+Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre i en hel vecka! Dessutom uppgraderar han alla dina Kavalerister till Tornérspelare!"
 "{Tempel}
 
-Ett besÃ¶k i templet gÃ¶r att moralen Ã¶kar bland dina trupper."
+Ett besök i templet gör att moralen ökar bland dina trupper."
 "{Tempel}
 
-Det hjÃ¤lper faktiskt inte att be tvÃ¥ gÃ¥nger innan en strid. Kom tillbaka en annan dag."
-"{Tjuvarnas tillhÃ¥ll}
+Det hjälper faktiskt inte att be två gånger innan en strid. Kom tillbaka en annan dag."
+"{Tjuvarnas tillhåll}
 
-NÃ¤r du letar igenom undervegetationen finner du en hemlig ingÃ¥ng till Tjuvarnas tillhÃ¥ll. En gammal ""vÃ¤nn"" berÃ¤ttar allt han lÃ¤rt sig sedan ert senaste mÃ¶te."
-"{LÃ¤randets sten}
+När du letar igenom undervegetationen finner du en hemlig ingång till Tjuvarnas tillhåll. En gammal ""vänn"" berättar allt han lärt sig sedan ert senaste möte."
+"{Lärandets sten}
 
-En flat sten pÃ¥ denna pelaren bÃ¶rjar lysa och bete sig konstigt nÃ¤r du nÃ¤rmar dig. NÃ¤r du ser pÃ¥ den fÃ¶rbluffas du Ã¶ver svar pÃ¥ frÃ¥gor som har gÃ¤ckat dig i flera Ã¥r. Stenen slutar lysa, men du inser att du lÃ¤rt dig mycket."
-"{LÃ¤randets sten}
+En flat sten på denna pelaren börjar lysa och bete sig konstigt när du närmar dig. När du ser på den förbluffas du över svar på frågor som har gäckat dig i flera år. Stenen slutar lysa, men du inser att du lärt dig mycket."
+"{Lärandets sten}
 
-Du nÃ¤rmar dig stenen igen, i hoppas om att fÃ¥ Ã¤nnu mer insikt. Men nu reflekterar stenen bara solens ljus."
+Du närmar dig stenen igen, i hoppas om att få ännu mer insikt. Men nu reflekterar stenen bara solens ljus."
 "{Kista}
 
-Efter att ha sÃ¶kt igenom omrÃ¥det finner du en kista som innehÃ¥ller den gamla artefakten '%s'."
+Efter att ha sökt igenom området finner du en kista som innehåller den gamla artefakten '%s'."
 "{Kista}
 
-Efter att ha sÃ¶kt igenom omrÃ¥det finner du en kista med en gÃ¶md skatt i. Du kan antingen ta guldet sjÃ¤lv, eller ge det till dina undersÃ¥tar som vÃ¤lbehÃ¶vd lÃ¶n. Vad vÃ¤ljer du?"
-"{Kunskapens trÃ¤d}
+Efter att ha sökt igenom området finner du en kista med en gömd skatt i. Du kan antingen ta guldet själv, eller ge det till dina undersåtar som välbehövd lön. Vad väljer du?"
+"{Kunskapens träd}
 
-NÃ¤r du nÃ¤rmar dig trÃ¤det Ã¶ppnar det sina trÃ¶tta Ã¶gon. ""Det Ã¤r skÃ¶nt att se dig igen, min vÃ¤n. Jag hoppas att allt jag lÃ¤rt dig har hjÃ¤lpt dig."""
-"{Kunskapens trÃ¤d}
+När du närmar dig trädet öppnar det sina trötta ögon. ""Det är skönt att se dig igen, min vän. Jag hoppas att allt jag lärt dig har hjälpt dig."""
+"{Kunskapens träd}
 
-NÃ¤r du nÃ¤rmar dig trÃ¤det Ã¶ppnar det sina trÃ¶tta Ã¶gon. ""Ahh, en Ã¤ventyrare! LÃ¥t mig lÃ¤ra dig ett och annat."""
-"{Kunskapens trÃ¤d}
+När du närmar dig trädet öppnar det sina trötta ögon. ""Ahh, en äventyrare! Låt mig lära dig ett och annat."""
+"{Kunskapens träd}
 
-NÃ¤r du nÃ¤rmar dig trÃ¤det Ã¶ppnar det sina trÃ¶tta Ã¶gon. ""Ahh, en Ã¤ventyrare! Jag ska gÃ¤rna dela med mig av min samlade kunskap, fÃ¶r endast 2000 guld. GrÃ¤v ner det vid mina rÃ¶tter."""
-"{Kunskapens trÃ¤d}
+När du närmar dig trädet öppnar det sina trötta ögon. ""Ahh, en äventyrare! Jag ska gärna dela med mig av min samlade kunskap, för endast 2000 guld. Gräv ner det vid mina rötter."""
+"{Kunskapens träd}
 
-TÃ¥rar fyller trÃ¤dets Ã¶gon. ""Jag behÃ¶ver faktiskt 2000 guld... Jaja, kom tillbaka nÃ¤r du kan betala (snyft)."""
-"{Kunskapens trÃ¤d}
+Tårar fyller trädets ögon. ""Jag behöver faktiskt 2000 guld... Jaja, kom tillbaka när du kan betala (snyft)."""
+"{Kunskapens träd}
 
-NÃ¤r du nÃ¤rmar dig trÃ¤det Ã¶ppnar det sina trÃ¶tta Ã¶gon. ""Ahh, en Ã¤ventyrare! Jag ska gÃ¤rna dela med mig av min samlade kunskap, fÃ¶r endast 10 Ã¤delstenar. GrÃ¤v ner det vid mina rÃ¶tter."""
-"{Kunskapens trÃ¤d}
+När du närmar dig trädet öppnar det sina trötta ögon. ""Ahh, en äventyrare! Jag ska gärna dela med mig av min samlade kunskap, för endast 10 ädelstenar. Gräv ner det vid mina rötter."""
+"{Kunskapens träd}
 
-TÃ¥rar fyller trÃ¤dets Ã¶gon. ""Jag behÃ¶ver faktiskt 10 Ã¤delstenar... Jaja, kom tillbaka nÃ¤r du kan betala (snyft)."""
+Tårar fyller trädets ögon. ""Jag behöver faktiskt 10 ädelstenar... Jaja, kom tillbaka när du kan betala (snyft)."""
 Just inside the entrance you find a large pile of rubble blocking the tunnel. You leave discouraged.
 "{Vagn}
 
-Du kommer fram till en vagn som en stackars handelsman lÃ¤mnat efter sig. PÃ¥ flaket hittar du vagnens last, som fortfarande verkar insakt."
+Du kommer fram till en vagn som en stackars handelsman lämnat efter sig. På flaket hittar du vagnens last, som fortfarande verkar insakt."
 "{Vagn}
 
-Du kommer fram till en vagn som en stackars handelsman lÃ¤mnat efter sig. PÃ¥ flaket hittar du vagnens last. Du har funnit '%s'."
+Du kommer fram till en vagn som en stackars handelsman lämnat efter sig. På flaket hittar du vagnens last. Du har funnit '%s'."
 "{Vagn}
 
-Du kommer fram till en vagn som en stackars handelsman lÃ¤mnat efter sig. Men nÃ¥gon rÃ¶vare har redan tÃ¶mt allt pÃ¥ flaket."
+Du kommer fram till en vagn som en stackars handelsman lämnat efter sig. Men någon rövare har redan tömt allt på flaket."
 "{Krigsmaskinsfabrik}
 
-Vill du kÃ¶pa Krigsmaskiner?"
+Vill du köpa Krigsmaskiner?"
 "{Krigets skola}
 
-Den krigsÃ¤rrade instruktÃ¶ren pÃ¥ skolan grymtar nÃ¤r du gÃ¥r fÃ¶rbi. FÃ¶r en avgift av 1000 guld kan han lÃ¤ra dig nÃ¥gra nya stridstekniker."
+Den krigsärrade instruktören på skolan grymtar när du går förbi. För en avgift av 1000 guld kan han lära dig några nya stridstekniker."
 "{Krigets skola}
 
-InstruktÃ¶ren skrattar ut hÃ¶ft nÃ¤r du ber om att fÃ¥ bli trÃ¤nad. ""Du borde ju undervisa hÃ¤r!"" skriver han."
+Instruktören skrattar ut höft när du ber om att få bli tränad. ""Du borde ju undervisa här!"" skriver han."
 "{Krigets skola}
 
-Den krigsÃ¤rrade instruktÃ¶ren pÃ¥ skolan grymtar nÃ¤r du gÃ¥r fÃ¶rbi. Han kan lÃ¤ra dig lite nya stridstekniker, i utbyte mot 1000 guld, vilket du fÃ¶r tillfÃ¤llet inte Ã¤ger."
-Du kommer fram till graven av en namnlÃ¶s krigare. Vill du sÃ¶ka igenom graven?
-"Motvilligt stiger dina trupper ner i graven och finner %s. Men en sÃ¥ avskyvÃ¤rd handling sÃ¤tter spÃ¥t hos mannarna. Deras moral har minskat!"
-"Motvilligt striger dina trupper ner i graven, men finner ingenting. En sÃ¥ avskyvÃ¤rd handling sÃ¤tter spÃ¥t hos mannarna. Deras moral har minskat!"
+Den krigsärrade instruktören på skolan grymtar när du går förbi. Han kan lära dig lite nya stridstekniker, i utbyte mot 1000 guld, vilket du för tillfället inte äger."
+Du kommer fram till graven av en namnlös krigare. Vill du söka igenom graven?
+"Motvilligt stiger dina trupper ner i graven och finner %s. Men en så avskyvärd handling sätter spåt hos mannarna. Deras moral har minskat!"
+"Motvilligt striger dina trupper ner i graven, men finner ingenting. En så avskyvärd handling sätter spåt hos mannarna. Deras moral har minskat!"
 "{Vattenhjulet}
 
-Ã„garen av kvarnen hÃ¤lsar dig: ""Min herre, jag har arbetat mycket hÃ¥rt fÃ¶r att skrapa ihop till detta guldet Ã¥t dig. Kom tillbaka nÃ¤sta vecka fÃ¶r mer."""
+Ägaren av kvarnen hälsar dig: ""Min herre, jag har arbetat mycket hårt för att skrapa ihop till detta guldet åt dig. Kom tillbaka nästa vecka för mer."""
 "{Vattenhjulet}
 
-Ã„garen av kvarnen hÃ¤lsar dig: ""Min herre, jag har tyvÃ¤rr inte kunnat skrapa ihop nÃ¥got guld Ã¥t dig Ã¤n. Kom tillbaka igen nÃ¤sta vecka."""
-"{VattenhÃ¥let}
+Ägaren av kvarnen hälsar dig: ""Min herre, jag har tyvärr inte kunnat skrapa ihop något guld åt dig än. Kom tillbaka igen nästa vecka."""
+"{Vattenhålet}
 
-Efter att ha druckit ur vattenhÃ¥let fylls dina mannar med styrka. Du kan gÃ¥ lÃ¤ngre idag!"
-"{VattenhÃ¥let}
+Efter att ha druckit ur vattenhålet fylls dina mannar med styrka. Du kan gå längre idag!"
+"{Vattenhålet}
 
-Dina mannar dricker frÃ¥n vattenhÃ¥let, men det hjÃ¤lper inte. Kanske ska du slÃ¥ss lite fÃ¶rst?."
+Dina mannar dricker från vattenhålet, men det hjälper inte. Kanske ska du slåss lite först?."
 "{Whirlpool}
 
 A whirlpool engulfs your ship.  Some of your army has fallen overboard."
 "{Kvarnen}
 
-Ã„garen av kvarnen hÃ¤lsar dig: ""Min herre, jag Ã¤r ledsen med det finns inga resurser i dagslÃ¤get. Kom tillbaka nÃ¤sta vecka."""
+Ägaren av kvarnen hälsar dig: ""Min herre, jag är ledsen med det finns inga resurser i dagsläget. Kom tillbaka nästa vecka."""
 "{Kvarnen}
 
-Ã„garen av kvarnen hÃ¤lsar dig: ""Min herre, jag har jobbat hÃ¥rt fÃ¶r att skrapa ihop dessa resurser till dig. Kom tillbaka nÃ¤sta vecka fÃ¶r mer."""
-"{HÃ¤xans stuga}
+Ägaren av kvarnen hälsar dig: ""Min herre, jag har jobbat hårt för att skrapa ihop dessa resurser till dig. Kom tillbaka nästa vecka för mer."""
+"{Häxans stuga}
 
-En urÃ¥ldrig hÃ¤xa som bor i en konstig stuga vÃ¤lkomnar dig. Hon lÃ¤r dig %s av nÃ¥gon outgrundlig anledning."
-"{HÃ¤xans stuga}
+En uråldrig häxa som bor i en konstig stuga välkomnar dig. Hon lär dig %s av någon outgrundlig anledning."
+"{Häxans stuga}
 
-Du nÃ¤rmar dig den konstiga stugan och ser hÃ¤xan dÃ¤r inne. Hon studerar en urÃ¥ldrig bok om %s. NÃ¤r du nÃ¤rmar dig vÃ¤nder hon sig mot dig och sÃ¤ger. ""Du kan redan allt jag skulle kunna lÃ¤ra dig. Jag kan inte lÃ¤ra dig nÃ¥gonting."""
-"{HÃ¤xans stuga}
+Du närmar dig den konstiga stugan och ser häxan där inne. Hon studerar en uråldrig bok om %s. När du närmar dig vänder hon sig mot dig och säger. ""Du kan redan allt jag skulle kunna lära dig. Jag kan inte lära dig någonting."""
+"{Häxans stuga}
 
-Du nÃ¤rmar dig den konstiga stugan och ser hÃ¤xan dÃ¤r inne. Hon studerar en urÃ¥ldrig bok om %s. NÃ¤r du nÃ¤rmar dig vÃ¤nder hon sig mot dig och sÃ¤ger. ""HA! Jag skulle aldrig lÃ¤ra trix till nÃ¥gon sÃ¥ vis som dig!"" Du fattar ingenting och beger dig dÃ¤rifrÃ¥n."
-"  TyvÃ¤rr har du redan kunskap om denna trollformeln, sÃ¥ det finns ingenting de kan lÃ¤ra dig."
-%s lÃ¤r sig nÃ¥got.
-%s fÃ¶rlorar magisk energi.
-%s fÃ¥r magisk energi.
+Du närmar dig den konstiga stugan och ser häxan där inne. Hon studerar en uråldrig bok om %s. När du närmar dig vänder hon sig mot dig och säger. ""HA! Jag skulle aldrig lära trix till någon så vis som dig!"" Du fattar ingenting och beger dig därifrån."
+"  Tyvärr har du redan kunskap om denna trollformeln, så det finns ingenting de kan lära dig."
+%s lär sig något.
+%s förlorar magisk energi.
+%s får magisk energi.
 %s's blir ledsen.
 %s's blir glad.
-%s's fÃ¥r sÃ¤mre tur.
-%s's fÃ¥r bÃ¤ttre tur.
+%s's får sämre tur.
+%s's får bättre tur.
 %s har blivit av med skatter.
 %s gar funnit skatter.
-%s lÃ¤r sig en trollformel.
-En %s gÃ¥r med i %s's armÃ©.
-%s gÃ¥r med i %s's armÃ©.
-"TyvÃ¤rr verkar det som att Ã¤garen har lÃ¤mnat lite vakter. Vill du slÃ¥ss mot dem?"
-%s lÃ¤r sig trollformler.
+%s lär sig en trollformel.
+En %s går med i %s's armé.
+%s går med i %s's armé.
+"Tyvärr verkar det som att ägaren har lämnat lite vakter. Vill du slåss mot dem?"
+%s lär sig trollformler.
 "This an abandoned shipyard.  Unfortunately the Ways are blocked, and it is not possible to build ships here."
-"{HÃ¤xans stuga}
+"{Häxans stuga}
 
-Du nÃ¤rmar dig stugan, men mÃ¤rker att den Ã¤r Ã¶vergiven."
+Du närmar dig stugan, men märker att den är övergiven."
