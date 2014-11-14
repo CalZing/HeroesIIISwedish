@@ -393,91 +393,91 @@ Kastar en icke-strids-trollformel"
 Låter dig gräva efter Gralen, se nuvarande Gralpusslet, världskartan eller scenariouppdrag.  I flerspelarspel kan du också se dina motståndares senaste drag."																						
 Systemalternativ	"{Systemalternativ}
 
-Allows you to view and change the current game options"																						
-Next Hero	"{Next Hero}
+Låter dig se och ändra nuvarande spelalternativ"																						
+Nästa Hjälte	"{Nästa Hjälte}
 
-Selects the next hero with remaining movement points.  Any sleeping heroes will be ignored."																						
-End Turn	"{End Turn}
+Väljer nästa hjälte som  har återstående förflyttningspoäng.  Sovande hjälte ignoreras."																						
+Avsluta Drag	"{Avsluta Drag}
 
-Ends the current turn"																						
-Scroll Hero List	"{Scroll Hero List}
+Avslutar nuvarande drag"																						
+Bläddra Hjältelista	"{Bläddra Hjältelista}
 
-Scroll up through available heroes"																						
-Scroll Hero List	"{Scroll Hero List}
+Bläddrar uppåt bland tillgängliga hjältar"																						
+Bläddra Hjältelista	"{Bläddra Hjältelista}
 
-Scroll down through available heroes"																						
-Hero Portrait	"{Hero Portrait}
+Bläddrar nedåt bland tillgängliga hjältar"																						
+Hjältesportätt	"{Hjältesportätt}
 
-Click once to select this hero and center the adventure map on their location.  Click again to enter and view the Hero Screen."																						
-Scroll Town List	"{Scroll Town List}
+Klicka en gång för att välja denna hjälte och centrera äventyrskartan på dess plats.  Klicka igen för att öppna och granska Hjälteskärmen."																						
+Bläddra Stadslista	"{Bläddra Stadslista}
 
-Scroll up through available towns"																						
-Scroll Town List	"{Scroll Town List}
+Bläddrar uppåt bland tillgängliga städer"																						
+Bläddra Stadslista	"{Bläddra Stadslista}
 
-Scroll down through available towns"																						
-Town Portrait	"{Town Portrait}
+Bläddrar nedåt bland tillgängliga städer"																						
+Stadsporträtt	"{Stadsporträtt}
 
-Click once to select this town and center the adventure map on its location.  Click again to enter and view the Town Screen."																						
-Guld	Amount of gold in your treasury																						
-Trä	Your total available wood																						
-Kvicksilver	Your total available mercury																						
-Malm	Your total available ore																						
-Svavel	Your total available sulfur																						
-Kristall	Your total available crystal																						
-Ädelstenar	Your total available gems																						
+Klicka en gång för att välja denna stad och centrera äventyrskartan på dess plats.  Klicka igen för att öppna och granska Stadsskärmen."																						
+Guld	Mängden guld i din statskassa																						
+Trä	Din totala mängd tillgängligt trä																						
+Kvicksilver	Din totala mängd tillgängligt kvicksilver																						
+Malm	Din totala mängd tillgänglig malm																						
+Svavel	Din totala mängd tillgängligt svavel																						
+Kristall	Din totala mängd tillgänglig kristall																						
+Ädelstenar	Din totala mängd tillgängliga ädelstenar																						
 Datum	"{Datum}
 
-Current Month, Week, and Day"																						
+Nuvarande Månad, Vecka och Dag"																						
 ROLLOVER	ROLLOVER																						
 																							
-System Options	System Options																						
-Main Menu	"{Main Menu}
+Systemalternativ	Systemalternativ																						
+Huvudmeny	"{Huvudmeny}
 
-Abandon game and return to the main menu"
-Load Game	"{Load Game}
+Överge spelet och återgå till huvudmenyn"
+Ladda Spel	"{Ladda Spel}
 
-Load a saved game"
-Save Game	"{Save Game}
+Ladda ett sparat spel"
+Spara Spel	"{Spara Spel}
 
-Save the current game"
-Restart Scenario	"{Restart Scenario}
+Spara nuvarande spel"
+Starta om Scenario	"{Starta om Scenario}
 
-Restart the current scenario"
-Quit to Desktop	"{Quit to Desktop}
+Starta om nuvarande scenario"
+Avsluta till Skrivbord	"{Avsluta till Skrivbord}
 
-Quit Heroes of Might and Magic III"
-Return	"{Return to Game}
+Avsluta Heroes of Might and Magic III"
+Återgå	"{Återgå till Spel}
 
-Return to the Adventure Map!"
-"MUSIC_VOLUME_0_ID,"	Turn off music
-"MUSIC_VOLUME_1_ID,"	Set music volume to 1
-"MUSIC_VOLUME_2_ID,"	Set music volume to 2
-"MUSIC_VOLUME_3_ID,"	Set music volume to 3
-"MUSIC_VOLUME_4_ID,"	Set music volume to 4
-"MUSIC_VOLUME_5_ID,"	Set music volume to 5
-"MUSIC_VOLUME_6_ID,"	Set music volume to 6
-"MUSIC_VOLUME_7_ID,"	Set music volume to 7
-"MUSIC_VOLUME_8_ID,"	Set music volume to 8
-"MUSIC_VOLUME_9_ID,"	Set music volume to 9
-"EFFECTS_VOLUME_0_ID,"	Turn off sound effects
-"EFFECTS_VOLUME_1_ID,"	Set sound effects volume to 1
-"EFFECTS_VOLUME_2_ID,"	Set sound effects volume to 2
-"EFFECTS_VOLUME_3_ID,"	Set sound effects volume to 3
-"EFFECTS_VOLUME_4_ID,"	Set sound effects volume to 4
-"EFFECTS_VOLUME_5_ID,"	Set sound effects volume to 5
-"EFFECTS_VOLUME_6_ID,"	Set sound effects volume to 6
-"EFFECTS_VOLUME_7_ID,"	Set sound effects volume to 7
-"EFFECTS_VOLUME_8_ID,"	Set sound effects volume to 8
-"EFFECTS_VOLUME_9_ID,"	Set sound effects volume to 9
+Återgå till äventyrskartan!"
+"MUSIC_VOLUME_0_ID,"	Stäng av musik
+"MUSIC_VOLUME_1_ID,"	Sätt musikvolym till 1
+"MUSIC_VOLUME_2_ID,"	Sätt musikvolym till 2
+"MUSIC_VOLUME_3_ID,"	Sätt musikvolym till 3
+"MUSIC_VOLUME_4_ID,"	Sätt musikvolym till 4
+"MUSIC_VOLUME_5_ID,"	Sätt musikvolym till 5
+"MUSIC_VOLUME_6_ID,"	Sätt musikvolym till 6
+"MUSIC_VOLUME_7_ID,"	Sätt musikvolym till 7
+"MUSIC_VOLUME_8_ID,"	Sätt musikvolym till 8
+"MUSIC_VOLUME_9_ID,"	Sätt musikvolym till 9
+"EFFECTS_VOLUME_0_ID,"	Stäng av ljudeffekter
+"EFFECTS_VOLUME_1_ID,"	Sätt ljudeffektsvolym till 1
+"EFFECTS_VOLUME_2_ID,"	Sätt ljudeffektsvolym till 2
+"EFFECTS_VOLUME_3_ID,"	Sätt ljudeffektsvolym till 3
+"EFFECTS_VOLUME_4_ID,"	Sätt ljudeffektsvolym till 4
+"EFFECTS_VOLUME_5_ID,"	Sätt ljudeffektsvolym till 5
+"EFFECTS_VOLUME_6_ID,"	Sätt ljudeffektsvolym till 6
+"EFFECTS_VOLUME_7_ID,"	Sätt ljudeffektsvolym till 7
+"EFFECTS_VOLUME_8_ID,"	Sätt ljudeffektsvolym till 8
+"EFFECTS_VOLUME_9_ID,"	Sätt ljudeffektsvolym till 9
 "MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
 "MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
 "MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
-"HERO_SPEED_WALK_ID,"	"Set hero speed to walk
-(slowest)"
-"HERO_SPEED_CANTER_ID,"	Set hero speed to canter
-"HERO_SPEED_GALLOP_ID,"	Set hero speed to gallop
-"HERO_SPEED_JUMP_ID,"	"Set hero speed to jump
-(no animation - fastest)"
+"HERO_SPEED_WALK_ID,"	"Sätt hjältehastighet till gå
+(långsammast)"
+"HERO_SPEED_CANTER_ID,"	Sätt hjältehastighet till trava
+"HERO_SPEED_GALLOP_ID,"	Sätt hjältehastighet till gallopera
+"HERO_SPEED_JUMP_ID,"	"Sätt hjältehastighet till hoppa
+(ingen animering - snabbast)"
 "AI_SPEED_CANTER_ID,"	"Set enemy hero speed to canter
 (slowest)"
 "AI_SPEED_GALLOP_ID,"	Set enemy hero speed to gallop
