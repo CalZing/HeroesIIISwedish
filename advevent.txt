@@ -184,8 +184,8 @@ En andra klunk från brunnen på samma dag gör ingen nytta."
 A drink at the well is supposed to restore your spell points, but you are already at maximum."
 "{Mercenary Camp}
 
-You've come upon a camp of mercenaries practicing their combat tactics.  They welcome you and your troops and invite you to train with them."
-"{Mercenary Camp}
+Du kommer fram till ett läger av hejdukar som är i full fart att träna på sina stridstekniker. De välkomnar dig och dina trupper och bjuder in dig att träna med dem."
+"{Hejdukarnas läger}
 
 You've come upon a camp of mercenaries practicing their combat tactics.  ""You're too advanced for us,"" the mercenary captain says.  ""We can teach you nothing more."""
 "{Mermaid}
@@ -196,66 +196,66 @@ The mermaids silently entice you to return later and be blessed again."
 The magical, soothing beauty of the Mermaids reaches you and your crew.  Briefly you forget your worries and bask in the beauty of the moment.  The mermaids' charms bless you with increased luck for your next combat."
 You come upon an abandoned mine.  The mine appears to be infested with Troglodytes.  Do you wish to enter?
 You beat the Troglodytes and are able to restore the mine to production.
-"{Followers}
+"{Följare}
 
-A group of %s with a desire for greater glory wish to join you. Do you accept? "
-"Insulted by your refusal of their offer, the monsters attack!"
-"The %s is swayed by your diplomatic tongue, and offers to join your army for the sum of %d gold.  Do you accept?"
-"The creatures are swayed by your diplomatic tongue, and make you an offer:
+En grupp av %s med drömmar om något större i livet önskar att få följa med dig på din färd. Accepterar du?"
+"De blir förnärmade av att du nekar deras erbjudande och väljer att anfalal dig!"
+"%s blir imponerade av din högst diplomatiska tunga och erbjuder att följa med dig för en summa av %d guld. Accepterar du?"
+"Varelsen blir högst imponerad av din diplomatiska tunga och erbjuder dig:
 
 "
-All %d of the %s will join your army for the sum of %d gold.  Do you accept?
-"The %s, awed by the power of your forces, begin to scatter.  Do you wish to pursue and engage them?"
-"{Mystical Garden}
+Alla %d av %s vill gå med i din armé för %d guld.  Accepterar du?
+"%s, blir jätterädda när dom ser din mäktiga armé och börjar skingra sig. Vill du följa efter och anfalla dem?"
+"{Mystska trädgården}
 
-The sound of music brings you to a small garden, where you are able to sneak up on a leprechaun who is happily dancing about in the clearing.  You capture him, and in exchange for his freedom he guides you to a small pot filled with precious things."
-"{Mystical Garden}
+Ljudet av musik för dig till en liten trädgård där du lyckas smyga på en liten pyssling som glatt dansar i gläntan. Du lyckas fånga honom, men i utbyte för hans frihet erbjuder han dig en liten gryta fylld med dyrbara saker."
+"{Mystiska trädgården}
 
-The sound of music brings you to a small garden, where you attempt to sneak up on a leprechaun who is happily dancing about in the clearing.  You try to capture him, but his nimbleness allows him to elude you."
+Ljudet av musik för dig till en liten trädgård där du försöker smyga dig på en pyssling som glatt dansar i en glänta. Men pysslingen är för snabb och du kan inte få fatt på honom."
+"{Oas}
+
+Att dricka från oasen är uppfriskande, men ger dig inte något. Du borde nog slåss lite först."
 "{Oasis}
 
-The drink at the oasis is refreshing, but offers no further benefit.  The oasis might help again if you fought a battle first."
-"{Oasis}
-
-A drink at the oasis fills your troops with strength and lifts their spirits.  You can travel a bit further today."
+När du dricker från oasen fylls dina trupper med styrka. Du kan resa extra långt idag!"
 "{Obelisk}
 
-You come upon an obelisk made from a type of stone you have never seen before.  Staring at it intently, the smooth surface suddenly changes to an inscription.  The inscription is a piece of a lost ancient map.  Quickly, you copy down the piece, and the inscription vanishes as abruptly as it had appeared."
+Du kommer fram till en obelisk, gjord av en sten som du aldrig sett tidigare. Du stirrar på stenen intensivt och efter en stund börjar stenens säta yta förändras inför dina ögon. Ytan blir en inskription med delar av en uråldrig karta. Du ritas snabbt av det du ser innan inspriptionen försvinner in i stenen igen. Mystiskt."
 "{Obelisk}
 
-You have already been to this obelisk."
-"{Redwood Observatory}
+Du har redan varit vid denna obelisk."
+"{Observatoriet av rött trä}
 
-From the top of the observatory, you are able to see distant lands."
-"{Pillar of Fire}
+Från toppen av observatoriet kan du se till fjärran land."
+"{Pelare av eld}
 
-You discover a tall gaslight tower.  You light it, which produces enough light to penetrate the subterranean darkness."
-"{Star Axis}
+Du möter ett stort torn med ett gasljus i toppen. Du tänder ljuser som är starkt nog för att lysa upp mörkret här i grottan."
+"{Stjärnring}
 
-You've found several of the best astrologers of the land gathered at a Star Axis.  Happy to have some company, they teach you how to use the Sun, Moon, and Stars to enhance your spell casting ability."
-"{Star Axis}
+Du hittar fler av landets bästa astereologer, samlade vid en Stjärnring. De blir glada av att se dig och erbjuder sig att lära dig hur man använder solen, månen och stjärnorna för att förbättra dina trollformelsförmågor.."
+"{Stjärnring}
 
-You've found several of the best astrologers of the land gathered at a Star Axis.  You spend some time chatting with them, but soon realize that there is nothing new for you to learn from them."
-"In a dazzling display of daring, you break into the local jail and free the hero imprisoned there, who, in return, pledges loyalty to your cause."
-"You already have eight heroes, and regretfully must leave the prisoner in this jail to languish in agony for untold days."
-The jailer tells you that the hero who was being held here has been released by the king who imprisoned him.
-"You come upon the pyramid of a great and ancient king.  You are tempted to search it for treasure, but all the old stories warn of fearful curses and magical guardians.  Will you search?"
-"Upon defeating the monsters, you decipher an ancient glyph on the wall, telling the secret of the spell - "
-You come upon the pyramid of a great and ancient king.  Routine exploration reveals that the pyramid is completely empty.
-"  Unfortunately, you do not have the wisdom to understand the spell, and you are unable to learn it."
-"  Unfortunately, you have no Spell Book to record the spell with."
-"{Rally Flag}
+Du hittar fler av landets bästa astereologer, samlade vid en Stjärnring. Du spenderar en stund med dem, men upptäcker snart att de inte kan lära dig ett skit."
+"Efter att ha gjort en storstilad entré bryter du dig in i fängelset och befriar hjälten som sitter oskyldigt fångad där. Hen blir så glad att hen vill hjälpa dig i din strid."
+"Du har redan åtta hjältar så tyvärr får du lämna den stackars hjälten i sin cell. Hur länge ska hen bli kvar här?"
+Fångvaktaren berättar ayy hjälten som hölls här har blivit frigiven av självaste kungen.
+"Du kommer fram till en pyramid över en gammal kung. Du känner dig lockad att söka igenom den efter skatter, men alla de gamla historierna varnar ju för detta. Vill du verkligen leta?"
+"Efter att ha besegrat monstren så hittar du in hiereoglyf på en vägg. Du lyckas lära dig trollformeln - "
+Du kommer fram till en pyramid över en gammal kund. Men tyvärr är den tom.
+"  Tyvärr har du inte tillräckligt med Visdom för att lära dig denna trollformeln, så du kan inte lära dig den."
+"  Tyvärr så har du inte Trollformelsbok att skriva ner trollformeln i."
+"{Samlingsflagga}
 
-You rally your troops around this flag."
-"{Rally Flag}
+Du samlar dina trupper kring denna flagga."
+"{Samlingsflagga}
 
-You rally your troops around this flag, renewing their strength and lifting their spirits.  You feel at your peak, and can travel a bit further today."
+Du samlar dina trupper kring denna flagga och samlar styra. Du känner dig på topp och kan därför resa lite extra långt just idag."
 "{%s}
 
-Would you like to recruit %s?"
-You find a small quantity of %s.
-You enter the sanctuary and immediately feel as if a great weight has been lifted off your shoulders.  You feel safe here.
-"As you ride into a clearing, you notice a university scholar resting his horse.  He agrees to teach you some of what he knows before setting off."
+Vill du rekrytera %s?"
+Du hittar en liten mängd %s.
+Du går in i helgedomen och känner att en stor börda lyfts av dina axlar. Du känner dig trygg här.
+"När du rider in i gläntan ser du en universitetslärare som rastar sin häst. Han går med på att lära dig lite saker innan han ger sig av."
 "{Sea Chest}
 
 After spending hours trying to fish the chest out of the sea, you open it, only to find it empty."
@@ -265,11 +265,11 @@ After spending hours trying to fish the chest out of the sea, you open it and fi
 "{Sea Chest}
 
 After spending hours trying to fish the chest out of the sea, you open it and find 1500 gold."
-"{Crypt}
+"{Krypta}
 
-You tentatively approach the burial crypt of ancient warriors.  Do you want to search the graves?"
-Upon defeating the undead guardians you spend several hours searching the graves and find nothing.  Such a despicable act reduces your army's morale.
-Upon defeating the undead guardians you search the graves and find something!
+Du hittar en krypta som ser lite lockande ut. Vill du söka bland gravarna?"
+Efter att ha besegrat de odöda väktarna så spenderar du flera timmar på att leta bland granar.a Men du hittar ingenting. Vilket slöseri med tid! Nu får du lägre moral till råga på allt.
+Efter att ha besegrat de odöda väktarna så letar du bland gravarna och hittar någonting!
 "{Shipwreck}
 
 The rotting hulk of a great pirate ship creaks eerily as it is pushed against the rocks.  Do you wish to search the shipwreck?"
@@ -281,86 +281,86 @@ You've pulled a shipwreck survivor from certain death in an unforgiving ocean.  
 "{Shipwreck Survivor}
 
 You've pulled a shipwreck survivor from certain death in an unforgiving ocean.  Grateful, he says, ""I would give you an artifact as a reward, but you have no room in your backpack."""
-"{Shrine of Magic Incantation}
+"{Altaret av magisk besvärjelse}
 
-You come across a small shrine attended by a group of novice acolytes.  In exchange for your protection, they agree to teach you a simple spell - "
-"{Shrine of the Magic Gesture}
+Du kommer fram till ett litet altare där en grupp nybörjarmagiker håller till. I utbyte mot ditt beskydd vill de lära dig en enkel trollformel - "
+"{Altaret av den magiska gesten}
 
-You come across an ornate shrine attended by a group of rotund friars.  In exchange for your protection, they agree to teach you a spell -  "
-"{Shrine of the Magic Thought}
+Du kommer fram till ett vackert altare där ett gäng tjocka munkar håller till. I utbyte mot ditt beskydd vill de lära dig en trollformel -  "
+"{Altaret av den magiska tanken}
 
-You come across a lavish shrine attended by a group of high priests.  In exchange for your protection, they agree to teach you a sophisticated spell - "
-"  Unfortunately, you do not have the wisdom to understand the spell, and are unable to learn it."
-"  Unfortunately, you have no Spell Book to record the spell with."
+Du kommer fram till ett påkostat altare där en grupp högt uppsatta präster står och ber. I utbyte mot ditt beskydd vill de lära dig en sofistikerad trollformel - "
+"  Tyvärr så har du inte tillräckligt med Visdom för att förstå denna trollformel."
+"  Tyvärr har du ingen Trollformelsbok att skriva ner trollformeln i."
 "An eerie wailing song emanates from the sirens perched upon the rocks.  Many of your crew fall under its spell, and dive into the water where they drown.  You are now wiser for the visit, and gain %d experience."
 You have your crew stop up their ears with wax before the sirens' eerie song has any chance of luring them to a watery grave.
 "As the sirens sing their eerie song, your small, determined army manages to overcome the urge to dive headlong into the sea."
-You find a spell scroll inscribed with the %s spell.  You toss it into your backpack.
-"{Stables}
+Du hittar en pergamentsrulle där trollformeln %s är nedtecknad. Du kastar ner den i ryggsäcken och drar vidare.
+"{Stall}
 
-You have already visited the stables this week."
-"{Stables}
+Du har redan besökt stallet denhär veckan."
+"{Stall}
 
-The stablemaster offers to provide your army with horses, increasing your movement for the remainder of the week."
-"{Stables}
+Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre i en hel vecka!"
+"{Stall}
 
-The stablemaster offers to provide your army with horses, increasing your movement for the remainder of the week and upgrading all your Cavaliers to Champions."
-"{Stables}
+Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre i en hel vecka! Dessutom uppgraderar han alla dina Kavalerister till Tornérspelare!"
+"{Stall}
 
-The stablemaster offers to provide your army with horses, increasing your movement for the remainder of the week and upgrading all your Cavaliers to Champions."
-"{Temple}
+Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre i en hel vecka! Dessutom uppgraderar han alla dina Kavalerister till Tornérspelare!"
+"{Tempel}
 
-A visit and a prayer at the temple raises the morale of your troops."
-"{Temple}
+Ett besök i templet gör att moralen ökar bland dina trupper."
+"{Tempel}
 
-It doesn't help to pray twice before a battle.  Come back another day."
-"{Den of Thieves}
+Det hjälper faktiskt inte att be två gånger innan en strid. Kom tillbaka en annan dag."
+"{Tjuvarnas tillhåll}
 
-Searching through the underbrush, you find the secret entrance to the Den of Thieves.  An old ""acquaintance"" fills you in on all he has learned since your last meeting."
-"{Learning Stone}
+När du letar igenom undervegetationen finner du en hemlig ingång till Tjuvarnas tillhåll. En gammal ""vänn"" berättar allt han lärt sig sedan ert senaste möte."
+"{Lärandets sten}
 
-A smooth stone on the face of this pillar begins to swirl as you approach. Looking into it, you are amazed to see answers to questions you have pondered for years.  The stone suddenly goes still, but you realize you have learned much."
-"{Learning Stone}
+En flat sten på denna pelaren börjar lysa och bete sig konstigt när du närmar dig. När du ser på den förbluffas du över svar på frågor som har gäckat dig i flera år. Stenen slutar lysa, men du inser att du lärt dig mycket."
+"{Lärandets sten}
 
-You approach the pillar, hoping to gain more insight, but the stone now does nothing more than reflect the sunlight."
-"{Chest}
+Du närmar dig stenen igen, i hoppas om att få ännu mer insikt. Men nu reflekterar stenen bara solens ljus."
+"{Kista}
 
-After scouring the area, you fall upon a hidden chest, containing the ancient artifact '%s'."
-"{Chest}
+Efter att ha sökt igenom området finner du en kista som innehåller den gamla artefakten '%s'."
+"{Kista}
 
-After scouring the area, you fall upon a hidden treasure cache.  You may take the gold or distribute it to the peasants for experience.  Which do you choose?"
-"{Tree of Knowledge}
+Efter att ha sökt igenom området finner du en kista med en gömd skatt i. Du kan antingen ta guldet själv, eller ge det till dina undersåtar som välbehövd lön. Vad väljer du?"
+"{Kunskapens träd}
 
-Upon your approach, the tree opens its eyes in delight.  ""It is good to see you, my student.  I hope my teachings have helped you."""
-"{Tree of Knowledge}
+När du närmar dig trädet öppnar det sina trötta ögon. ""Det är skönt att se dig igen, min vän. Jag hoppas att allt jag lärt dig har hjälpt dig."""
+"{Kunskapens träd}
 
-Upon your approach, the tree opens its eyes in delight.  ""Ahh, an adventurer!  Allow me to teach you a little of what I have learned over the ages."""
-"{Tree of Knowledge}
+När du närmar dig trädet öppnar det sina trötta ögon. ""Ahh, en äventyrare! Låt mig lära dig ett och annat."""
+"{Kunskapens träd}
 
-Upon your approach, the tree opens its eyes in delight.  ""Ahh, an adventurer! I will be happy to teach you a little of what I have learned over the ages for a mere 2000 gold.""  (Just bury it around my roots.)"
-"{Tree of Knowledge}
+När du närmar dig trädet öppnar det sina trötta ögon. ""Ahh, en äventyrare! Jag ska gärna dela med mig av min samlade kunskap, för endast 2000 guld. Gräv ner det vid mina rötter."""
+"{Kunskapens träd}
 
-Tears brim in the eyes of the tree.  ""I need 2000 gold."" it whispers. (sniff)  ""Well, come back when you can pay me."""
-"{Tree of Knowledge}
+Tårar fyller trädets ögon. ""Jag behöver faktiskt 2000 guld... Jaja, kom tillbaka när du kan betala (snyft)."""
+"{Kunskapens träd}
 
-Upon your approach, the tree opens its eyes in delight.  ""Ahh, an adventurer! I will be happy to teach you a little of what I have learned over the ages for a mere 10 gems.""  (Just bury it around my roots.) "
-"{Tree of Knowledge}
+När du närmar dig trädet öppnar det sina trötta ögon. ""Ahh, en äventyrare! Jag ska gärna dela med mig av min samlade kunskap, för endast 10 ädelstenar. Gräv ner det vid mina rötter."""
+"{Kunskapens träd}
 
-Tears brim in the eyes of the tree.  ""I need 10 gems."" it whispers. (sniff)  ""Well, come back when you can pay me."""
+Tårar fyller trädets ögon. ""Jag behöver faktiskt 10 ädelstenar... Jaja, kom tillbaka när du kan betala (snyft)."""
 Just inside the entrance you find a large pile of rubble blocking the tunnel. You leave discouraged.
-"{Wagon}
+"{Vagn}
 
-You come across an old wagon left by a trader who didn't quite make it to safe terrain.  Inside, you find some of the wagon's cargo still intact."
-"{Wagon}
+Du kommer fram till en vagn som en stackars handelsman lämnat efter sig. På flaket hittar du vagnens last, som fortfarande verkar insakt."
+"{Vagn}
 
-You come across an old wagon left by a trader who didn't quite make it to safe terrain.  Searching inside, you find the '%s'."
-"{Wagon}
+Du kommer fram till en vagn som en stackars handelsman lämnat efter sig. På flaket hittar du vagnens last. Du har funnit '%s'."
+"{Vagn}
 
-You come across an old wagon left by a trader who didn't quite make it to safe terrain.  Unfortunately, others have found it first, and the wagon is empty."
-"{War Machine Factory}
+Du kommer fram till en vagn som en stackars handelsman lämnat efter sig. Men någon rövare har redan tömt allt på flaket."
+"{Krigsmaskinsfabrik}
 
-Would you like to purchase War Machines?"
-"{School of War}
+Vill du köpa Krigsmaskiner?"
+"{Krigets skola}
 
 The battle-scarred instructor of this school of war grunts as you walk past.  For a fee of 1000 gold he can teach you your choice of new attack or defense skills."
 "{School of War}
