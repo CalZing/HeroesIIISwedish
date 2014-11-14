@@ -362,11 +362,11 @@ Du kommer fram till en vagn som en stackars handelsman lämnat efter sig. Men n�
 Vill du köpa Krigsmaskiner?"
 "{Krigets skola}
 
-The battle-scarred instructor of this school of war grunts as you walk past.  For a fee of 1000 gold he can teach you your choice of new attack or defense skills."
-"{School of War}
+Den krigsärrade instruktören på skolan grymtar när du går förbi. För en avgift av 1000 guld kan han lära dig några nya stridstekniker."
+"{Krigets skola}
 
-The head instructor laughs out loud when you ask to receive more training.  ""You should be teaching here!"" he shouts."
-"{School of War}
+Instruktören skrattar ut höft när du ber om att få bli tränad. ""Du borde ju undervisa här!"" skriver han."
+"{Krigets skola}
 
 Den krigsärrade instruktören på skolan grymtar när du går förbi. Han kan lära dig lite nya stridstekniker, i utbyte mot 1000 guld, vilket du för tillfället inte äger."
 Du kommer fram till graven av en namnlös krigare. Vill du söka igenom graven?
@@ -398,26 +398,26 @@ A whirlpool engulfs your ship.  Some of your army has fallen overboard."
 En uråldrig häxa som bor i en konstig stuga välkomnar dig. Hon lär dig %s av någon outgrundlig anledning."
 "{Häxans stuga}
 
-DU närmar dig den konstiga stugan och ser häxan där inne. You approach the strange hut and observe a witch inside studying an ancient tome on %s.  As you approach, she turns and speaks.  ""You already know that which I would teach you. I can help you no further."""
-"{Witch's Hut}
+Du närmar dig den konstiga stugan och ser häxan där inne. Hon studerar en uråldrig bok om %s. När du närmar dig vänder hon sig mot dig och säger. ""Du kan redan allt jag skulle kunna lära dig. Jag kan inte lära dig någonting."""
+"{Häxans stuga}
 
-You approach the strange hut and observe a witch inside studying an ancient tome on %s.  As you approach, she turns and focuses her one glass eye on you.  ""HA!"" she screeches, ""I would not presume to try to teach new tricks to someone so clearly as wise as you.""  You leave, but can't quite shake the feeling that you have just been insulted."
-"  Unfortunately, you already have knowledge of this spell, so there is nothing more for them to teach you."
-%s learns something.
-%s loses magical energy.
-%s gains magical energy.
-%s's spirits drop.
-%s's spirits rise.
-%s's luck takes a turn for the worse.
-%s's luck increases.
-%s has lost treasure.
-%s has found treasure.
-%s learns a spell.
-A %s joins %s's army.
-%s join %s's army.
-"Unfortunately, it appears that the owner has left some guards.  Do you wish to fight them?"
-%s learns spells.
+Du närmar dig den konstiga stugan och ser häxan där inne. Hon studerar en uråldrig bok om %s. När du närmar dig vänder hon sig mot dig och säger. ""HA! Jag skulle aldrig lära trix till någon så vis som dig!"" Du fattar ingenting och beger dig därifrån."
+"  Tyvärr har du redan kunskap om denna trollformeln, så det finns ingenting de kan lära dig."
+%s lär sig något.
+%s förlorar magisk energi.
+%s får magisk energi.
+%s's blir ledsen.
+%s's blir glad.
+%s's får sämre tur.
+%s's får bättre tur.
+%s har blivit av med skatter.
+%s gar funnit skatter.
+%s lär sig en trollformel.
+En %s går med i %s's armé.
+%s går med i %s's armé.
+"Tyvärr verkar det som att ägaren har lämnat lite vakter. Vill du slåss mot dem?"
+%s lär sig trollformler.
 "This an abandoned shipyard.  Unfortunately the Ways are blocked, and it is not possible to build ships here."
-"{Witch's Hut}
+"{Häxans stuga}
 
-You approach the hut but find that it has been deserted for some time."
+Du närmar dig stugan, men märker att den är övergiven."
