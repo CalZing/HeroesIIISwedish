@@ -368,37 +368,37 @@ The battle-scarred instructor of this school of war grunts as you walk past.  Fo
 The head instructor laughs out loud when you ask to receive more training.  ""You should be teaching here!"" he shouts."
 "{School of War}
 
-The battle-scarred instructor of this school of war grunts as you walk past.  He could teach you some new combat tactics, but he charges 1000 gold, which you currently do not have."
-You have come upon the resting place of a nameless warrior.  Do you wish to search the tomb?
-"Reluctantly, your troops enter the tomb, finding the %s, but such a despicable act has ruined your army's morale."
-"Reluctantly, your troops enter the tomb, finding nothing of value.  Such a despicable act has ruined your army's morale."
-"{Water Wheel}
+Den krigsärrade instruktören på skolan grymtar när du går förbi. Han kan lära dig lite nya stridstekniker, i utbyte mot 1000 guld, vilket du för tillfället inte äger."
+Du kommer fram till graven av en namnlös krigare. Vill du söka igenom graven?
+"Motvilligt stiger dina trupper ner i graven och finner %s. Men en så avskyvärd handling sätter spåt hos mannarna. Deras moral har minskat!"
+"Motvilligt striger dina trupper ner i graven, men finner ingenting. En så avskyvärd handling sätter spåt hos mannarna. Deras moral har minskat!"
+"{Vattenhjulet}
 
-The keeper of the mill announces: ""Milord, I have been working very hard to provide you with this gold, come back next week for more."""
-"{Water Wheel}
+Ägaren av kvarnen hälsar dig: ""Min herre, jag har arbetat mycket hårt för att skrapa ihop till detta guldet åt dig. Kom tillbaka nästa vecka för mer."""
+"{Vattenhjulet}
 
-The keeper of the mill announces: ""Milord, I am sorry, there is no gold currently available.  Please try again next week."""
-"{Watering Hole}
+Ägaren av kvarnen hälsar dig: ""Min herre, jag har tyvärr inte kunnat skrapa ihop något guld åt dig än. Kom tillbaka igen nästa vecka."""
+"{Vattenhålet}
 
-A drink at the watering hole fills your troops with strength and lifts their spirits.  You can travel a bit further today."
-"{Watering Hole}
+Efter att ha druckit ur vattenhålet fylls dina mannar med styrka. Du kan gå längre idag!"
+"{Vattenhålet}
 
-The drink at the watering hole is refreshing, but offers no further benefit.  The watering hole might help again if you fought a battle first."
+Dina mannar dricker från vattenhålet, men det hjälper inte. Kanske ska du slåss lite först?."
 "{Whirlpool}
 
 A whirlpool engulfs your ship.  Some of your army has fallen overboard."
-"{Windmill}
+"{Kvarnen}
 
-The keeper of the mill announces: ""Milord, I am sorry, there are no resources currently available. Please try again next week."""
-"{Windmill}
+Ägaren av kvarnen hälsar dig: ""Min herre, jag är ledsen med det finns inga resurser i dagsläget. Kom tillbaka nästa vecka."""
+"{Kvarnen}
 
-The keeper of the mill announces: ""Milord, I have been working very hard to provide you with these resources, come back next week for more."""
-"{Witch's Hut}
+Ägaren av kvarnen hälsar dig: ""Min herre, jag har jobbat hårt för att skrapa ihop dessa resurser till dig. Kom tillbaka nästa vecka för mer."""
+"{Häxans stuga}
 
-An ancient witch living in a strange hut welcomes you, teaching you %s for her own inscrutable purposes."
-"{Witch's Hut}
+En uråldrig häxa som bor i en konstig stuga välkomnar dig. Hon lär dig %s av någon outgrundlig anledning."
+"{Häxans stuga}
 
-You approach the strange hut and observe a witch inside studying an ancient tome on %s.  As you approach, she turns and speaks.  ""You already know that which I would teach you. I can help you no further."""
+DU närmar dig den konstiga stugan och ser häxan där inne. You approach the strange hut and observe a witch inside studying an ancient tome on %s.  As you approach, she turns and speaks.  ""You already know that which I would teach you. I can help you no further."""
 "{Witch's Hut}
 
 You approach the strange hut and observe a witch inside studying an ancient tome on %s.  As you approach, she turns and focuses her one glass eye on you.  ""HA!"" she screeches, ""I would not presume to try to teach new tricks to someone so clearly as wise as you.""  You leave, but can't quite shake the feeling that you have just been insulted."
