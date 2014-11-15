@@ -9,13 +9,13 @@ Status
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
 |               | Help.txt  (Andreas)    |              |
-|               | SeerHut.txt (Simon)  |              |
 | advevent.txt  |               |              |
 | HeroSpec.txt  |               |              |
 | randtvrn.txt  |               |              |
 | artevent.txt  |               |              |
 | HeroBios.txt  |               |              |
 | randsign.txt  |               |              |
+|               |               | SeerHut.txt  |
 |               |               | #sv.ini      |
 |               |               | GENRLTXT.TXT |
 |               |               | CrGen1.txt   |
