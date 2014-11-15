@@ -1,28 +1,28 @@
 Bonus	Bonus	
-(short)	(long)	Right Click Text
-Archery	Secondary Skill Bonus: Archery	Receives a 5% per level bonus to Archery skill percentage.
-Archers	Creature Bonus: Archers	Increases the Attack and Defense skills of any Archers or Marksmen for each level attained after 2nd level.
-Griffins	Creature Bonus: Griffins	Increases the Attack and Defense skills of any Griffins or Royal Griffins or each level attained after 3rd level.
-Navigation	Secondary Skill Bonus: Navigation	Receives a 5% per level bonus to Navigation skill percentage.
-Estates	Secondary Skill Bonus: Estates	Receives a 5% per level bonus to Estates skill.
-Swordsmen	Creature Bonus: Swordsmen	Increases the Attack and Defense skills of any Swordsmen or Crusaders for each level attained after 4th level.
-Ballista	Artillery Bonus: Ballista	Increases the Attack and Defense skill of any Ballista for each level attained after 4th level.
-Cavaliers	Creature Bonus: Cavaliers	Increases the Attack and Defense skills of any Cavaliers or Champions for each level attained after 6th level.
-First Aid	Secondary Skill Bonus: First Aid	Receives a 5% per level bonus to First Aid skill.
-Bless	Spell Bonus: Bless	"Casts Bless with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
-Weakness	Spell Bonus: Weakness	"Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
-Frost Ring	Spell Bonus: Frost Ring	"Casts Frost Ring with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
-Monks	Creature Bonus: Monks	Increases the Attack and Defense skills of any Monks or Zealots for each level attained after 5th level.
-Eagle Eye	Secondary Skill Bonus: Eagle Eye	Receives a 5% per level bonus to Eagle Eye skill percentage.
-Prayer	Spell Bonus: Prayer	"Casts Prayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
+(kort)	(lång)	Höger Klicka Text
+Bågskytte	Sekundärförmåga: Bågskytte	Får en 5% bonus till Bågskytte-förmågan för varje nivå.
+Bågskyttar	Varelsebonus: Bågskyttar	Ökar Anfall- och Försvars-förmågan hos Bågskyttar eller Prickskyttar för varje nivå efter nummer 2.
+Gripar	Varelsebonus: Gripar	Ökar Anfall- och Försvars-förmågan hos Gripar eller Kungagripar för varje nivå efter nummer 3.
+Navigation	Sekundärförmåga: Navigation	Får en 5% bonus till Navigation-förmågan för varje nivå.
+Egendomar	Sekundärförmåga: Egendomar	Får en 5% bonus till Egendomar-förmågan för varje nivå.
+Fäktare	Varelsebonus: Fäktare	Ökar Anfall- och Försvars-förmågan hos Fäkare eller Korsriddare för varje nivå efter nummer 4.
+Ballista	Artilleribonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
+Ryttare	Varelsebonus: Ryttare	Ökar Anfall- och Försvars-förmågan hos Ryttare eller Tornerare för varje nivå efter nummer 6.
+Första hjälpen	Sekundärförmåga: Första hjälpen	Får en 5% bonus till Första hjälpen-förmågan för varje nivå.
+Välsigna	Trollformelsbonus: Välsigna	"Kasta Välsigna med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
+Svaghet	Trollformelsbonus: Svaghet	"Kasta Svaghet med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
+Frostring	Trollformelsbonus: Frostring	"Kasta Frostring med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
+Munkar	Varelsebonus: Munkar	Ökar Anfall- och Försvars-förmågan hos Munkar eller Zeloter för varje nivå efter nummer 5.
+Örnögdhet	Sekundärförmåga: Örnögdhet	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
+Bön	Trollformelsbonus: Bön	"Kasta Bön med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
++350 Guld	+350 Guld varje dag	Ökar kungadömmets intäkter med 350 guld om dagen.
+Rustningsmed	Sekundärförmåga: Rustningsmed	Får en 5% bonus till Rustningsmed-förmågan för varje nivå.
+Dvärgar	Varelsebonus: Dvärgar	Ökar Anfall- och Försvars-förmågan hos Dvärgar eller Stridsdvärgar för varje nivå efter nummer 2.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Armorer	Secondary Skill Bonus: Armorer	Receives a 5% per level bonus to Armorer skill percentage.
-Dwarves	Creature Bonus: Dwarves	Increases the Attack and Defense skills of any Dwarves of Battle Dwarves for each level attained after 2nd level.
-+350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Dendroids	Creature Bonus: Dendroids	Increases the Attack and Defense skills of any Dendroid Guards or Soldiers for each level attained after 5th level.
+Dendroider	Varelsebonus: Dendroider	Ökar Anfall- och Försvars-förmågan hos Dendroidervakter eller Dendroidsoldater för varje nivå efter nummer 5.
 Resistance	Secondary Skill Bonus: Resistance	Receives a 5% per level bonus to Resistance skill percentage.
-Elves	Creature Bonus: Elves	Increases the Attack and Defense skills of any Wood Elves or Grand Elves for each level attained after 3rd level.
-Unicorns	Creature Bonus: Unicorns	Increases the Attack and Defense skills of any Unicorns or War Unicorns for each level attained after 6th level.
+Elves	Creature Bonus: Elves	Ökar Anfall- och Försvars-förmågan hos Skogsalver eller Storalver för varje nivå efter nummer 3.
+Unicorns	Creature Bonus: Unicorns	Ökar Anfall- och Försvars-förmågan hos Enhörningar eller Stridsenhörningar för varje nivå efter nummer 6.
 Logistics	Secondary Skill Bonus: Logistics	Receives a 5% per level bonus to Logistics skill percentage.
 Slayer	Spell Bonus: Slayer	"Casts Slayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 Cure	Spell Bonus: Cure	"Casts Cure with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
@@ -31,31 +31,31 @@ First Aid	Secondary Skill Bonus: First Aid	Receives a 5% per level bonus to Firs
 Eagle Eye	Secondary Skill Bonus: Eagle Eye	Receives a 5% per level bonus to Eagle Eye skill percentage.
 Fortune	Spell Bonus: Fortune	"Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 Ice Bolt	Spell Bonus: Ice Bolt	"Casts Ice Bolt with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
-Pegasi	Creature Bonus: Pegasi	Increases the Attack and Defense skills of any Pegasi or Silver Pegasi for each level attained after 4th level.
-Gargoyles	Creature Bonus: Gargoyles	Increases the Attack and Defense skills of any Stone or Obsidian Gargoyles for each level attained after 2nd level.
-Genies	Creature Bonus: Genies	Increases the Attack and Defense skills of any Genies or Master Genies for each level attained after 5th level.
-Golems	Creature Bonus: Golems	Increases the Attack and Defense skills of any Stone or Iron Golems for each level attained after 3rd level.
+Pegasi	Creature Bonus: Ökar Anfall- och Försvars-förmågan hos Pegaser eller Silverpegaser för varje nivå efter nummer 4.
+Gargoyles	Creature Bonus: Gargoyles	Ökar Anfall- och Försvars-förmågan hos Stenfilurer eller Obsidianfilurer för varje nivå efter nummer 2.
+Genies	Creature Bonus: Djinn	 Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 5.
+Golems	Creature Bonus: Golems	Ökar Anfall- och Försvars-förmågan hos Stengolemer eller Järngolemer för varje nivå efter nummer 3.
 Armorer	Secondary Skill Bonus: Armorer	Receives a 5% per level bonus to Armorer skill percentage.
-Ballista	Artillery Bonus: Ballista	Increases the Attack and Defense skill of any Ballista for each level attained after 4th level.
-Nagas	Creature Bonus: Nagas	Increases the Attack and Defense skills of any Nagas or Naga Queens for each level attained after 6th level.
+Ballista	Artillery Bonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
+Nagas	Creature Bonus: Nagas	Ökar Anfall- och Försvars-förmågan hos Nagar eller Nagadrottningar för varje nivå efter nummer 6.
 +1 Mercury	+1 Mercury each day.	Increases kingdom's mercury production by 1 per day.
-Genies	Creature Bonus: Genies	Increases the Attack and Defense skills of any Genies or Master Genies for each level attained after 5th level.
+Genies	Creature Bonus: Genies	Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 5.
 Hypnotize	Spell Bonus: Hypnotize	"Casts Hypnotize with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 Mysticism	Secondary Skill Bonus: Mysticism	Receives a 5% per level bonus to Mysticism skill.
 Eagle Eye	Secondary Skill Bonus: Eagle Eye	Receives a 5% per level bonus to Eagle Eye skill percentage.
 Fortune	Spell Bonus: Fortune	"Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
-Magi	Creature Bonus: Magi	Increases the Attack and Defense skills of any Magi or Arch Magi for each level attained after 4th level.
+Magi	Creature Bonus: Magi	Ökar Anfall- och Försvars-förmågan hos Magiker eller Ärkemagiker för varje nivå efter nummer 4.
 Ch. Lightning	Spell Bonus: Chain Lightning	"Casts Chain Lightning with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 Haste	Spell Bonus: Haste	"Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Hell Hounds	Creature Bonus: Hell Hounds	Increases the Attack and Defense skills of any Hell Hounds or Cerberi for each level attained after 3rd level.
-Efreet	Creature Bonus: Efreet	Increases the Attack and Defense skills of any Efreet or Efreet Sultans for each level attained after 6th level.
-Demons	Creature Bonus: Demons	Increases the Attack and Defense skills of any Demons or Horned Demons for each level attained after 4th level.
-Imps	Creature Bonus: Imps	Increases the Attack and Defense skills of any Imps or Familiars for each level attained after 1st level.
+Hell Hounds	Creature Bonus: Hell Hounds	Ökar Anfall- och Försvars-förmågan hos Helveteshundar eller Cerberii för varje nivå efter nummer 3.
+Efreet	Creature Bonus: Efreet	Ökar Anfall- och Försvars-förmågan hos Ifrit eller Mästarifrit för varje nivå efter nummer 5.
+Demons	Creature Bonus: Demons	Ökar Anfall- och Försvars-förmågan hos Demoner eller Horndemoner för varje nivå efter nummer 4.
+Imps	Creature Bonus: Imps	Ökar Anfall- och Försvars-förmågan hos Pukar eller Bjäror för varje nivå efter nummer 1.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Gogs	Creature Bonus: Gogs	Increases the Attack and Defense skills of any Gogs or Magogs for each level attained after 2nd level.
-Ballista	Artillery Bonus: Ballista	Increases the Attack and Defense skill of any Ballista for each level attained after 4th level.
-Pit Fiends	Creature Bonus: Pit Fiends	Increases the Attack and Defense skills of any Pit Fiends or Lords for each level attained after 5th level.
+Gogs	Creature Bonus: Gogs	Ökar Anfall- och Försvars-förmågan hos Goger eller Magoger för varje nivå efter nummer 2.
+Ballista	Artillery Bonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
+Pit Fiends	Creature Bonus: Pit Fiends	Ökar Anfall- och Försvars-förmågan hos Avgrundsbövlar eller Avgrundsmästare för varje nivå efter nummer 5.
 Intelligence	Secondary Skill Bonus: Intelligence	Receives a 5% per level bonus to Intelligence skill percentage.
 Inferno	Spell Bonus: Inferno	"Casts Inferno with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 Mysticism	Secondary Skill Bonus: Mysticism	Receives a 5% per level bonus to Mysticism skill.
@@ -64,14 +64,14 @@ Weakness	Spell Bonus: Weakness	"Casts Weakness with increased effect, based on h
 Bloodlust	Spell Bonus: Bloodlust	"Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 Sorcery	Secondary Skill Bonus: Sorcery	Receives a 5% per level bonus to Sorcery skill percentage.
 Fireball	Spell Bonus: Fireball	"Casts Fireball with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
-Walking Dead	Creature Bonus: Walking Dead	Increases the Attack and Defense skills of any Walking Dead or Zombies for each level attained after 2nd level.
-Vampires	Creature Bonus: Vampires	Increases the Attack and Defense skills of any Vampires or Vampire Lords for each level attained after 4th level.
-Liches	Creature Bonus: Liches	Increases the Attack and Defense skills of any Liches or Power Liches for each level attained after 5th level.
-Wights	Creature Bonus: Wights	Increases the Attack and Defense skills of any Wights or Wraiths for each level attained after 3rd level.
-Black Knights	Creature Bonus: Black Knights	Increases the Attack and Defense skills of any Black Knights or Dread Knights for each level attained after 6th level.
+Walking Dead	Creature Bonus: Walking Dead	Ökar Anfall- och Försvars-förmågan hos Dödgångare eller Draugar för varje nivå efter nummer 2.
+Vampires	Creature Bonus: Vampires	Ökar Anfall- och Försvars-förmågan hos Vampyrer eller Vampyrherrar för varje nivå efter nummer 4.
+Liches	Creature Bonus: Liches	Ökar Anfall- och Försvars-förmågan hos Likhäxor eller Häxmästare för varje nivå efter nummer 5.
+Wights	Creature Bonus: Wights	Ökar Anfall- och Försvars-förmågan hos Gastar eller Vålnader för varje nivå efter nummer 3.
+Black Knights	Creature Bonus: Black Knights	Ökar Anfall- och Försvars-förmågan hos Svart riddare eller Skräckriddare för varje nivå efter nummer 6.
 Necromancy	Secondary Skill Bonus: Necromancy	Receives a 5% per level bonus to Necromancy skill percentage.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Skeletons	Creature Bonus: Skeletons	Increases the Attack and Defense skills of any Skeletons or Skeleton Warriors for each level attained after 1st level.
+Skeletons	Creature Bonus: Skeletons	Ökar Anfall- och Försvars-förmågan hos Skelett eller Skelettkrigare för varje nivå efter nummer 1.
 Death Ripple	Spell Bonus: Death Ripple	"Casts Death Ripple with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 Meteor Shower	Spell Bonus: Meteor Shower	"Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 Sorcery	Secondary Skill Bonus: Sorcery	Receives a 5% per level bonus to Sorcery skill percentage.
@@ -80,13 +80,13 @@ Animate Dead	Spell Bonus: Animate Dead	"Casts Animate Dead with increased effect
 Stone Skin	Spell Bonus: Stone Skin	"Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 Necromancy	Secondary Skill Bonus: Necromancy	Receives a 5% per level bonus to Necromancy skill percentage.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Harpies	Creature Bonus: Harpies	Increases the Attack and Defense skills of any Harpies or Harpy Hags for each level attained after 2nd level.
-Ballista	Artillery Bonus: Ballista	Increases the Attack and Defense skill of any Ballista for each level attained after 4th level.
-Minotaurs	Creature Bonus: Minotaurs	Increases the Attack and Defense skills of any Minotaurs or Minotaur Kings for each level attained after 5th level.
-Beholders	Creature Bonus: Beholders	Increases the Attack and Defense skills of any Beholders or Evil Eyes for each level attained after 2nd level.
+Harpies	Creature Bonus: Harpies	Ökar Anfall- och Försvars-förmågan hos Harpyor eller Vildvittror för varje nivå efter nummer 2.
+Ballista	Artillery Bonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 4.
+Minotaurs	Creature Bonus: Minotaurs	Ökar Anfall- och Försvars-förmågan hos Minotaurer eller Minotaurkungar för varje nivå efter nummer 5.
+Beholders	Creature Bonus: Beholders	Ökar Anfall- och Försvars-förmågan hos Åskådare eller Onda ögon för varje nivå efter nummer 2.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
 Logistics	Secondary Skill Bonus: Logistics	Receives a 5% per level bonus to Logistics skill percentage.
-Manticores	Creature Bonus: Manticores	Increases the Attack and Defense skills of any Manticores or Scorpicores for each level attained after 6th level.
+Manticores	Creature Bonus: Manticores	Ökar Anfall- och Försvars-förmågan hos Manikoror eller Skorpionsvansmantikoror för varje nivå efter nummer 6.
 Troglodytes	Creature Bonus: Troglodytes	Increases the Attack and Defense skills of any Troglodytes or Infernal Troglodytes for each level attained after 1st level.
 Resurrection	Spell Bonus: Resurrection	"Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units)."
 Mysticism	Secondary Skill Bonus: Mysticism	Receives a 5% per level bonus to Mysticism skill.
