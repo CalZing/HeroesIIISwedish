@@ -9,9 +9,9 @@ Status
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
 |               | Help.txt  (Andreas)    |              |
+|               | randtvrn.txt (Simon)  |              |
 | advevent.txt  |               |              |
 | HeroSpec.txt  |               |              |
-| randtvrn.txt  |               |              |
 | artevent.txt  |               |              |
 | HeroBios.txt  |               |              |
 | randsign.txt  |               |              |
