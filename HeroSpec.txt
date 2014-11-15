@@ -20,79 +20,79 @@ Rustningsmed	Sekundärförmåga: Rustningsmed	Får en 5% bonus till Rustningsmed
 Dvärgar	Varelsebonus: Dvärgar	Ökar Anfall- och Försvars-förmågan hos Dvärgar eller Stridsdvärgar för varje nivå efter nummer 2.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
 Dendroider	Varelsebonus: Dendroider	Ökar Anfall- och Försvars-förmågan hos Dendroidervakter eller Dendroidsoldater för varje nivå efter nummer 5.
-Resistance	Secondary Skill Bonus: Resistance	Får en 5% bonus till Motståndskraft-förmågan för varje nivå.
-Elves	Creature Bonus: Elves	Ökar Anfall- och Försvars-förmågan hos Skogsalver eller Storalver för varje nivå efter nummer 3.
-Unicorns	Creature Bonus: Unicorns	Ökar Anfall- och Försvars-förmågan hos Enhörningar eller Stridsenhörningar för varje nivå efter nummer 6.
-Logistics	Secondary Skill Bonus: Logistics	Får en 5% bonus till Logistik-förmågan för varje nivå.
+Resistance	Sekundärförmåga Bonus: Resistance	Får en 5% bonus till Motståndskraft-förmågan för varje nivå.
+Elves	Varelsebonus: Elves	Ökar Anfall- och Försvars-förmågan hos Skogsalver eller Storalver för varje nivå efter nummer 3.
+Unicorns	Varelsebonus: Unicorns	Ökar Anfall- och Försvars-förmågan hos Enhörningar eller Stridsenhörningar för varje nivå efter nummer 6.
+Logistics	Sekundärförmåga Bonus: Logistics	Får en 5% bonus till Logistik-förmågan för varje nivå.
 Slayer	Spell Bonus: Slayer	"Kasta Dräpare med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Cure	Spell Bonus: Cure	"Kasta Kurera med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Intelligence	Secondary Skill Bonus: Intelligence	Får en 5% bonus till Intelligens-förmågan för varje nivå.
-First Aid	Secondary Skill Bonus: First Aid	Får en 5% bonus till Första hjälpen-förmågan för varje nivå.
-Eagle Eye	Secondary Skill Bonus: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
+Intelligence	Sekundärförmåga: Intelligence	Får en 5% bonus till Intelligens-förmågan för varje nivå.
+First Aid	Sekundärförmåga: First Aid	Får en 5% bonus till Första hjälpen-förmågan för varje nivå.
+Eagle Eye	Sekundärförmåga: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
 Fortune	Spell Bonus: Fortune	"Kasta Välgång med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Ice Bolt	Spell Bonus: Ice Bolt	"Kasta Ispil med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Pegasi	Creature Bonus: Ökar Anfall- och Försvars-förmågan hos Pegaser eller Silverpegaser för varje nivå efter nummer 4.
-Gargoyles	Creature Bonus: Gargoyles	Ökar Anfall- och Försvars-förmågan hos Stenfilurer eller Obsidianfilurer för varje nivå efter nummer 2.
-Genies	Creature Bonus: Djinn	 Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 5.
-Golems	Creature Bonus: Golems	Ökar Anfall- och Försvars-förmågan hos Stengolemer eller Järngolemer för varje nivå efter nummer 3.
-Armorer	Secondary Skill Bonus: Armorer	Får en 5% bonus till Rustningsmed-förmågan för varje nivå.
+Pegasi	Varelsebonus: Ökar Anfall- och Försvars-förmågan hos Pegaser eller Silverpegaser för varje nivå efter nummer 4.
+Gargoyles	Varelsebonus: Gargoyles	Ökar Anfall- och Försvars-förmågan hos Stenfilurer eller Obsidianfilurer för varje nivå efter nummer 2.
+Genies	Varelsebonus: Djinn	 Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 5.
+Golems	Varelsebonus: Golems	Ökar Anfall- och Försvars-förmågan hos Stengolemer eller Järngolemer för varje nivå efter nummer 3.
+Armorer	Sekundärförmåga: Armorer	Får en 5% bonus till Rustningsmed-förmågan för varje nivå.
 Ballista	Artillery Bonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
-Nagas	Creature Bonus: Nagas	Ökar Anfall- och Försvars-förmågan hos Nagar eller Nagadrottningar för varje nivå efter nummer 6.
+Nagas	Varelsebonus: Nagas	Ökar Anfall- och Försvars-förmågan hos Nagar eller Nagadrottningar för varje nivå efter nummer 6.
 +1 Mercury	+1 Mercury each day.	Increases kingdom's mercury production by 1 per day.
-Genies	Creature Bonus: Genies	Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 5.
+Genies	Varelsebonus: Genies	Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 5.
 Hypnotize	Spell Bonus: Hypnotize	"Kasta Hypnotisera med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Mysticism	Secondary Skill Bonus: Mysticism	Får en 5% bonus till Mystik-förmågan för varje nivå.
-Eagle Eye	Secondary Skill Bonus: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
+Mysticism	Sekundärförmåga: Mysticism	Får en 5% bonus till Mystik-förmågan för varje nivå.
+Eagle Eye	Sekundärförmåga: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
 Fortune	Spell Bonus: Fortune	"Kasta Välgång med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Magi	Creature Bonus: Magi	Ökar Anfall- och Försvars-förmågan hos Magiker eller Ärkemagiker för varje nivå efter nummer 4.
+Magi	Varelsebonus: Magi	Ökar Anfall- och Försvars-förmågan hos Magiker eller Ärkemagiker för varje nivå efter nummer 4.
 Ch. Lightning	Spell Bonus: Chain Lightning	"Kasta Kedjeblixt med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Haste	Spell Bonus: Haste	"Kasta Skynda med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Hell Hounds	Creature Bonus: Hell Hounds	Ökar Anfall- och Försvars-förmågan hos Helveteshundar eller Cerberii för varje nivå efter nummer 3.
-Efreet	Creature Bonus: Efreet	Ökar Anfall- och Försvars-förmågan hos Ifrit eller Mästarifrit för varje nivå efter nummer 5.
-Demons	Creature Bonus: Demons	Ökar Anfall- och Försvars-förmågan hos Demoner eller Horndemoner för varje nivå efter nummer 4.
-Imps	Creature Bonus: Imps	Ökar Anfall- och Försvars-förmågan hos Pukar eller Bjäror för varje nivå efter nummer 1.
+Hell Hounds	Varelsebonus: Hell Hounds	Ökar Anfall- och Försvars-förmågan hos Helveteshundar eller Cerberii för varje nivå efter nummer 3.
+Efreet	Varelsebonus: Efreet	Ökar Anfall- och Försvars-förmågan hos Ifrit eller Mästarifrit för varje nivå efter nummer 5.
+Demons	Varelsebonus: Demons	Ökar Anfall- och Försvars-förmågan hos Demoner eller Horndemoner för varje nivå efter nummer 4.
+Imps	Varelsebonus: Imps	Ökar Anfall- och Försvars-förmågan hos Pukar eller Bjäror för varje nivå efter nummer 1.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Gogs	Creature Bonus: Gogs	Ökar Anfall- och Försvars-förmågan hos Goger eller Magoger för varje nivå efter nummer 2.
+Gogs	Varelsebonus: Gogs	Ökar Anfall- och Försvars-förmågan hos Goger eller Magoger för varje nivå efter nummer 2.
 Ballista	Artillery Bonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
-Pit Fiends	Creature Bonus: Pit Fiends	Ökar Anfall- och Försvars-förmågan hos Avgrundsbövlar eller Avgrundsmästare för varje nivå efter nummer 5.
-Intelligence	Secondary Skill Bonus: Intelligence	Får en 5% bonus till Intelligens-förmågan för varje nivå.
+Pit Fiends	Varelsebonus: Pit Fiends	Ökar Anfall- och Försvars-förmågan hos Avgrundsbövlar eller Avgrundsmästare för varje nivå efter nummer 5.
+Intelligence	Sekundärförmåga: Intelligence	Får en 5% bonus till Intelligens-förmågan för varje nivå.
 Inferno	Spell Bonus: Inferno	"Kasta Inferno med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Mysticism	Secondary Skill Bonus: Mysticism	Får en 5% bonus till Mystik-förmågan för varje nivå.
+Mysticism	Sekundärförmåga: Mysticism	Får en 5% bonus till Mystik-förmågan för varje nivå.
 Weakness	Spell Bonus: Weakness	"Kasta Svaghet med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 +1 Sulfur	+1 Sulfur each day.	Increases kingdom's sulfur production by 1 per day.
 Bloodlust	Spell Bonus: Bloodlust	"Kasta Blodtörst med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Sorcery	Secondary Skill Bonus: Sorcery	Receives a 5% per level bonus to Sorcery skill percentage.
+Sorcery	Sekundärförmåga: Sorcery	Receives a 5% per level bonus to Sorcery skill percentage.
 Fireball	Spell Bonus: Fireball	"Kasta Eldklot med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Walking Dead	Creature Bonus: Walking Dead	Ökar Anfall- och Försvars-förmågan hos Dödgångare eller Draugar för varje nivå efter nummer 2.
-Vampires	Creature Bonus: Vampires	Ökar Anfall- och Försvars-förmågan hos Vampyrer eller Vampyrherrar för varje nivå efter nummer 4.
-Liches	Creature Bonus: Liches	Ökar Anfall- och Försvars-förmågan hos Likhäxor eller Häxmästare för varje nivå efter nummer 5.
-Wights	Creature Bonus: Wights	Ökar Anfall- och Försvars-förmågan hos Gastar eller Vålnader för varje nivå efter nummer 3.
-Black Knights	Creature Bonus: Black Knights	Ökar Anfall- och Försvars-förmågan hos Svart riddare eller Skräckriddare för varje nivå efter nummer 6.
-Necromancy	Secondary Skill Bonus: Necromancy	Får en 5% bonus till Dödsmagi-förmågan för varje nivå.
+Walking Dead	Varelsebonus: Walking Dead	Ökar Anfall- och Försvars-förmågan hos Dödgångare eller Draugar för varje nivå efter nummer 2.
+Vampires	Varelsebonus: Vampires	Ökar Anfall- och Försvars-förmågan hos Vampyrer eller Vampyrherrar för varje nivå efter nummer 4.
+Liches	Varelsebonus: Liches	Ökar Anfall- och Försvars-förmågan hos Likhäxor eller Häxmästare för varje nivå efter nummer 5.
+Wights	Varelsebonus: Wights	Ökar Anfall- och Försvars-förmågan hos Gastar eller Vålnader för varje nivå efter nummer 3.
+Black Knights	Varelsebonus: Black Knights	Ökar Anfall- och Försvars-förmågan hos Svart riddare eller Skräckriddare för varje nivå efter nummer 6.
+Necromancy	Sekundärförmåga: Necromancy	Får en 5% bonus till Dödsmagi-förmågan för varje nivå.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Skeletons	Creature Bonus: Skeletons	Ökar Anfall- och Försvars-förmågan hos Skelett eller Skelettkrigare för varje nivå efter nummer 1.
+Skeletons	Varelsebonus: Skeletons	Ökar Anfall- och Försvars-förmågan hos Skelett eller Skelettkrigare för varje nivå efter nummer 1.
 Death Ripple	Spell Bonus: Death Ripple	"Kasta Dödsstöt med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Meteor Shower	Spell Bonus: Meteor Shower	"Kasta Meteorregn med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Sorcery	Secondary Skill Bonus: Sorcery	Receives a 5% per level bonus to Sorcery skill percentage.
-Eagle Eye	Secondary Skill Bonus: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
+Sorcery	Sekundärförmåga: Sorcery	Receives a 5% per level bonus to Sorcery skill percentage.
+Eagle Eye	Sekundärförmåga: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
 Animate Dead	Spell Bonus: Animate Dead	"Kasta Besjäla döda med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Stone Skin	Spell Bonus: Stone Skin	"Kasta Stenskinn med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Necromancy	Secondary Skill Bonus: Necromancy	Får en 5% bonus till Dödsmagi-förmågan för varje nivå.
+Necromancy	Sekundärförmåga: Necromancy	Får en 5% bonus till Dödsmagi-förmågan för varje nivå.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Harpies	Creature Bonus: Harpies	Ökar Anfall- och Försvars-förmågan hos Harpyor eller Vildvittror för varje nivå efter nummer 2.
+Harpies	Varelsebonus: Harpies	Ökar Anfall- och Försvars-förmågan hos Harpyor eller Vildvittror för varje nivå efter nummer 2.
 Ballista	Artillery Bonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 4.
-Minotaurs	Creature Bonus: Minotaurs	Ökar Anfall- och Försvars-förmågan hos Minotaurer eller Minotaurkungar för varje nivå efter nummer 5.
-Beholders	Creature Bonus: Beholders	Ökar Anfall- och Försvars-förmågan hos Åskådare eller Onda ögon för varje nivå efter nummer 2.
+Minotaurs	Varelsebonus: Minotaurs	Ökar Anfall- och Försvars-förmågan hos Minotaurer eller Minotaurkungar för varje nivå efter nummer 5.
+Beholders	Varelsebonus: Beholders	Ökar Anfall- och Försvars-förmågan hos Åskådare eller Onda ögon för varje nivå efter nummer 2.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
-Logistics	Secondary Skill Bonus: Logistics	Får en 5% bonus till Logistik-förmågan för varje nivå.
-Manticores	Creature Bonus: Manticores	Ökar Anfall- och Försvars-förmågan hos Manikoror eller Skorpionsvansmantikoror för varje nivå efter nummer 6.
-Troglodytes	Creature Bonus: Troglodytes	Ökar Anfall- och Försvars-förmågan hos Troglodyter eller Infernaliska Troglodyter för varje nivå efter nummer 1.
+Logistics	Sekundärförmåga: Logistics	Får en 5% bonus till Logistik-förmågan för varje nivå.
+Manticores	Varelsebonus: Manticores	Ökar Anfall- och Försvars-förmågan hos Manikoror eller Skorpionsvansmantikoror för varje nivå efter nummer 6.
+Troglodytes	Varelsebonus: Troglodytes	Ökar Anfall- och Försvars-förmågan hos Troglodyter eller Infernaliska Troglodyter för varje nivå efter nummer 1.
 Resurrection	Spell Bonus: Resurrection	"Kasta Återuppliva med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Mysticism	Secondary Skill Bonus: Mysticism	Får en 5% bonus till Mystik-förmågan för varje nivå.
-Sorcery	Secondary Skill Bonus: Sorcery	Receives a 5% per level bonus to Sorcery skill percentage.
+Mysticism	Sekundärförmåga: Mysticism	Får en 5% bonus till Mystik-förmågan för varje nivå.
+Sorcery	Sekundärförmåga: Sorcery	Receives a 5% per level bonus to Sorcery skill percentage.
 Resurrection	Spell Bonus: Resurrection	"Kasta Återuppliva med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Eagle Eye	Secondary Skill Bonus: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
+Eagle Eye	Sekundärförmåga: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
 Meteor Shower	Spell Bonus: Meteor Shower	"Kasta Meteorregn med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 +1 Crystal	+1 Crystal each day.	Increases kingdom's crystal production by 1 per day.
 Stone Skin	Spell Bonus: Stone Skin	"Kasta Stenskinn med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
@@ -102,32 +102,32 @@ Orcs	Creature Bonus: Orcs	Ökar Anfall- och Försvars-förmågan hos Orcher elle
 Rocs	Creature Bonus: Rocs	Ökar Anfall- och Försvars-förmågan hos Rockar eller Åskfåglar för varje nivå efter nummer 5.
 Goblins	Creature Bonus: Ökar Anfall- och Försvars-förmågan hos Kobold eller Hobkobold för varje nivå efter nummer 1.
 Ogres	Creature Bonus: Ogres	Ökar Anfall- och Försvars-förmågan hos Resar eller Bergsresar för varje nivå efter nummer 4.
-Offense	Secondary Skill Bonus: Offense	Får en 5% bonus till Offensiv-förmågan för varje nivå.
+Offense	Sekundärförmåga: Offense	Får en 5% bonus till Offensiv-förmågan för varje nivå.
 Wolf Riders	Creature Bonus: Wolf Riders	Ökar Anfall- och Försvars-förmågan hos Vargryttare eller Vargsplundrare för varje nivå efter nummer 2.
-Sorcery	Secondary Skill Bonus: Sorcery	Får en 5% bonus till Trolldom-förmågan för varje nivå.
+Sorcery	Sekundärförmåga: Sorcery	Får en 5% bonus till Trolldom-förmågan för varje nivå.
 Ogres	Creature Bonus: Ökar Anfall- och Försvars-förmågan hos Resar eller Bergsresar för varje nivå efter nummer 4.
-Logistics	Secondary Skill Bonus: Logistics	Får en 5% bonus till Logistik-förmågan för varje nivå.
+Logistics	Sekundärförmåga: Logistics	Får en 5% bonus till Logistik-förmågan för varje nivå.
 Haste	Spell Bonus: Haste	"Kasta Skynda med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Precision	Spell Bonus: Precision	"Kasta Precision med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Offense	Secondary Skill Bonus: Offense	Får en 5% bonus till Offensiv-förmågan för varje nivå.
-Eagle Eye	Secondary Skill Bonus: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
+Offense	Sekundärförmåga: Offense	Får en 5% bonus till Offensiv-förmågan för varje nivå.
+Eagle Eye	Sekundärförmåga: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
 +1 Gems	+1 Gems each day.	Increases kingdom's gem production by 1 per day.
 Basilisks	Creature Bonus: Basilisks	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
 Gnolls	Creature Bonus: Gnolls	Ökar Anfall- och Försvars-förmågan hos Krokotaur eller Krokotaurmarodörer för varje nivå efter nummer 1.
 Lizardmen	Creature Bonus: Lizardmen	Ökar Anfall- och Försvars-förmågan hos Ödlemän eller Ödlemänkrigare för varje nivå efter nummer 2.
-Armorer	Secondary Skill Bonus: Armorer	Tazar får en 5% bonus till Rustningsmed-förmågan för varje nivå.
+Armorer	Sekundärförmåga: Armorer	Tazar får en 5% bonus till Rustningsmed-förmågan för varje nivå.
 Gorgons	Creature Bonus: Ökar Anfall- och Försvars-förmågan hos Gorgoner eller Mäktiga Gorgoner för varje nivå efter nummer 5.
 Serpent Flies	Creature Bonus: Serpent Flies	Ökar Anfall- och Försvars-förmågan hos Dagsländor eller Trollsländor för varje nivå efter nummer 3.
 Ballista	Artillery Bonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
 Wyverns	Creature Bonus: Wyverns	Ökar Anfall- och Försvars-förmågan hos Lindormar eller Lindormsmonarker för varje nivå efter nummer 6.
 Weakness	Spell Bonus: Weakness	"Kasta Svaghet med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Mysticism	Secondary Skill Bonus: Mysticism	Får en 5% bonus till Mystik-förmågan för varje nivå.
-Navigation	Secondary Skill Bonus: Navigation	Får en 5% bonus till Navigation-förmågan för varje nivå.
-First Aid	Secondary Skill Bonus: First Aid	Får en 5% bonus till Första hjälpen-förmågan för varje nivå.
+Mysticism	Sekundärförmåga: Mysticism	Får en 5% bonus till Mystik-förmågan för varje nivå.
+Navigation	Sekundärförmåga: Navigation	Får en 5% bonus till Navigation-förmågan för varje nivå.
+First Aid	Sekundärförmåga: First Aid	Får en 5% bonus till Första hjälpen-förmågan för varje nivå.
 Stone Skin	Spell Bonus: Stone Skin	"Kasta Stenskinn med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Sorcery	Secondary Skill Bonus: Sorcery	Får en 5% bonus till Trolldom-förmågan för varje nivå.
-Intelligence	Secondary Skill Bonus: Intelligence	Får en 5% bonus till Intelligens-förmågan för varje nivå.
-Eagle Eye	Secondary Skill Bonus: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
+Sorcery	Sekundärförmåga: Sorcery	Får en 5% bonus till Trolldom-förmågan för varje nivå.
+Intelligence	Sekundärförmåga: Intelligence	Får en 5% bonus till Intelligens-förmågan för varje nivå.
+Eagle Eye	Sekundärförmåga: Eagle Eye	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
 Psychic Ele.	Creature Bonus: Psychic Elementals	Psychic/Magic elementals receive +3 Att and +3 Def.
 Earth Ele.	Creature Bonus: Earth Elementals	"Earth/Magma elementals receive +2 Att, +1 Def, and +5 Dmg."
 Fire Elementals	Creature Bonus: Fire Elementals	"Fire/Energy elementals receive +1 Att, +2 Def, and +2 Dmg."
@@ -145,7 +145,7 @@ Disrupting Ray	Spell Bonus: Disrupting Ray	"Braheten i Störande stråle ökar m
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
 +350 Gold	+350 Gold each day	Increases kingdom's income by 350 gold per day.
 Speed	Creature Bonus: Speed	Alla varelser får sjukt nog +2 i Hastighet!
-Fire Magic	Secondary Skill Bonus: Exp. Fire Magic	Starts with Expert Fire Magic.
+Fire Magic	Sekundärförmåga: Exp. Fire Magic	Starts with Expert Fire Magic.
 Swordsmen	Creature Bonus: Swordsmen	Ökar Anfall- och Försvars-förmågan hos Fäktare eller Korsfarare för varje nivå efter nummer 4.
 Enchanters	Creature Bonus: Enchanters	Can upgrade Monks or Zealots and Magi or Arch Magi to Enchanters.
 Sharpshooters	Creature Bonus: Sharpshooters	Can upgrade Archers or Marksmen and Wood Elves or Grand Elves to Sharpshooters.
