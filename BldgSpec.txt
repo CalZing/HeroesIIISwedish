@@ -8,7 +8,7 @@ Svärdets Brödrarskap	"Under en belägring så ökar Svärdets Brödrarskap dina trupp
 		
 		
 Kolossen	"Kolossens närvaro ökar den veckoliga tillväxten av varelser med 50%, ökar din dagliga inkomst av guld med 5000, och ökar alla allierade hjältars moral med +2."	
-Resurssilo	Resurssilon förser dig med +ytterligare 1 trä och +1 sten varje dag.	
+Resurssilo	Resurssilon förser dig med +ytterligare 1 trä och +1 malm varje dag.	
 Mystisk Damm	Den Mystiska Dammen producerar en liten mängd slumpade resurser varje vecka.	
 Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar produktionen av Dvärgar med 4 per vecka.	
 Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar produktionen av Stridsdvärgar med 4 per vecka.	
@@ -19,7 +19,7 @@ Skattkammare	Skattkammaren ger dig 10% ränta på det guld du har i början av varj
 Dendroidstickling	Dendroidsticklingarna ökar produktionen av Dendroid Guard med 2 per vecka.	
 Dendroidstickling	Dendroidsticklingarna ökar produktionen av Dendroid Soldier med 2 per vecka.	
 Andeväktaren	"Närvaron av Andeväktaren ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och ökar alla allierade hjältars tur med +2."	
-Resurssilo	Resurssilon förser dig med ytterligare +1 kristall sten varje dag.	
+Resurssilo	Resurssilon förser dig med ytterligare +1 kristall varje dag.	
 Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
 Skulptörsvingar	Skulptörsvingar ökar produktionen av Stenfilurer med 4 per vecka.	
 Skulptörsvingar	Skulptörsvingar ökar produktionen av Obisdianfilurer med 4 per vecka.	
@@ -52,7 +52,7 @@ Skelettransformator	Skelettransformatorn låter dig konvertera vilken varelse som
 		
 		
 Själafängelse	"Närvaron av Själafängelset ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt imperie med ytterligare 5000 guld varje dag och höjer nekromantiförmågan hos alla allierade hjältar (som innehar förmågan) med 20%."	
-Resurssilo	Resurssilon förser dig med ytterligare +1 trä och +1 sten varje dag.	
+Resurssilo	Resurssilon förser dig med ytterligare +1 trä och +1 malm varje dag.	
 Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
 Svampringar	Svampringarna ökar produktionen av Troglodyter med 7 per vecka.	
 Svampringar	Svampringarna ökar produktionen av Infernaliska Troglodyter med 7 per vecka.	
@@ -74,7 +74,7 @@ Valhallahallen	Valhallahallen ökar Anfallsförmågan hos en besökande hjälte med +
 		
 		
 Krigsherrarnas Monument	"Närvaron av Krigsherrarnas Monument ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och ökar Anfallsförmågan hos en garnisonsjälte med +20 vid försvar mot en belägring."	
-Resurssilo	Resurssilon förser dig med ytterligare +1 trä och +1 sten varje dag.	
+Resurssilo	Resurssilon förser dig med ytterligare +1 trä och +1 malm varje dag.	
 Krigsherrarnas Bur	Krigsherrarnas Bur ökar försvarsförmågan hos varje besökande hjälte med +1.	
 Kaptenskvarteren	Kaptenskarteren ökar produktionen av Krokutaurer med 6 per vecka.	
 Kaptenskvarteren	Kaptenskarteren ökar produktionen av Krokutaurmarodörer med 6 per vecka.	
@@ -85,7 +85,7 @@ Blodobelisk	Närvaron av en Blodobelisk adderar +2 till en garnisonshjältes anfal
 		
 		
 Köttätande Växt	"Närvaron av den Köttändande Växten ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och ökar Anfalls- och Försvarsstyrkan hos en garnisonshäjlte med +10 vardera vid försvar mot en belägring."	
-Resurssilo	Resurssilon förser dig med +1 trä och +1 sten varje dag.	
+Resurssilo	Resurssilon förser dig med +1 trä och +1 malm varje dag.	
 Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
 Livets Trädgård	Denna byggnad ökar den veckoliga produktionen av Älvor med 10 per vecka.	
 Livets Trädgård	Denna byggnad ökar den veckoliga produktionen av Diser med 10 per vecka.	

@@ -49,13 +49,13 @@ Grundläggande Ledarskap ökar dina truppers moral med 1."	"{Avancerat Ledarskap}
 Avancerat Ledarskap ökar dina truppers moral med 2."	"{Sofistikerat Ledarskap}
 
 Sofistikerat Ledarskap ökar dina truppers moral med 3."
-Visdom	"{Grundläggande Visdom}
+Vishet	"{Grundläggande Vishet}
 
-Grundläggande Visdom låter din hjälte lära sig trollformler av tredje nivån."	"{Avancerad Visdom}
+Grundläggande Vishet låter din hjälte lära sig trollformler av tredje nivån."	"{Avancerad Vishet}
 
-Avancerad Visdom låter din hjälte lära sig trollformler av fjärde nivån."	"{Mästerlig Visdom}
+Avancerad Vishet låter din hjälte lära sig trollformler av fjärde nivån."	"{Mästerlig Vishet}
 
-Visdom låter din hjälte lära sig trollformler av femte nivån."
+Vishet låter din hjälte lära sig trollformler av femte nivån."
 Mystik	"{Grundläggande Mystik}
 
 Grundläggande Mystik låter din hjälte återhämta 2 trollformelspoäng per dag."	"{Avancerad Mystik}

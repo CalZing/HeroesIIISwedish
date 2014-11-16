@@ -2,7 +2,7 @@
 Name	Low	High	Type (reference only)	Low	High	Type (reference only)	Low	High	Type (reference only)
 Orren	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Valeska	4	7	LightCrossbowman	4	7	LightCrossbowman	4	7	LightCrossbowman
-Edric	10	20	Pikeman	2	3	Griffin	2	3	Griffin
+Erik	10	20	Pikeman	2	3	Griffin	2	3	Griffin
 Sylvia	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Härskare Haart	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Sorsha	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin

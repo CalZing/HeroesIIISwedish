@@ -495,7 +495,7 @@ Vill du slåss mot vakterna?"
 "%d %s går med i din armé.
 "
 "För länge sedan var detta en stad fylld av drakar. Nu hörs bara vindens sus i dessa majestätiska salar."
-"%s skulle gå med dig, men du har inte tillräckligt med resurser för att underhålla dem."
+"%s skulle gå med dig, men du har inte tillräckligt med utrymme för att underhålla dem."
 artefakt
 artefakter
 av varje resurs
