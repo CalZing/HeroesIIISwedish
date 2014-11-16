@@ -478,198 +478,199 @@ Avsluta Heroes of Might and Magic III"
 "HERO_SPEED_GALLOP_ID,"	Sätt hjältehastighet till gallopera
 "HERO_SPEED_JUMP_ID,"	"Sätt hjältehastighet till hoppa
 (ingen animering - snabbast)"
-"AI_SPEED_CANTER_ID,"	"Set enemy hero speed to canter
-(slowest)"
-"AI_SPEED_GALLOP_ID,"	Set enemy hero speed to gallop
-"AI_SPEED_JUMP_ID,"	"Set enemy hero speed to jump
-(no animation - fastest)"
-"AI_SPEED_NONE_ID,"	Do not show enemy movement
-"WINDOW_SCROLL_SLOW,"	Set map scroll speed to slow
-"WINDOW_SCROLL_MEDIUM,"	Set map scroll speed to medium
-"WINDOW_SCROLL_FAST,"	Set map scroll speed to fast
-"SHOW_PATH_ID,"	"{Show Move Path}
+"AI_SPEED_CANTER_ID,"	"Sätt fiendens hjältehastighet till trava
+(långsammast)"
+"AI_SPEED_GALLOP_ID,"	Sätt fiendens hjältehastighet till gallopera
+"AI_SPEED_JUMP_ID,"	"Sätt fiendens hjältehastighet till hoppa
+(ingen animering - snabbast)"
+"AI_SPEED_NONE_ID,"	Visa inte fiendeförflyttningar
+"WINDOW_SCROLL_SLOW,"	Sätt kartans förflyttnings hastighet till långsam
+"WINDOW_SCROLL_MEDIUM,"	Sätt kartans förflyttnings hastighet till mellan
+"WINDOW_SCROLL_FAST,"	Sätt kartans förflyttnings hastighet till snabb
+"SHOW_PATH_ID,"	"{Visa Förflyttningsrutt}
 
-When checked, will display a hero's movement path without moving the hero."
-"MOVE_REMINDER_ID,"	"{Show Hero Reminder}
+När detta är valt visas en hjältes förflyttningsrutt utan att förflytta hjälten."
+"MOVE_REMINDER_ID,"	"{Visa Hjältespåminnelse}
 
-When a player has any heroes with movement points remaining, they will asked to confirm an End Turn order."
-"QUICK_COMBAT_ID,"	"{Quick Combat}
+När en spelare har hjältar med kvarvarande förflyttningspoäng, kommer denne ombedes att bekräfta Turavslutningen."
+"QUICK_COMBAT_ID,"	"{Snabbstrid}
 
-This option allows the computer to handle all combat calculations, and the player will only be shown the Combat Results screen."
-"VIDEO_SUBTITLES_ID,"	"{Video Subtitles}
+Detta alternativ låter datorn hantera all stridskalkyl och spelaren kommer endast se Stridsresultatsskärmen."
+"VIDEO_SUBTITLES_ID,"	"{Videoundertexter}
 
-This option will display subtitles on any of the animated cutscenes."
-VIDEO_QUALITY_LOW	"{Low Quality Video}
+Detta alternativ visar undertexter på de animerade småfilmerna."
+VIDEO_QUALITY_LOW	"{Lågkvalitetsvideo}
 
-This option is reccommended for slower computers which have Svårighetsgrad running the videos at full screen."
-VIDEO_QUALITY_HIGH	"{High Quality Video}
+Detta alternativ rekommenderas för långsammare datorer som har svårt att köra videos i fullskärmsläge."
+VIDEO_QUALITY_HIGH	"{Högkvalitetsvideo}
 
-Faster machines can handle more data, and this this option allows those machines to view the videos at their highest quality."
-"TOWN_OUTLINES_ID,"	"{Town Outlines}
+Snabbare maskinder kan hantera mer data. och detta alternativ låter dessa maskiner visa filmerna på deras högsta kvalitet. "
+"TOWN_OUTLINES_ID,"	"{Stadskonturer}
 
-In the town screen, any accessible building will display an outline when the mouse cursor is placed over it."
-"ANIMATE_SPELLBOOK_ID,"	"{Animate Spell Book}
+På stadsskärmen kommer varje tillgänglig byggnad att visa en kontur när muspekaren placeras över den."
+"ANIMATE_SPELLBOOK_ID,"	"{Animera Trollformelsbok}
 
-Shows page turning animation in the spell book."
+Visar bläddringsanimation i trollformelsboken."
 																							
-Adventure Options																							
-View World	"{View World}
+Äventyrsalternativ																							
+Se Världen	"{Se Världen}
 
-See a bird's eye view of the world"																						
-View Puzzle	"{View Puzzle}
+Visar ett fågelperspektiv över välden"																						
+Se Pussel	"{Se Pussel}
 
-See the map of the buried object"																						
-View Scenario Info	"{View Scenario Info}
+Visar kartan över det nedgrävda objektet"																						
+Se Scenarioinformation	"{Se Scenarioinformation}
 
 View information about the current scenario"																						
-Dig	"{Dig}
+Gräv	"{Gräv}
 
-Search the area for the buried Grail"																						
-Replay Opponent Turn	"{Replay Opponent Turn}
+Genomsök området efter den begravda Gralen"																						
+Spela Om Motståndares Tur	"{Spela Om Motståndares Tur}
 
-Replays events since your last turn"																						
+Spelar om händelser sedan din förra tur"																						
 ROLLOVER	ROLLOVER																						
-Okay	"{Okay}
+Okej	"{Okej}
 
-Return to the Adventure Map"																						
+Återgå till Äventyrskartan"																						
 																							
-Combat Window	Combat Window																						
-Surrender	"{Surrender}
+Stridsfönster	Stridsfönster																						
+Ge Upp	"{Ge Upp}
 
-Offer to surrender to your enemy.  Your hero must pay to leave combat, but may be immediately recruited at a tavern along with any troops and artifacts currently in his possession."																						
-Retreat	"{Retreat}
+Erbjud att ge upp för din fiende.  Din hjälte måste betala för att lämna striden, men kan omedelbart rekryteras på en taverna tillsammans med återstående trupper och artifakter i dess ägo."																						
+Fly	"{Fly}
 
-Your hero will flee the combat, but may be immediately recruited at a tavern along with any artifacts currently in his possession."																						
-Combat Options	"{Combat Options}
+Din hjälte flyr från striden, men kan omedelbart rekryteras på en taverna tillsammans med återstående artefakter i dess ägo."																						
+Stridsalternativ	"{Stridsalternativ}
 
-Allows you to view or change the current combat options"																						
-Auto Combat	"{Auto Combat}
+Låter dig se eller ändra nuvarande stridsalternativ"																						
+Autostrid	"{Autostrid}
 
-Allows the computer to conduct the combat for you.  Click anywhere during auto combat to take control of your own troops.  You will be given control on your next unit's move phase."																						
-	Combat text appears in this window																						
-	Scroll through text displayed during combat																						
-Cast Spell	"{Cast Spell}
+Låter datorn sköta striden åt dig.  Klicka vart som helst under autostriden för att ta kontrollen över dina trupper.  Du kommer att ges kontrol på din nästa enhets förflyggningsfas."																						
+	Stridstext visas i detta fönstret																						
+	Bläddra igenom text som visas under strid																						
+Kasta trollformel	"{Kasta trollformel}
 
-Opens your hero's spell book, allowing you to cast a spell"																						
-Wait	"{Wait}
+Öppnar din hjältes trollformelsbok, vilket låter dig kasta en trollformel"																						
+Vänta	"{Vänta}
 
-Delay this unit's turn until after all troops have had the opportunity to move"																						
-Defend	"{Defend}
+Fördröjer denna enhetens drag tills efter alla trupper har fått möjligheten att förflytta sig"																						
+Försvara	"{Försvara}
 
-Increases this unit's defense value by sacrificing its move this turn"																						
-Phase Wait	Phase Wait																						
-End Tactics Phase	"{End Tactics Phase}
+Ökar denna enhets försvarsvärde genom att avstå dess förflyttning denna tur"																						
+Väntefas	Väntefas																						
+Avsluta Strategifas	"{Avsluta Strategifas}
 
-Ends the Tactics Phase and commences combat."																						
+Avslutar Strategifasen och påbörjar striden."																						
 																							
-Combat Options	Combat Options																						
-Return to Game	"{Return to Game}
+Stridsalternativ	Stridsalternativ																						
+Återgå till spelet	"{Återgå till spelet}
 
-Exit combat options"																						
-Restore Default Values	"{Default}
+Avsluta Stridsalternativ"																						
+Återställ Grundvärden	"{Grundvärden}
 
 Restores combat option default values"																						
-"MUSIC_VOLUME_0_ID,"	Turn off music																						
-"MUSIC_VOLUME_1_ID,"	Set music volume to 1																						
-"MUSIC_VOLUME_2_ID,"	Set music volume to 2																						
-"MUSIC_VOLUME_3_ID,"	Set music volume to 3																						
-"MUSIC_VOLUME_4_ID,"	Set music volume to 4																						
-"MUSIC_VOLUME_5_ID,"	Set music volume to 5																						
-"MUSIC_VOLUME_6_ID,"	Set music volume to 6
-"MUSIC_VOLUME_7_ID,"	Set music volume to 7
-"MUSIC_VOLUME_8_ID,"	Set music volume to 8
-"MUSIC_VOLUME_9_ID,"	Set music volume to 9
-"EFFECTS_VOLUME_0_ID,"	Turn off sound effects
-"EFFECTS_VOLUME_1_ID,"	Set sound effects volume to 1
-"EFFECTS_VOLUME_2_ID,"	Set sound effects volume to 2
-"EFFECTS_VOLUME_3_ID,"	Set sound effects volume to 3
-"EFFECTS_VOLUME_4_ID,"	Set sound effects volume to 4
-"EFFECTS_VOLUME_5_ID,"	Set sound effects volume to 5
-"EFFECTS_VOLUME_6_ID,"	Set sound effects volume to 6
-"EFFECTS_VOLUME_7_ID,"	Set sound effects volume to 7
-"EFFECTS_VOLUME_8_ID,"	Set sound effects volume to 8
-"EFFECTS_VOLUME_9_ID,"	Set sound effects volume to 9
+Återställer Stridsalternativens grundvärden"																						
+"MUSIC_VOLUME_0_ID,"	Stäng av musik																						
+"MUSIC_VOLUME_1_ID,"	Sätt musikvolym till 1																						
+"MUSIC_VOLUME_2_ID,"	Sätt musikvolym till 2																						
+"MUSIC_VOLUME_3_ID,"	Sätt musikvolym till 3																						
+"MUSIC_VOLUME_4_ID,"	Sätt musikvolym till 4																						
+"MUSIC_VOLUME_5_ID,"	Sätt musikvolym till 5																						
+"MUSIC_VOLUME_6_ID,"	Sätt musikvolym till 6
+"MUSIC_VOLUME_7_ID,"	Sätt musikvolym till 7
+"MUSIC_VOLUME_8_ID,"	Sätt musikvolym till 8
+"MUSIC_VOLUME_9_ID,"	Sätt musikvolym till 9
+"EFFECTS_VOLUME_0_ID,"	Stäng av ljudeffekter
+"EFFECTS_VOLUME_1_ID,"	Sätt ljudeffektsvolym till 1
+"EFFECTS_VOLUME_2_ID,"	Sätt ljudeffektsvolym till 2
+"EFFECTS_VOLUME_3_ID,"	Sätt ljudeffektsvolym till 3
+"EFFECTS_VOLUME_4_ID,"	Sätt ljudeffektsvolym till 4
+"EFFECTS_VOLUME_5_ID,"	Sätt ljudeffektsvolym till 5
+"EFFECTS_VOLUME_6_ID,"	Sätt ljudeffektsvolym till 6
+"EFFECTS_VOLUME_7_ID,"	Sätt ljudeffektsvolym till 7
+"EFFECTS_VOLUME_8_ID,"	Sätt ljudeffektsvolym till 8
+"EFFECTS_VOLUME_9_ID,"	Sätt ljudeffektsvolym till 9
 "MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
 "MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
 "MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
-"AUTO_CREATURES_ID,"	"{Creatures}
+"AUTO_CREATURES_ID,"	"{Varelser}
 
-Gives control of your units to auto combat"
-"AUTO_SPELLS_ID,"	"{Spells}
+Ger kontroll över dina enheter i strid"
+"AUTO_SPELLS_ID,"	"{Trollformler}
 
-During auto combat your hero will cast spells"
-"AUTO_CATAPULT_ID,"	"{Catapult}
+Under autostrid kommer din hjälte kasta trollformler"
+"AUTO_CATAPULT_ID,"	"{Katapult}
 
-When laying siege to an enemy's castle, your catapult troops will decide which part of the fortifications to target.  If your Ballistics skill is high enough, you will be able to direct the catapult's fire yourself.
+När du belägrar ett fiendestlott kommer dina katapultstrupper bestämma vilken del av fortifikationen som beskjuts.  Om din Ballistiksförmåga är tillräckligt hög kommer du kunna rikta katapultens skott själv.
 
-If your hero has the Ballistics skill, this option will give that control to the computer during auto combat."
+Om din hjälte har Ballistikförmågan kommer denna kontroll ges till datorn under autostrid."
 "AUTO_BALLISTA_ID,"	"{Ballista}
 
-During combat, your ballista troops will decide which  enemy units to target.  If your Artillery skill is high enough, you will be able to direct the ballista's fire yourself.
+Under strid kommer dina ballistatrupper bestämma vilken fiendeenhet som beskjuts.  Om din artilleriförmåga är tillräckligt hög kommer du kunna rikta ballistans skott själv.
 
-If your hero has the Artillery skill, this option will give that control to the computer during auto combat."
-"AUTO_FIRST_AID_TENT_ID,"	"{First Aid Tent}
+Om din hjälte har Artilleriförmågan kommer detta alternativ ge den kontrollen åt datorn under autostrid."
+"AUTO_FIRST_AID_TENT_ID,"	"{Första Hjälpen-Tält}
 
-During combat, your first aid troops will choose who needs to be healed.  If your First Aid skill is high enough, you will be able to direct the first aid tent yourself.
+Under strid kommer dina första hjälpen-trupper välja vem som behöver helas.  Om din Första Hjälpen-förmåga är tillräckligt hög kommer du kunna styra första hjälpen-tältet själv.
 
-If your hero has the First Aid skill, this option will give that control to the computer during auto combat."
-"ANIMATION_SPEED_0_ID,"	Set animation speed to slow
-"ANIMATION_SPEED_1_ID,"	Set animation speed to medium
-"ANIMATION_SPEED_2_ID,"	Set animation speed to fast
-"CREATURE_INFO_STATS_ID,"	"{All Statistics}
+Om din hjälte har Första Hjälpen-förmågan kommer detta alternativ ge datorn kontrollen under autostrid."
+"ANIMATION_SPEED_0_ID,"	Sätt animeringshastighet till långsam
+"ANIMATION_SPEED_1_ID,"	Sätt animeringshastighet till mellan
+"ANIMATION_SPEED_2_ID,"	Sätt animeringshastighet till snabb
+"CREATURE_INFO_STATS_ID,"	"{All Statistik}
 
-Right clicking on a unit will display all statistics about the unit, including any spells that are currently in effect."
-"CREATURE_INFO_SPELLS_ID,"	"{Spells Only}
+Att Högerklicka på en enhet visar all statistik om enheten, inkluderat trollformler som påverkar för tillfället."
+"CREATURE_INFO_SPELLS_ID,"	"{Endast Trollformler}
 
-Right clicking on a unit will only display any spells that are currently affecting the unit."
+Att Högerklicka på en enhete kommer endast visa trollformler som påverkar enheten för tillfället."
 "VIEW_HEX_ID,"	"{View Hex Grid}
 
-Displays a hex grid over the battlefield."
-"MOVEMENT_SHADOW_ID,"	"{Movement Shadow}
+Visar hexahonmönster över slagfältet."
+"MOVEMENT_SHADOW_ID,"	"{Förflyttningsskugga}
 
-Displays a shadow on the battlefield which shows where a unit can currently move to."
-"SHADOW_CURSOR_ID,"	"{Cursor Shadow}
+Visar en skugga över slagfältet som visar vart en enhet för tillfället kan förflytta sig."
+"SHADOW_CURSOR_ID,"	"{Pekarskugga}
 
-Places a hex shadow under the mouse cursor."
-"ANIMATE_SPELLBOOK_ID,"	"{Animate Spell Book}
+Visar en hexagonskugga under muspekaren."
+"ANIMATE_SPELLBOOK_ID,"	"{Animera Trollformelsbok}
 
-Shows page turning animation in the spell book."
+Visar bläddringsanimation i trollformelsboken."
 	
-View Army	View Army																						
-Creature Name	Creature Name																						
-Number of creatures	Number of creatures in the unit																						
-Attack skill	Attack skill																						
-Defense skill	Defense skill																						
-Shots remaining	Number of shots remaining																						
-Damage per attack	Damage per attack																						
-Hit points	Hit points																						
-Hit points remaining	Hit points remaining																						
-Speed	Speed																						
-Morale	Morale																						
-Luck	Luck																						
-Spells affecting the army	Spells affecting the army																						
-Dismiss unit	"{Dismiss Unit}
+Granska Armé	Granska Armé																						
+Varelsenamn	Varelsenamn																						
+Antal varelser	Antalet varelse i enheten																						
+Anfallsförmåga	Anfallsförmåga																						
+Försvarsförmåga	Försvarsförmåga																						
+Återstående Skott	Antal återstående skott																						
+Skada per anfall	Skada per anfall																						
+Hälsopoäng	Hälsopoäng																						
+Återstående Hälsopoäng	Återstående Hälsopoäng																						
+Hastighet	Hastighet																						
+Moral	Moral																						
+Tur	Tur																						
+Trollformler som påverkar armén	Trollformler som påverkar armén																						
+Avfärda Enhet	"{Avfärda Enhet}
 
-Dismisses the current unit from your army"																						
-Upgrade unit	"{Upgrade Unit}
+Avfärdar den nuvarande enheten från din armé"																						
+Uppgradera Enhet	"{Uppgradera Enhet}
 
-Upgrades the current unit"																						
-Okay	"{Okay}
+Uppgradera den nuvarande enheten"																						
+Okay	"{Okej}
 
-Return to previous window"																						
+Återgå till föregående fönster"																						
 																							
-Spell Book	Spell Book																						
-Previous Page	Turn to the previous page																						
+Trollformelsbok	Trollformelsbok																						
+Föregående Sida	Bläddra till den föregående sidan																						
 Next Page	Turn to the next page																						
-Adventure Map Spells	Turn to view adventure map spells																						
-Combat Spells	Turn to view combat spells																						
-Air Spells	Turn to view Air spells																						
-Fire Spells	Turn to view Fire spells																						
-Water Spells	Turn to view Water spells																						
-Earth Spells	Turn to view Earth spells																						
-All Spells	Show all spell schools																						
-Spell Points	Hero's remaining spell points																						
-Exit	Close the Spell Book																						
+Äventyrskartstrollformler	Bläddra för att se äventyrskartstrollformler																						
+Stridstrollformler	Bläddra för att se stridstrollformler																						
+Lufttrollformler	Bläddra för att se Lufttrollformler																						
+Eldtrollformler	Bläddra för att se Eldtrollformler																						
+Vattentrollformler	Bläddra för att se Vattentrollformler																						
+Jordtrollformler	Bläddra för att se Jordtrollformler																						
+Alla Trollformler	Visa alla magiskolor																						
+Trollformelspoäng	Hjältens återstående trollformelspoäng																						
+Avsluta	Stäng Trollformelsboken																						
 																							
 CampaignBrief	CampaignBrief																						
 																							
@@ -765,91 +766,90 @@ Spectre of Power	Spectre of Power
 																							
 ROLLOVER	ROLLOVER																						
 																							
-Recruit	Recruit																						
-Maximum																							
-Recruit																							
-Cancel																							
+Rekrytera	Rekrytera																						
+Maximalt																							
+Rekrytera																							
+Avbryt																							
 																							
-Multiplayer	Multiplayer																						
-Check Box	Click this to enable/disable name																						
-Enter Player Name	Enter Player Name																						
+Flera Spelare	Flera Spelare																						
+Bockruta	Klicka här för att aktivera/avaktivera namn																						
+Ange Spelarnamn	Ange Spelarnamn																						
 OK																							
-Back																							
-Enter Session Name																							
-Enter Password																							
-Session Name																							
-Enter IP Address																							
+Tillbaka																							
+Ange Sessionsnamn																							
+Ange Lösenord																							
+Sessionsnamn																							
+Ange IP-Adress																							
 																							
-Sacrifice Window	Sacrifice Window																						
-Exit (nothing will be sacrificed).	Leave the Altar.  All items currently on the Altar will be returned to you.																						
-Currently held artifact																							
-Place all artifacts in backpack on altar	Move items in your hero's backpack on to the Altar.																						
-Place all artifacts on the altar	"Move all artifacts, both equipped and in your hero's backpack, on to the Altar."																						
-Sacrifice creatures	Switch to Sacrifice Creatures.  Only available for Evil and Neutral heroes.																						
-Number of creatures / Experience value																							
-Currently selected creatures																							
-Number of creatures / Experience value																							
-Number of creatures to sacrifice																							
-Set number of creatures to sacrifice																							
-Sacrifice maximum number of creatures	Move the maximum number of creatures on to the Altar.																						
-Sacrifice all creatures in your hero's army	Move all but one creature on to the Altar.																						
-Sacrifice artifacts	Switch to Sacrifice Artifacts screen.  Only available for Good and Neutral heroes.																						
-Number of creatures / Experience value																							
-Place artifact to sacrifice here																							
-Experience value of artifact																							
-Sacrifice artifacts currently on the altar	"Sacrifice anything currently on the Altar, and gain experience."																						
-Sacrifice creatures currently on the altar	"Sacrifice anything currently on the Altar, and gain experience."																						
-	Search through backpack																						
-	Search through backpack																						
+Offerfönster	Offerfönster																						
+Avsluta (inget kommer att offras).	Lämna Altaret.  Alla föremål som för tillfället är på altaret kommer återlämnas till dig.																						
+Nuvarande hållen artefakt																							
+Placera alla artefakter i ryggsäcken på altare	Flytta föremål i den hjältes ryggsäck till altaret.																						
+Placera alla artefakter på altaret	"Flytta alla artefakter, både burna och i din hjältes ryggsäck, på altaret."																						
+Offra Varelser	Växla till Offra Varelser.  Endast tillgängligt för Onda eller Neutrala hjältar.																						
+Antal varelser / Erfarenhetsvärde																							
+Nuvarande valda varelser																							
+Antal varelser / Erfarenhetsvärde																							
+Antal varelser att offra																							
+Sätt antal varelser att offra																							
+Offra maximalt antal varelser	Flytta det maximala antalet varelset till Altaret.																						
+Offra alla varelser i din hjältes armé	Flytta alla utom en varelse till Altaret.																						
+Offra Artefakter	Växla till Offra Artefakter-skärmen.  Endast tillgängligt för Goda och Neutrala hjältar.																						
+Antal varelser / Erfarenhetsvärde																							
+Placera artefakt att offra här																							
+Artefaktens Erfarenhetsvärde																							
+Offra artafakter som för tillfället är på altaret	"Offra allt som för tillfället är på Altaret och få erfarenhet."																						
+Offra varelser som för tillfället är på altaret	"Offra allt som för tillfället är på Altaret och få erfarenhet."																						
+	Sök igenom ryggsäck																						
+	Sök igenom ryggsäck																						
 																							
-Skeleton Transformer	Skeleton Transformer																						
-Place all creatures in the transformer	Move all creatures into the transformer																						
-Change creatures in the transformer into undead	Change creatures in the Transformer into undead																						
-Exit transfomer	Leave the transformer.  No more creatures will become undead																						
+Skelettomvandlare	Skelettomvandlare																						
+Placera alla varelser i omvandlaren	Flytta alla varelser till omvandlaren																						
+Förändra varelser i omvandlaren till odöda	Förändrar varelser i Omvandlaren till odöda																						
+Avsluta Omvandlare	Lämnar omvandlaren.  Inga fler varelser kommer bli odöda																						
 																							
-Trade Window	Trade Window																						
-Trade																							
-Maximum																							
-Give resources to another player																							
-Buy artifacts																							
-Sell creatures																							
-Exit																							
+Handelsfönster	Handelsfönster																						
+Byt																							
+Maximalt																							
+Ge resurser till en annan spelare																							
+Köp artefakter																							
+Sälj varelser																							
+Avsluta																							
 																							
-Give Resource Window	Give Resource Window																						
-Trade																							
-Maximum																							
-Trade Resources																							
-Buy artifacts																							
-Exit																							
+Ge Resurs-Fönster	Ge Resurs-Fönster																						
+Byt																							
+Maximalt																							
+Byt resurser																							
+Byt artefakter																							
+Avsluta																							
 																							
-Buy Artifact Window	Buy Artifact Window																						
-Trade																							
-Trade resources																							
-Give resources to another player																							
-Sell artifacts																							
-Exit																							
+Köp Artefakt-Fönster	Köp Artefakt-Fönster																						
+Byt																							
+Byt resurser																							
+Ge resurser till en annan spelare																							
+Sälj artefakter																							
+Avsluta																							
 																							
-Sell Artifact Window	Sell Artifact Window																						
-Trade																							
-Trade resources																							
-Give resources to another player																							
-Buy artifacts																							
-Exit																							
+Sälj Artefakt-Fönster	Sälj Artefakt-Fönster																						
+Byt																							
+Byt resurser																							
+Ge resurser till en annan spelare																							
+Köp artefakter																							
+Avsluta																							
 																							
 Sell Creature Window	Sell Creature Window																						
-Trade																							
-Maximum																							
-Trade Resources																							
-Give resources to another player																							
-Exit																							
+Byt																							
+Maximalt																							
+Byt resurser																							
+Ge resurser till en annan spelare																							
+Avsluta																							
 																							
-University Window	University Window																						
-Cancel	Return to skill selection																						
-Leave the university	Leave the university																						
-	Learn %s %s for %d gold.																						
+Universitetsfönster	Universitetsfönster																						
+Avbryt	Återgå till förmågoval																						
+Lämna universitetet	Lämna universitetet																						
+	Lär %s %s för %d guld.																						
 Not used...  filthy bug.																							
 Insert all data before this line. Do not alter or delete this line.																							
 
 
 
-																							

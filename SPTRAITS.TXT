@@ -18,7 +18,7 @@ Chansen att lyckas är 50%.
 Åkallar en existerande, vänskaplig, ledig båt från vartsomhelst i världen till din plats.  Om inga båtar existerar så skapas en.
 
 Chansen att lyckas är 75%.
-"	"{Sofistikerad Åkalla båt}
+"	"{Mästerlig Åkalla båt}
 
 Åkallar en existerande, vänskaplig, ledig båt från vartsomhelst i världen till din plats.  Om inga båtar existerar så skapas en.
 "	 ADV_SPELL
@@ -37,7 +37,7 @@ Chansen att lyckas är 50%.
 Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 
 Chansen att lyckas är 75%.
-"	"{Sofistikerad Sänk Båt}
+"	"{Mästerlig Sänk Båt}
 
 Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
 "	 ADV_SPELL
@@ -50,7 +50,7 @@ Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison. Finn
 "	"{Avancerad Visioner}
 
 Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison. Finns det närbelägna kringvandrande monster får du reda på exakt antal trupper och om de är villiga att gå med din hjälte. Låter dig även avläsa en närliggande hjältes primärförmågor, varelsetyp och antal trupper, precis som om hjälten vore en del av ditt kungadöme.
-"	"{Sofistikerad Visioner}
+"	"{Mästerlig Visioner}
 
 Ger dig exakta siffror på kringvandrande monster och om de är villiga att gå med din hjälte. Låter dig även avläsa en närliggande hjältes primärförmågor, varelsetyp och antal trupper, precis som om hjälten vore en del av ditt kungadöme, liksom en närliggande stads statistik, garninsons varelser och kvantitet.
 "	 ADV_SPELL
@@ -63,7 +63,7 @@ Avslöjar alla resursplatser för kastaren.
 "	"{Avancerad Beskåda Jorden}
 
 Avslöjar alla resurs- och gruvplatser för kastaren.
-"	"{Sofistikerad Beskåda Jorden}
+"	"{Mästerlig Beskåda Jorden}
 
 Avslöjar alla resurs- och gruvplatser, samt visar hela terrängkartan för kastaren.
 "	 ADV_SPELL
@@ -76,7 +76,7 @@ Gör så att alla enheter i din armé ser ut som din starkaste enhet för alla fiend
 "	"{Avancerad Förklä}
 
 Gör så att alla enheter i din armé ser ut som din starkaste enhet för alla fiender som försöker beskåda din hjälte. Antalet i varje grupp förefaller vara noll.
-"	"{Sofistikerad Förklä}
+"	"{Mästerlig Förklä}
 
 Gör så att alla enheter i din armé ser ut som den starkaste enheten förknippad med din hjältetyp för alla fiender som försöker beskåda din hjälte. Antalet i varje grupp förefaller vara noll.
 "	 ADV_SPELL
@@ -89,7 +89,7 @@ Avslöjar platserna för alla tillgängliga artifakter för kastaren.
 "	"{Avancerad Beskåda Luften}
 
 Avslöjar platserna för alla tillgängliga artifakter, plus fiendens hjältar, för kastaren.
-"	"{Sofistikerad Beskåda Luften}
+"	"{Mästerlig Beskåda Luften}
 
 Avslöjar platserna för alla tillgängliga artifakter, plus fiendens hjältar och städer, för kastaren.
 "	 ADV_SPELL
@@ -102,7 +102,7 @@ Låter din armé använda delar av sin förflyttning till att flyga över hinder. Du 
 "	"{Avancerad Flyg}
 
 Låter din armé använda merparten av sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
-"	"{Sofistikerad Flyg}
+"	"{Mästerlig Flyg}
 
 Låter din armé använda hela sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
 "	 ADV_SPELL
@@ -115,7 +115,7 @@ Låter din armé använda delar av sin förflyttning till att korsa vattendrag. Du m
 "	"{Avancerad Vattenpromenad}
 
 Låter din armé använda merparten av sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
-"	"{Sofistikerad Vattenpromenad}
+"	"{Mästerlig Vattenpromenad}
 
 Låter din armé använda hela sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
 "	 ADV_SPELL
@@ -128,7 +128,7 @@ Två gånger om dagen får du teleportera din hjälte till en synlig, oupptagen plat
 "	"{Avancerad Dimensionsdörr}
 
 Tre gånger om dagen får du teleportera din hjälte till en synlig, oupptagen plats på äventyrskartan.
-"	"{Sofistikerad Dimensionsdörr}
+"	"{Mästerlig Dimensionsdörr}
 
 Fyra gånger om dagen får du teleportera din hjälte till en synlig, oupptagen plats på äventyrskartan.
 "	 ADV_SPELL
@@ -141,7 +141,7 @@ Teleporterar din hjälte till närmaste vänskapliga stad.  Staden måste vara ledig
 "	"{Avancerad Stadsportal}
 
 Teleporterar din hjälte till valfri vänskapliga stad.  Staden måste vara ledig.
-"	"{Sofistikerad Stadsportal}
+"	"{Mästerlig Stadsportal}
 
 Teleporterar din hjälte till valfri vänskapliga stad.  Staden måste vara ledig.
 "	 ADV_SPELL
@@ -157,7 +157,7 @@ Placerar slumpmässigt ut fyra små stråk kvicksand på slagfältet som bara är synl
 "	"{Avancerad Kvicksand}
 
 Placerar slumpmässigt ut sex små stråk kvicksand på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Att vandra in i kvicksana avslutar en enhets förflyttning för draget och gör den synlig för alla.
-"	"{Sofistikerad Kvicksand}
+"	"{Mästerlig Kvicksand}
 
 Placerar slumpmässigt ut åtta små stråk kvicksand på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Att vandra in i kvicksana avslutar en enhets förflyttning för draget och gör den synlig för alla.
 "	 COMBAT_SPELL|LOCATION_TARGET
@@ -172,7 +172,7 @@ Placerar slumpmässigt ut fyra små ytor med landminor på slagfältet som bara är s
 Placerar slumpmässigt ut sex små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
 
 Åsamkad skada är 25 poäng mer än Grundläggande Landmina.
-"	"{Sofistikerad Landmina}
+"	"{Mästerlig Landmina}
 
 Placerar slumpmässigt ut åtta små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
 
@@ -187,7 +187,7 @@ Placerar ett litet kraftfält på slagfältet på en punkt specificerad av kastaren.
 "	"{Avancerad Kraftfält}
 
 Placerar ett mellanstort kraftfält på slagfältet på en punkt specificerad av kastaren.
-"	"{Sofistikerad Kraftfält}
+"	"{Mästerlig Kraftfält}
 
 Placerar ett mellanstort kraftfält på slagfältet på en punkt specificerad av kastaren.
 "	 COMBAT_SPELL|LOCATION_TARGET
@@ -200,7 +200,7 @@ Placerar en liten löpeld på slagfältet på en punkt specificerad av kastaren.  En
 "	"{Avancerad Eldmur}
 
 Placerar en mellanstor löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
-"	"{Sofistikerad Eldmur}
+"	"{Mästerlig Eldmur}
 
 Placerar en mellanstor löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
 "	 COMBAT_SPELL|LOCATION_TARGET
@@ -213,7 +213,7 @@ Skadar slumpmässigt två sektioner slottsmur i strid.
 "	"{Avancerad Jordbävning}
 
 Skadar slumpmässigt tre sektioner slottsmur i strid.
-"	"{Sofistikerad Jordbävning}
+"	"{Mästerlig Jordbävning}
 
 Skadar slumpmässigt fyra sektioner slottsmur i strid.
 "	 COMBAT_SPELL
@@ -228,7 +228,7 @@ Förmår en pil med magisk energi att träffa vald enhet.
 Förmår en pil med magisk energi att träffa vald enhet.
 
 Åsamkad skada är 10 poäng mer än Grundläggande Magisk Pil.
-"	"{Sofistikerad Magisk Pil}
+"	"{Mästerlig Magisk Pil}
 
 Förmår en pil med magisk energi att träffa vald enhet.
 
@@ -245,7 +245,7 @@ Dränerar kroppsvärmen från vald fiendeenhet.
 Dränerar kroppsvärmen från vald fiendeenhet.
 
 Åsamkad skada är 20 poäng mer än Grundläggande Ispil.
-"	"{Sofistikerad Ispil}
+"	"{Mästerlig Ispil}
 
 Dränerar kroppsvärmen från vald fiendeenhet.
 
@@ -262,7 +262,7 @@ Förmår en åskblict att träffa vald enhet.
 Förmår en åskblict att träffa vald enhet.
 
 Åsamkad skada är 10 poäng mer än Grundläggande Åskblixt.
-"	"{Sofistikerad Åskblixt}
+"	"{Mästerlig Åskblixt}
 
 Förmår en åskblict att träffa vald enhet.
 
@@ -279,7 +279,7 @@ Vållar massiv skada till en enstaka varelsestack.
 Vållar massiv skada till en enstaka varelsestack.
 
 Åsamkad skada är 100 poäng mer än Grundläggande Implosion.
-"	"{Sofistikerad Implosion}
+"	"{Mästerlig Implosion}
 
 Vållar massiv skada till en enstaka varelsestack.
 
@@ -296,7 +296,7 @@ Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angrä
 Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angränsande enhet och tillfogar halv skada före den går vidare till nästa angränsande enheter och tillfogar halva skadan igen, etc. Träffar fem enheter.
 
 Vållad grundskada är 25 poäng mer än Grundläggande Kedjeblixt.
-"	"{Sofistikerad Kedjeblixt}
+"	"{Mästerlig Kedjeblixt}
 
 Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angränsande enhet och tillfogar halv skada före den går vidare till nästa angränsande enheter och tillfogar halva skadan igen, etc. Träffar fem enheter.
 
@@ -313,7 +313,7 @@ Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vå
 Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vålla skada till platsen.
 
 Åsamkad skada är 15 poäng mer än Grundläggande Frostring.
-"	"{Sofistikerad Frostring}
+"	"{Mästerlig Frostring}
 
 Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vålla skada till platsen.
 
@@ -330,7 +330,7 @@ Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen
 Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen och alla angränsande enheter.
 
 Åsamkad skada är 15 poäng mer än Grundläggande Eldklot.
-"	"{Sofistikerad Eldklot}
+"	"{Mästerlig Eldklot}
 
 Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen och alla angränsande enheter.
 
@@ -347,7 +347,7 @@ Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
 Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
 
 Åsamkad skada är 20 poäng mer än Grundläggande Inferno.
-"	"{Sofistikerad Inferno}
+"	"{Mästerlig Inferno}
 
 Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
 
@@ -364,7 +364,7 @@ Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
 Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
 
 Åsamkad skada är 25 poäng mer än Grundläggande Meteorregn.
-"	"{Sofistikerad Meteorregn}
+"	"{Mästerlig Meteorregn}
 
 Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
 
@@ -381,7 +381,7 @@ Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
 Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
 
 Åsamkad skada är 10 poäng mer än Grundläggande Dödsstöt.
-"	"{Sofistikerad Dödsstöt}
+"	"{Mästerlig Dödsstöt}
 
 Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
 
@@ -398,7 +398,7 @@ Försöker att förgöra evemtuella odöda varelser på slagfältet.
 Försöker att förgöra evemtuella odöda varelser på slagfältet.
 
 Åsamkad skada är 10 poäng mer än Grundläggande Förgör Odöda.
-"	"{Sofistikerad Förgör Odöda}
+"	"{Mästerlig Förgör Odöda}
 
 Försöker att förgöra evemtuella odöda varelser på slagfältet.
 
@@ -415,7 +415,7 @@ Låter eld regna ned på slagfältet, vilket skadar alla enheter.
 Låter eld regna ned på slagfältet, vilket skadar alla enheter.
 
 Åsamkad skada är 30 poäng mer än Grundläggande Ragnarök.
-"	"{Sofistikerad Ragnarök}
+"	"{Mästerlig Ragnarök}
 
 Låter eld regna ned på slagfältet, vilket skadar alla enheter.
 
@@ -432,7 +432,7 @@ Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-att
 Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
 
 Skyddet är dubbelt så bra som Grundläggande Sköld.
-"	"{Sofistikerad Sköld}
+"	"{Mästerlig Sköld}
 
 Skyddar alla vänskapliga enheter, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
 
@@ -449,7 +449,7 @@ Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
 Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
 
 Skyddet är dubbelt så bra som Grundläggande Luftsköld.
-"	"{Sofistikerad Luftskjöld}
+"	"{Mästerlig Luftskjöld}
 
 Skyddar alla vänskapliga enheter, vilket reducerar mängden mottagen skada från skotthåll.
 
@@ -466,7 +466,7 @@ När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fie
 När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
 
 Skadan för anfallande fiendeenheter är 5% mer än Grundläggande Eldskjöld.
-"	"{Sofistikerad Eldskjöld}
+"	"{Mästerlig Eldskjöld}
 
 När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
 
@@ -483,7 +483,7 @@ Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler
 Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler.
 
 Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Luft.
-"	"{Sofistikerad Skydd mot Luft}
+"	"{Mästerlig Skydd mot Luft}
 
 Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler.
 
@@ -500,7 +500,7 @@ Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
 Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
 
 Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Eld.
-"	"{Sofistikerad Skydd mot Eld}
+"	"{Mästerlig Skydd mot Eld}
 
 Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
 
@@ -517,7 +517,7 @@ Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollforml
 Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollformler.
 
 Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Vatten.
-"	"{Sofistikerad Skydd mot Vatten}
+"	"{Mästerlig Skydd mot Vatten}
 
 Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollformler.
 
@@ -534,7 +534,7 @@ Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler
 Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler.
 
 Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Jord.
-"	"{Sofistikerad Skydd mot Jord}
+"	"{Mästerlig Skydd mot Jord}
 
 Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler.
 
@@ -549,7 +549,7 @@ Skyddar vald enhet från alla lågnivåtrollformler.
 "	"{Avancerad Anti-Magi}
 
 Skyddar vald enhet från alla utom de mest kraftfulla trollformlerna.
-"	"{Sofistikerad Anti-Magi}
+"	"{Mästerlig Anti-Magi}
 
 Skyddar vald enhet från alla trollformler.
 "	 COMBAT_SPELL|CREATURE_TARGET
@@ -562,7 +562,7 @@ Tar bort samtliga förtrollningseffekter från en vänskaplig varelse.
 "	"{Avancerad Bryt Förtrollning}
 
 Tar bort samtliga förtrollningseffekter från en vänskaplig eller fientlig varelse.
-"	"{Sofistikerad Bryt Förtrollning}
+"	"{Mästerlig Bryt Förtrollning}
 
 Tar bort samtliga förtrollningseffekter från alla enheter på slagfältet.
 "	 COMBAT_SPELL|CREATURE_TARGET_1
@@ -575,7 +575,7 @@ Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 20% av gångern
 "	"{Avancerad Magic Mirror}
 
 Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 30% av gångerna.
-"	"{Sofistikerad Magic Mirror}
+"	"{Mästerlig Magic Mirror}
 
 Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 40% av gångerna.
 "	 COMBAT_SPELL|CREATURE_TARGET
@@ -590,7 +590,7 @@ Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng
 Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på den valda enheten.
 
 Läkt skada är 10 poäng mer än Grundläggande Kurera.
-"	"{Sofistikerad Kurera}
+"	"{Mästerlig Kurera}
 
 Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på alla vänskapliga enheter.
 
@@ -607,7 +607,7 @@ Läkt skada är 20 poäng mer än Grundläggande Kurera.
 Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
 
 Förser 40 skadepoäng ytterligare gentemot Grundläggande Återuppliva.
-"	"{Sofistikerad Återuppliva}
+"	"{Mästerlig Återuppliva}
 
 Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
 
@@ -624,7 +624,7 @@ Besjäla Döda	Besjäla Döda	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0
 Återbesjälar odöda förstörda i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
 
 Ger ytterligare 30 skadepoäng utöver Grundläggande Besjäla Döda.
-"	"{Sofistikerad Besjäla Döda}
+"	"{Mästerlig Besjäla Döda}
 
 Återbesjälar odöda förstörda i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
 
@@ -641,7 +641,7 @@ Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal
 Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
 
 Återställer mer varelsehälsa än Grundläggande Offra.
-"	"{Sofistikerad Offra}
+"	"{Mästerlig Offra}
 
 Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
 
@@ -656,7 +656,7 @@ Låter den valda enheten vålla maximal skada i strid.
 "	"{Avancerad Välsigna}
 
 Låter den valda enheten vålla större skada än dess maximala i strid.
-"	"{Sofistikerad Välsigna}
+"	"{Mästerlig Välsigna}
 
 Låter alla vänskapliga enheter vålla större skada än deras maximala i strid.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
@@ -669,7 +669,7 @@ Låter den valda enheten vålla minimal skada i strid.
 "	"{Avancerad Förbanna}
 
 Låter den valda enheten vålla mindre skada än dess minimala i strid.
-"	"{Sofistikerad Förbanna}
+"	"{Mästerlig Förbanna}
 
 Låter alla fiendens enheter vålla mindre skada än deras minimala i strid.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
@@ -684,7 +684,7 @@ Blodtörst	Blodtörst	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{
 Ökar man-mot-man-skadan vållad av den valda enheten.
 
 Effekten är dubbelt så stor som Grundläggande Blodtörst.
-"	"{Sofistikerad Blodtörst}
+"	"{Mästerlig Blodtörst}
 
 Ökar man-mot-man-skadan vållad av alla vänskapliga enheter.
 
@@ -701,7 +701,7 @@ Precision	Precision	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Pr
 Ökar skotthållsskadan vållad av den valda enheten.
 
 Effekten är dubbelt så stor som Grundläggande Precision.
-"	"{Sofistikerad Precision}
+"	"{Mästerlig Precision}
 
 Ökar skotthållsskadan vållad av alla vänskapliga enheter.
 
@@ -718,7 +718,7 @@ Minskar den valda fiendeenhetens anfallsstyrka.
 Minskar den valda fiendeenhetens anfallsstyrka.
 
 Effekten är dubbelt så stor som Grundläggande Svaghet.
-"	"{Sofistikerad Svaghet}
+"	"{Mästerlig Svaghet}
 
 Minskar alla fiendeenhetens anfallsstyrka.
 
@@ -735,7 +735,7 @@ Stenskinn	Stenskinn	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"
 Ökar den valda enhetens försvarsstyrka.
 
 Effekten är dubbelt så stor som Grundläggande Stenskinn.
-"	"{Sofistikerad Stenskinn}
+"	"{Mästerlig Stenskinn}
 
 Ökar alla vänskapliga enheters försvarsstyrka.
 
@@ -752,7 +752,7 @@ Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestråla
 Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestrålas flera gånger av den här trollformeln.
 
 Effekten är större än den för Grundläggande Störande Stråle.
-"	"{Sofistikerad Störande Stråle}
+"	"{Mästerlig Störande Stråle}
 
 Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestrålas flera gånger av den här trollformeln.
 
@@ -769,7 +769,7 @@ Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt den vald
 Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt den valda enheten.
 
 Effekten är dubbelt så stor som Grundläggande Bön.
-"	"{Sofistikerad Bön}
+"	"{Mästerlig Bön}
 
 Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt alla vänskapliga enheter.
 
@@ -786,7 +786,7 @@ Glädje	Glädje	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Glädje}
 Ökar den valda enhetens moral.
 
 Effekten är dubbelt så stor som Grundläggande Glädje.
-"	"{Sofistikerad Glädje}
+"	"{Mästerlig Glädje}
 
 Ökar alla vänskapliga enheters moral.
 
@@ -803,7 +803,7 @@ Minskar moralen hos den valda fiendeenheten.
 Minskar moralen hos den valda fiendeenheten.
 
 Effekten är dubbelt så stor som Grundläggande Sorg.
-"	"{Sofistikerad Sorg}
+"	"{Mästerlig Sorg}
 
 Minskar moralen hos alla fiendeenheter.
 
@@ -820,7 +820,7 @@ Flax	Flax	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Flax}
 Ökar den valda enhetens tur.
 
 Effekten är dubbelt så stor som Grundläggande Flax.
-"	"{Sofistikerad Flax}
+"	"{Mästerlig Flax}
 
 Ökar alla vänskapliga enheters tur.
 
@@ -839,7 +839,7 @@ Trollformelspoängskostnaden hälften av Normal Otur.
 Minskar turen hos den valda fiendeenheten.
 
 Effekten är dubbelt så stor som Grundläggande Otur.
-"	"{Sofistikerad Otur}
+"	"{Mästerlig Otur}
 
 Minskar turen hos alla fiendeenheter.
 
@@ -856,7 +856,7 @@ Skynda	Skynda	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Skynd
 Ökar snabbheten hos den valda enheten.
 
 Effekten är nästan dubbelt så stor som Grundläggande Skynda.
-"	"{Sofistikerad Skynda}
+"	"{Mästerlig Skynda}
 
 Ökar snabbheten hos alla vänskapliga enheter.
 
@@ -873,7 +873,7 @@ Minskar snabbheten hos den valda fiendeenheten.
 Minskar snabbheten hos den valda fiendeenheten.
 
 Effekten är dubbelt så stor som Grundläggande Sakta Ner.
-"	"{Sofistikerad Sakta Ner}
+"	"{Mästerlig Sakta Ner}
 
 Minskar snabbheten hos alla fiendeenheten.
 
@@ -888,7 +888,7 @@ Dräpare	Dräpare	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Dräpa
 "	"{Avancerad Dräpare}
 
 Ökar mångden skada vållad av en enhet när den slåss mot Drakar, Behemoter, Hydror, Djävlar eller Änglar.
-"	"{Sofistikerad Dräpare}
+"	"{Mästerlig Dräpare}
 
 Ökar mångden skada vållad av en enhet när den slåss mot Drakar, Behemoter, Hydror, Djävlar, Änglar eller Titaner.
 "	 COMBAT_SPELL|CREATURE_TARGET
@@ -903,7 +903,7 @@ Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
 Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
 
 Anfallsbonus är 50% mer än Grundläggande Frenesi.
-"	"{Sofistikerad Frenesi}
+"	"{Mästerlig Frenesi}
 
 Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
 
@@ -927,7 +927,7 @@ Den valda enheten kommer återslå mot ett ytterligare anfall varje runda.
 "	"{Avancerad Motslag}
 
 Den valda enheten kommer återslå mot två ytterligare anfall varje runda.
-"	"{Sofistikerad Motslag}
+"	"{Mästerlig Motslag}
 
 Alla vänskapliga enheter kommer återslå mot två ytterligare anfall varje runda.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
@@ -942,7 +942,7 @@ Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende
 Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende.
 
 Effektarealen är sex hexagoner större än Grundläggande Bärsärkargång.
-"	"{Sofistikerad Bärsärkargång}
+"	"{Mästerlig Bärsärkargång}
 
 Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende.
 
@@ -959,7 +959,7 @@ Sätter en fiendeenhet tillfälligt under ditt kommando.
 Sätter en fiendeenhet tillfälligt under ditt kommando.
 
 Låter dig kontrollera fiender med 10 skadepoäng mer än Grundläggande Hypnotisera.
-"	"{Sofistikerad Hypnotisera}
+"	"{Mästerlig Hypnotisera}
 
 Sätter en fiendeenhet tillfälligt under ditt kommando.
 
@@ -974,7 +974,7 @@ Halva den valda fiendeenheten glömmer att använda sitt skotthållsanfall.
 "	"{Avancerad Glömska}
 
 Gör att den valda fiendeenheten glömmer att använda sitt skotthållsanfall.
-"	"{Sofistikerad Glömska}
+"	"{Mästerlig Glömska}
 
 Gör att alla fiendeenheter glömmer att använda sina skotthållsanfall.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
@@ -987,7 +987,7 @@ Förblindar en varelse så den ej kan förflytta sig och orsakar att dess återslag 
 "	"{Avancerad Förblinda}
 
 Förblindar en varelse så den ej kan förflytta sig och orsakar att dess återslag att ske med en fjärdedels anfallsstyrka. Förblindelsen varar tills enheten anfalls eller förtrollningen bryts.
-"	"{Sofistikerad Förblinda}
+"	"{Mästerlig Förblinda}
 
 Förblindar en varelse så den ej kan förflytta sig.  Förblindelsen varar tills enheten anfalls eller förtrollningen bryts.
 "	 COMBAT_SPELL|CREATURE_TARGET
@@ -1004,7 +1004,7 @@ Truppen kan ej Teleportera över murar eller vallgravar.
 Teleporterar valfri vänskaplig enhet till valfri oupptagen plats på slagfältet.
 
 Truppen kan ej Teleportera över murar.
-"	"{Sofistikerad Teleportera}
+"	"{Mästerlig Teleportera}
 
 Teleporterar valfri vänskaplig enhet till valfri oupptagen plats på slagfältet.
 "	 COMBAT_SPELL|CREATURE_TARGET
@@ -1017,7 +1017,7 @@ Tar bort valfritt normalt hinder (träd, stenar, etc.) efter kastarens eget val f
 "	"{Avancerad Ta bort Hinder}
 
 Tar bort valfritt normalt hinder (träd, stenar, etc.) efter kastarens eget val från slagfältet.
-"	"{Sofistikerad Ta bort Hinder}
+"	"{Mästerlig Ta bort Hinder}
 
 Tar bort valfritt normalt eller magiskt hinder efter kastarens eget val från slagfältet.
 "	 COMBAT_SPELL|OBSTACLE_TARGET
@@ -1036,7 +1036,7 @@ Klonar varelser av nivå 1-5.
 Skapar en duplicerad stack från en vald enhet.  Trollformeln bryts om den anfalls.
 
 Klonar varelser av nivå 1-6.
-"	"{Sofistikerad Klona}
+"	"{Mästerlig Klona}
 
 Skapar en duplicerad stack från en vald enhet.  Trollformeln bryts om den anfalls.
 
@@ -1053,7 +1053,7 @@ Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper 
 Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
 Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Eldelementär.
-"	"{Sofistikerad Åkalla Eldelementär}
+"	"{Mästerlig Åkalla Eldelementär}
 
 Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
@@ -1070,7 +1070,7 @@ Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper
 Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
 Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Jordelementär.
-"	"{Sofistikerad Summon Jordelementär}
+"	"{Mästerlig Summon Jordelementär}
 
 Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
@@ -1087,7 +1087,7 @@ Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyp
 Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
 Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Vattenelementär.
-"	"{Sofistikerad Åkalla Vattenelementär}
+"	"{Mästerlig Åkalla Vattenelementär}
 
 Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
@@ -1104,7 +1104,7 @@ Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper
 Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper åkallas
 
 Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Luftelementär.
-"	"{Sofistikerad Åkalla Luftelementär}
+"	"{Mästerlig Åkalla Luftelementär}
 
 Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper åkallas
 

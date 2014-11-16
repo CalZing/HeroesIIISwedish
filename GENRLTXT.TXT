@@ -164,7 +164,7 @@ Trollformeln misslyckades! Du måste vara iland för att kunna kasta denna trollfo
 "%s pausar och väntar in en bättre tid att handla."
 "%s, Nivå %d %s"
 "%s, som har studerat magi extensivt, "
-lär sig
+lär sig 
  och 
  från %s
 motstår

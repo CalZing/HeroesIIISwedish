@@ -1,12 +1,12 @@
 	Description		
-Name	Grundläggande	Avancerad	Sofistikerad
+Name	Grundläggande	Avancerad	Mästerlig
 Stigfinnare	"{Grundläggande Stigfinnare}
 
 Grundläggande Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 25%."	"{Avancerad Stigfinnare}
 
-Avancerad Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 50%."	"{Sofistikerad Stigfinnare}
+Avancerad Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 50%."	"{Mästerlig Stigfinnare}
 
-Sofistikerad Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 75%."
+Mästerlig Stigfinnare reducerar förflyttningsförlusten på otillgänglig terräng med 75%."
 Bågskytte	"{Grundläggande Bågskytte}
 
 Grundläggande Bågskytte ökar skadan från varelser som attackerar med projektiler med 10%."	"{Avancerat Bågskytte}
@@ -18,30 +18,30 @@ Logistik	"{Grundläggande Logistik}
 
 Grundläggande Logistik ökar din hjältes förflyttningspoäng på land med 10%."	"{Avancerad Logistik}
 
-Avancerad Logistik ökar din hjältes förflyttningspoäng på land med 20%."	"{Sofistikerad Logistik}
+Avancerad Logistik ökar din hjältes förflyttningspoäng på land med 20%."	"{Mästerlig Logistik}
 
-Sofistikerad Logistik ökar din hjältes förflyttningspoäng på land med 30%."
+Mästerlig Logistik ökar din hjältes förflyttningspoäng på land med 30%."
 Scouting	"{Grundläggande Scouting}
 
 Grundläggande Scouting låter din hjälte se 1 ruta längre ut i mörkret."	"{Avancerad Scouting}
 
-Avancerad Scouting låter din hjälte se 2 rutor längre ut i mörkret."	"{Sofistikerad Scouting}
+Avancerad Scouting låter din hjälte se 2 rutor längre ut i mörkret."	"{Mästerlig Scouting}
 
-Sofistikerad Scouting låter din hjälte se 3 ruta längre ut i mörkret."
+Mästerlig Scouting låter din hjälte se 3 ruta längre ut i mörkret."
 Medling	"{Grundläggande Medling}
 
 Grundläggande Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 20%."	"{Avancerad Medling}
 
-Avancerad Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 40%."	"{Sofistikerad Medling}
+Avancerad Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 40%."	"{Mästerlig Medling}
 
-Sofistikerad Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 60%."
+Mästerlig Medling låter dig förhandla med monster som är svagare än din grupp och sänker kostnaden för att ge upp ett slag med 60%."
 Navigation	"{Grundläggande Navigation}
 
 Grundläggande Navigation ökar din hjältes förflyttningspoäng över havet med 50%."	"{Avancerad Navigation}
 
-Avancerad Navigation fördubblar din hjältes förflyttningspoäng över havet."	"{Sofistikerad Navigation}
+Avancerad Navigation fördubblar din hjältes förflyttningspoäng över havet."	"{Mästerlig Navigation}
 
-Sofistikerad Navigation ökar din hjältes förflyttningspoäng över havet med 150%."
+Mästerlig Navigation ökar din hjältes förflyttningspoäng över havet med 150%."
 Ledarskap	"{Grundläggande Ledarskap}
 
 Grundläggande Ledarskap ökar dina truppers moral med 1."	"{Avancerat Ledarskap}
@@ -53,93 +53,93 @@ Visdom	"{Grundläggande Visdom}
 
 Grundläggande Visdom låter din hjälte lära sig trollformler av tredje nivån."	"{Avancerad Visdom}
 
-Avancerad Visdom låter din hjälte lära sig trollformler av fjärde nivån."	"{Sofistikerad Visdom}
+Avancerad Visdom låter din hjälte lära sig trollformler av fjärde nivån."	"{Mästerlig Visdom}
 
 Visdom låter din hjälte lära sig trollformler av femte nivån."
 Mystik	"{Grundläggande Mystik}
 
 Grundläggande Mystik låter din hjälte återhämta 2 trollformelspoäng per dag."	"{Avancerad Mystik}
 
-Avancerad Mystik låter din hjälte återhämta 3 trollformelspoäng per dag."	"{Sofistikerad Mystik}
+Avancerad Mystik låter din hjälte återhämta 3 trollformelspoäng per dag."	"{Mästerlig Mystik}
 
-Sofistikerad Mystik låter din hjälte återhämta 4 trollformelspoäng per dag."
+Mästerlig Mystik låter din hjälte återhämta 4 trollformelspoäng per dag."
 Tur	"{Grundläggande Tur}
 
 Grundläggande Tur ökar din hjältes tur med 1."	"{Avancerad Tur}
 
-Avancerad Tur ökar din hjältes tur med 2."	"{Sofistikerad Tur}
+Avancerad Tur ökar din hjältes tur med 2."	"{Mästerlig Tur}
 
-Sofistikerad Tur ökar din hjältes tur med 3."
+Mästerlig Tur ökar din hjältes tur med 3."
 Ballistik	"{Grundläggande Ballistik}
 
 Grundläggande Ballistik ger hjälten kontrollen över katapulten, vilket tillåter riktade skott med ökad skada."	"{Avancerad Ballistik}
 
-Avancerad Ballistik ger hjälten kontrollen över katapulten, vilket tillåter två riktade skott med ökad skada."	"{Sofistikerad Ballistik}
+Avancerad Ballistik ger hjälten kontrollen över katapulten, vilket tillåter två riktade skott med ökad skada."	"{Mästerlig Ballistik}
 
-Sofistikerad Ballistik ger hjälten kontrollen över katapulten, vilket tillåter två riktade skott med maximal skada."
+Mästerlig Ballistik ger hjälten kontrollen över katapulten, vilket tillåter två riktade skott med maximal skada."
 Skarpögdhet	"{Grundläggande Skarpögdhet}
 
 Grundläggande Skarpögdhet ger hjälten 40% chans att lära sig trollformler av nivå 1 och 2 som kastas under strid."	"{Avancerad Skarpögdhet}
 
-Avancerad Skarpögdhet ger hjälten 50% chans att lära sig trollformler upp till nivå 3 som kastas under strid."	"{Sofistikerad Skarpögdhet}
+Avancerad Skarpögdhet ger hjälten 50% chans att lära sig trollformler upp till nivå 3 som kastas under strid."	"{Mästerlig Skarpögdhet}
 
-Sofistikerad Skarpögdhet ger hjälten 60% chans att lära sig trollformler upp till nivå 4 som kastas under strid."
+Mästerlig Skarpögdhet ger hjälten 60% chans att lära sig trollformler upp till nivå 4 som kastas under strid."
 Dödsmagi	"{Grundläggande Dödsmagi}
 
 Grundläggande Dödsmagi låter 10% av alla varelser som dödats i en strid uppstå som Skelett."	"{Avancerad Dödsmagi}
 
-Avancerad Dödsmagi låter 20% av alla varelser som dödats i en strid uppstå som Skelett."	"{Sofistikerad Dödsmagi}
+Avancerad Dödsmagi låter 20% av alla varelser som dödats i en strid uppstå som Skelett."	"{Mästerlig Dödsmagi}
 
-Sofistikerad Dödsmagi låter 30% av alla varelser som dödats i en strid uppstå som Skelett."
+Mästerlig Dödsmagi låter 30% av alla varelser som dödats i en strid uppstå som Skelett."
 Egendomar	"{Grundläggande Egendomar}
 
 Med Grundläggande Egendomar tjänar din hjälte 125 guld om dagen."	"{Avancerade Egendomar}
 
-Med Avancerade Egendomar tjänar din hjälte 250 guld om dagen."	"{Sofistikerad Egendomar}
+Med Avancerade Egendomar tjänar din hjälte 250 guld om dagen."	"{Mästerlig Egendomar}
 
-Med Sofistikerade Egendomar tjänar din hjälte 500 guld om dagen."
+Med Mästerlige Egendomar tjänar din hjälte 500 guld om dagen."
 Eldmagi	"{Grundläggande Eldmagi}
 
 Grundläggande Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad."	"{Avancerad Eldmagi}
 
-Avancerad Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Eldmagi}
+Avancerad Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad och med högre effektivitet."	"{Mästerlig Eldmagi}
 
-Sofistikerad Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad och med maximal effektivitet."
+Mästerlig Eldmagi låter din hjälte kasta Eldtrollformler till en lägre kostnad och med maximal effektivitet."
 Luftmagi	"{Grundläggande Luftmagi}
 
 Grundläggande Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad."	"{Avancerad Luftmagi}
 
-Avancerad Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Luftmagi}
+Avancerad Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad och med högre effektivitet."	"{Mästerlig Luftmagi}
 
-Sofistikerad Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad och med maximal effektivitet."
+Mästerlig Luftmagi låter din hjälte kasta Lufttrollformler till en lägre kostnad och med maximal effektivitet."
 Vattenmagi	"{Grundläggande Vattenmagi}
 
 Grundläggande Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad."	"{Avancerad Vattenmagi}
 
-Avancerad Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Vattenmagi}
+Avancerad Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad och med högre effektivitet."	"{Mästerlig Vattenmagi}
 
-Sofistikerad Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad och med maximal effektivitet."
+Mästerlig Vattenmagi låter din hjälte kasta Vattentrollformler till en lägre kostnad och med maximal effektivitet."
 Jordmagi	"{Grundläggande Jordmagi}
 
 Grundläggande Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad."	"{Grundläggande Jordmagi}
 
-Avancerad Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad och med högre effektivitet."	"{Sofistikerad Jordmagi}
+Avancerad Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad och med högre effektivitet."	"{Mästerlig Jordmagi}
 
-Sofistikerad Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad och med maximal effektivitet."
+Mästerlig Jordmagi låter din hjälte kasta Jordtrollformler till en lägre kostnad och med maximal effektivitet."
 Lärare	"{Grundläggande Lärare}
 
 Grundläggande Lärare låter dina hjältar lära varandra trollformler av första och andra nivån."	"{Avancerad Lärare}
 
-Avancerad Lärare låter dina hjältar lära varandra trollformler upp till tredje nivån"	"{Sofistikerad Lärare}
+Avancerad Lärare låter dina hjältar lära varandra trollformler upp till tredje nivån"	"{Mästerlig Lärare}
 
-Sofistikerad Lärare låter dina hjältar lära varandra trollformler upp till fjärde nivån."
+Mästerlig Lärare låter dina hjältar lära varandra trollformler upp till fjärde nivån."
 Strategi	"{Grundläggande Strategi}
 
 Grundläggande Strategi låter dig arrangera dina trupper innan strid, inom tre rutor från din hjälte."	"{Avancerad Strategi}
 
-Avancerad Strategi låter dig arrangera dina trupper innan strid, inom fem rutor från din hjälte."	"{Sofistikerad Strategi}
+Avancerad Strategi låter dig arrangera dina trupper innan strid, inom fem rutor från din hjälte."	"{Mästerlig Strategi}
 
-Sofistikerad Strategi låter dig arrangera dina trupper innan strid, inom sju rutor från din hjälte."
+Mästerlig Strategi låter dig arrangera dina trupper innan strid, inom sju rutor från din hjälte."
 Artilleri	"{Grundläggande Artilleri}
 
 Grunläggande Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med 50% chans att utdela dubbel skada."	"{Avancerad Artilleri}
@@ -158,41 +158,41 @@ Offensiv	"{Grundläggande Offensiv}
 
 Grundläggande Offensiv ökar dina truppers slagkraft med 10%."	"{Avancerad Offensiv}
 
-Avancerad Offensiv ökar dina truppers slagkraft med 20%."	"{Sofistikerad Offense}
+Avancerad Offensiv ökar dina truppers slagkraft med 20%."	"{Mästerlig Offense}
 
-Sofistikerad Offensiv ökar dina truppers slagkraft med 30%."
+Mästerlig Offensiv ökar dina truppers slagkraft med 30%."
 Rustningsmed	"{Grundläggande Rustningsmed}
 
 Grundläggande Rustningsmed reducerar all skada som åsamkas dina trupper med 5%."	"{Avancerad Rustningsmed}
 
-Avancerad Rustningsmed reducerar all skada som åsamkas dina trupper med 10%."	"{Sofistikerad Rustningsmed}
+Avancerad Rustningsmed reducerar all skada som åsamkas dina trupper med 10%."	"{Mästerlig Rustningsmed}
 
-Sofistikerad Rustningsmed reducerar all skada som åsamkas dina trupper med 15%."
+Mästerlig Rustningsmed reducerar all skada som åsamkas dina trupper med 15%."
 Intelligens	"{Grundläggande Intelligens}
 
 Grundläggande Intelligens ökar din hjältes maximala mängd av trollformelspoäng med 25%."	"{Avancerad Intelligens}
 
-Avancerad Intelligens ökar din hjältes maximala mängd av trollformelspoäng med 50%."	"{Sofistikerad Intelligens}
+Avancerad Intelligens ökar din hjältes maximala mängd av trollformelspoäng med 50%."	"{Mästerlig Intelligens}
 
-Sofistikerad Intelligens fördubblar din hjältes maximala mängd av trollformelspoäng."
+Mästerlig Intelligens fördubblar din hjältes maximala mängd av trollformelspoäng."
 Trolldom	"{Grundläggande Trolldom}
 
 Grundläggande Trolldom gör att din hjältes troillformler åsamkar 5% extra skada i strid."	"{Avancerad Trolldom}
 
-Avancerad Trolldom gör att din hjältes troillformler åsamkar 10% extra skada i strid."	"{Sofistikerad Trolldom}
+Avancerad Trolldom gör att din hjältes troillformler åsamkar 10% extra skada i strid."	"{Mästerlig Trolldom}
 
-Sofistikerad Trolldom gör att din hjältes troillformler åsamkar 15% extra skada i strid."
+Mästerlig Trolldom gör att din hjältes troillformler åsamkar 15% extra skada i strid."
 Motståndskraft	"{Grundläggande Motståndskraft}
 
 Grundläggande Motståndskraft ger 5% motståndskraft till din hjältes trupper."	"{Avancerad Motståndskraft}
 
-Avancerad Motståndskraft ger 10% motståndskraft till din hjältes trupper."	"{Sofistikerad Moståndskraft}
+Avancerad Motståndskraft ger 10% motståndskraft till din hjältes trupper."	"{Mästerlig Moståndskraft}
 
-Sofistikerad Motståndskraft ger 20% motståndskraft till din hjältes trupper."
+Mästerlig Motståndskraft ger 20% motståndskraft till din hjältes trupper."
 Första Hjälpen	"{Grundläggande Första Hjälpen}
 
 Grundläggande Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 50 poäng av skada hos en valfri varelse i strid."	"{Avancerad Första Hjälpen}
 
-Avancerad Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 75 poäng av skada hos en valfri varelse i strid."	"{Sofistikerad Första Hjälpen}
+Avancerad Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 75 poäng av skada hos en valfri varelse i strid."	"{Mästerlig Första Hjälpen}
 
-Sofistikerad Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 100 poäng av skada hos en valfri varelse i strid."
+Mästerlig Första Hjälpen ger dig kontroll över första hjälpen-tältet som kan hela 100 poäng av skada hos en valfri varelse i strid."

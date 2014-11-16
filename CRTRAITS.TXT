@@ -87,7 +87,7 @@ Inget fiendeåterslag."	FLYING_ARMY | IS_UNDEAD
 Vampyrherre	Vampyrherrar	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	"Odöd.  Dränerar fiendeliv.
 Inget fiendeåterslag."	FLYING_ARMY | IS_UNDEAD
 Likhäxa	Likhäxor	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Odöd.  Dödsmolnsattack.	SHOOTING_ARMY | IS_UNDEAD
-Kraftfull Likhäxa	Kraftfulla Likhäxor	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Odöd.  Dödsmolnsattack.	SHOOTING_ARMY | IS_UNDEAD
+Häxmästare	Häxmästare	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Odöd.  Dödsmolnsattack.	SHOOTING_ARMY | IS_UNDEAD
 Svartriddare	Svartriddare	0	0	0	0	0	0	1200	1753	2087	2	0	120	7	16	16	15	30	0	0	5	12	Odöd.  Förbannar fiender.	DOUBLE_WIDE | IS_UNDEAD
 Skräckriddare	Skräckriddare	0	0	0	0	0	0	1500	2029	2382	2	0	120	9	18	18	15	30	0	0	5	10	"Odöd.  Förbannar fiender.  
 Dödsblåsanfall."	DOUBLE_WIDE | IS_UNDEAD

@@ -386,15 +386,15 @@ Vialen med Drakblod	20000						x	x	x	x	x										R	"{Vialen med Drakblod}
 Alla drakar som du kontrollerar får +5 till sin Attack- och Försvarsförmåga."
 Armageddons Klinga	50000																x				R	"{Armageddons Klinga}
 
-+3 i Attackförmåga, +3 i Försvarsförmåga, +6 i Kunskapsförmåga, +3 i Trollformelskraft, Sofistikerad Armageddon-trollformel i hjältens Trollformelsbok och så blir alla allierade varelser immuna mot Armageddon-trollformeln."
++3 i Attackförmåga, +3 i Försvarsförmåga, +6 i Kunskapsförmåga, +3 i Trollformelskraft, Mästerlig Armageddon-trollformel i hjältens Trollformelsbok och så blir alla allierade varelser immuna mot Armageddon-trollformeln."
 Änglalik Allians																	x				R	"{Änglalik Allians}
 
-Låter Fästningsvall-, Torn-, Fort-, Fäste- och Borgvarelser att bli blandade utan moralförluster i strid. Sofistikerad Bön kastas i början av varje strid."
+Låter Fästningsvall-, Torn-, Fort-, Fäste- och Borgvarelser att bli blandade utan moralförluster i strid. Mästerlig Bön kastas i början av varje strid."
 Den odöda Kungens Mantel																			x		R	"{Den odöda Kungens Mantel}
 
 30% av de döda från varje slagfält återuppväcks som Skelett. Om hjälten redan har Dödsmagi-förmågan då läggs procenten till den förmågan samt nivån av förmågan bestämmer vilken typ som återuppväcks. Grundläggande: Skelett
 Avancerad: Gastar
-Sofistikerad: Häxmästare"
+Mästerlig: Häxmästare"
 Livets Elixir							x	x	x	x	x										R	"{Livets Elixir}
 
 Alla varelser får en 25% bonus i hälsa och får regenerations-förmåga. Fungerar inte på Odöda eller icke levande varelser"

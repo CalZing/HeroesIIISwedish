@@ -69,14 +69,14 @@ Upg. Mausoleum	Mausoleumet låter dig rekrytera Kraftfulla Likhäxor.
 Upg. Mörkrets sal	Mörkrets Sal låter dig rekrytera Skräckriddare.
 Upg. Drakvalv	Drakvalvet låter dig rekrytera Spökdrakar.
 Grotta	Grottan låter dig rekrytera Troglodyter.
-Vråkloft	Vråkloftet låter dig rekrytera Harpyor.
+Fågelbo	Fågelboet låter dig rekrytera Harpyor.
 Ögonpelare	Ögonpelaren låter dig rekrytera Åskådare.
 Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusor.
 Labyrint	Labyrinten låter dig rekrytera Minotaurer.
 Mantikornäste	Mantikornästet låter dig rekrytera Mantikoror.
 Drakgrotta	Drakgrottan låter dig rekrytera Röddrakar.
 Upg. Grotta	Grottan låter dig rekrytera Infernaliska Troglodyter.
-Upg. Vråkloft	Vråkloftet låter dig rekrytera Vildvittror.
+Upg. Fågelbo	Fågelboet låter dig rekrytera Vildvittror.
 Upg. Ögonpelare	Ögonpelaren låter dig rekrytera Onda Ögon.
 Upg. Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusadrottningar.
 Upg. Labyrint	Labyrinten låter dig rekrytera Minotaurkungar.

@@ -44,7 +44,7 @@ Dina mannar ser en boj i vattnet vilket betyder att ni är på rätt kurs."
 När du letar igenom ett fiendeläger hittar du en gömd kista med skatter."
 "Du har redan sett alla mina kartor. Kila vidare."
 DU möter en gammal fiskare med de mest detaljerade kartor över havet du någonsin sett. Vill du köpa dessa för 1000 guld?
-Du träffar kartografen som säljer kartor för bara 100 guld. Vill du köpa dig en karta?
+Du träffar kartografen som säljer kartor för bara 1000 guld. Vill du köpa dig en karta?
 Du träffar en pensionerad dvärg i gruvan som har sparat massor av kartor från sina arbetsdagar. Han är villig att sälja dessa för bara 1000 guld. Ska du slå till?
 "Mina kartor kostar faktiskt 1000 guld och det har ju inte du. Kom tillbaka med riktiga pengar!"
 "{Svandammen}

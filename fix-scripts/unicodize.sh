@@ -15,19 +15,10 @@ endir=en/
 for f in $svdir*.txt $svdir*.TXT
 do
   fname=$($sedcmd -e 's&.*\/&&g' <<< $f)
-  echo $f
   echo $fname
 
-# Combine into original file
-  $sedcmd -e 's/\xC4/\xC3\x84/g' < $f |\
-  $sedcmd -e 's/\xC5/\xC3\x85/g' |\
-  $sedcmd -e 's/\xD6/\xC3\x96/g' |\
-  $sedcmd -e 's/\xE4/\xC3\xA4/g' |\
-  $sedcmd -e 's/\xE5/\xC3\xA5/g' |\
-  $sedcmd -e 's/\xF6/\xC3\xB6/g' |\
-  $sedcmd -e 's/\xE9/\xC3\xA9/g' |\
-  $sedcmd -e 's/\xC9/\xC3\x89/g' > $f.new
-  mv $f.new $f
+  # Create file containing EOL information
+  ./txtfix -i $svdir$fname -o $svdir$fname -l $endir$fname -t utf8 -b
 done
 
 

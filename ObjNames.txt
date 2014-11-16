@@ -9,9 +9,9 @@ Svart Marknad
 Båt	
 Gränsvakt	
 Nyckelmästarens Tält	
-Buoj	
+Boj	
 Lägereld	
-Kartograd	
+Kartograf	
 Svandamm	
 Mörkertäcke	
 Varelsebank
@@ -78,7 +78,7 @@ Random Resource
 Random Town
 Flyktingläger
 Resurs
-Kyrkogård
+Fristad
 Lärd Man
 Havskista
 Siarens Hydda
