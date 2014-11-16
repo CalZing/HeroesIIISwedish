@@ -8,54 +8,10 @@ Status
 
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
-|               | Help.txt  (Andreas)    |              |
-|               | randtvrn.txt (Simon)  |              |
-| advevent.txt  |               |              |
-| HeroSpec.txt  |               |              |
+  |               | randtvrn.txt (Simon)  |              |
 | artevent.txt  |               |              |
 | HeroBios.txt  |               |              |
 | randsign.txt  |               |              |
-|               |               | SeerHut.txt  |
-|               |               | #sv.ini      |
-|               |               | GENRLTXT.TXT |
-|               |               | CrGen1.txt   |
-|               |               | MINEEVNT.TXT |
-|               |               | BldgSpec.txt |
-|               |               | CREDITS.TXT  |
-|               |               | Walls.txt    |
-|               |               | TCommand.txt |
-|               |               | SPTRAITS.TXT |
-|               |               | Overview.txt |
-|               |               | ObjNames.txt |
-|               |               | TvrnInfo.txt |
-|               |               | CrBanks.txt  |
-|               |               | TownName.txt |
-|               |               | ArtSlots.txt |
-|               |               | BldgNeut.txt |
-|               |               | CastInfo.txt |
-|               |               | CRTRAITS.TXT |
-|               |               | HallInfo.txt |
-|               |               | Garrison.txt |
-|               |               | HeroScrn.txt |
-|               |               | CrGen4.txt   |
-|               |               | Monolith.txt |
-|               |               | Dwelling.txt |
-|               |               | HCTRAITS.TXT |
-|               |               | ARRAYTXT.TXT |
-|               |               | RESTYPES.TXT |
-|               |               | SSTRAITS.TXT |
-|               |               | SkillLev.txt |
-|               |               | TERRNAME.txt |
-|               |               | TentColr.txt |
-|               |               | artraits.txt |
-|               |               | icdesc.txt   |
-|               |               | turndur.txt  |
-|               |               | vcdesc.txt   |
-|               |               | xtrainfo.txt |
-|               |               | PriSkill.txt |
-|               |               | PlColors.txt |
-|               |               | MineName.txt |
-|               |               | JKTEXT.TXT   |
 
 Vanliga Ord (Fyll på allteftersom)
 -----------
