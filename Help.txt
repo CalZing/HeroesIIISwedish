@@ -568,7 +568,6 @@ Stridsalternativ	Stridsalternativ
 Avsluta Stridsalternativ"																						
 Återställ Grundvärden	"{Grundvärden}
 
-Restores combat option default values"																						
 Återställer Stridsalternativens grundvärden"																						
 "MUSIC_VOLUME_0_ID,"	Stäng av musik																						
 "MUSIC_VOLUME_1_ID,"	Sätt musikvolym till 1																						
@@ -853,3 +852,4 @@ Insert all data before this line. Do not alter or delete this line.
 
 
 
+																							
