@@ -56,7 +56,7 @@ Sagorna berättar om att en röd svan av någon anledning betyder lycka och välgång
 "{Cover of Darkness}
 
 You touch the Cover of Darkness, and the land around you is covered in a haze which only your eyes can penetrate."
-DU har hittat en %s.  Vill du attackera vakterna?
+Du har hittat en %s.  Vill du angripa vakterna?
 "Du har funnit vad som en gång var en %s, men den verkar vara övergiven nu."
 "Efter att ha besegrat %s, finner du %s."
 "{%s}
