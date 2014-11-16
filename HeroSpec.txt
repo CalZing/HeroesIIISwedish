@@ -129,15 +129,15 @@ Trolldom	Sekundärförmåga: Trolldom	Får en 5% bonus till Trolldom-förmågan för va
 Intelligens	Sekundärförmåga: Intelligens	Får en 5% bonus till Intelligens-förmågan för varje nivå.
 Örnögdhet	Sekundärförmåga: Örnögdhet	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
 Övernaturliga Ele.	Varelsebonus: Övernaturliga Elementärer	Övernaturliga/Magiska elementärer får +3 Att och +3 För.
-Jord Ele.	Varelsebonus: Jord Elementärer	"Jord/Magma elementärer får +2 Att, +1 För och +5 Ska."
-Fire Elementals	Varelsebonus: Eld Elementärer	"Eld/Energu elementärer får +1 Att, +2 För och +2 Ska."
-Water Ele.	Varelsebonus: Vatten Elementärer	Vatten/Is elementärer får +2 Att.
-Psychic Ele.	Varelsebonus: Övernaturliga Elementärer	Övernaturliga/Magiska elementärer får +3 Att och +3 För.
-Earth Ele.	Varelsebonus: Jord Elementärer	"Jord/Magma elementärer får +2 Att, +1 För och +5 Ska."
-Fire Ele.	Varelsebonus: Eld Elementärer	"Eld/Energi elementärer får +1 Att, +2 För och +2 Ska."
-Vatten Ele.	Varelsebonus: Vatten Elementärer	Vatten/Is elementärer får +2 Att.
+Jordele.	Varelsebonus: Jordelementärer	"Jord/Magma elementärer får +2 Att, +1 För och +5 Ska."
+Eldele	Varelsebonus: Eldelementärer	"Eld/Energu elementärer får +1 Att, +2 För och +2 Ska."
+Vattenele.	Varelsebonus: Vattenelementärer	Vatten/Is elementärer får +2 Att.
+Öv. Ele.	Varelsebonus: Övernaturliga Elementärer	Övernaturliga/Magiska elementärer får +3 Att och +3 För.
+Jordele.	Varelsebonus: Jordelementärer	"Jord/Magma elementärer får +2 Att, +1 För och +5 Ska."
+Eldele.	Varelsebonus: Eldelementärer	"Eld/Energi elementärer får +1 Att, +2 För och +2 Ska."
+Vattenele.	Varelsebonus: Vattenelementärer	Vatten/Is elementärer får +2 Att.
 Eldvägg	Trollformelsbonus: Eldvägg	Skadan ifrån Eldväggen fördubblas.
-Skydd	Trollformelsbonus: Skydd	"Kasta Skynda med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
+Skynda	Trollformelsbonus: Skynda	"Kasta Skynda med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Magisk pil	Trollformelsbonus: Magisk pil	"Skadan ifrån Magisk pil ökas med 50%."
 Stenskinn	Trollformelsbonus: Stenskinn	"Braheten i Stenskinn ökar med +3."
 Blodtörst	Trollformelsbonus: Blodtörst	"Kasta Blodtörst med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
