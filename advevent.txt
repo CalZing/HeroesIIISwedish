@@ -301,13 +301,13 @@ Du hittar en pergamentsrulle där trollformeln %s är nedtecknad. Du kastar ner de
 Du har redan besökt stallet denhär veckan."
 "{Stall}
 
-Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre i en hel vecka!"
+Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre resten av veckan!"
 "{Stall}
 
-Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre i en hel vecka! Dessutom uppgraderar han alla dina Kavalerister till Tornérspelare!"
+Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre resten av veckan! Dessutom uppgraderar han alla dina Kavalerister till Tornérspelare!"
 "{Stall}
 
-Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre i en hel vecka! Dessutom uppgraderar han alla dina Kavalerister till Tornérspelare!"
+Den snälle stallpojken förser hela din armé nya hästar. Nu kan du rida längre resten av veckan! Dessutom uppgraderar han alla dina Kavalerister till Tornérspelare!"
 "{Tempel}
 
 Ett besök i templet gör att moralen ökar bland dina trupper."

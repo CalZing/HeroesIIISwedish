@@ -84,13 +84,13 @@ Grundläggande Skarpögdhet ger hjälten 40% chans att lära sig trollformler av niv
 Avancerad Skarpögdhet ger hjälten 50% chans att lära sig trollformler upp till nivå 3 som kastas under strid."	"{Mästerlig Skarpögdhet}
 
 Mästerlig Skarpögdhet ger hjälten 60% chans att lära sig trollformler upp till nivå 4 som kastas under strid."
-Dödsmagi	"{Grundläggande Dödsmagi}
+Nekromanti	"{Grundläggande Nekromanti}
 
-Grundläggande Dödsmagi låter 10% av alla varelser som dödats i en strid uppstå som Skelett."	"{Avancerad Dödsmagi}
+Grundläggande Nekromanti låter 10% av alla varelser som dödats i en strid uppstå som Skelett."	"{Avancerad Nekromanti}
 
-Avancerad Dödsmagi låter 20% av alla varelser som dödats i en strid uppstå som Skelett."	"{Mästerlig Dödsmagi}
+Avancerad Nekromanti låter 20% av alla varelser som dödats i en strid uppstå som Skelett."	"{Mästerlig Nekromanti}
 
-Mästerlig Dödsmagi låter 30% av alla varelser som dödats i en strid uppstå som Skelett."
+Mästerlig Nekromanti låter 30% av alla varelser som dödats i en strid uppstå som Skelett."
 Egendomar	"{Grundläggande Egendomar}
 
 Med Grundläggande Egendomar tjänar din hjälte 125 guld om dagen."	"{Avancerade Egendomar}
