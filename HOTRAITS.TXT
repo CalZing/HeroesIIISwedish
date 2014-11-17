@@ -146,7 +146,7 @@ Gelare	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
 Grindan	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
 Herr Mullich	10	20	Pikeman	4	7	Archer	2	3	Griffin
 Adrienne	10	20	Gnoll	4	7	Lizardman	2	4	Serpent Fly
-Katrin	10	20	Pikeman	4	7	Archer	2	3	Griffin
+Katarina	10	20	Pikeman	4	7	Archer	2	3	Griffin
 Drakon	6	6	Enchanters	3	3	Enchanters	1	1	Enchanters
 Gelu	6	6	Sharpshooters	3	3	Sharpshooters	1	1	Sharpshooters
 Kilgor	15	25	Goblins	5	7	Goblin Wolf Rider	4	6	Orc
