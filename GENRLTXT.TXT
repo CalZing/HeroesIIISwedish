@@ -30,7 +30,7 @@ Otillgängligt mål för Teleportering
 Teleportera hit
 Kasta %s
 Kasta %s på %s
-Är du säker på att du vill ge fly?
+Är du säker på att du vill fly?
 Du har inte tillräckligt med Guld!
 Du har erövrat en fiendes artefakt!
 Inget
@@ -441,14 +441,14 @@ piltorn
 En %s dör."
 "
 %d %s dör."
-Att
+Anf
 För
 Kra
 Kuns
 Moral
 Tur
-Skad
-Trollformelspoäng
+Skada
+Trollformelsp.
 Hälsa
 Hälsa
 Allierade

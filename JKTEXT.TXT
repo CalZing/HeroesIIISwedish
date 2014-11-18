@@ -5,8 +5,8 @@ Kraft
 Kunskap
 {Specialitet}
 {Erfarenhet}
-{Trollformelspoäng}
-"Uppdrag
+{Trollformelsp.}
+"Uppdrags-
 Logg"
 "Avfärda
 Hjälte"
