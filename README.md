@@ -8,10 +8,10 @@ Status
 
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
-  |               | randtvrn.txt (Simon)  |              |
-| artevent.txt  |               |              |
+|               | randtvrn.txt (Simon)  |              |
+|               | artevent.txt (Alexander) |               |
+|               | randsign.txt  |               |
 | HeroBios.txt  |               |              |
-| randsign.txt  |               |              |
 
 Vanliga Ord (Fyll på allteftersom)
 -----------
