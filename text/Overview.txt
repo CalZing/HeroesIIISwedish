@@ -1,0 +1,26 @@
+Hjälte/Stats
+Förmågor
+Artefakter
+Stad
+Garnisonhjälte
+Besökande Hjälte
+"{Granska Hjältar}
+
+Se hjältarna som för tillfället är under ditt befäl."
+"{Granska Städer}
+
+Se städerna som du kontrollerar."
+"{Burna}
+
+Visar artefakterna som din hjälte bär."
+"{Diverse}
+
+Visar föremålen som påverkar, men ej behöver vara delav din hjältes utrustning."
+"{Ryggsäck}
+
+Visar föremål som för tillfället är i hjältens ryggsäck."
+Granska Hjältar
+Granska Städer
+Granska Burna Artefakter
+Granska Diverse Föremål
+Granska Hjältens RyggsäckView Hero's Backpack

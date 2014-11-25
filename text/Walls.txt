@@ -1,0 +1,181 @@
+		
+Mursektion	"Hit Points (max is 3, only walls, Torns, the gate, and the main building are used, unused must be 0)"	
+Caslte		
+Vindbrygga	0	
+Vindbryggsrep	0	
+Vallgrav	0	
+Vallgravsläpp	0	
+Bakre Mur	0	
+Övre Torn	2	
+Övre Mur	2	
+Övre Strävpelare	0	
+Övre Mellanmur	2	
+Gate	2	
+Nedre Mellanmur	2	
+Nedre Strävpelare	0	
+Nedre Mur	2	
+Nedre Torn	2	
+Huvudorn	2	
+Huvudtornsspkydd	0	
+Nedre Tornskydd	0	
+Övre Tornskydd	0	
+
+Rampart		
+Vindbrygga	0	
+Vindbryggsrep	0	
+Vallgrav	0	
+Vallgravsläpp	0	
+Bakre Mur	0	
+Övre Torn	2	
+Övre Mur	2	
+Övre Strävpelare	0	
+Övre Mellanmur	2	
+Gate	2	
+Nedre Mellanmur	2	
+Nedre Strävpelare	0	
+Nedre Mur	2	
+Nedre Torn	2	
+Main Building	2	
+Main Bldg Cvr	0	
+Nedre Tornskydd	0	
+Övre Tornskydd	0	
+
+Tower		
+Vindbrygga	0	
+Vindbryggsrep	0	
+Vallgrav	0	
+Vallgravsläpp	0	
+Bakre Mur	0	
+Övre Torn	2	
+Övre Mur	2	
+Övre Strävpelare	0	
+Övre Mellanmur	2	
+Gate	2	
+Nedre Mellanmur	2	
+Nedre Strävpelare	0	
+Nedre Mur	2	
+Nedre Torn	2	
+Main Building	2	
+Main Bldg Cvr	0	
+Nedre Tornskydd	0	
+Övre Tornskydd	0	
+
+Inferno		
+Vindbrygga	0	
+Vindbryggsrep	0
+Vallgrav	0
+Vallgravsläpp	0
+Bakre Mur	0
+Övre Torn	2
+Övre Mur	2
+Övre Strävpelare	0
+Övre Mellanmur	2
+Gate	2
+Nedre Mellanmur	2
+Nedre Strävpelare	0
+Nedre Mur	2
+Nedre Torn	2
+Main Building	2
+Main Bldg Cvr	0
+Nedre Tornskydd	0
+Övre Tornskydd	0	
+
+Necropolis		
+Vindbrygga	0	
+Vindbryggsrep	0	
+Vallgrav	0	
+Vallgravsläpp	0	
+Bakre Mur	0	
+Övre Torn	2	
+Övre Mur	2	
+Övre Strävpelare	0	
+Övre Mellanmur	2	
+Gate	2	
+Nedre Mellanmur	2	
+Nedre Strävpelare	0	
+Nedre Mur	2	
+Nedre Torn	2	
+Main Building	2	
+Main Bldg Cvr	0	
+Nedre Tornskydd	0	
+Övre Tornskydd	0	
+
+Dungeon		
+Vindbrygga	0	
+Vindbryggsrep	0	
+Vallgrav	0	
+Vallgravsläpp	0	
+Bakre Mur	0	
+Övre Torn	2	
+Övre Mur	2	
+Övre Strävpelare	0	
+Övre Mellanmur	2	
+Gate	2	
+Nedre Mellanmur	2	
+Nedre Strävpelare	0	
+Nedre Mur	2	
+Nedre Torn	2	
+Main Building	2	
+Main Bldg Cvr	0	
+Nedre Tornskydd	0	
+Övre Tornskydd	0	
+
+Stronghold		
+Vindbrygga	0	
+Vindbryggsrep	0	
+Vallgrav	0	
+Vallgravsläpp	0	
+Bakre Mur	0	
+Övre Torn	2	
+Övre Mur	2	
+Övre Strävpelare	0	
+Övre Mellanmur	2	
+Gate	2	
+Nedre Mellanmur	2	
+Nedre Strävpelare	0	
+Nedre Mur	2	
+Nedre Torn	2	
+Main Building	2	
+Main Bldg Cvr	0	
+Nedre Tornskydd	0	
+Övre Tornskydd	0	
+
+Fortress		
+Vindbrygga	0	
+Vindbryggsrep	0
+Vallgrav	0
+Vallgravsläpp	0
+Bakre Mur	0
+Övre Torn	2
+Övre Mur	2
+Övre Strävpelare	0
+Övre Mellanmur	2
+Gate	2
+Nedre Mellanmur	2
+Nedre Strävpelare	0
+Nedre Mur	2
+Nedre Torn	2
+Main Building	2
+Main Bldg Cvr	0
+Nedre Tornskydd	0
+Övre Tornskydd	0	
+
+Forge		
+Vindbrygga	0	
+Vindbryggsrep	0	
+Vallgrav	0	
+Vallgravsläpp	0	
+Bakre Mur	0	
+Övre Torn	2	
+Övre Mur	2	
+Övre Strävpelare	0	
+Övre Mellanmur	2	
+Gate	2	
+Nedre Mellanmur	2	
+Nedre Strävpelare	0	
+Nedre Mur	2	
+Nedre Torn	2
+Main Building	2
+Main Bldg Cvr	0
+Nedre Tornskydd	0
+Övre Tornskydd	0

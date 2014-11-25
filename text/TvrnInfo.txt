@@ -1,0 +1,8 @@
+Har inte råd med en Hjälte
+Kan ej rekrytera. Du har redan %d Hjältar.
+Kan ej rekrytera. Du har redan en hjälte i den här staden.
+Rekrytera %s %s
+Välj %s
+Sjuvskrå
+Anställningspris
+Gå ur tavernan

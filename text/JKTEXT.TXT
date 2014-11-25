@@ -1,0 +1,46 @@
+Hjältefönstret
+Anfall
+Försvar
+Kraft
+Kunskap
+{Specialitet}
+{Erfarenhet}
+{Trollformelsp.}
+"Uppdrags-
+Logg"
+"Avfärda
+Hjälte"
+Översiktsfönster
+Guld per dag:
+Varvfönster
+Bygg nytt skepp
+Resurskostnad:
+Tjuvskråfönstret
+1:a
+2:a
+3:e
+4:e
+5:e
+6:e
+7:e
+8:e
+Antal städer
+Antal hjältar
+Guld
+Trä & Malm
+"Kvicksilver, Svavel, Kristall och Ädelstenar"
+Funna Obelisker
+Artefakter
+Kungadömets Arméstyrka
+Inkomst
+Bästa Hjälte
+Personalitet
+Bästa Varelse
+Tavernafönster
+Taverna
+Hjältar att hyra
+Stadsportfönster
+Stadstort
+Välj stad genom porten.
+Smedfönstret
+Resurskostnad:

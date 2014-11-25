@@ -1,0 +1,29 @@
+Magiskrå Nivå 1	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 2	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 3	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 4	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magiskrå Nivå 5	En besökande hjälte som stiger in i magiskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Taverna	Tavernan ökar moralen hos trupper som försvarar staden.
+Varv	Varvet låter dig köpa skepp.
+Fort	Fortet förser din stad med försvarsmurar.
+Fästning	"Inklusive en 50% ökning av varelsetillväxten lägger fästningen till ett huvudtorn och andra terränghinder till en stads försvar."
+Borg	"Borgen lägger till två piltorn, fortifierar din stads försvar och dubblar grundvarelsetillväxten."
+Byhall	Byhallen låter dig köpa stadsbyggnader och inbringar 500 guld per dag till ditt kungadöme.
+Stadshall	Stadshallen låter dig köpa stadsbyggnader och inbringar 1000 guld per dag till ditt kungadöme.
+Storstadshall	Storstadshallen låter dig köpa stadsbyggnader och inbringar 2000 guld per dag till ditt kungadöme.
+Huvudstad	Huvudstaden inbringar 4000 guld per dag till ditt kungadöme.
+Marknadsplats	"Med Marknadsplatsen kan du köpa och sälja resurser (Växelkurser förbättras med varje Marknadsplats du äger)."
+	
+Smedja	Smedjan förser dina arméer med %s.
+Vallgrav	Vallgraven saktar ned anfallande enheter.  En enhet som äntrar vallgraven måste avslsuta sin tur i den och blir mer sårbar mot angrepp.
+Varv med skepp	Varvet låter dig köpa skepp.
+Smedja	Smedjan förser dina arméer med Ballistor.
+Smedja	Smedjan förser dina arméer med Första Hjälpen-tält.
+Smedja	Smedjan förser dina arméer med Ammunitionskärror.
+Smedja	Smedjan förser dina arméer med Ammunitionskärror.
+Smedja	Smedjan förser dina arméer med Första Hjälpen-tält.
+Smedja	Smedjan förser dina arméer med Ballistor.
+Smedja	Smedjan förser dina arméer med Ammunitionskärror.
+Smedja	Smedjan förser dina arméer med Första Hjälpen-tält.
+Smedja	Smedjan förser dina arméer med Ballistor.
+Smedja	Smedjan förser dina arméer med Krigsmaskiner.

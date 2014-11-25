@@ -7,9 +7,9 @@ sedcmd=sed
 # use gsed if available (OS X)
 which gsed > /dev/null && sedcmd=gsed
 
-svdir=../
+svdir=../../release/Data/
 [ $1 ] && svdir=$1
-endir=en/
+endir=../../text/original/
 [ $2 ] && endir=$2
 
 for f in $svdir*.txt $svdir*.TXT
@@ -17,11 +17,5 @@ do
   fname=$($sedcmd -e 's&.*\/&&g' <<< $f)
   echo $fname
 
-  # Create file containing EOL information
-  ./txtfix -i $svdir$fname -o $svdir$fname -l $endir$fname -t latin1 -b
+  ./txtfix -i $svdir$fname -l $endir$fname -c
 done
-
-
-
-
-

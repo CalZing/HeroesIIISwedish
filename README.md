@@ -5,13 +5,18 @@ Heroes på svenska
 
 Status
 ------
+Text:
 
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
-|               | randtvrn.txt (Simon)  |              |
 |               | artevent.txt (Alexander) |               |
-|               | randsign.txt  |               |
 | HeroBios.txt  |               |              |
+
+Grafik:
+
+| Engelsk       | Påbörjat      | Klart        |
+| ------------- |:-------------:| ------------:|
+| Allt          | Inget         | Inget        |
 
 Vanliga Ord (Fyll på allteftersom)
 -----------
@@ -40,6 +45,4 @@ Försök att hålla tabbar, radbryt, etc intakta. Spelet kan hänga sig om detta
 Installation
 ============
 
-Man behöver inte alls paja sin nuvarande installation för att spela Heroes på svenska. Tanka bara ned zip-filen med .txt filerna och packa upp den i "Data"-mappen på din heroes-installation.
-
-Om du inte längre vill spela med svensk text, ta bort filerna eller flytta dem till en annan plats på din data.
+Tanka helst ned senaste releaser från [http://maktenochmaginshjaltariii.tumblr.com](). Vill du istället hämta filerna direkt från repot så kopierar du de två mapparna som ligger i release-mappen och klistrar in dem där du har din Heroes-installation. Du kommer få frågan om du vill slå ihop mapparna, och det vill du.

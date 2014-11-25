@@ -1,0 +1,36 @@
+Dela %s armé
+Kan ej kombinera hjältens sista armé
+Kombinera %s arméer
+Dela armé
+Granska %s
+Kan ej flytta sista armén till ga garnisonen
+Flytta %s
+Byt %s mot %s
+Gå ur stad
+Kan ej flytta allierade hjältar till garnisonen.
+Överblick över kungadömet
+Tom
+Välj %s (i garnisonen)
+Se Hjälte
+Magiskrå
+Tjuvskrå
+Taverna
+Varv
+Borg
+Smedja
+Byhall
+Rekrytera %s
+Stadshall
+Storstadshall
+Huvudstad
+
+Marknadsplats
+Resurssilo
+Fort
+Fästning
+Ett externt varelsebo måste flaggas för att kunna åkalla varelser genom portalen.
+%s införskaffade
+Välj %s (besökande)
+Välj %s (bortkastade varelser)
+Välj %s (hjälts armé)
+%s (kan ej radera)

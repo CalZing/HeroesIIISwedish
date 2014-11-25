@@ -1,0 +1,1126 @@
+			School				Cost				Effect					% Chance to gain									AI value				Right Click Text				
+Name	Abbreviated Name	Level	Earth	Water	Fire	Air	None	Basic	Advanced	Expert	Power 	None	Basic	Advanced	Expert	Castle	Rampart	Tower	Inferno	Necropolis	Dungeon	Stronghold	Fortress	Conflux	None	Basic	Advanced	Expert	Normal	Basic	Advanced	Expert	"Attributes (reference only, do not change)"
+																																	
+Adventure Spells																																	
+																																	
+Åkalla båt	Åkalla båt	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Åkalla båt}
+
+Åkallar en existerande, vänskaplig, ledig båt från vartsomhelst i världen till din plats.
+
+Chansen att lyckas är 50%.
+"	"{Grundläggande Åkalla båt}
+
+Åkallar en existerande, vänskaplig, ledig båt från vartsomhelst i världen till din plats.
+
+Chansen att lyckas är 50%.
+"	"{Avancerad Åkalla båt}
+
+Åkallar en existerande, vänskaplig, ledig båt från vartsomhelst i världen till din plats.  Om inga båtar existerar så skapas en.
+
+Chansen att lyckas är 75%.
+"	"{Mästerlig Åkalla båt}
+
+Åkallar en existerande, vänskaplig, ledig båt från vartsomhelst i världen till din plats.  Om inga båtar existerar så skapas en.
+"	 ADV_SPELL
+Sänk Båt	Sänk Båt	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Sänk Båt}
+
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
+
+Chansen att lyckas är 50%.
+"	"{Grundläggande Sänk Båt}
+
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
+
+Chansen att lyckas är 50%.
+"	"{Avancerad Sänk Båt}
+
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
+
+Chansen att lyckas är 75%.
+"	"{Mästerlig Sänk Båt}
+
+Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
+"	 ADV_SPELL
+Visioner	Visioner	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visioner}
+
+Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison.
+"	"{Grundläggande Visioner}
+
+Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison. Finns det närbelägna kringvandrande monster får du reda på exakt antal trupper och om de är villiga att gå med din hjälte.
+"	"{Avancerad Visioner}
+
+Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison. Finns det närbelägna kringvandrande monster får du reda på exakt antal trupper och om de är villiga att gå med din hjälte. Låter dig även avläsa en närliggande hjältes primärförmågor, varelsetyp och antal trupper, precis som om hjälten vore en del av ditt kungadöme.
+"	"{Mästerlig Visioner}
+
+Ger dig exakta siffror på kringvandrande monster och om de är villiga att gå med din hjälte. Låter dig även avläsa en närliggande hjältes primärförmågor, varelsetyp och antal trupper, precis som om hjälten vore en del av ditt kungadöme, liksom en närliggande stads statistik, garninsons varelser och kvantitet.
+"	 ADV_SPELL
+Beskåda Jorden	Beskåda Jorden	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Jorden}
+
+Avslöjar alla resursplatser för kastaren.
+"	"{Grundläggande Beskåda Jorden}
+
+Avslöjar alla resursplatser för kastaren.
+"	"{Avancerad Beskåda Jorden}
+
+Avslöjar alla resurs- och gruvplatser för kastaren.
+"	"{Mästerlig Beskåda Jorden}
+
+Avslöjar alla resurs- och gruvplatser, samt visar hela terrängkartan för kastaren.
+"	 ADV_SPELL
+Förklä	Förklä	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Förklä}
+
+Ger falsk information till en fiende som försöker beskåda din hjälte.
+"	"{Grundläggande Förklä}
+
+Gör så att alla enheter i din armé ser ut som din starkaste enhet för alla fiender som försöker beskåda din hjälte. Antalet i varje grupp förblir oförändrat.
+"	"{Avancerad Förklä}
+
+Gör så att alla enheter i din armé ser ut som din starkaste enhet för alla fiender som försöker beskåda din hjälte. Antalet i varje grupp förefaller vara noll.
+"	"{Mästerlig Förklä}
+
+Gör så att alla enheter i din armé ser ut som den starkaste enheten förknippad med din hjältetyp för alla fiender som försöker beskåda din hjälte. Antalet i varje grupp förefaller vara noll.
+"	 ADV_SPELL
+Beskåda Luften	Beskåda	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Luften}
+
+Avslöjar platserna för alla tillgängliga artifakter för kastaren.
+"	"{Grundläggande Beskåda Luften}
+
+Avslöjar platserna för alla tillgängliga artifakter för kastaren.
+"	"{Avancerad Beskåda Luften}
+
+Avslöjar platserna för alla tillgängliga artifakter, plus fiendens hjältar, för kastaren.
+"	"{Mästerlig Beskåda Luften}
+
+Avslöjar platserna för alla tillgängliga artifakter, plus fiendens hjältar och städer, för kastaren.
+"	 ADV_SPELL
+Flyg	Flyg	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Flyg}
+
+Låter din armé använda delar av sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+"	"{Grundläggande Flyg}
+
+Låter din armé använda delar av sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+"	"{Avancerad Flyg}
+
+Låter din armé använda merparten av sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+"	"{Mästerlig Flyg}
+
+Låter din armé använda hela sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+"	 ADV_SPELL
+Vattenpromenad	Vattenpromenad	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Vattenpromenad}
+
+Låter din armé använda delar av sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
+"	"{Grundläggande Vattenpromenad}
+
+Låter din armé använda delar av sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
+"	"{Avancerad Vattenpromenad}
+
+Låter din armé använda merparten av sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
+"	"{Mästerlig Vattenpromenad}
+
+Låter din armé använda hela sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
+"	 ADV_SPELL
+Dimensionsdörr	Dimensionsdörr	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimensionsdörr}
+
+En gång om dagen får du teleportera din hjälte till en synlig, oupptagen plats på äventyrskartan.
+"	"{Grundläggande Dimensionsdörr}
+
+Två gånger om dagen får du teleportera din hjälte till en synlig, oupptagen plats på äventyrskartan.
+"	"{Avancerad Dimensionsdörr}
+
+Tre gånger om dagen får du teleportera din hjälte till en synlig, oupptagen plats på äventyrskartan.
+"	"{Mästerlig Dimensionsdörr}
+
+Fyra gånger om dagen får du teleportera din hjälte till en synlig, oupptagen plats på äventyrskartan.
+"	 ADV_SPELL
+Stadsportal	Stadsportal	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Stadsportal}
+
+Teleporterar din hjälte till närmaste vänskapliga stad.  Staden måste vara ledig.
+"	"{Grundläggande Stadsportal}
+
+Teleporterar din hjälte till närmaste vänskapliga stad.  Staden måste vara ledig.
+"	"{Avancerad Stadsportal}
+
+Teleporterar din hjälte till valfri vänskapliga stad.  Staden måste vara ledig.
+"	"{Mästerlig Stadsportal}
+
+Teleporterar din hjälte till valfri vänskapliga stad.  Staden måste vara ledig.
+"	 ADV_SPELL
+																																	
+Combat Spells																																	
+																																	
+Kvicksand	Kvicksand	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Kvicksand}
+
+Placerar slumpmässigt ut fyra små stråk kvicksand på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Att vandra in i kvicksana avslutar en enhets förflyttning för draget och gör den synlig för alla.
+"	"{Grundläggande Kvicksand}
+
+Placerar slumpmässigt ut fyra små stråk kvicksand på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Att vandra in i kvicksana avslutar en enhets förflyttning för draget och gör den synlig för alla.
+"	"{Avancerad Kvicksand}
+
+Placerar slumpmässigt ut sex små stråk kvicksand på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Att vandra in i kvicksana avslutar en enhets förflyttning för draget och gör den synlig för alla.
+"	"{Mästerlig Kvicksand}
+
+Placerar slumpmässigt ut åtta små stråk kvicksand på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Att vandra in i kvicksana avslutar en enhets förflyttning för draget och gör den synlig för alla.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Landmina	Landmina	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Landmina}
+
+Placerar slumpmässigt ut fyra små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
+"	"{Grundläggande Landmina}
+
+Placerar slumpmässigt ut fyra små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
+"	"{Avancerad Landmina}
+
+Placerar slumpmässigt ut sex små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
+
+Åsamkad skada är 25 poäng mer än Grundläggande Landmina.
+"	"{Mästerlig Landmina}
+
+Placerar slumpmässigt ut åtta små ytor med landminor på slagfältet som bara är synliga för kastaren och varelser hemmavarande i terrängen.  Den åsamkar skada på en enhet som vandrar över den.
+
+Åsamkad skada är 75 poäng mer än Grundläggande Landmina.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Kraftfält	Kraftfält	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Kraftfält}
+
+Placerar ett litet kraftfält på slagfältet på en punkt specificerad av kastaren. 
+"	"{Grundläggande Kraftfält}
+
+Placerar ett litet kraftfält på slagfältet på en punkt specificerad av kastaren. 
+"	"{Avancerad Kraftfält}
+
+Placerar ett mellanstort kraftfält på slagfältet på en punkt specificerad av kastaren.
+"	"{Mästerlig Kraftfält}
+
+Placerar ett mellanstort kraftfält på slagfältet på en punkt specificerad av kastaren.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Eldmur	Eldmur	2	 	 	x	 	8	6	6	6	10	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Eldmur}
+
+Placerar en liten löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
+"	"{Grundläggande Eldmur}
+
+Placerar en liten löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
+"	"{Avancerad Eldmur}
+
+Placerar en mellanstor löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
+"	"{Mästerlig Eldmur}
+
+Placerar en mellanstor löpeld på slagfältet på en punkt specificerad av kastaren.  En enhet som passerar genom eldmuren tar skada.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Jordbävning	Jordbävning	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Earthquake}
+
+Skadar slumpmässigt två sektioner slottsmur i strid.
+"	"{Grundläggande Jordbävning}
+
+Skadar slumpmässigt två sektioner slottsmur i strid.
+"	"{Avancerad Jordbävning}
+
+Skadar slumpmässigt tre sektioner slottsmur i strid.
+"	"{Mästerlig Jordbävning}
+
+Skadar slumpmässigt fyra sektioner slottsmur i strid.
+"	 COMBAT_SPELL
+Magisk Pil	Magisk Pil	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Magisk Pil}
+
+Förmår en pil med magisk energi att träffa vald enhet.
+"	"{Grundläggande Magisk Pil}
+
+Förmår en pil med magisk energi att träffa vald enhet.
+"	"{Avancerad Magisk Pil}
+
+Förmår en pil med magisk energi att träffa vald enhet.
+
+Åsamkad skada är 10 poäng mer än Grundläggande Magisk Pil.
+"	"{Mästerlig Magisk Pil}
+
+Förmår en pil med magisk energi att träffa vald enhet.
+
+Åsamkad skada är 20 poäng mer än Grundläggande Magisk Pil.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Ispil	Ispil	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Ispil}
+
+Dränerar kroppsvärmen från vald fiendeenhet.
+"	"{Grundläggande Ispil}
+
+Dränerar kroppsvärmen från vald fiendeenhet.
+"	"{Avancerad Ispil}
+
+Dränerar kroppsvärmen från vald fiendeenhet.
+
+Åsamkad skada är 20 poäng mer än Grundläggande Ispil.
+"	"{Mästerlig Ispil}
+
+Dränerar kroppsvärmen från vald fiendeenhet.
+
+Åsamkad skada är 20 poäng mer än Grundläggande Ispil.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Åskblixt	Åskblixt	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Åskblixt}
+
+Förmår en åskblict att träffa vald enhet.
+"	"{Grundläggande Åskblixt}
+
+Förmår en åskblict att träffa vald enhet.
+"	"{Avancerad Åskblixt}
+
+Förmår en åskblict att träffa vald enhet.
+
+Åsamkad skada är 10 poäng mer än Grundläggande Åskblixt.
+"	"{Mästerlig Åskblixt}
+
+Förmår en åskblict att träffa vald enhet.
+
+Åsamkad skada är 40 poäng mer än Grundläggande Åskblixt.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Implosion	Implosion	5	x	 	 	 	30	25	25	25	75	100	100	200	300	0	16	14	16	20	12	0	0	13	75	75	75	75	"{Implosion}
+
+Vållar massiv skada till en enstaka varelsestack.
+"	"{Grundläggande Implosion}
+
+Vållar massiv skada till en enstaka varelsestack.
+"	"{Avancerad Implosion}
+
+Vållar massiv skada till en enstaka varelsestack.
+
+Åsamkad skada är 100 poäng mer än Grundläggande Implosion.
+"	"{Mästerlig Implosion}
+
+Vållar massiv skada till en enstaka varelsestack.
+
+Åsamkad skada är 200 poäng mer än Grundläggande Implosion.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Kedjeblixt	Kedjeblixt	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Kedjeblixt}
+
+Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angränsande enhet och tillfogar halv skada före den går vidare till nästa angränsande enheter och tillfogar halva skadan igen, etc. Träffar fyra enheter.
+"	"{Grundläggande Kedjeblixt}
+
+Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angränsande enhet och tillfogar halv skada före den går vidare till nästa angränsande enheter och tillfogar halva skadan igen, etc. Träffar fyra enheter.
+"	"{Avancerad Kedjeblixt}
+
+Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angränsande enhet och tillfogar halv skada före den går vidare till nästa angränsande enheter och tillfogar halva skadan igen, etc. Träffar fem enheter.
+
+Vållad grundskada är 25 poäng mer än Grundläggande Kedjeblixt.
+"	"{Mästerlig Kedjeblixt}
+
+Skjuter iväg en åskblixt på vald enhet, som sedan går vidare till närmaste angränsande enhet och tillfogar halv skada före den går vidare till nästa angränsande enheter och tillfogar halva skadan igen, etc. Träffar fem enheter.
+
+Vållad grundskada är 75 poäng mer än Grundläggande Kedjeblixt.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Frostring	Frostring	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Frostring}
+
+Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vålla skada till platsen.
+"	"{Grundläggande Frostring}
+
+Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vålla skada till platsen.
+"	"{Avancerad Frostring}
+
+Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vålla skada till platsen.
+
+Åsamkad skada är 15 poäng mer än Grundläggande Frostring.
+"	"{Mästerlig Frostring}
+
+Dränerar kroppsvärmen från alla angränsande enheter till vald plats, utan att vålla skada till platsen.
+
+Åsamkad skada är 45 poäng mer än Grundläggande Frostring.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Eldklot	Eldklot	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Eldklot}
+
+Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen och alla angränsande enheter.
+"	"{Grundläggande Eldklot}
+
+Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen och alla angränsande enheter.
+"	"{Avancerad Eldklot}
+
+Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen och alla angränsande enheter.
+
+Åsamkad skada är 15 poäng mer än Grundläggande Eldklot.
+"	"{Mästerlig Eldklot}
+
+Förmår det valda målet att slå ut i flammor, vilket vållar skada till målplatsen och alla angränsande enheter.
+
+Åsamkad skada är 45 poäng mer än Grundläggande Eldklot.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Inferno	Inferno	4	 	 	x	 	16	12	12	12	10	20	20	40	80	5	5	5	10	5	5	0	0	10	20	20	20	20	"{Inferno}
+
+Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
+"	"{Grundläggande Inferno}
+
+Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
+"	"{Avancerad Inferno}
+
+Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
+
+Åsamkad skada är 20 poäng mer än Grundläggande Inferno.
+"	"{Mästerlig Inferno}
+
+Förmår ett enormt eldklot att träffa valt mål. Var inte nära där det smäller!
+
+Åsamkad skada är 60 poäng mer än Grundläggande Inferno.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Meteorregn	Meteorregn	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Meteorregn}
+
+Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
+"	"{Grundläggande Meteorregn}
+
+Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
+"	"{Avancerad Meteorregn}
+
+Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
+
+Åsamkad skada är 25 poäng mer än Grundläggande Meteorregn.
+"	"{Mästerlig Meteorregn}
+
+Förmår ett meteorregn att falla ned på valt mål och angränsande enheter.
+
+Åsamkad skada är 75 poäng mer än Grundläggande Meteorregn.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Dödsstöt	Dödsstöt	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Dödsstöt}
+
+Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
+"	"{Grundläggande Dödsstöt}
+
+Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
+"	"{Avancerad Dödsstöt}
+
+Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
+
+Åsamkad skada är 10 poäng mer än Grundläggande Dödsstöt.
+"	"{Mästerlig Dödsstöt}
+
+Skickar an dödens våg tvärs över slagfältet som skadar alla icke-odöda enheter.
+
+Åsamkad skada är 20 poäng mer än Grundläggande Dödsstöt.
+"	 COMBAT_SPELL
+Förgör Odöda	Förgör Odöda	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Förgör Odöda}
+
+Försöker att förgöra evemtuella odöda varelser på slagfältet.
+"	"{Grundläggande Förgör Odöda}
+
+Försöker att förgöra evemtuella odöda varelser på slagfältet.
+"	"{Avancerad Förgör Odöda}
+
+Försöker att förgöra evemtuella odöda varelser på slagfältet.
+
+Åsamkad skada är 10 poäng mer än Grundläggande Förgör Odöda.
+"	"{Mästerlig Förgör Odöda}
+
+Försöker att förgöra evemtuella odöda varelser på slagfältet.
+
+Åsamkad skada är 40 poäng mer än Grundläggande Förgör Odöda.
+"	 COMBAT_SPELL
+Ragnarök	Ragnarök	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Ragnarök}
+
+Låter eld regna ned på slagfältet, vilket skadar alla enheter.
+"	"{Grundläggande Ragnarök}
+
+Låter eld regna ned på slagfältet, vilket skadar alla enheter.
+"	"{Avancerad Ragnarök}
+
+Låter eld regna ned på slagfältet, vilket skadar alla enheter.
+
+Åsamkad skada är 30 poäng mer än Grundläggande Ragnarök.
+"	"{Mästerlig Ragnarök}
+
+Låter eld regna ned på slagfältet, vilket skadar alla enheter.
+
+Åsamkad skada är 90 poäng mer än Grundläggande Ragnarök.
+"	 COMBAT_SPELL
+Sköld	Sköld	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Sköld}
+
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
+"	"{Grundläggande Sköld}
+
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
+"	"{Avancerad Sköld}
+
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
+
+Skyddet är dubbelt så bra som Grundläggande Sköld.
+"	"{Mästerlig Sköld}
+
+Skyddar alla vänskapliga enheter, vilket reducerar mängden mottagen skada från man-mot-man-attacker.
+
+Skyddet är dubbelt så bra som Grundläggande Sköld.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Luftskjöld	Luftskjöld	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Luftskjöld}
+
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
+"	"{Grundläggande Luftskjöld}
+
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
+"	"{Avancerad Luftskjöld}
+
+Skyddar vald enhet, vilket reducerar mängden mottagen skada från skotthåll.
+
+Skyddet är dubbelt så bra som Grundläggande Luftsköld.
+"	"{Mästerlig Luftskjöld}
+
+Skyddar alla vänskapliga enheter, vilket reducerar mängden mottagen skada från skotthåll.
+
+Skyddet är dubbelt så bra som Grundläggande Luftsköld.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Eldskjöld	Eldskjöld	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Eldskjöld}
+
+När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
+"	"{Grundläggande Eldskjöld}
+
+När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
+"	"{Avancerad Eldskjöld}
+
+När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
+
+Skadan för anfallande fiendeenheter är 5% mer än Grundläggande Eldskjöld.
+"	"{Mästerlig Eldskjöld}
+
+När den kastas på en vänskaplig enhet ger den inget extra beskydd, men varje fiende som attackerar genom eldskjölden kommer lida skada i proportion till skadan den själv vållar.
+
+Skadan för anfallande fiendeenheter är 10% mer än Grundläggande Eldskjöld.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Skydd mot Luft	Skydd mot Luft	2		 	 	x	7	5	5	5	0	70	70	50	50	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Skydd mot Luft}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler.
+"	"{Grundläggande Skydd mot Luft}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler.
+"	"{Avancerad Skydd mot Luft}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler.
+
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Luft.
+"	"{Mästerlig Skydd mot Luft}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Lufttrollformler.
+
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Luft.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Skydd mot Eld	Skydd mot Eld	1	 		x	 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Skydd mot Eld}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
+"	"{Grundläggande Skydd mot Eld}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
+"	"{Avancerad Skydd mot Eld}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
+
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Eld.
+"	"{Mästerlig Skydd mot Eld}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Eldtrollformler.
+
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Eld.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Skydd mot Vatten	Skydd mot Vatten	1	 	x		 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Skydd mot Vatten}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollformler.
+"	"{Grundläggande Skydd mot Vatten}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollformler.
+"	"{Avancerad Skydd mot Vatten}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollformler.
+
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Vatten.
+"	"{Mästerlig Skydd mot Vatten}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Vattentrollformler.
+
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Vatten.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Skydd mot Jord	Skydd mot Jord	3	x	 	 		12	9	9	9	0	70	70	50	50	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Skydd mot Jord}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler.
+"	"{Grundläggande Skydd mot Jord}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler.
+"	"{Avancerad Skydd mot Jord}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler.
+
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Jord.
+"	"{Mästerlig Skydd mot Jord}
+
+Skyddar den valda enheten, vilket reducerar mottagen skada från Jordtrollformler.
+
+Skyddet är nästan dubbelt så bra jämfört med Grundläggande Skydd mot Jord.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Anti-Magi	Anti-Magi	3	x	 	 	 	15	12	12	12	0	4	4	5	6	12	8	8	4	8	8	12	10	12	10	10	15	20	"{Anti-Magi}
+
+Skyddar vald enhet från alla lågnivåtrollformler.
+"	"{Grundläggande Anti-Magi}
+
+Skyddar vald enhet från alla lågnivåtrollformler.
+"	"{Avancerad Anti-Magi}
+
+Skyddar vald enhet från alla utom de mest kraftfulla trollformlerna.
+"	"{Mästerlig Anti-Magi}
+
+Skyddar vald enhet från alla trollformler.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Bryt Förtrollning	Bryt Förtrollning	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Bryt Förtrollning}
+
+Tar bort samtliga förtrollningseffekter från en vänskaplig varelse.
+"	"{Grundläggande Bryt Förtrollning}
+
+Tar bort samtliga förtrollningseffekter från en vänskaplig varelse.
+"	"{Avancerad Bryt Förtrollning}
+
+Tar bort samtliga förtrollningseffekter från en vänskaplig eller fientlig varelse.
+"	"{Mästerlig Bryt Förtrollning}
+
+Tar bort samtliga förtrollningseffekter från alla enheter på slagfältet.
+"	 COMBAT_SPELL|CREATURE_TARGET_1
+Magisk Spegel	Magisk Spegel	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Magisk Spegel}
+
+Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 20% av gångerna.
+"	"{Grundläggande Magic Mirror}
+
+Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 20% av gångerna.
+"	"{Avancerad Magic Mirror}
+
+Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 30% av gångerna.
+"	"{Mästerlig Magic Mirror}
+
+Reflekterar fientliga trollformler mot en slumpvald fiendevarelse 40% av gångerna.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Kurera	Kurera	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Kurera}
+
+Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på den valda enheten.
+"	"{Grundläggande Kurera}
+
+Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på den valda enheten.
+"	"{Avancerad Kurera}
+
+Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på den valda enheten.
+
+Läkt skada är 10 poäng mer än Grundläggande Kurera.
+"	"{Mästerlig Kurera}
+
+Tar bort alla negativa förtrollningseffekter och läker en liten mängd skadepoäng på alla vänskapliga enheter.
+
+Läkt skada är 20 poäng mer än Grundläggande Kurera.
+"	 COMBAT_SPELL|CREATURE_TARGET_1
+Återuppliva	Återuppliva	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Återuppliva}
+
+Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+"	"{Grundlägga Återuppliva}
+
+Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+"	"{Avancerad Återuppliva}
+
+Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+
+Förser 40 skadepoäng ytterligare gentemot Grundläggande Återuppliva.
+"	"{Mästerlig Återuppliva}
+
+Återupplivar enheter i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+
+Förser 120 skadepoäng ytterligare gentemot Grundläggande Återuppliva.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Besjäla Döda	Besjäla Döda	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Besjäla Döda}
+
+Återbesjälar odöda förstörda i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+"	"{Grundläggande Besjäla Döda}
+
+Återbesjälar odöda förstörda i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+"	"{Avancerad Besjäla Döda}
+
+Återbesjälar odöda förstörda i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+
+Ger ytterligare 30 skadepoäng utöver Grundläggande Besjäla Döda.
+"	"{Mästerlig Besjäla Döda}
+
+Återbesjälar odöda förstörda i den valda gruppen genom att återställa ett fixt antal skadepoäng hos målet.
+
+Ger ytterligare 130 skadepoäng utöver Grundläggande Besjäla Döda.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Offra	Offra	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Offra}
+
+Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
+"	"{Grundläggande Offra}
+
+Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
+"	"{Avancerad Offra}
+
+Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
+
+Återställer mer varelsehälsa än Grundläggande Offra.
+"	"{Mästerlig Offra}
+
+Förstör en vänskaplig varelsegrupp för att kunna återuppliga en död grupp. Antal återupplivade varelser beror på kastarens trollformelskraft och den förstörda stackens hälsa.
+
+Återställer mer varelsehälsa än Avancerad Offra.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Välsigna	Välsigna	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Välsigna}
+
+Låter den valda enheten vålla maximal skada i strid.
+"	"{Grundläggande Välsigna}
+
+Låter den valda enheten vålla maximal skada i strid.
+"	"{Avancerad Välsigna}
+
+Låter den valda enheten vålla större skada än dess maximala i strid.
+"	"{Mästerlig Välsigna}
+
+Låter alla vänskapliga enheter vålla större skada än deras maximala i strid.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Förbanna	Förbanna	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Förbanna}
+
+Låter den valda enheten vålla minimal skada i strid.
+"	"{Grundläggande Förbanna}
+
+Låter den valda enheten vålla minimal skada i strid.
+"	"{Avancerad Förbanna}
+
+Låter den valda enheten vålla mindre skada än dess minimala i strid.
+"	"{Mästerlig Förbanna}
+
+Låter alla fiendens enheter vålla mindre skada än deras minimala i strid.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Blodtörst	Blodtörst	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Blodtörst}
+
+Ökar man-mot-man-skadan vållad av den valda enheten.
+"	"{Grundläggande Blodtörst}
+
+Ökar man-mot-man-skadan vållad av den valda enheten.
+"	"{Avancerad Blodtörst}
+
+Ökar man-mot-man-skadan vållad av den valda enheten.
+
+Effekten är dubbelt så stor som Grundläggande Blodtörst.
+"	"{Mästerlig Blodtörst}
+
+Ökar man-mot-man-skadan vållad av alla vänskapliga enheter.
+
+Effekten är dubbelt så stor som Grundläggande Blodtörst.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Precision	Precision	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Precision}
+
+Ökar skotthållsskadan vållad av den valda enheten.
+"	"{Grundläggande Precision}
+
+Ökar skotthållsskadan vållad av den valda enheten.
+"	"{Avancerad Precision}
+
+Ökar skotthållsskadan vållad av den valda enheten.
+
+Effekten är dubbelt så stor som Grundläggande Precision.
+"	"{Mästerlig Precision}
+
+Ökar skotthållsskadan vållad av alla vänskapliga enheter.
+
+Effekten är dubbelt så stor som Grundläggande Precision.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Svaghet	Svaghet	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Svaghet}
+
+Minskar den valda fiendeenhetens anfallsstyrka.
+"	"{Grundläggande Svaghet}
+
+Minskar den valda fiendeenhetens anfallsstyrka.
+"	"{Avancerad Svaghet}
+
+Minskar den valda fiendeenhetens anfallsstyrka.
+
+Effekten är dubbelt så stor som Grundläggande Svaghet.
+"	"{Mästerlig Svaghet}
+
+Minskar alla fiendeenhetens anfallsstyrka.
+
+Effekten är dubbelt så stor som Grundläggande Svaghet.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Stenskinn	Stenskinn	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Stenskinn}
+
+Ökar den valda enhetens försvarsstyrka.
+"	"{Grundläggande Stenskinn}
+
+Ökar den valda enhetens försvarsstyrka.
+"	"{Avancerad Stenskinn}
+
+Ökar den valda enhetens försvarsstyrka.
+
+Effekten är dubbelt så stor som Grundläggande Stenskinn.
+"	"{Mästerlig Stenskinn}
+
+Ökar alla vänskapliga enheters försvarsstyrka.
+
+Effekten är dubbelt så stor som Grundläggande Stenskinn.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Störande Stråle	Störande Stråle	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Störande Stråle}
+
+Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestrålas flera gånger av den här trollformeln.
+"	"{Grundläggande Störande Stråle}
+
+Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestrålas flera gånger av den här trollformeln.
+"	"{Avancerad Störande Stråle}
+
+Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestrålas flera gånger av den här trollformeln.
+
+Effekten är större än den för Grundläggande Störande Stråle.
+"	"{Mästerlig Störande Stråle}
+
+Minskar den valda fiendeenhetens försvarsstyrka.  En enskild fiende kan bestrålas flera gånger av den här trollformeln.
+
+Effekten är större än den för Avancerad Störande Stråle.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Bön	Bön	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Bön}
+
+Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt den valda enheten.
+"	"{Grundläggande Bön}
+
+Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt den valda enheten.
+"	"{Avancerad Bön}
+
+Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt den valda enheten.
+
+Effekten är dubbelt så stor som Grundläggande Bön.
+"	"{Mästerlig Bön}
+
+Skänker en bonus till anfallsstyrkan, försvarsstyrkan och snabbheten åt alla vänskapliga enheter.
+
+Effekten är dubbelt så stor som Grundläggande Bön.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Glädje	Glädje	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Glädje}
+
+Ökar den valda enhetens moral.
+"	"{Grundläggande Glädje}
+
+Ökar den valda enhetens moral.
+"	"{Avancerad Glädje}
+
+Ökar den valda enhetens moral.
+
+Effekten är dubbelt så stor som Grundläggande Glädje.
+"	"{Mästerlig Glädje}
+
+Ökar alla vänskapliga enheters moral.
+
+Effekten är dubbelt så stor som Grundläggande Glädje.
+"	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
+Sorg	Sorg	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Sorg}
+
+Minskar moralen hos den valda fiendeenheten.
+"	"{Grundläggande Sorg}
+
+Minskar moralen hos den valda fiendeenheten.
+"	"{Avancerad Sorg}
+
+Minskar moralen hos den valda fiendeenheten.
+
+Effekten är dubbelt så stor som Grundläggande Sorg.
+"	"{Mästerlig Sorg}
+
+Minskar moralen hos alla fiendeenheter.
+
+Effekten är dubbelt så stor som Grundläggande Sorg.
+"	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
+Flax	Flax	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Flax}
+
+Ökar den valda enhetens tur.
+"	"{Grundläggande Flax}
+
+Ökar den valda enhetens tur.
+"	"{Avancerad Flax}
+
+Ökar den valda enhetens tur.
+
+Effekten är dubbelt så stor som Grundläggande Flax.
+"	"{Mästerlig Flax}
+
+Ökar alla vänskapliga enheters tur.
+
+Effekten är dubbelt så stor som Grundläggande Flax.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Otur	Otur	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Otur}
+
+Minskar turen hos den valda fiendeenheten.
+"	"{Grundläggande Otur}
+
+Minskar turen hos den valda fiendeenheten.
+
+Trollformelspoängskostnaden hälften av Normal Otur.
+"	"{Avancerad Otur}
+
+Minskar turen hos den valda fiendeenheten.
+
+Effekten är dubbelt så stor som Grundläggande Otur.
+"	"{Mästerlig Otur}
+
+Minskar turen hos alla fiendeenheter.
+
+Effekten är dubbelt så stor som Grundläggande Otur.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Skynda	Skynda	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Skynda}
+
+Ökar snabbheten hos den valda enheten.
+"	"{Grundläggande Skynda}
+
+Ökar snabbheten hos den valda enheten.
+"	"{Avancerad Skynda}
+
+Ökar snabbheten hos den valda enheten.
+
+Effekten är nästan dubbelt så stor som Grundläggande Skynda.
+"	"{Mästerlig Skynda}
+
+Ökar snabbheten hos alla vänskapliga enheter.
+
+Effekten är nästan dubbelt så stor som Grundläggande Skynda.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Sakta Ner	Sakta Ner	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Sakta Ner}
+
+Minskar snabbheten hos den valda fiendeenheten.
+"	"{Grundläggande Sakta Ner}
+
+Minskar snabbheten hos den valda fiendeenheten.
+"	"{Avancerad Sakta Ner}
+
+Minskar snabbheten hos den valda fiendeenheten.
+
+Effekten är dubbelt så stor som Grundläggande Sakta Ner.
+"	"{Mästerlig Sakta Ner}
+
+Minskar snabbheten hos alla fiendeenheten.
+
+Effekten är dubbelt så stor som Grundläggande Sakta Ner.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Dräpare	Dräpare	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Dräpare}
+
+Ökar mångden skada vållad av en enhet när den slåss mot Drakar, Behemoter eller Hydror.
+"	"{Grundläggande Dräpare}
+
+Ökar mångden skada vållad av en enhet när den slåss mot Drakar, Behemoter eller Hydror.
+"	"{Avancerad Dräpare}
+
+Ökar mångden skada vållad av en enhet när den slåss mot Drakar, Behemoter, Hydror, Djävlar eller Änglar.
+"	"{Mästerlig Dräpare}
+
+Ökar mångden skada vållad av en enhet när den slåss mot Drakar, Behemoter, Hydror, Djävlar, Änglar eller Titaner.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Frenesi	Frenesi	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Frenesi}
+
+Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
+"	"{Grundläggande Frenesi}
+
+Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
+"	"{Avancerad Frenesi}
+
+Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
+
+Anfallsbonus är 50% mer än Grundläggande Frenesi.
+"	"{Mästerlig Frenesi}
+
+Vald trupp släpper avsiktligt sitt försvar för att öka grymheten i dess anfall.
+
+Anfallsbonus är dubbel jämfört med Grundläggande Frenesi.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Titanens Åskblixt	Titanens Blixt	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Titanens Åskblixt}
+
+Gör 600 skadepoäng utan något trollformelskostnad åt trollformelkastaren."	"{Titanens Åskblixt}
+
+Gör 600 skadepoäng utan något trollformelskostnad åt trollformelkastaren."	"{Titanens Åskblixt}
+
+Gör 600 skadepoäng utan något trollformelskostnad åt trollformelkastaren."	"{Titanens Åskblixt}
+
+Gör 600 skadepoäng utan något trollformelskostnad åt trollformelkastaren."	
+Motslag	Motslag	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Motslag}
+
+Den valda enheten kommer återslå mot ett ytterligare anfall varje runda.
+"	"{Grundläggande Motslag}
+
+Den valda enheten kommer återslå mot ett ytterligare anfall varje runda.
+"	"{Avancerad Motslag}
+
+Den valda enheten kommer återslå mot två ytterligare anfall varje runda.
+"	"{Mästerlig Motslag}
+
+Alla vänskapliga enheter kommer återslå mot två ytterligare anfall varje runda.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Bärsärkargång	Bärsärkargång	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Bärsärkargång}
+
+Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende.
+"	"{Grundläggande Bärsärkargång}
+
+Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende.
+"	"{Avancerad Bärsärkargång}
+
+Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende.
+
+Effektarealen är sex hexagoner större än Grundläggande Bärsärkargång.
+"	"{Mästerlig Bärsärkargång}
+
+Målenheten kommer slumpvis angalla den närmsta enheten, oavsett vän eller fiende.
+
+Effektarealen är arton hexagoner större än Grundläggande Bärsärkargång.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Hypnotisera	Hypnotisera	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hypnotisera}
+
+Sätter en fiendeenhet tillfälligt under ditt kommando.
+"	"{Grundläggande Hypnotisera}
+
+Sätter en fiendeenhet tillfälligt under ditt kommando.
+"	"{Avancerad Hypnotisera}
+
+Sätter en fiendeenhet tillfälligt under ditt kommando.
+
+Låter dig kontrollera fiender med 10 skadepoäng mer än Grundläggande Hypnotisera.
+"	"{Mästerlig Hypnotisera}
+
+Sätter en fiendeenhet tillfälligt under ditt kommando.
+
+Låter dig kontrollera fiender med 40 skadepoäng mer än Grundläggande Hypnotisera.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Glömska	Glömska	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Glömska}
+
+Halva den valda fiendeenheten glömmer att använda sitt skotthållsanfall.
+"	"{Grundläggande Glömska}
+
+Halva den valda fiendeenheten glömmer att använda sitt skotthållsanfall.
+"	"{Avancerad Glömska}
+
+Gör att den valda fiendeenheten glömmer att använda sitt skotthållsanfall.
+"	"{Mästerlig Glömska}
+
+Gör att alla fiendeenheter glömmer att använda sina skotthållsanfall.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Förblinda	Förblinda	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Förblinda}
+
+Förblindar en varelse så den ej kan förflytta sig och orsakar att dess återslag att ske med halv anfallsstyrka. Förblindelsen varar tills enheten anfalls eller förtrollningen bryts.
+"	"{Grundläggande Förblinda}
+
+Förblindar en varelse så den ej kan förflytta sig och orsakar att dess återslag att ske med halv anfallsstyrka. Förblindelsen varar tills enheten anfalls eller förtrollningen bryts.
+"	"{Avancerad Förblinda}
+
+Förblindar en varelse så den ej kan förflytta sig och orsakar att dess återslag att ske med en fjärdedels anfallsstyrka. Förblindelsen varar tills enheten anfalls eller förtrollningen bryts.
+"	"{Mästerlig Förblinda}
+
+Förblindar en varelse så den ej kan förflytta sig.  Förblindelsen varar tills enheten anfalls eller förtrollningen bryts.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Teleportera	Teleportera	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleportera}
+
+Teleporterar valfri vänskaplig enhet till valfri oupptagen plats på slagfältet.
+"	"{Grundläggande Teleportera}
+
+Teleporterar valfri vänskaplig enhet till valfri oupptagen plats på slagfältet.
+
+Truppen kan ej Teleportera över murar eller vallgravar.
+"	"{Avancerad Teleportera}
+
+Teleporterar valfri vänskaplig enhet till valfri oupptagen plats på slagfältet.
+
+Truppen kan ej Teleportera över murar.
+"	"{Mästerlig Teleportera}
+
+Teleporterar valfri vänskaplig enhet till valfri oupptagen plats på slagfältet.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Ta bort Hinder	Ta bort Hinder	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Ta bort Hinder}
+
+Tar bort valfritt normalt hinder (träd, stenar, etc.) efter kastarens eget val från slagfältet.
+"	"{Grundläggande Ta bort Hinder}
+
+Tar bort valfritt normalt hinder (träd, stenar, etc.) efter kastarens eget val från slagfältet.
+"	"{Avancerad Ta bort Hinder}
+
+Tar bort valfritt normalt hinder (träd, stenar, etc.) efter kastarens eget val från slagfältet.
+"	"{Mästerlig Ta bort Hinder}
+
+Tar bort valfritt normalt eller magiskt hinder efter kastarens eget val från slagfältet.
+"	 COMBAT_SPELL|OBSTACLE_TARGET
+Klona	Klona	4	 	x	 	 	24	20	20	20	0	5	5	6	7	5	5	10	5	5	5	0	0	10	20	20	40	50	"{Klona}
+
+Skapar en duplicerad stack från en vald enhet.  Trollformeln bryts om den anfalls.
+
+Klonar varelser av nivå 1-5.
+"	"{Grundläggande Klona}
+
+Skapar en duplicerad stack från en vald enhet.  Trollformeln bryts om den anfalls.
+
+Klonar varelser av nivå 1-5.
+"	"{Avancerad Klona}
+
+Skapar en duplicerad stack från en vald enhet.  Trollformeln bryts om den anfalls.
+
+Klonar varelser av nivå 1-6.
+"	"{Mästerlig Klona}
+
+Skapar en duplicerad stack från en vald enhet.  Trollformeln bryts om den anfalls.
+
+Klonar varelser av alla nivåer.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Eldelementär	Eldelementär	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Åkalla Eldelementär}
+
+Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Grundläggande Åkalla Eldelementär}
+
+Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Avancerad Åkalla Eldelementär}
+
+Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper åkallas
+
+Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Eldelementär.
+"	"{Mästerlig Åkalla Eldelementär}
+
+Låter dig åkalla eldelementärer.  När den kastats kan inga andra elementärtyper åkallas
+
+Åkallar uppskattningsvis dubbelt så många enheter som Grundläggande Åkalla Eldelementär.
+"	 COMBAT_SPELL
+Jordelementär	Jordelementär	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Åkalla Jordelementär}
+
+Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Grundläggande Åkalla Jordelementär}
+
+Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Avancerad Åkalla Jordelementär}
+
+Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper åkallas
+
+Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Jordelementär.
+"	"{Mästerlig Summon Jordelementär}
+
+Låter dig åkalla jordelementärer.  När den kastats kan inga andra elementärtyper åkallas
+
+Åkallar uppskattningsvis dubbelt så många enheter som Grundläggande Åkalla Jordelementär.
+"	 COMBAT_SPELL
+Vattenelementär	Vattenelementär	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Åkalla Vattenelementär}
+
+Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Grundläggande Åkalla Vattenelementär}
+
+Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Avancerad Åkalla Vattenelementär}
+
+Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyper åkallas
+
+Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Vattenelementär.
+"	"{Mästerlig Åkalla Vattenelementär}
+
+Låter dig åkalla vattenelementärer.  När den kastats kan inga andra elementärtyper åkallas
+
+Åkallar uppskattningsvis dubbelt så många enheter som Grundläggande Åkalla Vattenelementär.
+"	 COMBAT_SPELL
+Luftelementär	Luftelementär	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Åkalla Luftelementär}
+
+Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Grundläggande Åkalla Luftelementär}
+
+Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper åkallas
+"	"{Avancerad Åkalla Luftelementär}
+
+Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper åkallas
+
+Åkallar uppskattningsvis hälften en och en halv gånger enheterna från Grundläggande Åkalla Luftelementär.
+"	"{Mästerlig Åkalla Luftelementär}
+
+Låter dig åkalla luftelementärer.  När den kastats kan inga andra elementärtyper åkallas
+
+Åkallar uppskattningsvis dubbelt så många enheter som Grundläggande Åkalla Luftelementär.
+"	 COMBAT_SPELL
+																																	
+Creature Abilities																																	
+																																	
+Förstenande Blick	Förstenande Blick	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Förgifta	Förgifta	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Bind	Bind	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Sjukdom	Sjukdom	2					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Paralysera	Paralysera	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Föråldra	Föråldra	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Dödsmoln	Dödsmoln	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Åskblixt	Åskblixt	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Bryt hjälpande förtrollningar	Bryt hjälpande förtrollningar	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Dödsblick	Dödsblick	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Syrlig Andedräkt	Syrlig Andedräkt	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					

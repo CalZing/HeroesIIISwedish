@@ -1,0 +1,154 @@
+Lista Över Medverkande
+"{Skapad Av:}
+Jon Van Caneghem
+
+
+
+{Verkställande Producent:}
+Mark Caldwell
+
+
+
+{Producent:}
+Jeff Blattner
+
+
+
+{Regissör:}
+David Mullich
+
+
+{Designer:}
+Jennifer Bullard
+Jon Van Caneghem
+
+
+{Huvudprogrammerare:}
+John Bolton (ROE)
+David Richey (SOD)
+Gus Smedstad (AB)
+
+
+{Programmerare:}
+Mark Caldwell
+John Krause
+Jeff Leggett
+
+
+{Installerarprogrammerare:}
+Riki Corredera
+
+
+{Huvudkonstnärer:}
+Bonita Long-Hemsath (AB)
+Joseph McGuffin (SOD)
+Phelan Sykes (ROE)
+
+
+{Huvudkonstnärer:}
+George Almond
+Jeff Bigman
+Fernando Castillo
+Rebecca Christel
+Brian DeMetz
+John E. Gibson IV
+Louis Henderson
+Edward Hudson
+Tracy Iwata
+Steve Jasper
+Brian Kemper
+April Lee
+Adam McCarthy
+Kurt McKeever
+Nowa Morisaku
+Eric Newman
+John Slowsky
+Bill Stoneham
+Kenneth Thomson, Jr.
+Julia Ulano
+Steve Wasaff
+Scott White
+Charles Zilm
+
+
+{Tillgångssamordnare:}
+Jack Russell
+
+
+{Banskapare:}
+Benjamin Bent
+Dave Botan
+Ryan Den
+Marcus Pregent
+Terry Ray
+Christian Vanouver
+Lisa Whitman
+Michael Wolf
+
+
+{Musikproducent:}
+Rob King
+
+
+{Stadsteman:}
+Paul Romero
+
+
+{Musik:}
+Paul Romero
+Rob King
+Steve Baca
+
+
+{Ljudutformning:}
+Rob King
+Steve Baca
+Chuck Russom
+
+
+{Röstproduktion:}
+Rob King
+Green Street Studios
+South Pasadena, Ca.
+
+
+{Rösttalanger:}
+Mark Arnott
+Mari Devon
+Aric Devone
+Danny Fehsenfield
+Lex Lang
+Wendee Lee
+Mona Marshall
+Laird McCintosh
+
+
+{Huvudtestare:}
+Karl Drown
+
+
+{Erfaren Testare:}
+Ernie Gallardo
+
+
+{Testare:}
+Jeff Abney
+Edward Campos
+Michael Dallenbach
+Robert Scarpato
+Clifton Webster
+Eric Williamson
+
+
+{Speciellt Tack Till:}
+Rad Game Tools
+Sonic Foundry
+Sound Forge
+Soundscape
+
+
+{Besök oss på Webben:}
+www.3do.com
+
+"
+"Copyright 2000 The 3DO Company.  Alla Rättigheter Förbehållna.  3DO, Heroes, Heroes of Might and Magic, Armageddon's Blade, Shadow of Death, New World Computing  och deras respektive logotyper är varumärken och/eller servicemärken för The 3DO Company i de Förenta Staterna och andra länder.  Alla andra varumärken tillhör deras respektive ägare."

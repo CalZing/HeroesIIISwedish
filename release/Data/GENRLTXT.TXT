@@ -364,7 +364,7 @@ Efter en ärofylld strid, %s får %d erfarenhetspoäng"
 Den fege %s flyt ifrån striden.
 "Dina arméer lider ett svårt nederlag och %s överger dig."
 "Dina arméer ger upp inför fienden och ger sig av med svansen mellan benen."
-Dina fega trupper flyt från striden.
+Dina fega trupper flytt från striden.
 Dina arméer lider ett svårt nederlag.
 Katapulten måste tas med.
 Denna varelse är redan uppgraderad.
@@ -429,9 +429,9 @@ En åskblixt träffar %s!
 "Med en brinnande ilska gör %s 50%% extra skada på %s."
 "Såren hos %s stänger sig och den är hel igen."
 "Såren hos %s stänger sig och de är hela igen."
-"{Tactics Phase}
+"{Tactikfas}
 
-I Taktik-fasen så kan en hjälte med överlägsen Taktik-förmåga arrangera sina trupper innan en strid påbörjas."
+I Taktikfasen så kan en hjälte med överlägsen Taktikförmåga arrangera sina trupper innan en strid påbörjas."
 %s dränerar trollformelspoäng från %s!
 %s dränerar trollformelspoäng från %s!
 piltorn

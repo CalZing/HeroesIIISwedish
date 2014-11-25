@@ -58,7 +58,7 @@ Dumle
 Donard			
 Essen			
 Evander			
-Frederick			
+Fredrik			
 Fen			
 Genevieve			
 Horace			
@@ -85,14 +85,14 @@ Hester
 Spiridion
 Skyn
 Rival
-Timeus
-Sulmand
+Timoteus
+Salomon
 Rizlav
 Viola
 Wilhelm
 William
-Xanthe
+Sante
 Javier
 Yvette
-Zarah
+Sara
 Susanne

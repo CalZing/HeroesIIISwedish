@@ -1,0 +1,651 @@
+		Hero Slots																				
+Name	Cost	Trollformelsbok	Krigsmaskin 4	Krigsmaskin 3	Krigsmaskin 2	Krigsmaskin 1	Övrigt 5	Övrigt 4	Övrigt 3	Övrigt 2	Övrigt 1	Fötter	Vänster Ring	Höger Ring	Torso	Vänster Hand	Höger Hand	Nacke	Axlar	Huvud	"Class (S,T,N,J,R)"	Beskrivning
+Trollformelsbok	0	x	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Trollformelsbok}
+
+Vänsterklicka på Trollformelsboken för att se dina trollformler."
+Trollformelsbokrulle	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Trollformelsbokrulle}
+
+Denna rulle innehåller [spell name]-trollformelm som nu kommer finnas i din Trollformelsbok så länge du bär med dig denna rulle."
+Gralen	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Gralen}
+
+Bär Gralen till den stad du vill så ska de som bor där bygga ett stort monument som ger stora fördelar till den stadens ägare!."
+Katapult	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Katapult}
+
+Använd denna krigsmaskin för att skjuta ner fiendens försvarsmurar i strid."
+Ballista	2500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Ballista}
+
+Använd denna krigsmaskin för att skjuta ner dina fiender i strid."
+Ammonutionskärran	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Ammonutionskärran}
+
+Ammonutionskärran försäkrar att dina trupper aldrig kan få slut på skott i strid."
+Första Hjälpen-tältet	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Första Hjälpen-tältet}
+
+Första Hjälpen-tältet tillåter helande av dina trupper en gång varje runda under strid."
+Kentaurens Yxa	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	T	"{Kentaurens Yxa}
+
+Detta högerhandsvapen ökar din Attackförmåga med +2."
+Den Döde knektens Skärva av mörker	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Den Döde knektens Skärva av mörker}
+
+Detta högerhandsvapen ökar din Attackförmåga med +3."
+Den store Krokotaurens stridsgissel	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Den store Krokotaurens stridsgissel}
+
+Detta högerhandsvapen ökar din Attackförmåga med +4."
+Kaosets Reseklubba	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Kaosets Reseklubba}
+
+Detta högerhandsvapen ökar din Attackförmåga med +5."
+Helveteseldens klinga	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Helveteseldens klinga}
+
+Detta högerhandsvapen ökar din Attackförmåga med by +6."
+Titanens klinga	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Titanens klinga}
+
+När denna massiva relik hålls i din högra hand ökar din Attackförmåga med +12, men din Försvarsförmåga minskar med -3. Ganka bja."
+Dvärghärskarnas sköld	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	T	"{Dvärghärskarnas sköld}
+
+Detta vänsterhandsvapen ökar din Försvarsförmåga med +2."
+Den gäspande dödens sköld	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Den gäspande dödens sköld}
+
+Detta vänsterhandsvapen ökar din Försvarsförmåga med +3."
+Krokotaurkungens sköldbuckla	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Krokotaurkungens sköldbuckla}
+
+Detta vänsterhandsvapen ökar din Försvarsförmåga med +4."
+Berserkande resens sköldbuckla	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Berserkande resens sköldbuckla}
+
+Detta vänsterhandsvapen ökar din Försvarsförmåga med +5."
+Den förbannade skölden	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Den förbannade skölden}
+
+Detta vänsterhandsvapen ökar din Försvarsförmåga med +6."
+Vaktens sköld	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Vaktens sköld}
+
+När denna massiva relik hålls i din vänstra hand ökar din Försvarsförmåga med +12, men din Attackförmåga minskar med -3. Ganka bja."
+Den vita enhörningens hjälm	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Den vita enhörningens hjälm}
+
+När du bär denna på ditt huvud ökas din Kunskapsförmåga med +1."
+Kraniets hjälm	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Kraniets hjälm}
+
+När du bär denna på ditt huvud ökas din Kunskapsförmåga med +2."
+Hjälmen av Kaos	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Hjälmen av Kaos}
+
+När du bär denna på ditt huvud ökas din Kunskapsförmåga med +3."
+Övermagins Krona	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Övermagins Krona}
+
+När du bär denna på ditt huvud ökas din Kunskapsförmåga med +4."
+Helvetesstormens hjälm	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	J	"{Helvetesstormens hjälm}
+
+När du bär denna på ditt huvud ökas din Kunskapsförmåga med +5."
+Åskhjälmen	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Åskhjälmen}
+
+När du bär denna relik ökar din Kunskapsförmåga med +10, men din Trollformelskraft minskar med -2. Ganka bja."
+Bröstplattan av förstenat trä	1000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	T	"{Bröstplattan av förstenat trä}
+
+När du bär denna på din torso ökar din Trollformelskraft med +1."
+Revbensburen	3000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Revbensburen}
+
+När du bär denna på din torso ökar din Trollformelskraft med +2."
+Den Bättre Basiliskens fjäll	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Den Bättre Basiliskens fjäll}
+
+När du bär denna på din torso ökar din Trollformelskraft med +3."
+Cyklopkungens Tunika	5000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Cyklopkungens Tunika}
+
+När du bär denna på din torso ökar din Trollformelskraft med +4."
+Svavlets Bröstplatta	6000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Svavlets Bröstplatta}
+
+När du bär denna på din torso ökar din Trollformelskraft med +5."
+Titanens Harnesk	10000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Titanens Harnesk}
+
+När du bär denna massiva relik ökar din Trollformelskraft med +10, men din Kunskap minskar med -2. Ganka bja."
+Undrens Rustning	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Armor of Wonder}
+
+När du bär denna på din torso ökar Undrens Rustning alla dina primära förmågor med +1."
+Helgonets Sandaler	8000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Helgonets Sandaler}
+
+När du bär dessa på dina fötter ökar Helgonets Sandaler alla dina primära förmågor med +2."
+Det Himmelska halsbandet av Salighet	12000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	R	"{Det Himmelska halsbandet av Salighet}
+
+När du bär detta kring din hals ökar Det Himmelska halsbandet av Salighet alla dina primära förmågor med +3."
+Det modiga Lejonets Sköld	16000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Lion's Shield of Courage}
+
+När du håller detta i din vänstra hand ökar Det modiga Lejonets Sköld alla dina primära förmågor med +4."
+Domedagssvärdet	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Sword of Judgement}
+
+När du håller detta i din högra hand ökar Domedagssvärdet alla dina primära förmågor med +5."
+Den himmelska Upplysningens hjälm	24000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Helm of Heavenly Enlightenment}
+
+När du bär denna på ditt huvud ökar Den himmelska Upplysningens hjälm alla dina primära förmågor med +6."
+Tysta Drakens Öga	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Tysta Drakens Öga}
+
+När du bär detta på ditt finger ökar din Attack- och Försvarsförmåga med +1."
+Den Röda drakens Eldtunga	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Den Röda drakens Eldtunga}
+
+När du håller detta i din högra hand ökar din Attack- och Försvarsförmåga med +2."
+Drakfjällsskölden	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Drakfjällsskölden}
+
+När du håller detta i din vänstra hand ökar din Attack- och Försvarsförmåga med +3."
+Drakfjällsrustningen	8000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Drakfjällsrustningen}
+
+När du bär detta på din torso ökar din Attack- och Försvarsförmåga med +4."
+Benskenor av Drakben	2000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	T	"{Benskenor av Drakben}
+
+När du håller detta i din högra hand ökar din Attack- och Försvarsförmåga med +1."
+Tabard av Drakvingar	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Tabard av Drakvingar}
+
+När du bär denna över dina axlar ökar din Kunskapsförmåga av Trollformelskraft med +2."
+Halsband av Draktänder	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Halsband av Draktänder}
+
+När du bär detta kring halsen ökar din Kunskapsförmåga och Trollformelskraft med +3."
+Krona av Draktänder	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Krona av Draktänder}
+
+När du bär detta på ditt huvud ökar din Kunskapsförmåga av Trollformelskraft med +4."
+Stilla drakens öga	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Stilla drakens öga}
+
+När du bär detta på ditt finger ökas din Tur och Moral med +1."
+Turens Klöver	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Turens Klöver}
+
+Turens Klöver ökar din tur med +1."
+Profetians kort	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Profetians kort}
+
+Profetians kort ökar din tur med +1."
+Turens Nyckelpiga	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Turens Nyckelpiga}
+
+Turens Nyckelpiga ökar din tur med +1."
+Modets Emblem	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Modets Emblem}
+
+Modets Emblem ökar din moral med +1."
+Tapperhetens sköld	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Modets sköld}
+
+Modets sköld ökar din moral med +1."
+Tapperhetens Symbol	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Glyph of Gallantry}
+
+Tapperhetens Symbol ökar din moral med +1 +1."
+Stjärnkikare	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Speculum}
+
+Stjärnkikaren ökar Scouting-radien med +1."
+Spionkikare	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spyglass}
+
+Spionkikaren ökar Scouting-radien med +1."
+Dödgrävarens Amulett	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Dödgrävarens Amulett}
+
+När du bär denna kring din hals ökas din Dödsmagi-förmåga med 5%."
+Vampyrens Sjal	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Vampyrens Sjal}
+
+När du bär denna över axlarna ökas din Dödsmagi-förmåga med 10%."
+Död mans stövlar	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Död mans stövlar}
+
+När du bär dessa på dina fötter ökas din Dödsmagi-förmåga med 15%."
+Störningens Garnityr	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Störningens Garnityr}
+
+När du bär detta kring halsen ökar din Magiska Motståndskraft med 5%."
+Motviktens Klädnad	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Motviktens Klädnad}
+
+När du bär denna över axlarna ökar din Magiska Motståndskraft med 10%."
+Polära Stövlar	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Polära Stövlar}
+
+När du bär dessa på dina fötter ökar din Magiska Motståndskraft med 15%."
+Båge av Alviskt körsbär	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Båge av Alviskt körsbär}
+
+Denna båge ökar din Bågskytte-förmåga med 5%."
+Bågsträng av Enhörningsman	4000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Bågsträng av Enhörningsman}
+
+Denna bågsträng ökar din Bågskytte-förmåga med 10%."
+Pilar av Änglavingar	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Pilar av Änglavingar}
+
+Dessa pilar ökar din Bågskytte-förmåga med 15%."
+Uppfattningens Fågel	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Uppfattningens Fågel}
+
+Denna figur ökar din Örn öga-förmåga med 5%."
+Iakttagande Väktaren	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Iakttagande Väktaren}
+
+Denna figur ökar din Örn öga-förmåga med 10%."
+Kännedomens Emblem	3000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Kännedomens Emblem}
+
+Denna artefakt ökar din Örn öga-förmåga med 15%."
+Statsmannens Medalj	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Statsmannens Medalj}
+
+När du bär denna artefakt kring din hals minskar kostnaden att ge sig i strid."
+Diplomatens Ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Diplomatens Ring}
+
+När du bär denna artefakt på ditt finger minskar kostnaden att ge sig i strid."
+Ambassadörens Band	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Ambassadörens Band}
+
+När du bär denna artefakt över dina axlar minskar kostnaden att ge sig i strid."
+Vägfararens Ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Vägfararens Ring}
+
+När du bär denna på ditt finger ökar dina enheters hastighet i strid med +1."
+Ryttarens Handskar	3000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Ryttarens Handskar}
+
+När du bär dessa på dina händer ökar din hjältes förflyttningspoäng över land."
+Oceanguidandets Halsband	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Oceanguidandets Halsband}
+
+När du bär detta kring halsen ökar din hjältes förflyttningspoäng över vatten."
+Änglavingar	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	R	"{Änglavingar}
+
+När du bär dessa över axlarna kan din hjälte flyga!"
+Manans Amulett	500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Manans Amulett}
+
+Denna amulett låter din hjälte återhämta 1 extra Trollformelspoäng om dagen."
+Manans Talisman	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Manans Talisman}
+
+Denna talisman låter din hjälte återhämta 3 extra Trollformelspoäng om dagen."
+Mystiskt Manaklot	1500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Mystiskt Manaklot}
+
+Detta klot låter din hjälte återhämta 1 extra Trollformelspoäng om dagen."
+Förtrollningens Koppel	500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Förtrollningens Koppel}
+
+När du bär detta kring halsen ökar varaktigheten av alla dina trollformler med 1."
+Förtrollningens Ring	1000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Förtrollningens Ring}
+
+När du bär denna på ett finger ökar varaktigheten av alla dina trollformler med 2."
+Förtrollningens Mantel	1500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	T	"{Förtrollningens Mantel}
+
+När du bär denna över axlarna ökar varaktigheten av alla dina trollformler med 3."
+Himlavalvets Klot	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Himlavalvets Klot}
+
+Detta kraftfulla klot ökar mängden skada som dina Lufttrollformler utdelar med 50%."
+Slammets Klot	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Slammets Klot}
+
+Detta kraftfulla klot ökar mängden skada som dina Jordtrollformler utdelar med 50%."
+Den stormande Eldens Klot	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Den stormande Eldens Klot}
+
+Detta kraftfulla klot ökar mängden skada som dina Eldtrollformler utdelar med 50%."
+Det ihärdiga Regnets Klot	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Det ihärdiga Regnets Klot}
+
+Detta kraftfulla klot ökar mängden skada som dina Vattentrollformler utdelar med 50%."
+Förhindrarens Mantel	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Förhindrarens Mantel}
+
+När du bär denna mantel kan varken du eller din motståndare kasta trollformler av nivå 3 eller högre, i strid."
+Förtryckets Ande	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Förtryckets Ande}
+
+Denna artefakt motverkar bonusar i Moral för både dig och din motståndare."
+Onda timmens Timglas	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Onda timmens Timglas}
+
+Denna artefakt motverkar bonusar i Tur för både dig och din motståndare."
+Eldens Uppslagsverk	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Eldens Uppslagsverk}
+
+Denna tunga bok innehåller alla trollformler från Eldmagi-skolan. Inte illa!"
+Luftens Uppslagsverk	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Luftens Uppslagsverk}
+
+Denna tunga bok innehåller alla trollformler från Luftmagi-skolan. Inte illa!."
+Vattnets Uppslagsverk	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Vattnets Uppslagsverk}
+
+Denna tunga bok innehåller alla trollformler från Vattenmagi-skolan. Inte illa!."
+Jordens Uppslagsverk	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Jordens Uppslagsverk}
+
+Denna tunga bok innehåller alla trollformler från Jordmagi-skolan. Inte illa!."
+Svävande Stövlar	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Svävande Stövlar}
+
+När du bär dessa kan din hjälte gå över vatten."
+Den Gyllene Bågen	8000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Golden Bow}
+
+När du bär denna artefakt kan dina trupper skjuta hur långt som helst och genom alla hinder, i strid."
+Varaktighetens Sfär	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Varaktighetens Sfär}
+
+När du bär denna Sfär blir dina enheter immuna från trollformeln Upphäv magi."
+Känslighetens Klot	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Känslighetens Klot}
+
+I strid tar denna artefakt bort all naturlig Magisk motståndskraft, från alla enheter på slagfältet."
+Vitalitetens Ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Vitalitetens Ring}
+
+Denna artefakt ökar hälsan hos alla dina enheter med +1."
+Livets Ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Livets Ring}
+
+Denna artefakt ökar hälsan hos alla dina enheter med +1."
+Vial med Livsblod	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Vial med Livsblod}
+
+Denna artefakt ökar hälsan hos alla dina enheter med +2."
+Kvickhetens Halsband	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Kvickhetens Halsband}
+
+När du bär detta kring halsen ökar dina enheters hastighet i strid med +1."
+Snabbskorna	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	N	"{Snabbskorna}
+
+När du bär dessa på dina fötter ökar din hjältes förflyttningspoäng över land."
+Hastighetens Mantel	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Hastighetens Mantel}
+
+När du bär denna över axlarna ökar dina enheters hastighet i strid med +2."
+Moståndets Medaljong	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Motståndets Medaljong}
+
+När du bär denna artefakt blir dina enheter immuna mot Berserk-trollformeln."
+Seendets Medaljong	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Seendets Medaljong}
+
+När du bär denna artefakt blir dina enheter immuna mot Blind-trollformeln."
+Helighetens Medaljong	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"Helighetens Medaljong}
+
+När du bär denna artefakt blir dina enheter immuna mot Förbannelse-trollformeln."
+Livets Medaljong	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Livets Medaljong}
+
+När du bär denna artefakt blir dina enheter immuna mot Dödsstöten-trollformeln."
+Dödens Medaljong	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Dödens Medaljong}
+
+När du bär denna artefakt blir dina enheter immuna mot Förstör Odöda-trollformeln."
+Den fria viljans Medaljong	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Den fria viljans Medaljong}
+
+När du bär denna artefakt blir dina enheter immuna mot Hypnos-trollformeln."
+Negativitetens Medaljong	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Negativitetens Medaljong}
+
+När du bär denna artefakt blir dina enheter immuna mot Blixt- och Kedjeblixt-trollformeln."
+Minnsallt Medaljongen	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Minnsallt Medaljongen}
+
+När du bär denna artefakt blir dina enheter immuna mot Glömska-trollformeln."
+Modets Medaljong	7000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Modets Medaljong}
+
+När du bär denna artefakt ökar din Tur och Moral med +3."
+Manteln av överflödande Kristall	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Manteln av överflödande Kristall}
+
+När du bär denna artefakt ökar din inkomst av Kristall med +1 om dagen."
+De Eviga Ädelstenarnas ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{De Eviga Ädelstenarnas ring}
+
+När du bär denna artefakt ökar din inkomst av Ädelstenar med +1 om dagen."
+Den överflödande Vialen med Kvicksilver	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 		 	 	J	"{Den överflödande Vialen med Kvicksilver}
+
+När du bär denna artefakt ökar din inkomst av Kvicksilver med +1 om dagen."
+Den outtömliga kärran med Malm	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Den outtömliga kärran med Malm}
+
+När du bär denna artefakt ökar din inkomst av Malm med +1 om dagen."
+Den evigt rykande Svavelringen	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Den evigt rykande Svavelringen}
+
+När du bär denna artefakt ökar din inkomst av Svavel med +1 om dagen."
+Den outtömliga kärran med Trä	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Den outtömliga kärran med Trä}
+
+När du bär denna artefakt ökar din inkomst av Trä med +1 om dagen."
+Den bottenlösa Säcken med Guld	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Den bottenlösa Säcken med Guld}
+
+När du bär denna Säck ökar din dagliga inkomst av Guld med 1000 om dagen."
+Den bottenlösa Påsen med Guld 	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Den bottenlösa Påsen med Guld}
+
+När du bär denna Påse ökar din dagliga inkomst av Guld med 750 om dagen"
+Den bottenlösa Börsen med Guld	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Den bottenlösa Börsen med Guld}
+
+När du bär denna Börs ökar din dagliga inkomst av Guld med 500 om dagen."
+Legionens Ben	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Legionens Ben}
+
+När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 2 med 5 i veckan (i den staden)."
+Legionens Ljumskar	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Legionens Ljumskar}
+
+När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 3 med 4 i veckan (i den staden)."
+Legionens Torso	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Legionens Torso}
+
+När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 4 med 3 i veckan (i den staden)."
+Legionens Armar	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Legionens Armar}
+
+När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 5 med 2 i veckan (i den staden)."
+Legionens Huvud	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Legionens Huvud}
+
+När denna artefakt hålls av en hjälte i en stad ökar tillväxten av varelser av nivå 6 med 1 i veckan (i den staden)."
+Kaptenens Hatt	15000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Kaptenens Hatt}
+
+När du bär denna artefakt ökar din hjältes förflyttningspoäng över havet. Den låter dig även åkalla och förstöra båtar samt skyddar dig från strömvirvlar."
+Trollkonstnärens Hatt	30000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Trollkonstnärens Hatt}
+
+Denna hatt låter dig kasta alla trollformler från nivå 5."
+Krigets Bojor	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 			 	 	 	J	"{Krigets Bojor}
+
+När dessa Bojor bärs i strid kan varken du eller din motståndare fly eller ge upp, i strid."
+Hämningens Klot	20000	 	 	 	 	 	x	x	x	x	x		 	 	 	 	 	 	 	 	R	"{Hämningens Klot}
+
+Detta kraftfulla klot förhindrar kastandet av alla trollformler i strid."
+Vialen med Drakblod	20000						x	x	x	x	x										R	"{Vialen med Drakblod}
+
+Alla drakar som du kontrollerar får +5 till sin Attack- och Försvarsförmåga."
+Armageddons Klinga	50000																x				R	"{Armageddons Klinga}
+
++3 i Attackförmåga, +3 i Försvarsförmåga, +6 i Kunskapsförmåga, +3 i Trollformelskraft, Mästerlig Armageddon-trollformel i hjältens Trollformelsbok och så blir alla allierade varelser immuna mot Armageddon-trollformeln."
+Änglalik Allians																	x				R	"{Änglalik Allians}
+
+Låter Fästningsvall-, Torn-, Fort-, Fäste- och Borgvarelser att bli blandade utan moralförluster i strid. Mästerlig Bön kastas i början av varje strid."
+Den odöda Kungens Mantel																			x		R	"{Den odöda Kungens Mantel}
+
+30% av de döda från varje slagfält återuppväcks som Skelett. Om hjälten redan har Dödsmagi-förmågan då läggs procenten till den förmågan samt nivån av förmågan bestämmer vilken typ som återuppväcks. Grundläggande: Skelett
+Avancerad: Gastar
+Mästerlig: Häxmästare"
+Livets Elixir							x	x	x	x	x										R	"{Livets Elixir}
+
+Alla varelser får en 25% bonus i hälsa och får regenerations-förmåga. Fungerar inte på Odöda eller icke levande varelser"
+Den Förbannade Rustningen															x						R	"{Den Förbannade Rustningen}
+
+Alla motståndare får dessa förtrollningar på sig i femtio turer: Långsam, Förbannelse, Svaghet och Otur."
+Legionens Staty							x	x	x	x	x										R	"{Legionens Staty}
+
+All varelseproduktion ökar med 50%, i alla städer beroende på stadens generationsnivå. Flaggade byggnader och andra bonusar medräknas ej."
+Drakpappans Krafter															x						R	"{Drakpappans Krafter}
+
++6 till alla primära förmågor. Dina varelser är immuna mot alla trollformler mellan nivå 1 - 4."
+Titanens Åska																	x				R	"{Titanens Åska}
+
+Hjälten får förmågan att kasta Blixtar för 600 skada som inte kostar några trollformelspoäng. En Trollformelsbok ges till hjälten (permanent)."
+Amiralens Hatt																				x	R	"{Amiralens Hatt}
+
+Ingen bordning- eller avbordningsförlust sker. Omvandlar förflyttningspoäng mellan hjältens land- och vattenförflyttnin."
+Skarpskyttens Båge							x	x	x	x	x						 				R	"{Skarpskyttens Båge}
+
+Skyttar kan skjuta projektiler även om fiende står bredvid. Skyttar kan skjuta hur långt som helst och genom alla hinder."
+Trollkarlens Brunn							x	x	x	x	x										R	"{Trollkarlens Brunn}
+
+Regenererar alla trollformelspoäng varje dag"
+Magiringen													x	x							R	"{Magiringen}
+
+Lägger till 50 runder till dina trollformlers hållbarhet."
+KornuKopia							x	x	x	x	x										R	"{KornuKopia}
+
+Genererar 4 av varje specialresurs, varje dag."
+Diplomatens Dräkt																			x		R	"{Diplomatens Dräkt}
+
+Detta är en jättebra artefakt."
+Marinerad i neutralitet															x						R	"{Marinerad i neutralitet}
+
+Detta är en jättebra artefakt."
+Resens Järnnäve																	x				R	"{Resens Järnnäve}
+
+Detta är en jättebra artefakt."
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						

@@ -1,0 +1,375 @@
+"Note: Do not change the headings in this file, they are used to detect problems"
+gStatDesc
+"{Anfall}
+
+Anfallsförmåga är en bonus som läggs till anfallsförmågan hos varje trupp som din hjälte kontrollerar, så att de kan åsamka mer skada i strid."
+"{Försvar}
+
+Försvarsförmåga är en bonus som läggs till försvarsförmågan hos varje trupp som din hjälte kontrollerar, så att de kan utstå mer skada i strid."
+"{Trollformelskraft}
+
+Trollformelskraften bestämmer styrkan på din trollformel och hur länge den ska verka."
+"{Kunskap}
+
+Kunskapen bestämmer hur många trollformelspoäng din hjälte kan ha. Under normala omständigheter har din hjälte 10 trollformelspoäng för varje nivå kunskap."
+gLuckText
+Förhäxad
+Jättedålig
+Dålig
+Normal
+Bra
+Jättebra
+Irländsk
+gMoraleText
+Förräderi
+Jättedålig
+Dålig
+Normal
+Bra
+Jättebra
+Jäklar!
+gOwnedByColor
+Ägs av röd spelare
+Ägs av blå spelare
+Ägs av beige spelare
+Ägs av grön spelare
+Ägs av orange spelare
+Ägs av lila spelare
+Ägs av turkos spelare
+Ägs av rosa spelare
+gMonthNames
+Gräshoppan
+Myran
+Nyckelpigan
+Spindeln
+Fjärilen
+Humlan
+Syrsan
+Masken
+Getingen
+Skalbaggen
+gWeekNames
+Ekorren
+Kaninen
+Kindpåsråttan
+Grävlingen
+Råttan
+Örnen
+Vässlan
+Korpen
+Mungon
+Hunden
+Jordsvinet
+Ödlan
+Sköldpaddan
+Igelkotten
+Kondoren
+cLuckInfo
+"{Bra Tur}
+
+När du har bra tur får dina arméer ibland slå turslag (dubbel skada) i strid."
+"{Neutral Tur}
+
+När du har normal tur så slår dina arméer aldrig turslag eller oturslag mot fienden."
+"{Dålig Luck}
+
+När du har dålig tur slår dina arméer ibland oturslag mot fienden, vilket gör att de bara utdelar halv skada."
+"%s
+
+
+{Nuvarande Turbestämmare:}"
+"
+Stilla drakens öga +1"
+"
+Turens klöver +1"
+"
+Profetians kort +1"
+"
+Turens nyckelpiga +1"
+"
+Svandammen har besökts +2"
+"
+Avguden av välgång har besökts +1"
+"
+Fontänen av välgång har besökts %s"
+"
+Pyramiden har besökts -2"
+"
+Feernas ring har besökts +1"
+"
+Sjöjungfrun har besökts +1"
+"
+Samlingsflaggan har besökts +1"
+"
+Grundläggande Tur +1"
+"
+Avancerad Tur +2"
+"
+Mästerlig Tur +3"
+"
+None"
+"
+-%d Temporärt till nästa strid"
+"
++%d Temporärt till nästa strid"
+"
+Modets medaljong"
+"
+Inga tureffekter på förhäxad mark"
+"
+%s förtrycker all tur"
+"
+Varelse från en stad med neutral inriktning på klöverbeklädd mark +2"
+cMoraleInfo
+"{Bra Moral}
+
+God moral kan ge dina arméer extra attacker i strid."
+"{Neutral Moral}
+
+Neutral moral innebär att dina arméer varken kommer få extra attacker, eller riskera att förstenas av skräck i strid."
+"{Dålig Moral}
+
+Dålig moral kan få dina arméer att förstenas av skräck i strid."
+"%s
+
+
+{Nuvarande Moralbestämmare:}"
+"
+Stilla drakens öga +1"
+"
+Modets emblem +1"
+"
+Tapperhetens vapen +1"
+"
+Tapperhetens symbol +1"
+"
+Avguden av välgång har besökts +1"
+"
+Bojen har besökts +1"
+"
+Oasen hhar besökts +1"
+"
+Templet har besökts +1"
+"
+Templet har besökts på en söndag! +2"
+"
+Graven har besökts -1"
+"
+Det förlista skeppet har besökts -1"
+"
+Vattenhålet har besökts +1"
+"
+Det herrelösa skeppet har besökts -1"
+"
+Samlingsflaggan har besökts +1"
+"
+Ungdomens källa har besökts +1"
+"
+Krigarens grav har besökts -3"
+"
+Grundläggande Ledarskap +1"
+"
+Avancerat Ledarskap +2"
+"
+Sofistikerat Ledarskap +3"
+"
+None"
+"
+-%d Temporärt till nästa strid"
+"
++%d Temporärt till nästa strid"
+"
+Modets medaljong +3"
+"
+Ingen moraleffekt på förhäxad mark"
+"
+Oberörd av moral"
+"
+Trupper av %d inriktningar %d"
+"
+Alla trupper är av en inriktning +1"
+"
+Odöda i gruppen -1"
+"
+%s i gruppen +1"
+"
+Vänd mot %s -1"
+"
+%s Förtrycker god moral"
+"
+%s har alltid god moral"
+"
+Förtrollningar %+d"
+"
+På födelseterrängen +1"
+"
+Varelse av god inriktning på Helig mark +1"
+"
+Varelse av ond inriktning på Helig mark -1"
+"
+Varelse av god inriktning på Ond dimma +1"
+"
+Varelse av god inriktning på Ond dimma -1"
+cNewTurn
+"%s, du har bara %d dagar på dig att överta en stad, annars kommer du bli bannlyst från detta land."
+"%s, detta är sista dagen för dig att överta en stad, annars kommer du bli bannlyst från detta land."
+"Astrologer utlyser den nya månaden med %s som förtecken.
+
+Alla bons populationer ökar."
+"Astrologer utlyser en ny månad med %s som förtecken.
+
+Alla populationer med %s fördubblas!
+
+Alla bons populationer ökar."
+"Astrologer utlyser PESTENS månad!
+
+Alla populationer halveras."
+"Astrologer utlyser en ny vecka med %s som förtecken.
+
+Alla bons populationer ökar."
+"Astrologer utlyser en ny vecka med %s som förtecken.
+
+bon med %s växer +5.
+
+Alla bons populationer ökar."
+"Astrologer utlyser en ny vecka med %s som förtecken.
+
+%s växer med %+d.
+%s växer med %+d.
+
+Alla bons populationer ökar."
+cMapSize
+Liten
+Medium
+Stor
+Extra Stor
+cDifficulty
+Lätt
+Normal
+Svår
+Expert
+Omöjlig
+cDirections
+norra
+nordöstra
+östra
+sydöstra
+södra
+sydvästra
+västra
+nordvästra
+centrala
+cRumourTerrainDescriptions
+i smutsen.
+unden en sanddyn.
+på den gräsbeklädda ängen.
+i snödrivan.
+i ett mörkt träsk.
+i ödemarken.
+i den mörka underjorden.
+begravd i lava.
+i havets mörkaste djup.
+under en sten.
+cPersonality
+Krigare
+Byggare
+Upptäckare
+Människa
+gArmySizeNames
+Få
+Några få
+några få
+Flera
+Flera stycken
+flera stycken
+Samling
+En Samling
+en samling
+Massor
+Massor av
+massor av
+Hord
+En Hord av
+en hord av
+Myller
+Ett myller av
+ett myller av
+Svärm
+En svärm av
+en svärm av
+Sjukt
+Helt sjukt många...
+helt sjukt många
+Legion
+En Legion
+en legion
+const_wise_tree_price_text
+ (+1 nivå)
+ (+1 nivå för 2000 guld)
+ (+1 nivå för 10 ädelstenar)
+HumanCPU
+"Människa
+eller Dator"
+Människa
+Dator
+HandiText
+Inget handikapp
+Milt handikapp
+Svårt handikapp
+AGRText
+Artefakt
+Guld
+Resurs
+gTownTypeNames
+Neutral
+Borg
+Fästningsvall
+Torn
+Inferno
+Nekroborg
+Håla
+Fäste
+Fästning
+Sammankomsten
+NewLoadSave
+Välj ett Scenario att Spela
+Ladda ett Sparat spel
+Spara ditt Nuvarande spel
+Army Speed Names
+Orörlig
+Superlångsam
+Ultralångsam
+Väldigt långsam
+Extra långsam
+Långsam
+Snabb
+Extra snabb
+Väldigt snabb
+Ultrasnabb
+Supersnabb
+Snabb
+Extra snabb
+Väldigt snabb
+Ultrasnabb
+Supersnabb
+Snabb
+Extra snabb
+Väldigt snabb
+Ultrasnabb
+Supersnabb
+Town Size Names
+By
+Stad
+Storstad
+Huvudstad
+Moat Names
+Vallgrav
+Björnbärshäck
+Landminor
+Lava
+Benfåra
+Kokande olja
+Spikbarriär
+Kokande tjära
+Vallgrav
+Insert all data before this line. Do not alter or delete this line.

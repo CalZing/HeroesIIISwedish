@@ -1,0 +1,24 @@
+"{Sågverk}
+
+Du får kontroll över ett Sågverk. Det kommer att förse dig med två enheter trä per dag."
+"{Alkemistlabb}
+
+Du får kontroll över ett Alkemistlabb. Det kommer att förse dig med en enhet kvicksilver per dag."
+"{Dagbrott}
+
+Du får kontroll över ett Dagbrott. Det kommer att förse dig med två enheter sten per dag."
+"{Svaveldyna}
+
+Du får kontroll över en Svaveldyna. Den kommer att förse dig med en enhet svavel per dag."
+"{Kristallgrotta}
+
+Du får kontroll över en Kristallgrotta. Den kommer att förse dig med en enhet kristall per dag."
+"{Ädelstensdamm}
+
+Du får kontroll över en Ädelstensdamm. Den kommer att förse dig med en enhet ädelstenar per dag."
+"{Guldgruva}
+
+Du får kontroll över en Guldgruva. Den kommer att förse dig med 1000 guld per dag."
+"{Övergiven Gruva}
+
+Du får kontroll över en Övergiven Guldgruva. Den kommer att förse dig med 1000 guld per dag."

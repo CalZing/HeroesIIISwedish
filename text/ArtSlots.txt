@@ -1,0 +1,19 @@
+Huvud
+Axlar
+Nacke
+Höger Hand
+Vänster Hand
+Torso
+Höger Rind
+Vänster Ring
+Fötter
+Diverse 1
+Diverse 2
+Diverse 3
+Diverse 4
+Krigsmaskin 1
+Krigsmaskin 2
+Krigsmaskin 3
+Krigsmaskin 4
+Trollformelsbok
+Diverse 5

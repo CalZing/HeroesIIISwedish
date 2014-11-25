@@ -1,0 +1,232 @@
+Nothing	
+	
+Offeraltare	
+Ankarpunkt	
+Arena	
+Artefakt	
+Pandora's Ask	
+Svart Marknad	
+Båt	
+Gränsvakt	
+Nyckelmästarens Tält	
+Boj	
+Lägereld	
+Kartograf	
+Svandamm	
+Mörkertäcke	
+Varelsebank
+Varelsegenerator 1
+Varelsegenerator 2
+Varelsegenerator 3
+Varelsegenerator 4
+Fördömd Mark
+Lik
+Martellotorn
+Övergivet Skepp
+Drakutopi
+Händelse
+Magikerns Öga
+Alvring
+Vrakgods
+Turens Fontän
+Ungdomens Källa
+Uppenbarelsens Trädgård
+Garnison
+Hjälte
+KullFort
+Gral
+Magikerns Hydda
+Turens Avgud
+Vindskydd
+
+Upplysningens Bibliotek
+Fyr
+Monolit Envägs Ingång
+Monolit Envägs Utgång
+Monolit Tvåvägs
+Magiska Slätter
+Magins Skola
+Magisk Källa
+Magisk Brunn
+Tidens Marknad
+Legosoldatsläger
+Sjöjungfrur
+Gruva
+Monster
+Mystiska Trädgården
+Oas
+Obelisk
+Redwood-Observatorie
+Flaskpost
+Eldpelare
+Stjärnaxel
+Fängelse
+Pyramid
+Samlingsflagga
+Random Artifact
+Random Treasure Artifact
+Random Minor Artifact
+Random Major Artifact
+Random Relic
+Random Hero
+Random Monster
+Random Monster 1
+Random Monster 2
+Random Monster 3
+Random Monster 4
+Random Resource
+Random Town
+Flyktingläger
+Resurs
+Fristad
+Lärd Man
+Havskista
+Siarens Hydda
+Krypta
+Skeppsvrak
+Skeppsvraksöverlevare
+Varv
+Magiska Besvärjelsens Helgedom
+Magiska Gestens Helgedom
+Magiska Tankens Helgedom
+Skylt
+Sirener
+Trollformelsrulle
+Stall
+Taverna
+Tempel
+Tjuvlya
+Stad
+Handelspost
+Lärandesten
+Skattkista
+Kunskapens Träd
+Underjordisk Port
+Universitet
+Vagn
+Krigsmaskinsfabrik
+Krigsskola
+Krigarens Grav
+Vattenhjul
+Vattenhål
+Strömvirvel
+Kvarn
+Häxhydda
+Snårskog
+Buske
+Kaktus
+Kanjon
+Krater
+Död Växtlighet
+Blommor
+Frusen Sjö
+Häck
+Kulle
+Hål
+Tång
+Sjö
+Lavaflöde
+Lavasjö	
+Svampar	
+Stock	
+Alruna	
+Mossa	
+Hög	
+Berg	
+Ekar	
+Skott	
+Tallar	
+Växt	
+	
+	
+	
+	
+Flod-Delta	
+	
+	
+	
+Klippa	
+Sanddyna	
+Sandgrop	
+Buske	
+Skalle	
+Stalagmit	
+Stubbe	
+Tjärgrop	
+Träd	
+Slingerväxt	
+Vulkaniskt Ventilationshål	
+Vulkan	
+Pilträd	
+Palmliljor
+Rev
+Random Monster 5
+Random Monster 6
+Random Monster 7
+Snårskog
+Buske
+Kaktus
+Kanjon
+Krater
+Död Växtlighet
+Blommor
+Frusen Sjö
+Häck
+Kulle
+Hål
+Tång
+Sjö
+Lavaflöde
+Lavasjö
+Svampar
+Stock
+Alruna
+Mossa
+Hög
+Berg
+Ekar
+Skott
+Tallar
+Växt
+Flod-Delta
+Klippa
+Sanddyna
+Sandgrop
+Buske
+Skalle
+Stalagmit
+Stubbe
+Tjärgrop
+Träd
+Slingerväxt
+Vulkaniskt Ventilationshål
+Vulkan
+Pilträd
+Palmliljor
+Rev
+Ökenberg
+Jordberg
+Gräsberg
+Ruffberg
+Underjordiska Klippor
+Träsklövverk
+Gränsvakt
+Frilansarskrå
+Hero Placeholder
+Uppdragsvakt
+Random Dwelling
+
+
+Garnison
+Gruva
+Handelsplats
+Klöverfält
+Fördömd Mark
+Ond Dimma
+Fördelaktiga Vindar
+Eldiga Fält
+Helig Mark
+Klara Pölar
+Magisla Moln
+Magiska Slätter
+Stenland
