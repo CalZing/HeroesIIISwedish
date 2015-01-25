@@ -16,7 +16,7 @@ for f in $svdir*.txt $svdir*.TXT
 do
   fname=$($sedcmd -e 's&.*\/&&g' <<< $f)
   echo "$fname? (y/n/b)"
-  read check
+  read -n 1 check
   [ $check != "y" ] || {
     vim -O2 $endir$fname $svdir$fname
   }
