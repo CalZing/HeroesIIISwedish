@@ -10,7 +10,7 @@ Se Dålig Turinfo
 Se Erfarenhetsinfo
 Välj %s
 Tom
-Flytta %s
+Förflytta %s
 Byt %s mot %s
 Se Trollformler
 Se %s Info

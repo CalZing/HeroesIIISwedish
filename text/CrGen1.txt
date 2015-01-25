@@ -1,5 +1,5 @@
-Basiliskhåla
-Behemotlya
+Basiliskgrop
+Behemotklippa
 Ögonpelare
 Mörkrets sal
 Drakvalv
@@ -17,7 +17,7 @@ Hemman
 Eldelementärflöde
 Balustrad
 Önskealtare
-Varggryt
+Vargfålla
 Krokutaurstuga
 Koboldbarack
 Syndernas Sal
@@ -36,7 +36,7 @@ Labyrint
 Kloster
 Guldpaviljong
 Demonport
-Resefort
+Resecentrum
 Orchtorn
 Helvetesgap
 Drakgrotta

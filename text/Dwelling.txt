@@ -32,7 +32,7 @@ Golemfabrik	Golemfabriken låter dig rekrytera Stengolemer.
 Magikertorn	Magikertornet låter dig rekrytera Magiker.
 Önskealtare	Önskealtaret låter dig rekrytera Djinner.
 Guldpaviljong	Guldpaviljongen låter dig rekrytera Naga.
-Molntempel	Molntemplet låter dig rekrytera Jättar.
+Molntempel	Molntemplet låter dig rekrytera Giganter.
 Upg. Verkstad	Verkstaden låter dig rekrytera Stortomtar.
 Upg. Balustrad	Balustraden låter dig rekrytera Obsidianfilurer.
 Upg. Golemfabrik	Golemfabriken låter dig rekrytera Järngolemer.
@@ -58,14 +58,14 @@ Förbannat Tempel	Det Förbannade Templet låter dig rekrytera Skelett.
 Kyrkogård	Kyrkogården låter dig rekrytera Dödgångare.
 Själsgrav	Själsgraven låter dig rekrytera Gastar.
 Gods	Godset låter dig rekrytera Vampyrer.
-Mausoleum	Mausoleumet låter dig rekrytera Likhäxor.
+Mausoleum	Mausoléet låter dig rekrytera Likhäxor.
 Mörkrets Sal	Mörkrets Sal låter dig rekrytera Svartriddare.
 Darkvalv	Drakvalvet låter dig rekrytera Bendrakar.
 Upg. Förbannat Tempel	Det Förbannade Templet låter dig rekrytera Skelettkrigare.
 Upg. Kyrkogård	Kyrkogården låter dig rekrytera Draugar.
 Upg. Själsgrav	Själsgraven låter dig rekrytera Vålnader.
 Upg. Gods	Godset låter dig rekrytera Vampyrherrar.
-Upg. Mausoleum	Mausoleumet låter dig rekrytera Kraftfulla Likhäxor.
+Upg. Mausoleum	Mausoléet låter dig rekrytera Kraftfulla Likhäxor.
 Upg. Mörkrets sal	Mörkrets Sal låter dig rekrytera Skräckriddare.
 Upg. Drakvalv	Drakvalvet låter dig rekrytera Spökdrakar.
 Grotta	Grottan låter dig rekrytera Troglodyter.
@@ -80,33 +80,33 @@ Upg. Fågelbo	Fågelboet låter dig rekrytera Vildvittror.
 Upg. Ögonpelare	Ögonpelaren låter dig rekrytera Onda Ögon.
 Upg. Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusadrottningar.
 Upg. Labyrint	Labyrinten låter dig rekrytera Minotaurkungar.
-Upg. Manticornäste	Mantikornästet låter dig rekrutera Skorpionsvansmantikoror.
+Upg. Manticornäste	Mantikornästet låter dig rekrutera Skorpikoror.
 Upg. Drakgrotta	Drakgrottan låter dig rekrytera Svartdrakar.
 Koboldbarack	Koboldbarackerna låter dig rekrytera Kobolder.
-Varggryt	Varggrytet låter dig rekrytera Vargryttare.
+Vargfålla	Vargfållan låter dig rekrytera Vargryttare.
 Orchtorn	Orchtornet låter dig rekrytera Orcher.
-Resefort	Resefortet låter dig rekrytera Resar.
+Resecentrum	Resecentrat låter dig rekrytera Resar.
 Klippnäste	Klippnästet låter dig rekrytera Rockar.
 Cyklopgrotta	Cyklopgrottan låter dig rekrytera Cykloper.
-Behemotlya	Behemotlyan låter dig rekrytera Behemoter.
+Behemotklippa	Behemotklippann låter dig rekrytera Behemoter.
 Upg. Koboldbarack	Koboldbaracken låter dig rekrytera Hobkobolder.
-Upg. Varggryt	Varggrytet låter dig rekrytera Vargplundrare.
+Upg. Vargfålla	Vargfållan låter dig rekrytera Vargplundrare.
 Upg. Orchtorn	Orchtornet låter dig rekrytera Orchöverhuvuden.
-Upg. Resefort	Resefortet låter dig rekrytera Bergsresar.
+Upg. Resecentrum	Resecentrat låter dig rekrytera Bergsresar.
 Upg. Klippnäste	Klippnästet låter dig rekrytera Åskfåglar.
 Upg. Cyklopgrotta	Cyklopgrottan låter dig rekrytera Cyklopkungar.
-Upg. Behemotlya	Behemotlyan låter dig rekrytera Urtida Behemoter.
+Upg. Behemotklippa	Behemotklippan låter dig rekrytera Urtida Behemoter.
 Krokotaurstuga	Krokotaurstugan låter dig rekrytera Krokotaurer.
 Ödlehåla	Ödlehålan låter dig rekrytera Ödlemän.
 Sländebo	Sländeboet låter dig rekrytera Dagssländor.
-Basiliskhåla	Basiliskhålan låter dig rekrytera Basilisker.
+Basiliskgrop	Basiliskgropen låter dig rekrytera Basilisker.
 Gorgonlya	Gorgonlyan låter dig rekrytera Gorgoner.
 Lindormsnäste	Lindormsnästet låter dig rekrytera Lindormar.
 Hydrans damm	Hydrans damm låter dig rekrytera Hydror.
 Upg. Krokotaurstuga	Krokotaurstugan låter dig rekrytera Krokotaurmarodörer.
 Upg. Ödlehåla	Ödlehålan låter dig rekrytera Ödlekrigare.
 Upg. Sländebo	Sländeboet låter dig rekrytera Trollsländor.
-Upg. Basiliskhåla	Basiliskhålan låter dig rekrytera Bättre Basilisker.
+Upg. Basiliskgrop	Basiliskgropen låter dig rekrytera Bättre Basilisker.
 Upg. Gorgonlya	Gorgonlyan låter dig rekrytera Mäktiga Gorgoner.
 Upg. Lindormsnäste	Lindormsnästet låter dig rekrytera Lindormsmonarker.
 Upg. Hydrans damm	Hydrans Damm låter dig rekrytera Kaoshydror.

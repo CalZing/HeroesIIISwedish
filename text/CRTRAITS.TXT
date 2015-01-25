@@ -50,7 +50,7 @@ Mästardjinn	Mästardjinner	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	
 Hatar Ifriter."	FLYING_ARMY
 Naga	Naga	0	0	0	0	0	0	1100	2016	2016	2	0	110	5	16	13	20	20	0	0	5	12	Inget fiendeåterslag.	DOUBLE_WIDE
 Nagadrottning	Nagadrottningar	0	0	0	0	0	0	1600	2485	2840	2	0	110	7	16	13	30	30	0	0	5	10	Inget fiendeåterslag.	DOUBLE_WIDE
-Jätte	Jättar	0	0	0	0	0	1	2000	3146	3718	1	0	150	7	19	16	40	60	0	0	4	10	Medventandetrollformelsimmunitet	KING_3
+Gigant	Giganter	0	0	0	0	0	1	2000	3146	3718	1	0	150	7	19	16	40	60	0	0	4	10	Medventandetrollformelsimmunitet	KING_3
 Titan	Titaner	0	0	0	0	0	2	5000	5000	7500	1	0	300	11	24	24	40	60	24	0	3	8	Ingen handgemängsförsämring. Medventandetrollformelsimmunitet.  Hatar Svartdrakar.	SHOOTING_ARMY | const_no_melee_penalty | KING_3
                                    																								
 																								
@@ -123,7 +123,7 @@ Vargplundrare	Vargplundrare	0	0	0	0	0	0	140	174	203	9	0	10	8	8	5	3	4	0	0	16	25	S
 Orch	Orcher	0	0	0	0	0	0	150	175	192	7	0	15	4	8	4	2	5	12	0	12	25		SHOOTING_ARMY
 Orchöverhuvud	Orchöverhuvuden	0	0	0	0	0	0	165	200	240	7	0	20	5	8	4	2	5	24	0	12	20		SHOOTING_ARMY
 Rese	Resar	0	0	0	0	0	0	300	520	416	4	0	40	4	13	7	6	12	0	0	10	20		0
-Bergsrese	Bergsresar	0	0	0	0	0	0	400	672	672	4	0	60	5	13	7	6	12	0	3	10	16	Trollformelkastare: Blodlust.	0
+Bergsrese	Bergsresar	0	0	0	0	0	0	400	672	672	4	0	60	5	13	7	6	12	0	3	10	16	Trollformelkastare: Blodtörst.	0
 Rock	Rockar	0	0	0	0	0	0	600	790	1027	3	0	60	7	13	11	11	15	0	0	8	16		FLYING_ARMY | DOUBLE_WIDE
 Åskfågel	Åskfåglar	0	0	0	0	0	0	700	869	1106	3	0	60	11	13	11	11	15	0	0	8	12	Åsknedslag.	FLYING_ARMY | DOUBLE_WIDE
 Cyklop	Cykloper	0	0	0	0	0	0	750	1055	1266	2	0	70	6	15	12	16	20	16	0	5	12	Anfaller belägringsmurar.	SHOOTING_ARMY | CATAPULT

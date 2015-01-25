@@ -289,7 +289,7 @@ Du kommer fram till ett litet altare där en grupp nybörjarmagiker håller till
 Du kommer fram till ett vackert altare där ett gäng tjocka munkar håller till. I utbyte mot ditt beskydd vill de lära dig en trollformel -  "
 "{Altaret av den magiska tanken}
 
-Du kommer fram till ett påkostat altare där en grupp högt uppsatta präster står och ber. I utbyte mot ditt beskydd vill de lära dig en sofistikerad trollformel - "
+Du kommer fram till ett påkostat altare där en grupp högt uppsatta präster står och ber. I utbyte mot ditt beskydd vill de lära dig en mästerlig trollformel - "
 "  Tyvärr så har du inte tillräckligt med Visdom för att förstå denna trollformel."
 "  Tyvärr har du ingen Trollformelsbok att skriva ner trollformeln i."
 "An eerie wailing song emanates from the sirens perched upon the rocks.  Many of your crew fall under its spell, and dive into the water where they drown.  You are now wiser for the visit, and gain %d experience."

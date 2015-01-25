@@ -1,10 +1,10 @@
 Kan inte bygga mer än en huvudstad
-Den här staden är inte nära vatten
+Den här staden är inte kustnära
 Den här staden kan inte bygga den här byggnaden
-Lägg till en nivå till Magiskrået
-%s är redan byggt
+Lägg till en nivå till Magikerskrået
+%s är redan byggd
 Kan inte bygga %s
 Har inte råd med %s
 Bygg %s
 Lämna Hallen
-Hall Options
+Hallalternativ

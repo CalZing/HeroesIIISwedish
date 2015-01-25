@@ -11,9 +11,9 @@ Bågskytte	"{Grundläggande Bågskytte}
 
 Grundläggande Bågskytte ökar skadan från varelser som attackerar med projektiler med 10%."	"{Avancerat Bågskytte}
 
-Avancerat Bågskytte ökar skadan från varelser som attackerar med projektiler med 25%."	"{Sofistikerat Bågskytte}
+Avancerat Bågskytte ökar skadan från varelser som attackerar med projektiler med 25%."	"{Mästerligt Bågskytte}
 
-Sofistikerat Bågskytte ökar skadan från varelser som attackerar med projektiler med 50%."
+Mästerligt Bågskytte ökar skadan från varelser som attackerar med projektiler med 50%."
 Logistik	"{Grundläggande Logistik}
 
 Grundläggande Logistik ökar din hjältes förflyttningspoäng på land med 10%."	"{Avancerad Logistik}
@@ -46,9 +46,9 @@ Ledarskap	"{Grundläggande Ledarskap}
 
 Grundläggande Ledarskap ökar dina truppers moral med 1."	"{Avancerat Ledarskap}
 
-Avancerat Ledarskap ökar dina truppers moral med 2."	"{Sofistikerat Ledarskap}
+Avancerat Ledarskap ökar dina truppers moral med 2."	"{Mästerligt Ledarskap}
 
-Sofistikerat Ledarskap ökar dina truppers moral med 3."
+Mästerligt Ledarskap ökar dina truppers moral med 3."
 Vishet	"{Grundläggande Vishet}
 
 Grundläggande Vishet låter din hjälte lära sig trollformler av tredje nivån."	"{Avancerad Vishet}
@@ -144,16 +144,16 @@ Artilleri	"{Grundläggande Artilleri}
 
 Grunläggande Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med 50% chans att utdela dubbel skada."	"{Avancerad Artilleri}
 
-Avancerat Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med 75% chans att utdela dubbel skada."	"{Sofistikerat Artilleri}
+Avancerat Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med 75% chans att utdela dubbel skada."	"{Mästerligt Artilleri}
 
-Sofistikerat Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med dubbel skada."
+Mästerligt Artilleri ger dig kontroll över ballistan i strid, som låter dig avlossa två skott med dubbel skada."
 Lärande	"{Grundläggande Lärande}
 
 Grundläggande Lärande ökar din hjältes intjänade erfarenhetspoäng med 5%."	"{Avancerat Lärande}
 
-Avancerat Lärande ökar din hjältes intjänade erfarenhetspoäng med 10%."	"{Sofistikerat Lärande}
+Avancerat Lärande ökar din hjältes intjänade erfarenhetspoäng med 10%."	"{Mästerligt Lärande}
 
-Sofistikerat Lärande ökar din hjältes intjänade erfarenhetspoäng med 15%."
+Mästerligt Lärande ökar din hjältes intjänade erfarenhetspoäng med 15%."
 Offensiv	"{Grundläggande Offensiv}
 
 Grundläggande Offensiv ökar dina truppers slagkraft med 10%."	"{Avancerad Offensiv}
