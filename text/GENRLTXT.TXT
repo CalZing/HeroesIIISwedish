@@ -755,7 +755,7 @@ Congratulations! %s has delivered the precious cargo intact. Your team claims vi
 "Sorry, the host has left the game.  You must have the CDROM in order to host a game."	
 Visa Sparade spel
 Lag %d
-{Laginriktningar}
+{Laguppdelningar}
 Recovering from player drop... One moment please...
 Grattis! Alla dina fiender är besegrade! Segern är din!
 "Alla dina trupper är besegrade och du har blivit bannlyst ifrån detta land!"
