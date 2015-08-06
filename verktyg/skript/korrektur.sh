@@ -23,6 +23,7 @@ do
   [ $check != "b" ] || {
     break
   }
+  echo ""
 
   # Create file containing EOL information
 done
