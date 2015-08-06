@@ -1,8 +1,8 @@
-Magikerskrå Nivå 1	En besökande hjälte som stiger in i magikerskrået kommer beviljas att lära sig trollformlerna som hålls däri.
-Magikerskrå Nivå 2	En besökande hjälte som stiger in i magikerskrået kommer beviljas att lära sig trollformlerna som hålls däri.
-Magikerskrå Nivå 3	En besökande hjälte som stiger in i magikerskrået kommer beviljas att lära sig trollformlerna som hålls däri.
-Magikerskrå Nivå 4	En besökande hjälte som stiger in i magikerskrået kommer beviljas att lära sig trollformlerna som hålls däri.
-Magikerskrå Nivå 5	En besökande hjälte som stiger in i magikerskrået kommer beviljas att lära sig trollformlerna som hålls däri.
+Magikerskrå Nivå 1	Att gå in i Magikerskrået låter en besökande hjälte ta del av de trollformler som håll däri.
+Magikerskrå Nivå 2	Att gå in i Magikerskrået låter en besökande hjälte ta del av de trollformler som håll däri.
+Magikerskrå Nivå 3	Att gå in i Magikerskrået låter en besökande hjälte ta del av de trollformler som håll däri.
+Magikerskrå Nivå 4	Att gå in i Magikerskrået låter en besökande hjälte ta del av de trollformler som håll däri.
+Magikerskrå Nivå 5	Att gå in i Magikerskrået låter en besökande hjälte ta del av de trollformler som håll däri.
 Taverna	Tavernan höjer moralen hos trupper som försvarar staden.
 Varv	Varvet låter dig köpa skepp.
 Fort	Fortet förser din stad med försvarsmurar.
@@ -12,7 +12,7 @@ Byhall	Byhallen låter dig köpa stadsbyggnader och inbringar 500 guld per dag t
 Stadshall	Stadshallen låter dig köpa stadsbyggnader och inbringar 1000 guld per dag till ditt kungadöme.
 Storstadshall	Storstadshallen låter dig köpa stadsbyggnader och inbringar 2000 guld per dag till ditt kungadöme.
 Huvudstad	Huvudstaden inbringar 4000 guld per dag till ditt kungadöme.
-Marknadsplats	"Med Marknadsplatsen kan du köpa och sälja resurser (Växelkurser förbättras med varje Marknadsplats du äger)."
+Marknadsplats	"Med Marknadsplatsen kan du köpa och sälja resurser (Växelkurser förbättras för varje Marknadsplats du äger)."
 	
 Smedja	Smedjan förser dina arméer med %s.
 Vallgrav	Vallgraven saktar ned anfallande enheter.  En enhet som äntrar vallgraven måste avsluta sin tur i den och blir mer sårbar för angrepp.

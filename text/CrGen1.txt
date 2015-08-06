@@ -5,16 +5,16 @@ Mörkrets sal
 Drakvalv
 Träningsområde
 Kentaurstall
-Luftelementärflöde
+Luftelementärsflöde
 Pärleport
 Cyklopgrotta
 Övergivet Palats
 Sländebo
 Dvärgstuga
-Jordelementärflöde
+Jordelementärsflöde
 Eldsjö
 Hemman
-Eldelementärflöde
+Eldelementärsflöde
 Balustrad
 Önskealtare
 Vargfålla
@@ -26,7 +26,7 @@ Drakklippa
 Griptorn
 Fågelbo
 Kennel
-Hydradamm
+Hydredamm
 Impdegel
 Ödlehåla
 Magikertorn
@@ -43,10 +43,10 @@ Drakgrotta
 Klippnäste
 Verkstad
 Molntempel
-Dendroidglänta
-Grotta
-Vattenelementärflöde
-Själsgrav
+Dendroidbågar
+Grottstad
+Vattenelementärsflöde
+Själarnas Grav
 Lindormsnäste
 Förtrollad källa
 Enhörningsdunge
@@ -69,10 +69,10 @@ Trädkronstorn
 Enhörningsdunge
 Luftaltare
 Jordaltare
-Eldaltare
+Eldsaltare
 Vattenaltare
 Halmtakshydda
-Ruckel
+Skjul
 Vildsvinsdal
 Förbannelsernas Grav
 Nomadtält

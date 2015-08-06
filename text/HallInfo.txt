@@ -1,9 +1,9 @@
 Kan inte bygga mer än en huvudstad
 Den här staden är inte kustnära
-Den här staden kan inte bygga den här byggnaden
+Den här staden kan inte bygga denna byggnad
 Lägg till en nivå till Magikerskrået
-%s är redan byggd
-Kan inte bygga %s
+%s är redan byggt
+Kan ej bygga %s
 Har inte råd med %s
 Bygg %s
 Lämna Hallen
