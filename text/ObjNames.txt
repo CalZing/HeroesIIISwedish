@@ -4,7 +4,7 @@ Offeraltare
 Ankarpunkt	
 Arena	
 Artefakt	
-Pandora's Ask	
+Pandoras Ask	
 Svart Marknad	
 Båt	
 Gränsvakt	
@@ -28,24 +28,24 @@ Händelse
 Magikerns Öga
 Alvring
 Vrakgods
-Turens Fontän
+Välgångens Fontän
 Ungdomens Källa
 Uppenbarelsens Trädgård
 Garnison
 Hjälte
-KullFort
+Fornborg
 Gral
 Magikerns Hydda
-Turens Avgud
+Välgångens Avgud
 Vindskydd
 
 Upplysningens Bibliotek
 Fyr
-Monolit Envägs Ingång
-Monolit Envägs Utgång
-Monolit Tvåvägs
+Envägs-Monolit Ingång
+Envägs-Monolit Utgång
+Tvåvägs-Monolit
 Magiska Slätter
-Magins Skola
+Magiskola
 Magisk Källa
 Magisk Brunn
 Tidens Marknad
@@ -53,7 +53,7 @@ Legosoldatsläger
 Sjöjungfrur
 Gruva
 Monster
-Mystiska Trädgården
+Mystisk Trädgård
 Oas
 Obelisk
 Redwood-Observatorie
@@ -84,24 +84,24 @@ Havskista
 Siarens Hydda
 Krypta
 Skeppsvrak
-Skeppsvraksöverlevare
+Skeppsbruten Sjöman
 Varv
 Magiska Besvärjelsens Helgedom
 Magiska Gestens Helgedom
 Magiska Tankens Helgedom
 Skylt
 Sirener
-Trollformelsrulle
+Formelrulle
 Stall
 Taverna
 Tempel
-Tjuvlya
+Tjuvtillhåll
 Stad
 Handelspost
-Lärandesten
+Lärdomssten
 Skattkista
 Kunskapens Träd
-Underjordisk Port
+Underjordsport
 Universitet
 Vagn
 Krigsmaskinsfabrik
@@ -207,7 +207,7 @@ Rev
 Ökenberg
 Jordberg
 Gräsberg
-Ruffberg
+Berg
 Underjordiska Klippor
 Träsklövverk
 Gränsvakt

@@ -66,7 +66,7 @@ Trolldom	Sekundärförmåga: Trolldom	Får en 5% bonus till Trolldoms-förmågan
 Eldklot	Trollformelsbonus: Eldklot	"Kasta Eldklot med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Dödgångare	Varelsebonus: Dödgångare	Ökar Anfall- och Försvars-förmågan hos Dödgångare eller Draugar för varje nivå efter nummer 2.
 Vampyrer	Varelsebonus: Vampyrer	Ökar Anfall- och Försvars-förmågan hos Vampyrer eller Vampyrherrar för varje nivå efter nummer 4.
-Likhäxor	Varelsebonus: Likhäxor	Ökar Anfall- och Försvars-förmågan hos Likhäxor eller Häxmästare för varje nivå efter nummer 5.
+Likmästare	Varelsebonus: Likmästare	Ökar Anfall- och Försvars-förmågan hos Likmästare eller Häxmästare för varje nivå efter nummer 5.
 Gastar	Varelsebonus: Gastar	Ökar Anfall- och Försvars-förmågan hos Gastar eller Vålnader för varje nivå efter nummer 3.
 Svartriddare	Varelsebonus: Svartriddare	Ökar Anfall- och Försvars-förmågan hos Svartriddare eller Skräckriddare för varje nivå efter nummer 6.
 Nekromanti	Sekundärförmåga: Nekromanti	Får en 5% bonus till Nekromanti-förmågan för varje nivå.

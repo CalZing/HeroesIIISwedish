@@ -10,8 +10,8 @@ Svärdets Brödraskap	"Under en belägring så höjer Svärdets Brödraskap trup
 Kolossen	"Kolossens närvaro ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och höjer alla allierade hjältars moral med +2."	
 Resurssilo	Resurssilon förser dig med ytterligare +1 trä och +1 malm varje dag.	
 Mystisk Damm	Den Mystiska Dammen producerar en slumpvis liten mängd resurser varje vecka.	
-Gruvarbetarnas RF	Gruvarbetarnas Riksförbund ökar produktionen av Dvärgar med 4 per vecka.	
-Gruvarbetarnas RF	Gruvarbetarnas Riksförbund ökar produktionen av Stridsdvärgar med 4 per vecka.	
+Gruvarbetarförbundet	Gruvarbetarförbundet ökar produktionen av Dvärgar med 4 per vecka.	
+Gruvarbetarförbundet	Gruvarbetarförbundet ökar produktionen av Stridsdvärgar med 4 per vecka.	
 		
 Välgångens Fontän	Välgångens fontän höjer turen hos garnisonshjälten med +2 vid försvar mot en belägring.	
 Skattkammare	Skattkammaren ger dig 10% ränta på det guld du har vid början av varje vecka.	

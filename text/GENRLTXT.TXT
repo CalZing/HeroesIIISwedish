@@ -689,7 +689,7 @@ Veckolig %s tillväxt är %d
 
 Grundläggande tillväxt %d"
 "
-Externa hålor %+d"
+Externa bon %+d"
 Hall
 Gå ut ur Magikerskrået
 Garnisonen
