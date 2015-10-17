@@ -26,7 +26,7 @@ Martellotorn
 Drakutopi
 Händelse
 Magikerns Öga
-Alvring
+Älvring
 Vrakgods
 Välgångens Fontän
 Ungdomens Källa
@@ -78,7 +78,7 @@ Random Resource
 Random Town
 Flyktingläger
 Resurs
-Fristad
+Altarrum
 Lärd Man
 Havskista
 Siarens Hydda
@@ -111,7 +111,7 @@ Vattenhjul
 Vattenhål
 Strömvirvel
 Kvarn
-Häxhydda
+Häxkoja
 Snårskog
 Buske
 Kaktus

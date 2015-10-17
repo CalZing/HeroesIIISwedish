@@ -2,6 +2,6 @@ Anfallsförmåga
 Försvarförmåga
 Skada per Anfall
 Hälsa
-Hastighet
+Snabbhet
 Tillväxt per Vecka
-Avsluta %s
+Gå ut ur %s

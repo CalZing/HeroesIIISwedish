@@ -1,7 +1,7 @@
-Hjältefönstret
+Hjältefönster
 Anfall
 Försvar
-Kraft
+Styrka
 Kunskap
 {Specialitet}
 {Erfarenhet}
@@ -15,7 +15,7 @@ Guld per dag:
 Varvfönster
 Bygg nytt skepp
 Resurskostnad:
-Tjuvskråfönstret
+Tjuvgillefönster
 1:a
 2:a
 3:e
@@ -34,7 +34,7 @@ Artefakter
 Kungadömets Arméstyrka
 Inkomst
 Bästa Hjälte
-Personalitet
+Personlighet
 Bästa Varelse
 Tavernafönster
 Taverna
@@ -42,5 +42,5 @@ Hjältar att hyra
 Stadsportfönster
 Stadstort
 Välj stad genom porten.
-Smedfönstret
+Smedfönster
 Resurskostnad:

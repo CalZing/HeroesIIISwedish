@@ -1,7 +1,7 @@
 Miscellaneous and Unorganized Game Text
 Can't add manager!
-%s can gain no more experience in this scenario.
-"{Level %d}
+%s kan ej erhålla mer erfarenhet i detta scenario.
+"{Nivå %d}
 
 {Nästa nivå} %d
 {Nuvarande Erfarenhet:} %d"
@@ -9,38 +9,38 @@ Can't add manager!
 eller
 %s har blivit besegrad!
 "%s, du har förlorat din sista stad. Om du inte erövrar en stad innan nästa vecka så kommer du bli utslagen."
-"%s, dina hjältar överger dig och du är härmed bannlyst från detta land!."
-"%ss hjältar överher hen, därför är hen nu bannlyst från detta land!."
+"%s, dina hjältar överger dig och du är härmed bannlyst från detta rike!."
+"%s blir övergiven av sina hjältar, och är därför bannlyst från detta rike!."
 "Kunde inte spara spelet som ""%s""."
 Fel vid öppnande av fil %s!
-NYTT SPEL
-Är du säker på att du vill säga adjö till denna armé?
+NYSPEL
+Är du säker på att du vill avfärda denna armé?
 %ss tur.
-Ett fel inträffade vid överföringen av data. Ska jag fortsätta försöka?
+Ett fel inträffade vid dataöverföringen. Fortsätt försöka?
 %s %s
 Rekrytera
 Denna armé får inte plats i garnisonen.
-Du har redan %d hjältar till förfogande.
-Denna hjälte har inga varelser med sig. En hjälte måste ha varelser så att hen kan överleva sina äventyr!
+Du har redan %d hjältar till ditt förfogande.
+Denna hjälte har inga varelser med sig. En hjälte måste ha varelser så att denne kan överleva sina äventyr!
 Videokvalité
-Denna sak kan du inte byta ut.
-Är du säker på att du vill säga adjo till hjälten?
+Detta föremål kan ej säljas.
+Är du säker på att du vill avfärda hjälten?
 Välj mål för Trollformeln
-Otillgängligt mål för Teleportering
+Otillgänglig Destinationsplats för Teleportering
 Teleportera hit
 Kasta %s
 Kasta %s på %s
 Är du säker på att du vill fly?
 Du har inte tillräckligt med Guld!
 Du har erövrat en fiendes artefakt!
-Inget
-"%s berättar att:
+Inga
+"%s säger:
 
 ""Jag accepterar din reträtt och låter dig och dina trupper passera oskadda, för den modesta summan av %d Guld :)"""
-Hög Moral låter %s attackera igen.
-Låg Moral gör att %s blir stel av skräck
+%s har Hög Moral och kan attackera igen.
+%s har Låg Moral och blir stela av skräck
 Gör rum för %s i armén
-Attackera %s (%s skada)
+Anfall %s (%s skada)
 "Skjut %s (1 skott kvar, %s skada)"
 Kampanjbeskrivning:
 %s är aktiv.
@@ -48,14 +48,14 @@ Sessionsnamn
 Användarnamn
 varelse
 varelser
-Otur drabbar %s
-Turen kommer till %s
-Skadda
-%ss %s anfalls!
+Truppen med %s drabbas av otur
+Turen lyser över alla %s
+Skatt
+%ss %s är anfallna!
 Stad
 Hjälte
-Stadsvyn
-Du kan inte bygga fler båtar
+Stadsvy
+Kan ej bygga fler båtar
 Kräver:
 <SYSTEM>:
 "{Världskarta}
@@ -67,7 +67,7 @@ Din hjälte har ingen plats för att bära den artefakten!
 "Gratulerar! Efter att ha spenderat fler timmar med att gräva så har du nu funnit "
 "Inget här.
 Var kan den vara?"
-Försök leta på land!
+Försök att leta på land!
 Outforskat territorie
 Månad
 Vecka
@@ -80,18 +80,18 @@ ping=%dms
 (Ditt nuvarande spel kommer förloras)"
 Är du säker på att du vill avsluta?
 Dimensionsdörren misslyckades!
-Välj en bonus:
+Välj bonus:
 ping
 pinging %s...
 pinging everyone...
 Poäng
-Autosparande
+AUTOSPAR
 {Starthjälte}
 {Hjälte-specialité}
-{Associerad Varelse}
-{Stads-inriktning}
-Fel när data skulle sändas. Ska jag fortsätta??
-Du måste vara minst 2 spelare för att köra i flerspelarläget. Kontrollera dina avancerad inställningar eller välj en ny karta.
+{Samhörande Varelser}
+{Stadsgruppering}
+Fel vid dataöverföring.  Fortsätta??
+Ni måste vara minst 2 spelare för att köra i flerspelarläget.  Kontrollera dina avancerad inställningar eller välj ny karta.
 {Artefaktbonus}
 {Guldbonus}
 {Resursbonus}
@@ -100,23 +100,23 @@ Du måste vara minst 2 spelare för att köra i flerspelarläget. Kontrollera dina a
 Armageddon gör %d skada.
 5-10 Trä / 5-10 Malm
 En artefakt väljs slumpmässigt och ges till din starthjälte
-Störstrålen reducerar Försvarsförmågan med %d.
-"Vid början av spelet läggs 500-1000 Guld till ditt kungadömmes resurser"
-"Vid början av spelet läggs 5-10 Trä och 5-10 Malm till ditt kungadömmes resurser"
-"Guld, Trä och Malm eller en Artefakt väljs ut slumpmässigt som en startbonus"
+Störstrålen reducerar försvarsförmågan med %d.
+"Vid början av spelet adderas 500-1000 Guld till ditt kungadömes resurser"
+"Vid början av spelet adderas 5-10 Trä och 5-10 Malm till ditt kungadömes resurser"
+"Guld, Trä och Malm eller en Artefakt väljs slumpmässigt ut som en startbonus"
 Du har blivit utslagen ur spelet!
 "Grattis!
-Din poäng kommer läggas till i Ärans hall
+Ditt resultat kommer läggas till i Ärans hall
 
 Skriv ditt namn här."
-Försök söka på tom mark.
+Försök att söka på öppen mark.
 Skickar Data
 Tar emot Data
 Chaos.mp2
 {Slumpmässig Hjälte}
-"En starthjälte kommer slumpmässigt väljas från klasserna som associeras med din Startstad"
+"En starthjälte kommer slumpmässigt väljas från klasserna som associeras med Startstaden"
 {Slumpmässig stad}
-Din Startstad väljs slumpmässigt från åtta olika stadstyper
+Din Startstad väljs slumpmässigt från åtta olika stadsgrupperingar
 "%s ger upp, och ges fri lejd för %d guld."
 "The Heroes III: %s CD-ROM was not found!
 
@@ -127,12 +127,12 @@ If you wish to join a Multi-player Game hosted by another player, a CD is not re
 If you wish to play a Single Scenario or a Campaign, please quit and insert the %s CD, before re-running %s."
 Autosparar...
 PLYREXIT
-"{Status Window}
+"{Statusfönster}
 
-Detta fönster ger dig information om statusen på din hjälte och ditt kungadömme och visar datumet. Vänsterklicka här för att bläddra genom fönstren."
+Detta fönster ger dig information om statusen på din hjälte och ditt kungadöme och visar datumet. Vänsterklicka här för att bläddra igenom fönstren."
 Gräns
-Den %s absorberar %d trollformelspoäng ifrån trollformeln.
-Den %s absorberar %d trollformelspoäng ifrån trollformeln.
+%sna absorberar %d trollformelspoäng ifrån trollformeln.
+%sna absorberar %d trollformelspoäng ifrån trollformeln.
 Unable to change to the Heroes III directory.  Please run the installation program.
 Unable to find the Heroes III data files.  Please run the installation program.
 "My heroes, our foes have been scattered, their castles broken and laid bare.  The great campaign is now complete, and I stand before you as the undisputed High King!
@@ -140,40 +140,40 @@ Unable to find the Heroes III data files.  Please run the installation program.
 Our victory was achieved in %d days!"
 %d %s väcks ifrån det döda
 %d %s väcks ifrån det döda!
-En %s dör av den förskräckliga blicka från %s.
-%d %s dör av den förskräckliga blicka från %s.
+En %s dör av den mördande blicken från de %sna.
+%d %s dör av den mördande blicken från de %sna.
 "%s intar försvarsställning
 och får +%d i försvarsförmåga"
 "%s intar försvarsställning
 och får +%d i försvarsförmåga"
-%s erfarenhet
+%s erf
 Närmsta stad är upptagen. Trollformeln misslyckades!
 Ingen ledig stad. Trollformeln misslyckades!
-Din hjälte är för trött för att kasta den trollformeln idag. Försök igen imorgon.
+Din hjälte är för trött för att kasta den här trollformeln idag. Försök igen imorgon.
 Bara besökande hjältar kan använda Stadsporten.
-Du har ingen hjälte som kan kasta en trollformels.
+Du har ingen hjälte att kasta en trollformel med.
 Din hjälte har redan kastat en trollformel denna rundan.
 Önskar du att rädda %s's armé till en kostnad av %d guld?
 Unable to initialize input devices - possible problem with mouse or keyboard.
 Unable to initialize sound.
 Unable to initialize mouse.
 Unable to initialize windows - possible memory or disk error.
-"%s encounters an abandoned shipyard.  Unfortunately the Ways are blocked, and it is not possible to build ships here."
+"%s stöter på ett övergivet varv.  Tyvärr så är gångarna blockerade, och det är därför inte möjligt att bygga skepp här längre."
 Trollformeln misslyckades! Du måste vara iland för att kunna kasta denna trollformel.
-"%s pausar och väntar in en bättre tid att handla."
-"%s pausar och väntar in en bättre tid att handla."
+"Truppen med %s pausar och väntar in en bättre tid att handla."
+"%s-truppen pausar och väntar in en bättre tid att handla."
 "%s, Nivå %d %s"
 "%s, som har studerat magi extensivt, "
 lär sig 
  och 
  från %s
-motstår
-motstår
-"Genom att utöva sin dödsmagi uppväcker din hjälte %d av fiendes döda som %s."
-"Genom att utöva sin dödsmagi uppväcker din hjälte en av fiendes döda som en %s."
-lär 
+står emot
+står emot
+"Genom att utöva nekromantins mörka konst lyckas din hjälte uppväcka %d av fiendens döda som %s i din tjänst."
+"Genom att utöva nekromantins mörka konst lyckas din hjälte uppväcka en av fiendens döda som %s i din tjänst."
+lär ut
  till %s
-"{Spell Points}
+"{Trollformelspoäng}
 
 Trollformelspoäng krävs för att kasta trollformler. Det maximala antalet Trollformelspoäng är 10 gånger din Kunskap. Ibland är det möjligt att ha mer än ditt maximala antal Trollformelspoäng, efter besök på speciella platser."
 Digital sound is not currently available on this system.
@@ -182,23 +182,23 @@ Din ryggsäck är full.
 "Alltså, din ryggsäck kan inte innehålla något så stort som %s."
 "
 
-%s förstörs."
+Nu finns inte längre någon %s, ty den är förstörd"
 "
 
-%s har en atackförmåga på %d och gör %d-%d skada."
+%s har en anfallsförmåga på %d och gör %d-%d skada."
 Se piltornsinformationen.
 Jag kan erbjuda dig %d %s av %s för %d %s av %s.
 Marknadsplats
-Bytespost
+Handelspost
 enheter
 enhet
-Du har fått ett rätt bra bud. Jag kommer inte tjäna något på den här affären. Kan jag intressera dig av någon av mina andra varo?
-"Ta en titt på våra fina grejer. Om du känner för att göra ett byte, klicka på sakerna du vill byta mot."
+Du har gjort ett riktigt kap.  Jag kommer inte att tjäna något på denna affären.  Kanska du är intresserad av någon annan vara jag säljer?
+"Ta en titt på våra prima varor.  Om du känner för att göra ett byte, klicka på föremålen du vill byta mot."
 n/a
-Jag kan ge %s till %s spelaren.
+Jag kan ge %s till %s spelare.
 Är det några fler resurser du vill ge bort?
 "Om du vill ge bort några resurser till någon annan spelare så klicka på det du vill ge och till vem."
-Möjligt för byte
+Tillgängligt för Handel
 Spelare
 %s skyddar %s
 %s kan bara kastas på fientliga varelser
@@ -208,44 +208,44 @@ Spelare
 4e nivån
 5e nivån
 %s kan bara kastas på vänliga varelser
-"Skriv in skaparens IP-adress.
+"Skriv in värdens IP-adress.
 (t.ex. 220.415.119.223)"
-%s fungerar inte på %s
-%s är immun mot %s
-Ingen plats att placera %s här
-En jordbävning gör inget vettigt om det inte finns en stad med murar att förstöra.
-Din hjälte har %d varelsegrupper i strid och kan inte få plats med fler.
+%s biter inte på %s
+%s är immuna mot %s
+Finns ingen plats här att tilldela %s
+En jordbävning gör ingen nytta om det inte finns en stad med murar att förstöra.
+Din hjälte har %d varelsegrupper i strid och kan inte inhusera fler.
 "Attack
 Försvar
 Kraft
-Kunskap."
-Den trollformeln skulle inte funka på någon!
-"%s trollformeln gör %d skada
-mot alla odöda varelser."
-"Dödstrollformeln gör %d skada
-mot alla levande varelser."
+Kunskap"
+Den trollformeln skulle inte påverka någon!
+"Trollformeln %s utdelar %d skada
+till alla odöda varelser."
+"Dödstrollformeln utdelar %d skada
+till alla levande varelser."
 Spegelbildstrollformeln misslyckades!
-%s %s trollformeln!
-Attack
+Gruppen %s %s trollformeln!
+Anfall
 Försvar
 Flygtrollformeln är inte kraftig nog för att fungera på en båt.
-Hastighet
+Snabbhet
 Tillväxt
-%s kastar '%s' på %s.
+%s kastar '%s' på gruppen %s.
 %s kastar '%s'.
 %s spelare
 Skott
 Skada
-Hälsa kvar
-Din tid är slut, vidare till nästa tur.
+Återstående Hälsa
+Din tid har gått ut.  Går vidare till nästa tur.
 Vaktas av
 "
 
 Din hjälte har lärt sig %s %s."
 "
 
-Din hjälte får lära sig antingen %s %s eller %s %s."
-"{Spell Points}
+Din hjälte kan lära sig antingen %s %s eller %s %s."
+"{Trollformelspoäng}
 
 %s har förtillfället %d Trollformelspoäng av det maximala %d.  Den maximala mängden Trollformelspoäng är 10 gånger hjältens Kunskap.  Ibland kan hjälten ha mer än sin maximala mängd Trollformelspoäng på grund av speciella händelser."
 "Den trollformeln kostar %d trollformelspoäng.  Din hjälte har bara %d trollformelspoäng och kan därför inte kasta trollformeln."
@@ -255,8 +255,8 @@ Din hjälte får lära sig antingen %s %s eller %s %s."
 %s har den mäktigaste armén.
 %s tjänar mest guld.
 Den ultimata artefakten kan finnas %s.
-"För att kasta trollformler så måste din hjälte först köpa en trollformelsbok för 500 guld. Tyvärr verkar du ha lite lite cash för tillfället..."
-"För att kasta trollformler så måste din hjälte först köpa en trollformelsbok för 500 guld. Köpa?"
+"För att kasta trollformler så måste din hjälte först köpa en trollformelsbok för 500 guld.  Tyvärr verkar du ha lite lite cash för tillfället..."
+"För att kasta trollformler så måste din hjälte först köpa en trollformelsbok för 500 guld.  Vill du köpa en?"
 "%s är en nivå %d %s
 med %d artefakter."
 "Efter en generös dricks viskar bartendern:
@@ -264,12 +264,12 @@ med %d artefakter."
 Tillgänglig: 
 Ranking
 All krav för denna byggnad är mötta.
-Attack %s
-"Genom örnögd observation, %s får möjlighet att lära sig %s"
+Anfall %s
+"Genom skarpsynt iakttagande lyckas %s lära sig %s"
 Slut på minne.
-Du kan inte bygga. Det har redan byggt här denna runda.
-Förlorar %s '%s'.
-Förlorar hjälten '%s'.
+Du kan inte bygga. Det har redan byggt här denna rundan.
+Bli av med %s '%s'.
+Bli av med hjälten '%s'.
 "Lyckades inte vinna på månaden %d, veckan %d, dag %d."
 Förlora alla dina hjältar och städer.
 Erövra %s '%s'.
@@ -283,23 +283,23 @@ Du och dina allierade
 Du och din allierade
  och
 Du
-fiendens allians av
+fiendealliansen bestående av
 fienden - 
-"{Experience}
+"{Erfarenhet}
 
-Erfarenhet låter din hjälte öka sin nivå och få tillgång till bättre primära och sekundära förmågor."
-"{Resources}
+Erfarenhet låter dina hjältar höja sin nivå och därmed förbättra sina primär- och sekundärförmågor."
+"{Resurser}
 
 Det finns sju resurser i Heroes III som används för att bygga slott, köpa trupper och rekrytera hjältar. Guld är den mest vanliga som behövs till typ allt. Trä och malm används för de flesta byggnader. Ädelstenar, Kvicksilver, Svavel och Kristall är sällsynta och magiska resurser som används för de allra kraftigaste varelserna och byggnaderna."
 Varelserna är villiga att gå med oss!
-"Alla varelser vill gå med oss...
+"Alla varelserna vill gå med oss...
 
-för en avgift på %d guld."
-Dessa svaga varelser kommer säkerliger fly från oss.
-Jag är rädd att dessa varelser är slugna på slagsmål...
-Att leta efter Gralen är ingen idé. Din hjälte skulle nämligen inte kunna bära hem den - alla hens artefaktplatser är fyllda!
+mot en avgift på %d guld."
+Dessa svaga varelser kommer säkerligen att fly från oss.
+Jag är rädd att dessa varelser är sugna på slagsmål...
+Att leta efter Gralen är ingen idé.  Din hjälte skulle nämligen inte kunna bära den hem - alla artefaktplatserna är fyllda!
 Unable to access CD-ROM Drive.  Without a CD-ROM drive and a Heroes 2 CD-ROM you will only be able to play as the guest in a multi-player game.
-"Grattis! Du har erövrat %s, och är segrare!"
+"Grattis! Du har erövrat %s, och segrar!"
 "Fienden har erövrat %s, och utropar sig som vinnare!"
 Staden %s har fallit - allt är slut!
 Grattis! Du har lyckats besegra fiendens %s. Segern är din!
@@ -311,22 +311,22 @@ Avbryt
 Artefakter
 Påtagen
 Fuskare!!!
-Övriga
+Diverse
 I ryggsäck
-Gralen kan finnas i %s regionen av överjorden.
-Gralen kan finnas i %s regionen av underjorden.
-"Varelse
+Gralen kan finnas någonstans i en region med %s i överjorden.
+Gralen kan finnas någonstans i en region med %s i underjorden.
+"Varelse-
 Bonusar"
 "Varelser
-Tillgänglig"
+Tillgängliga"
 Jag kan ge dig %s för %d %s av %s.
 Jag kan ge dig %d %s av %s för din %s.
 Jag kan ge dig %d %s av %s för %d %s.
 Kungadömets resurser
-%s's Artefakter
-%s's Varelser
-Bara besökande hjältar kan använda %s.
-Bygg en ny %s
+%ss Artefakter
+%ss Varelser
+Endast besökande hjältar får använda en %s.
+Bygg ett nytt %s
 Det finns inte tillräckligt med plats i garnisonen.
 Congratulations! You have over %d %s in your armies. Your enemies have no choice but to bow down before your power!
 The enemy has gathered over %d %s. You have no choice but to admit defeat!
@@ -349,26 +349,26 @@ The enemy has delivered the precious cargo intact and claims victory!
 Flytta %s hit.
 Flyg %s hit.
 "Skjut %s (%d skott kvar, %s skada)"
-Se %s information.
+Se %sinformation.
 Inga skott kvar!
 Återuppväck %s
 Åkalla demoner från %s
 Kasta en trollformel på %s
-Fienden har gett upp!
+Fienden har kapitulerat!
 Fienden har flytt!
 En ärofylld seger!
 "
 
-Efter en ärofylld strid, %s får %d erfarenhetspoäng"
-"%s ger upp inför fienden och ger sig av med svansen mellan benen."
-Den fege %s flyt ifrån striden.
-"Dina arméer lider ett svårt nederlag och %s överger dig."
-"Dina arméer ger upp inför fienden och ger sig av med svansen mellan benen."
-Dina fega trupper flytt från striden.
+Efter en ärofylld strid får %s %d erfarenhetspoäng"
+"%s kapitulerar för fienden och ger sig av med svansen mellan benen."
+Den fege %s flyr ifrån striden.
+"Dina styrkor lider ett svårt nederlag och %s överger dig."
+"Dina styrkor ger upp inför fienden och ger sig av med svansen mellan benen."
+Dina fega trupper flyr ifrån striden.
 Dina arméer lider ett svårt nederlag.
 Katapulten måste tas med.
 Denna varelse är redan uppgraderad.
-Du har inte råd att uppgradera den varelsen.
+Du har inte råd att uppgradera denna varelsen.
 Alla varelser är redan uppgraderade.
 Du har inte råd att uppgradera alla varelser.
 slott
@@ -377,22 +377,22 @@ Bygg Gralbyggnaden i %s.
 Bygg Gralbyggnaden i vilken stad som helst.
 Defeat the %s in the %s region of the world.
 Accumulate %d %s in your kingdom's armies.
-Flag all creature dwellings.
-Flag all mines.
-Transport the %s to %s.
+Flagga alla varelsebon.
+Flagga alla gruvor.
+Transportera %s till %s.
 Det finns inte tillräckligt med plats i ryggsäcken.
 Väntar på fler spelare...
-"Ursäkta, men uppkopplingen förlorades."
+"Jag är mycket ledsen, men uppkopplingen förlorades."
 Du har inte råd med att köpa en båt.
-(grävande är ok)
+(ok att gräva)
 Någon fuskar!
 Someone has their debug level set!
 %s är redan i en båt.
 Det finns ingen plats för en båt.
 Det finns inga båtar att åkalla.
-"%s försökte åkalla en båt, men det gick inte."
-"%s försökte förstöra en båt, men det gick inte."
-%s är inte tränad nog för att kunna utföra den trollformeln en gång till idag.
+"%s försökte åkalla en båt, men misslyckades."
+"%s försökte förstöra en båt, men misslyckades."
+%s är inte tillräckligt tränad för att kunna kasta denna trollformeln en gång till idag.
 "%s, Nivå %d"
 Krigets bojor finns med i striden.  %s du kan inte retirera
 Krigets bojor finns med i striden.  %s du kan inte ge upp!
@@ -402,48 +402,48 @@ Gör %d skadepoäng."
 Gratis
 N/A
 Kostnad per trupp
-%s siaren
- (letar efter %s)
-Svarta marknaden
-%s sparades lyckosamt.
-Nu är det %s's tur.
+Siaren %s
+ (Söker %s)
+Svart Marknad
+%s sparades framgångsrikt.
+Nu är det %ss tur.
 (Besökt)
 (Ej Besökt)
 (Redan inlärd)
-(Lär %s)
-(Lär %s)
+(Lär in %s)
+(Lär in %s)
 (Redan inlärd)
-%s skickar en liten present
-%s skulle vilja ha en present bestående av %s
-%s Skulle vilja ha någon av dessa resurser.
-%s dränerar %d liv från %s.
-%s dränerar %d liv från %s.
+%s skickar en present till dig
+%s skulle uppskatta en present bestående av %s
+%s skulle uppskatta någon av dessa resurser.
+%sna dränerar %d liv från %s.
+%sna dränerar %d liv från %s.
 "
- och en återuppväcks ifrån det döda."
+ och en återuppväcks ifrån de döda."
 "
- och %d återuppväcks ifrån det döda."
-%s gör dubbel skada!
-%s gör dubbel skada!
-En åskblixt träffar %s!
-"Med en brinnande ilska gör %s 50%% extra skada på %s."
-"Med en brinnande ilska gör %s 50%% extra skada på %s."
-"Såren hos %s stänger sig och den är hel igen."
-"Såren hos %s stänger sig och de är hela igen."
-"{Tactikfas}
+ och %d återuppväcks ifrån de döda."
+%sna gör dubbel skada!
+%sna gör dubbel skada!
+Armén med %s träffas plötsligt av blixten!
+"%sen kokar av vrede och gör 50%% extra skada på %sna."
+"%sna kokar av vrede och gör 50%% extra skada på %sna."
+"%sen sår stänger sig och den är hel igen."
+"%snas sår stänger sig och de är hela igen."
+"{Taktikfas}
 
-I Taktikfasen så kan en hjälte med överlägsen Taktikförmåga arrangera sina trupper innan en strid påbörjas."
-%s dränerar trollformelspoäng från %s!
-%s dränerar trollformelspoäng från %s!
+I Taktikfasen kan en hjälte med bättre Taktikförmåga arrangera sina trupper innan striden påbörjas."
+%sen dränerar %s på trollformelspoäng!
+%sna dränerar %s på trollformelspoäng!
 piltorn
-%s gör %d skada.
-%s gör %d skada.
+En %s gör %d skada.
+Armén med %s gör %d skada.
 "
-En %s dör."
+En %s stupar."
 "
-%d %s dör."
+%d %s stupar."
 Anf
 För
-Kra
+Sty
 Kuns
 Moral
 Tur
@@ -454,7 +454,7 @@ Hälsa
 Allierade
 Fiender
 Stridsinställningar
-Animationshastighet
+Animeringshastighet
 Musikvolym
 Ljudeffektsvolym
 Inställningar för Autostrid
@@ -465,7 +465,7 @@ Katapult
 Första hjälpen-tält		
 All statistik		
 Enbart Trollformler		
-Visa hexagonalt nätverk		
+Visa hexagonalt rutnät		
 Förflyttningsskugga		
 Pekarskugga		
 Slagfältsinformation		
@@ -474,20 +474,20 @@ Försvarare
 Vinnare		
 Förlorare		
 Nästa runda börjar nu		
-"%s känner att oddsen är emot hen.
+"%s känner att oddsen är överväldigande.
 
 Vill du verkligen ge retirera?"		
-"%s helar %s
+"%set helar armén med %s
 och tar bort %d skadepoäng."		
 The current player left the game! Player turn will be replayed by computer player.
 Other player left the game!  You won!
 Visa hjältestatus
 Fiende fiendes hjältestatus
-Applicera Första hjälpten-tältet på %s
-"{Artifact}
+Ge första hjälpen till armén med %s
+"{Artefalt}
 
-Through a clearing you observe an ancient artifact.  Unfortunately, it's guarded by %s %s.  Do you want to fight the %s for the artifact?"
-"Much to your dismay, the %s is guarded by %s %s.
+I en glänta skådar du en uråldig artefakt.. Tyvärr vaktas den av %s %s.  Vill du slåss mot dessa %s för artefakten?"
+"Du blir bestört när du inser att %s vaktas av %s %s.
 
 Vill du slåss mot vakterna?"
 "Det finns inga %s här att rekrytera.
@@ -495,14 +495,14 @@ Vill du slåss mot vakterna?"
 "%d %s går med i din armé.
 "
 "För länge sedan var detta en stad fylld av drakar. Nu hörs bara vindens sus i dessa majestätiska salar."
-"%s skulle gå med dig, men du har inte tillräckligt med utrymme för att underhålla dem."
+"Alla %s skulle gärna gå med dig, men det finns inte tillräckligt med proviant för att försörja dem."
 artefakt
 artefakter
 av varje resurs
 garnison
  Gammalt kartformat
 "Sorry, player left game during transmission.  Goodbye!"
-Uppgradera alla varelser
+Uppgradera Alla Varelser
 Rank
 Spelare
 Land
@@ -513,7 +513,7 @@ Fuskare! +maximum"
 Tid"
 Grund-"
 poäng"
-"Svårhet-
+"Svårhets-
 grad"
 "Slut-
 poäng"
@@ -531,9 +531,9 @@ HEROES3 /S0 /I0
 Starts Heroes III with no sound and no intro.
 "
 %s har gått upp en Nivå.
-%s är pnu på Nivå %d %s.
-"HETASTOLEN
-Skriv in ditt namn:"
+%s är nu på Nivå %d %s.
+"HETA STOLEN
+Skriv in era namn:"
 Error initializing modem connection.  Please try again.
 Modem Session
 Error initializing serial connection.  Please try again.
@@ -542,9 +542,9 @@ Error hosting serial connection.  Please try again.
 Mitt Spel
 Lösenord:
 No sessions found on host computer!
-"Sorry, there was an error connecting to that session. Please try again."
+"Ledsen, men det inträffade ett fel när jag skulle ansluta till den sessionen.  Försök igen, tack."
 Spelet hittades inte. Försök igen!.
-Invalid password!
+Felaktigt password!
 Error initializing TCP/IP connection.  Please try again.
 "Din IP adress:
 %s"
@@ -553,37 +553,37 @@ Password (optional):
 That IP address was not found!
 Pusselkarta
 Ta med %s till %s.
-Tillgänglig
+Tillgängliga
 Total kostnad
 Error connecting to host computer.  Please try again!
 Dator
 %s lämnade spelet.
 Du är nu värd!
 Väntar på att den andra spelaren ska gå upp i Nivå...
-En datorspelare har anfallit en annan spelare. Vi får vänta på att striden ska slutföras bara...
+En datorspelare har anfallit en annan människospelare.  Väntar på att striden slutförs...
 viskar
 viskar till
-Erfarenhet som behövs till nästa nivå
+Erfarenhet som behövs för att nå nästa nivå
 Total erfarenhet på Altaret
-Offra artefakter för att få erfarenget
+Offra artefakter för erfarenget
 Flytta artefakter till Altaret
-Offeraltaret
-"För att offra varelser, flytta dem ifrån din armé till ALtaret och tryck på Offra"
+Offeraltare
+"För att offra varelser, flytta dem från din armé till Altaret och klicka på Offra"
 Välj %s
-Du kan inte offra dedär
-Detta ruta visar den valda varelser
+Du kan inte offra det där
+Denna ruta visar de valda varelserna
 Offra %s
 Hållområde
 Skelettomvandlare
-Flytta varelser till Omvandlaren för att göra om dem till Skelett
-Varelser i Omvandlaren kommer göras om till Skelett
-%s kommer bli %s
-%s är redan till Skelett
+Flytta varelser till Omvandlaren för att göra Skelett av dem
+Varelser i Omvandlaren kommer att bli Skelett
+Alla %s kommer att bli %s
+%s är redan ett Skelett
 %s är redan Skelett
 Spelares Svårighetsgrad
-"%s går ut.
+"%s finns redan.
 
-Vill du skriva över?"
+Skriva över?"
 Kartsvårighetsgrad:
 Uppdragsnamn:
 Uppdragsinformation:
@@ -598,15 +598,15 @@ There is a problem with the data in this file and it is not usable by Heroes III
 Please load and save this map with the Heroes III Editor to update it to the current version of the map format
 This map is not playable. Please load and fix problems in the Heroes III Editor before playing this map
 Tom
-Onamnad
+Namnlös
 Tar emot kartan ifrån värden...
 Kartstorlekar
-L
-M
 S
-JS
+M
+L
+XL
 Avancerade alternativ
-"Välj startalternativ, handikapp och namn på spelarna."
+"Välj startalternativ, handikapp och namn för varje spelare."
 "Spelarnamn
 Handikapptyp"
 "Start-
@@ -615,98 +615,98 @@ Stad"
 Hjälte"
 "Start-
 Bonus"
-Turtid för spelarna
+Dragtid
 Slumpmässig
 Inget
 "Värden har redan startat spelet, utan att du fick vara med!"
-%s kommer in i matchen.
-%s lämnar matchen.
-En okänd spelare har kommit in i matchen!
-%s är den nya värden.
+%s kommer in i spelet.
+%s lämnar spelet.
+En okänd spelare har lämnat spelet!
+%s utses till ny värd.
 Det finns inga kartor att spela.
-Du måste placera dig själv innan du kan starta matchen.
+Du måste placera dig själv färe du kan starta matchen.
 Göm chatt
 Visa chatt
 Värden förbereder sig för att starta spelet...
 Kan inte öppna filen - Video.vid
 Fel på videofilen!
 %s förhindrar %s att kasta trollformler från nivå 3 och uppåt.
-Vinden som omringar Den förbannade marken suger musten ur dig, du kan bara kasta trollformler på nivå 1.
-"Eftersom %s redan har åkallat %skan inga andra element åkallas av %s ."
+Vinden som omringar Den förbannade marken suger musten ur dig.  Du kan bara kasta trollformler på nivå 1.
+"Eftersom %s redan har åkallat %s så kan inga andra elementärer åkallas av %s."
 hans
 hennes
 %s reciterar inskriptionen, men det har ingen effekt.
-Välj en armé att återuppväcka
+Välj en armé att återuppliva
 Välj en armé att offra
-%s motstår %d skada
-%s motstår %d skada
-%s tar %d extra skada
-%s tar %d extra skada
-Återuppväck %s
-Offra %s
-Ta bort hinder
-"%s skrumpnar ihop av ålder och förlorar %d hälsopoäng."
-"%s skrumpnar ihop av ålder och förlorar %d hälsopoäng."
-%s blir plötsligt väldigt sjuka!
-%s blir plötsligt väldigt sjuk!
-Alla fördelaktiga trollformler kastade på %s upphör.
-%s kan inte se!
-%s verkar inte kunna få något rätt gjort.
-%s har blivit förstenad!
-%s har blivit förstenade!
-Rötter och rankor binder %s till marken!
-%s vrider sig i smärta då giftet forsar fram genom ådrorna.
-%s vrider sig i smärta då giftet forsar fram genom ådrorna.
-%s är förlamad och kan inte röra sig!
-%s är förlamade och kan inte röra sig!
-%s kastarcasts %s
-%s kastar %s
- på %s
+Armén med %s står emot %d skada
+Armén med %s står emot %d skada
+Armén med %s tar %d extra skada
+Armén med %s tar %d extra skada
+Återuppväck dina %s
+Offra dina %s
+Ta bort detta hinder
+"En %s skrumpnar ihop av ålder och förlorar %d hälsopoäng."
+"Alla %s skrumpnar ihop av ålder och förlorar %d hälsopoäng."
+En %s blir plötsligt väldigt sjuk!
+Alla %s blir plötsligt väldigt sjuka!
+Armén med %s får sina fördelaktiga trollformler brutna.
+Armén med %s kan inte se!
+Armén med %s verkar inte kunna göra någonting ordentligt.
+Armén med %s har blivit förstenad!
+Armén med %s har blivit förstenade!
+Rötter och rankor binder armén med %s till marken!
+En %s vrider sig i smärta då giftet forsar fram genom ådrorna.
+Alla %s vrider sig i smärta då giftet forsar fram genom ådrorna.
+En %s är förlamad och kan inte röra sig!
+Alla %s är förlamade och kan inte röra sig!
+En ensam %s kastar %s
+Armén med %s kastar %s
+ på armén med %s
 Systeminställningar
 Hjältehastighet
 Fiendehastighet
-Kartans bläddringshastighet
-Visa förflyttningsstig
-Visa hjältens påminnelse
+Kartans scrollhastighet
+Visa färdväg
+Visa hjältepåminnelse
 Snabbstrid
 Undertexter
 Byggnadskonturer
-Trollformelsanimation
+Trollformelsboksanimation
 "Är du säker på att du vill göra detta?
-(Ingen osparad information kommer sparas)"
-När du närmar dig Mana-virveln fylls din kropp med energi. Du har dubblat dina normala trollformelspoäng.
-"Den lille stallpojken kommer fram med en fin häst till dig. ""Denna hästen kommer hjälpa dig att komma fram snabbare. Men han kommer bli trött efter helgen, så kom tillbaka igen på måndag."""
+(Osparade spel kommer att gå förlorade)"
+När du närmar dig Mana-virveln fylls din kropp med energi.  Du har fördubblat dina normala trollformelspoäng.
+"Den lille stallpojken kommer fram med en fin häst till dig. ""Denna häst kommer hjälpa dig att färdas snabbare på dina resor. Han kommer bli trött efter helgen efter många långa färder, så kom tillbaka igen på måndag för att få en ny och pigg häst igen."""
 Du studerar inskriptionerna på Kunskapens Vägg och får då insikt om magiernas hemligheter (+1 Kunskap).
-Eldens Ordernsällskap lär dig nya sätt att fokusera din magi på (+1 Kraft).
-Ett besök på Slagkämparnas Akademi lär dig många nya förmågor (+1000 Erfarenhet).
-Efter att ha spenderat lite tid i Valhallahallen så har du lärt dig många nya stridstekniker (+1 Attackförmåga).
-"Efter att ha spenderat lite tid i Krigskungens Bur så har du fått lära dig nya försvarstekniker (+1 Försvar)."
-%s har byggt en %s.
-%d extra %s tillgänglig för rekrytering i %s
-%s tillväxt per vecka
-Veckolig %s tillväxt är %d
+Eldsordern lär dig nya sätt att fokusera dina magiska krafter på (+1 Styrka).
+Ett besök på Stridsmästarakademin lär dig många nya förmågor (+1000 Erfarenhet).
+Efter att ha spenderat lite tid i Valhallahallen så har du lärt dig många nya stridstekniker (+1 Anfallsförmåga).
+"Efter att ha spenderat lite tid i Krigsherrarnas Bur så har du fått lära dig nya försvarstekniker (+1 Försvar)."
+%s har byggt ett %s.
+%d ytterligare %s tillgängliga för rekrytering i %s
+%stillväxt per vecka
+Veckolig %stillväxt är %d
 "
 
-Grundläggande tillväxt %d"
+Grundtillväxt %d"
 "
-Externa hålor %+d"
+Externa bon %+d"
 Hall
 Gå ut ur Magikerskrået
 Garnisonen
 Bygg %s
 Bygg inte %s
-Vill du att detta ska bli den permanenta bostaden för Gralen?
+Vill du att detta ska bli Gralens permanenta hem?
 Bygg båt
 Bygg ingen båt
-Gå ut
+Stäng
 Slott
 Universitet
-"Din hjältes fotsteg ekar bland de tysta korridorerna på universitetet. En lärare ber dig att vänta här, du får instruktioner om följande ämnen."
-Din hjälte har redan den förmågan
+"Din hjältes fotsteg ekar bland de tysta korridorerna på universitetet.  En receptionist ber dig att vänta här, din hjälte kan få undervisning i följande ämnen."
+Din hjälte kan redan denna förmågan
 Din hjälte kan inte lära sig den förmågan
 Din hjälte kan inte lära sig några fler förmågor
-%s %s kommer kosta %d guld
-"Med ett subtilt leende och höjda ögonbryn informerare läraren dig att ""våra kurser i %s %s kostar faktiskt %d guld."""
+%s %s kommer att kosta %d guld
+"Med ett smygleende och höjda ögonbryn informerar receptionisten dig att ""våra kurser i %s %s kostar faktiskt %d guld."""
 Köp %s
 "%s, tid: %d rundor."
 Se Världen
@@ -728,7 +728,7 @@ Du har en sekund kvar på din tur
 Du har %d sekunder kvar på din tur	
 Du har en minut kvar på din tur	
 Du har %0.1f minuter kvar på din tur	
-Den nuvarande spelaren är...	
+Nuvarande spelare är...	
 "%s found the %s, and can claim victory!"	
 "%s found the %s, and can claim victory!"	
 %s has over %d %s. You have no choice but to admit defeat!	
@@ -755,7 +755,7 @@ Congratulations! %s has delivered the precious cargo intact. Your team claims vi
 "Sorry, the host has left the game.  You must have the CDROM in order to host a game."	
 Visa Sparade spel
 Lag %d
-{Laginriktningar}
+{Laguppdelningar}
 Recovering from player drop... One moment please...
 Grattis! Alla dina fiender är besegrade! Segern är din!
 "Alla dina trupper är besegrade och du har blivit bannlyst ifrån detta land!"
@@ -763,15 +763,15 @@ Uppdragsinformation
 Press ESC to cancel solo mode.
 Can't open file - Heroes3.snd
 Sound File Error!
-"Sorry, your version #%s is incompatible with the host's version #%s."
-"Resetting High Scores will delete any accomplishments you have achieved.
+"Ledsen, men din #%s är inkompatible med värdens version #%s."
+"Att nollställa poänglistan kommer också att radera allt du låst upp och spelat til dig.
 
-Are you sure you want to reset the High Scores?"
+Är du säker på att du vill nollställa poänglistan?"
 "
 %s är förstörd."
 Defeat the %s in the %s region of the underworld.
 %s has failed to complete their quest in time. They have lost.
-%s has lost the hero %s.  Your quest is over.
+%s har förlorat hjälten %s.  Ditt uppdrag är över.
 Vill du spela ett sparat spel?
 Kampanj
 "Recounting the Grail legend to the townsfolk, your words are met with disbelief.  This town does not have enough faith.  You must seek a more deserving home for the Grail."
@@ -779,19 +779,19 @@ Inga aktiva trollformler
 %s åkallar %d %s
 "Din
 Rank"
-Dammen har inte producerat nåt än.
+Dammen har inte producerat någonting ännu.
 Dammen producerade %d %s denna veckan.
 "%s, tid: %s."
-Till bindaren rör sig eller dör
-Till nästa attack
-Till stridens slut
+Ända tills det att bindaren rör sig eller dör
+Ända tills nästa attack
+Ända till stridens slut
 "%s har med sig %s, en uråldrig artefakt som fullkomligt dödar all magi."
 This garrison has a powerful enchantment that suppresses all other magic.
 "Det finns inga sparade spel att ladda.
 
-Perhaps you meant to Start a New Game instead. Go back to the Main Menu and select New Game."
-Select a destination
-Are you sure you want to delete %s?
+Du kanske tänkte starta ett Nytt Spel istället. Gå tillvaka till huvudmenyn och välj Ntt Spel."
+Välj en destionation
+Är du säker på att du vill radera %s?
 "I början av matchen läggs 3-6 kristaller till till kungadömes resurser."
 "I början av matchen läggs 3-6 ädelstenar till till kungadömes resurser."
 "I början av matchen läggs 3-6 kvicksilvergrytor till till kungadömes resurser."
@@ -800,17 +800,17 @@ Are you sure you want to delete %s?
 3-6 Ädelstenar
 3-6 Kvicksilvergrytor
 3-6 Svavel
-%s har tagit slut på sina trollformelspoäng
-%s har tagit slut på sina trollformelspoäng
-Förbannad mark förhindrar dig att kasta trollformler som är högre än nivå 1.
-En anti-magi aura gör att du inte kan kasta trollformler i denna garnisonen.
+Trollformelspoängen hos din %s är förbrukade
+Trollformelspoängen hos dina %s är förbrukade
+Förbannad mark förhindrar dig från att kasta trollformler som är högre än nivå 1.
+En anti-magisk aura gör att du inte kan kasta trollformler i denna garnisonen.
 %s förhindrar kastandet av trollformler
 Kan bara åkalla %s från liken av levande varelser
-De döda %s har inte tillräckligt mycket livskraft för att åkalla %s
-De döda %s har inte tillräckligt mycket livskraft för att åkalla %s
-Bara de levande kan bli återuppväckta.
-%s är inte kraftfull nog för att återuppväcka %s
-%s är inte kraftfull nog för att återuppväcka %s
+Dina döda %s har inte tillräckligt mycket livskraft för att åkalla %s
+Dina döda %s har inte tillräckligt mycket livskraft för att åkalla %s
+Endast det levande kan bli återuppväckt.
+%sn är inte kraftfull nog för att återuppväcka %s
+%sna är inte kraftfulla nog för att återuppväcka %s
 "{Insufficient Disk Space}
 
 Heroes III requires at least 5 MB of free space on the current drive.
@@ -824,25 +824,25 @@ To delete a previously saved game select it and press CTRL-DELETE.
 
 To make room manually press ALT-TAB to return to Windows."
 Lämna Vakter
-%s fryser av skräck.
-%s fryser av skräck.
-Den trollformlern fungerar inte på någonting!
-"Äntligen har du den sista artefakten som krävs för att smida svärden. Snart kommer världen ligga vid dina fötter."
-%s gör så att alla trollformler är tillgängliga.
+Den ensamma %s fryser av skräck.
+Alla %s fryser av skräck.
+Denna trollformeln kommer inte att fungerar på någonting!
+"Äntligen har du den sista artefakten som krävs för att smida Svärdet.  Snart kommer världen ligga vid dina fötter."
+%set gör så att alla trollformler är tillgängliga.
 Startar med %s
 Startar med en pergamentrulle med %s
 Startar med %d %s
 Startar med %s %s
-Startar med hjjältar från %s
+Startar med hjältar från %s
 Startar med en slumpmässig hjälte
 Trä och Malm
 "Svavel, Kvicksilver, Kristaller och Ädelstenar"
-%s is in incorrect format
+%s har ett ogiligt format
 Select Armageddon's Blade campaign
 Select Restoration of Erathia campaign
 Select custom campaign
 Återvänd till huvudmenyn
-Rädslan för %s gör att %s fryser av skräck.
+Rädslan för %s gör att armén med %s fryser av skräck.
 "Found the Heroes III: %s CD-ROM.
 
 To play Heroes III: %s, you need the %s CD.  
@@ -851,15 +851,15 @@ If you wish to join a Multi-player Game hosted by another player, a CD is not re
 
 If you wish to play a Single Scenario or a Campaign, please quit and insert the %s CD, before re-running %s."
 Värden genererar en slumpmässig kartaÂ…
-Trollformeln upphörde
-Du innehar alla delar för att skapa %s.  Vill du skapa denna artefakt?
+Trollformeln avbuten
+Du har nu alla delar för att kunna sätta ihop %s.  Vill du bygga denna artefakt?
 Vill du ta isär denna artefakt?
 Select Shadow of Death Campaign
 Trollpacka
 Yog har gett upp magi i alla sina former. Hans kunskaper om strid och taktik kommer få vara nog i resten av hans liv.
 "Congratulations, you have recovered the three pieces you needed from the barbarian brothers."
 Skapa Slumpmässig karta
-Välj inställningar för en slumpmässig karta
+Välj inställningar för att skapa slumpmässig karta
 Slumpmässig karta
 Spela en slumpmässigt skapad karta
 "The tutorial map file ""tutorial.tut"" is missing from the maps directory.  You cannot start a tutorial without this file."
@@ -867,20 +867,20 @@ Playing the selected saved game requires all players to be running %s.  Some of 
 Playing the selected map requires all players to be running %s.  Some of the connected players cannot play this map.
 Armageddon's Blade
 The Shadow of Death
-The magical energies of more spells more powerful than level one are sucked away by the cursed ground.
+Den magiska energin från trollformler starkare än första nivån sugs upp av den förbannade jorden.
 Slumpmässig karta skapad!
 Cannot create Random_Map.H3M in data directory.
 Error writing random map to disk.
-Kan inte skapa en slumpmässig karta med dessa förutsättningarna.
+Kan inte skapa en slumpmässig karta med de angivna förutsättningarna.
 Kartstorlek
 Mänskliga eller Datorkontrollerade spelare
 Mänskliga eller Datorkontrollerade lag
 Enbart Datorkontrollerade spelare
 Enbart Datorkontrollerade lag
-Vatteninnehåll
+Vattenmängd
 Monsterstyrka
 Slumpmässig karta
 Skapar karta
-Bara Gelu kan bära Armageddons svärd.
-Erathias upprättande
-"Grattis! Du har funnit alla tre artefakter!."
+Endast Gelu kan bära Armageddons svärd.
+Erathias Återupprättande
+"Grattis! Du har återfunnit alla tre artefakter!."

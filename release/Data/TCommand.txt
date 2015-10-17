@@ -1,9 +1,9 @@
-Dela %s armé
+Dela upp %s
 Kan ej kombinera hjältens sista armé
 Kombinera %s arméer
 Dela armé
 Granska %s
-Kan ej flytta sista armén till ga garnisonen
+Kan ej flytta sista armén till garnisonen
 Flytta %s
 Byt %s mot %s
 Gå ur stad
@@ -13,7 +13,7 @@ Tom
 Välj %s (i garnisonen)
 Se Hjälte
 Magiskrå
-Tjuvskrå
+Tjuvgille
 Taverna
 Varv
 Borg
@@ -29,8 +29,8 @@ Resurssilo
 Fort
 Fästning
 Ett externt varelsebo måste flaggas för att kunna åkalla varelser genom portalen.
-%s införskaffade
+%s inköpt
 Välj %s (besökande)
-Välj %s (bortkastade varelser)
-Välj %s (hjälts armé)
+Välj %s (avfärdade varelser)
+Välj %s (hjältes armé)
 %s (kan ej radera)

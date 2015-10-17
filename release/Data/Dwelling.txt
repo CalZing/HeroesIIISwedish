@@ -1,129 +1,129 @@
-Vaktpost	Vaktposten låter dig rekrytera Pikenerare.
-Bågskyttstorn	Bågskyttetornet låter dig rekrytera Bågskyttar.
-Griptorn	Griptornet låter dig rekrytera Gripar.
-Barack	Baracken låter dig rekrytera Fäktare.
-Kloster	Klostret låter dig rekrytera Munkar.
-Träningsområde	Träningsområdet låter dig rekrytera Ryttare.
-Pärleport	Pärleporten låter dig rekrytera Änglar.
-Upg. Vaktpost	Vaktposten låter dig rekrytera Hillebardjärer.
-Upg. Bågskyttstorn	Bågskyttetornet låter dig rekrytera Prickskyttar.
-Upg. Griptorn	Griptornet låter dig rekrytera Kungagripar.
-Upg. Barack	Baracken låter dig rekrytera Korsfarare.
-Upg. Kloster	Klostret låter dig rekrytera Seloter.
-Upg. Träningsområde	Träningsområdet låter dig rekrytera Tornerare.
-Upg. Pärleport	Pärleporten låter dig rekrytera Ärkeänglar.
-Kentaurstall	Kentaurstallet låter dig rekrytera Kentaurer.
-Dvärgstuga	Dvärgstugan låter dig rekrytera Dvärgar.
-Hemman	Hemmanen låter dig rekrytera Skogsalver.
-Förtrollad källa	Den Förtrollade Källan låter dig rekrytera Pegaser.
-Dendroidglänta	Dendroidgläntan låter dig rekrytera Dendroidvakter.
-Enhörningsdunge	Enhörningsdungen låter dig rekrytera Enhörningar.
-Drakklippa	Drakklippan låter dig rekrytera Gröndrakar.
-Upg. Kentaurstall	Kentaurstallen låter dig rekrytera Kentaurkaptener.
-Upg. Dvärgstuga	Dvärgstugan låter dig rekrytera Stridsdvärgar.
-Upg. Hemman	Hemmanen låter dig rekrytera Storalver.
-Upg. Förtrollad Källa	Den Förtrollade Källan låter dig rekrytera Silverpegaser.
-Upg. Dendroidglänta	Dendroidgläntan låter dig rekrytera Dendroidsoldater.
-Upg. Enhörningsdunge	Enhörningsdungen låter dig rekrytera Stridsenhörningar.
-Upg. Drakklippa	Drakklippan låter dig rekrytera Gulddrakar.
-Verkstad	Verkstaden låter dig rekrytera Småtomtar.
-Balustrad	Balustraden låter dig rekrytera Stenfilurer.
-Golemfabrik	Golemfabriken låter dig rekrytera Stengolemer.
-Magikertorn	Magikertornet låter dig rekrytera Magiker.
-Önskealtare	Önskealtaret låter dig rekrytera Djinner.
-Guldpaviljong	Guldpaviljongen låter dig rekrytera Naga.
-Molntempel	Molntemplet låter dig rekrytera Jättar.
-Upg. Verkstad	Verkstaden låter dig rekrytera Stortomtar.
-Upg. Balustrad	Balustraden låter dig rekrytera Obsidianfilurer.
-Upg. Golemfabrik	Golemfabriken låter dig rekrytera Järngolemer.
-Upg. Magikertorn	Magikertornet låter dig rekrytera Ärkemagiker.
-Upg. Önskealtare	Önskealtaret låter dig rekrytera Mästardjinner.
-Upg. Guldpaviljong	Guldpaviljongen låter dig rekrytera Nagadrottningar.
-Upg. Molntempel	Molntemplet låter dig rekrytera Titaner.
-Pukdegel	Impdegeln låter dig rekrytera Pukar.
+Vaktpost	Med Vaktposten kan du rekrytera Pikenerare.
+Bågskyttstorn	Med Bågskyttetornet kan du rekrytera Bågskyttar.
+Griptorn	Med Griptornet kan du rekrytera Gripar.
+Barack	Med Baracken kan du rekrytera Fäktare.
+Kloster	Med Klostret kan du rekrytera Munkar.
+Träningsområde	Med Träningsområdet kan du rekrytera Ryttare.
+Pärleport	Med Pärleporten kan du rekrytera Änglar.
+Uppg. Vaktpost	Med Vaktposten kan du rekrytera Hillebardjärer.
+Uppg. Bågskyttstorn	Med Bågskyttetornet kan du rekrytera Prickskyttar.
+Uppg. Griptorn	Med Griptornet kan du rekrytera Kungagripar.
+Uppg. Barack	Med Baracken kan du rekrytera Korsfarare.
+Uppg. Kloster	Med Klostret kan du rekrytera Seloter.
+Uppg. Träningsområde	Med Träningsområdet kan du rekrytera Tornerare.
+Uppg. Pärleport	Med Pärleporten kan du rekrytera Ärkeänglar.
+Kentaurstall	Med Kentaurstallet kan du rekrytera Kentaurer.
+Dvärgstuga	Med Dvärgstugan kan du rekrytera Dvärgar.
+Hemman	Med Hemmanen kan du rekrytera Skogsalver.
+Förtrollad källa	Med den Förtrollade Källan kan du rekrytera Pegaser.
+Dendroidbågar	Med Dendroidbågarna kan du rekrytera Dendroidvakter.
+Enhörningsdunge	Med Enhörningsdungen kan du rekrytera Enhörningar.
+Drakklippa	Med Drakklippan kan du rekrytera Gröndrakar.
+Uppg. Kentaurstall	Med Kentaurstallen kan du rekrytera Kentaurkaptener.
+Uppg. Dvärgstuga	Med Dvärgstugan kan du rekrytera Stridsdvärgar.
+Uppg. Hemman	Med Hemmanen kan du rekrytera Storalver.
+Uppg. Förtrollad Källa	Med den Förtrollade Källan kan du rekrytera Silverpegaser.
+Uppg. Dendroidbågar	Med Dendroidbågarna kan du rekrytera Dendroidsoldater.
+Uppg. Enhörningsdunge	Med Enhörningsdungen kan du rekrytera Stridsenhörningar.
+Uppg. Drakklippa	Med Drakklippan kan du rekrytera Gulddrakar.
+Verkstad	Med Verkstaden kan du rekrytera Småtomtar.
+Balustrad	Med Balustraden kan du rekrytera Stenfilurer.
+Golemfabrik	Med Golemfabriken kan du rekrytera Stengolemer.
+Magikertorn	Med Magikertornet kan du rekrytera Magiker.
+Önskealtare	Med Önskealtaret kan du rekrytera Djinner.
+Guldpaviljong	Med Guldpaviljongen kan du rekrytera Naga.
+Molntempel	Med Molntemplet kan du rekrytera Giganter.
+Uppg. Verkstad	Med Verkstaden kan du rekrytera Stortomtar.
+Uppg. Balustrad	Med Balustraden kan du rekrytera Obsidianfilurer.
+Uppg. Golemfabrik	Med Golemfabriken kan du rekrytera Järngolemer.
+Uppg. Magikertorn	Med Magikertornet kan du rekrytera Ärkemagiker.
+Uppg. Önskealtare	Med Önskealtaret kan du rekrytera Mästardjinner.
+Uppg. Guldpaviljong	Med Guldpaviljongen kan du rekrytera Nagadrottningar.
+Uppg. Molntempel	Med Molntemplet kan du rekrytera Titaner.
+Pukdegel	Med Impdegeln kan du rekrytera Pukar.
 Syndernas Sal	Syndernas Sal låter dig rekrytera Gogar.
-Kennel	Kenneln låter dig rekrytera Helveteshundar.
-Demonport	Demonporten låter dig rekrytera Demoner.
-Helvetesgap	Helvetesgapet låter dig rekrytera Avgrundsbövlar.
-Eldsjö	Eldsjön låter dig rekrytera Ifriter.
-Övergivet Palats	Det Övergivna Palatset låter dig rekrytera Djävlar.
-Upg. Pukdegel	Pukdegeln låter dig rekrytera Bjäror.
-Upg. Syndernas sal	Syndernas Sal låter dig rekrytera Magogar.
-Upg. Kennel	Kenneln låter dig rekrytera Cerberi.
-Upg. Demonport	Demonporten låter dig rekrtytera Behornade Demoner.
-Upg. Helvetesgap	Helvetesgapet låter dig rekrytera Avgrundsmästare.
-Upg. Eldsjö	Eldsjön låter dig rekrytera Ifritsultaner.
-Upg. Övergivet Palats	Det Övergivna Palatset låter dig rekrytera Ärkedjävlar.
-Förbannat Tempel	Det Förbannade Templet låter dig rekrytera Skelett.
-Kyrkogård	Kyrkogården låter dig rekrytera Dödgångare.
-Själsgrav	Själsgraven låter dig rekrytera Gastar.
-Gods	Godset låter dig rekrytera Vampyrer.
-Mausoleum	Mausoleumet låter dig rekrytera Likhäxor.
+Kennel	Med Kenneln kan du rekrytera Helveteshundar.
+Demonport	Med Demonporten kan du rekrytera Demoner.
+Helvetesgap	Med Helvetesgapet kan du rekrytera Avgrundsbövlar.
+Eldsjö	Med Eldsjön kan du rekrytera Ifriter.
+Övergivet Palats	Med det Övergivna Palatset kan du rekrytera Djävlar.
+Uppg. Pukdegel	Med Pukdegeln kan du rekrytera Bjäror.
+Uppg. Syndernas sal	Syndernas Sal låter dig rekrytera Magogar.
+Uppg. Kennel	Med Kenneln kan du rekrytera Cerberi.
+Uppg. Demonport	Med Demonporten kan du rekrtytera Behornade Demoner.
+Uppg. Helvetesgap	Med Helvetesgapet kan du rekrytera Avgrundsmästare.
+Uppg. Eldsjö	Med Eldsjön kan du rekrytera Ifritsultaner.
+Uppg. Övergivet Palats	Med det Övergivna Palatset kan du rekrytera Ärkedjävlar.
+Förbannat Tempel	Med det Förbannade Templet kan du rekrytera Skelett.
+Kyrkogård	Med Kyrkogården kan du rekrytera Dödgångare.
+Själarnas Grav	Själarnas Grav låter dig rekrytera Gastar.
+Gods	Med Godset kan du rekrytera Vampyrer.
+Mausoleum	Med Mausoléet kan du rekrytera Lichar.
 Mörkrets Sal	Mörkrets Sal låter dig rekrytera Svartriddare.
-Darkvalv	Drakvalvet låter dig rekrytera Bendrakar.
-Upg. Förbannat Tempel	Det Förbannade Templet låter dig rekrytera Skelettkrigare.
-Upg. Kyrkogård	Kyrkogården låter dig rekrytera Draugar.
-Upg. Själsgrav	Själsgraven låter dig rekrytera Vålnader.
-Upg. Gods	Godset låter dig rekrytera Vampyrherrar.
-Upg. Mausoleum	Mausoleumet låter dig rekrytera Kraftfulla Likhäxor.
-Upg. Mörkrets sal	Mörkrets Sal låter dig rekrytera Skräckriddare.
-Upg. Drakvalv	Drakvalvet låter dig rekrytera Spökdrakar.
-Grotta	Grottan låter dig rekrytera Troglodyter.
-Fågelbo	Fågelboet låter dig rekrytera Harpyor.
-Ögonpelare	Ögonpelaren låter dig rekrytera Åskådare.
+Darkvalv	Med Drakvalvet kan du rekrytera Bendrakar.
+Uppg. Förbannat Tempel	Med det Förbannade Templet kan du rekrytera Skelettkrigare.
+Uppg. Kyrkogård	Med Kyrkogården kan du rekrytera Draugar.
+Uppg. Själarnas Grav	Med Själsgraven kan du rekrytera Vålnader.
+Uppg. Gods	Med Godset kan du rekrytera Vampyrherrar.
+Uppg. Mausoleum	Med Mausoléet kan du rekrytera Häxmästare.
+Uppg. Mörkrets sal	Mörkrets Sal låter dig rekrytera Skräckriddare.
+Uppg. Drakvalv	Med Drakvalvet kan du rekrytera Spökdrakar.
+Grottstad	Med Grottastaden kan du rekrytera Troglodyter.
+Fågelbo	Med Fågelboet kan du rekrytera Harpyor.
+Ögonpelare	Med Ögonpelaren kan du rekrytera Åskådare.
 Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusor.
-Labyrint	Labyrinten låter dig rekrytera Minotaurer.
-Mantikornäste	Mantikornästet låter dig rekrytera Mantikoror.
-Drakgrotta	Drakgrottan låter dig rekrytera Röddrakar.
-Upg. Grotta	Grottan låter dig rekrytera Infernaliska Troglodyter.
-Upg. Fågelbo	Fågelboet låter dig rekrytera Vildvittror.
-Upg. Ögonpelare	Ögonpelaren låter dig rekrytera Onda Ögon.
-Upg. Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusadrottningar.
-Upg. Labyrint	Labyrinten låter dig rekrytera Minotaurkungar.
-Upg. Manticornäste	Mantikornästet låter dig rekrutera Skorpionsvansmantikoror.
-Upg. Drakgrotta	Drakgrottan låter dig rekrytera Svartdrakar.
-Koboldbarack	Koboldbarackerna låter dig rekrytera Kobolder.
-Varggryt	Varggrytet låter dig rekrytera Vargryttare.
-Orchtorn	Orchtornet låter dig rekrytera Orcher.
-Resefort	Resefortet låter dig rekrytera Resar.
-Klippnäste	Klippnästet låter dig rekrytera Rockar.
-Cyklopgrotta	Cyklopgrottan låter dig rekrytera Cykloper.
-Behemotlya	Behemotlyan låter dig rekrytera Behemoter.
-Upg. Koboldbarack	Koboldbaracken låter dig rekrytera Hobkobolder.
-Upg. Varggryt	Varggrytet låter dig rekrytera Vargplundrare.
-Upg. Orchtorn	Orchtornet låter dig rekrytera Orchöverhuvuden.
-Upg. Resefort	Resefortet låter dig rekrytera Bergsresar.
-Upg. Klippnäste	Klippnästet låter dig rekrytera Åskfåglar.
-Upg. Cyklopgrotta	Cyklopgrottan låter dig rekrytera Cyklopkungar.
-Upg. Behemotlya	Behemotlyan låter dig rekrytera Urtida Behemoter.
-Krokotaurstuga	Krokotaurstugan låter dig rekrytera Krokotaurer.
-Ödlehåla	Ödlehålan låter dig rekrytera Ödlemän.
-Sländebo	Sländeboet låter dig rekrytera Dagssländor.
-Basiliskhåla	Basiliskhålan låter dig rekrytera Basilisker.
-Gorgonlya	Gorgonlyan låter dig rekrytera Gorgoner.
-Lindormsnäste	Lindormsnästet låter dig rekrytera Lindormar.
-Hydrans damm	Hydrans damm låter dig rekrytera Hydror.
-Upg. Krokotaurstuga	Krokotaurstugan låter dig rekrytera Krokotaurmarodörer.
-Upg. Ödlehåla	Ödlehålan låter dig rekrytera Ödlekrigare.
-Upg. Sländebo	Sländeboet låter dig rekrytera Trollsländor.
-Upg. Basiliskhåla	Basiliskhålan låter dig rekrytera Bättre Basilisker.
-Upg. Gorgonlya	Gorgonlyan låter dig rekrytera Mäktiga Gorgoner.
-Upg. Lindormsnäste	Lindormsnästet låter dig rekrytera Lindormsmonarker.
-Upg. Hydrans damm	Hydrans Damm låter dig rekrytera Kaoshydror.
-Magisk Lykta	Den Magiska Lyktan låter dig rekrytera Älvor.
-Luftaltare	Luftaltaret låter dig rekrytera Luftelementärer.
-Vattenaltare	Vattenaltaret låter dig rekrytera Vattenelementärer.
-Eldaltare	Eldaltaret låter dig rekrytera Eldelementärer.
-Jordaltare	Jordaltaret låter dig rekrytera Jordelementärer.
-Tankealtare	Tankealtaret låter dig rekrytera Övernaturliga Elementärer.
-Bål	Bålet låter dig rekrutera Eldfåglar.
-Upg. Magisk Lykta	Den Magiska lyktan låter dig rekrytera Diser.
-Upg. Luftaltare	Åsktemplet låter dig rekrytera Stormelementärer.
-Upg. Vattenaltare	Istemplet låter dig rekrytera Iselementärer.
-Upg. Eldaltare	Energitemplet låter dig rekrytera Energielementärer.
-Upg. Jordaltare	Magmatemplet låter dig rekrytera Magmaelementärer.
-Upg. Tankealtare	Magitemplet låter dig rekrytera Magielementärer.
-Upg. Bål	Begravningsbålet låter dig rekrytera Fenixar.
+Labyrint	Med Labyrinten kan du rekrytera Minotaurer.
+Mantikornäste	Med Mantikornästet kan du rekrytera Mantikoror.
+Drakgrotta	Med Drakgrottan kan du rekrytera Röddrakar.
+Uppg. Grottstaa	Med Grottastadenn kan du rekrytera Infernaliska Troglodyter.
+Uppg. Fågelbo	Med Fågelboet kan du rekrytera Vildvittror.
+Uppg. Ögonpelare	Med Ögonpelaren kan du rekrytera Onda Ögon.
+Uppg. Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusadrottningar.
+Uppg. Labyrint	Med Labyrinten kan du rekrytera Minotaurkungar.
+Uppg. Manticornäste	Med Mantikornästet kan du rekrutera Skorpikoror.
+Uppg. Drakgrotta	Med Drakgrottan kan du rekrytera Svartdrakar.
+Koboldbarack	Med Koboldbarackerna kan du rekrytera Kobolder.
+Vargfålla	Med Vargfållan kan du rekrytera Vargryttare.
+Orchtorn	Med Orchtornet kan du rekrytera Orcher.
+Resecentrum	Med Resecentret kan du rekrytera Resar.
+Klippnäste	Med Klippnästet kan du rekrytera Rockar.
+Cyklopgrotta	Med Cyklopgrottan kan du rekrytera Cykloper.
+Behemotklippa	Med Behemotklippann kan du rekrytera Behemoter.
+Uppg. Koboldbarack	Med Koboldbaracken kan du rekrytera Hobkobolder.
+Uppg. Vargfålla	Med Vargfållan kan du rekrytera Vargplundrare.
+Uppg. Orchtorn	Med Orchtornet kan du rekrytera Orchöverhuvuden.
+Uppg. Resecentrum	Med Resecentret kan du rekrytera Bergsresar.
+Uppg. Klippnäste	Med Klippnästet kan du rekrytera Åskfåglar.
+Uppg. Cyklopgrotta	Med Cyklopgrottan kan du rekrytera Cyklopkungar.
+Uppg. Behemotklippa	Med Behemotklippan kan du rekrytera Urtida Behemoter.
+Krokutaurstuga	Med Krokutaurstugan kan du rekrytera Krokotaurer.
+Ödlehåla	Med Ödlehålan kan du rekrytera Ödlemän.
+Sländebo	Med Sländeboet kan du rekrytera Sländor.
+Basiliskgrop	Med Basiliskgropen kan du rekrytera Basilisker.
+Gorgonlya	Med Gorgonlyan kan du rekrytera Gorgoner.
+Lindormsnäste	Med Lindormsnästet kan du rekrytera Lindormar.
+Hydredamm	Med Hydredammen kan du rekrytera Hydror.
+Uppg. Krokutaurstuga	Med Krokutaurstugan kan du rekrytera Krokotaurmarodörer.
+Uppg. Ödlehåla	Med Ödlehålan kan du rekrytera Ödlekrigare.
+Uppg. Sländebo	Med Sländeboet kan du rekrytera Trollsländor.
+Uppg. Basiliskgrop	Med Basiliskgropen kan du rekrytera Bättre Basilisker.
+Uppg. Gorgonlya	Med Gorgonlyan kan du rekrytera Mäktiga Gorgoner.
+Uppg. Lindormsnäste	Med Lindormsnästet kan du rekrytera Lindormsmonarker.
+Uppg. Hydredamm	Med Hydredammen kan du rekrytera Kaoshydror.
+Magisk Lykta	Med den Magiska Lyktan kan du rekrytera Älvor.
+Luftaltare	Med Luftaltaret kan du rekrytera Luftelementärer.
+Vattenaltare	Med Vattenaltaret kan du rekrytera Vattenelementärer.
+Eldsaltare	Med Eldsaltaret kan du rekrytera Eldelementärer.
+Jordaltare	Med Jordaltaret kan du rekrytera Jordelementärer.
+Tankealtare	Med Tankealtaret kan du rekrytera Övernaturliga Elementärer.
+Bål	Med Bålet kan du rekrutera Eldfåglar.
+Uppg. Magisk Lykta	Med den Magiska lyktan kan du rekrytera Diser.
+Uppg. Luftaltare	Med Åsktemplet kan du rekrytera Stormelementärer.
+Uppg. Vattenaltare	Med Istemplet kan du rekrytera Iselementärer.
+Uppg. Eldsaltare	Med Energitemplet kan du rekrytera Energielementärer.
+Uppg. Jordaltare	Med Magmatemplet kan du rekrytera Magmaelementärer.
+Uppg. Tankealtare	Med Magitemplet kan du rekrytera Magielementärer.
+Uppg. Bål	Med Begravningsbålet kan du rekrytera Fenixar.
 Level 1 Creature Generator	Allows you to recruit Level 1 Creatures.
 Level 2 Creature Generator	Allows you to recruit Level 2 Creatures.
 Level 3 Creature Generator	Allows you to recruit Level 3 Creatures.

@@ -24,35 +24,35 @@ Chansen att lyckas är 75%.
 "	 ADV_SPELL
 Sänk Båt	Sänk Båt	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Sänk Båt}
 
-Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
+Sänker en båt i din ägo.  Använd med försiktighet då förändringen är permanent.
 
 Chansen att lyckas är 50%.
 "	"{Grundläggande Sänk Båt}
 
-Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
+Sänker en båt i din ägo.  Använd med försiktighet då förändringen är permanent.
 
 Chansen att lyckas är 50%.
 "	"{Avancerad Sänk Båt}
 
-Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
+Sänker en båt i din ägo.  Använd med försiktighet då förändringen är permanent.
 
 Chansen att lyckas är 75%.
 "	"{Mästerlig Sänk Båt}
 
-Sänker en båt i din ägo.  Använd med försiktighet, förändringen är permanent.
+Sänker en båt i din ägo.  Använd med försiktighet då förändringen är permanent.
 "	 ADV_SPELL
 Visioner	Visioner	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visioner}
 
 Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison.
 "	"{Grundläggande Visioner}
 
-Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison. Finns det närbelägna kringvandrande monster får du reda på exakt antal trupper och om de är villiga att gå med din hjälte.
+Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison.  Finns det närbelägna kringvandrande monster får du reda på exakt antal trupper och om de är villiga att gå med din hjälte.
 "	"{Avancerad Visioner}
 
-Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison. Finns det närbelägna kringvandrande monster får du reda på exakt antal trupper och om de är villiga att gå med din hjälte. Låter dig även avläsa en närliggande hjältes primärförmågor, varelsetyp och antal trupper, precis som om hjälten vore en del av ditt kungadöme.
+Ger dig en föraning om styrkan på en motståndararme, hjälte eller garnison.  Finns det närbelägna kringvandrande monster får du reda på exakt antal trupper och om de är villiga att gå med din hjälte. Låter dig även avläsa en närliggande hjältes primärförmågor, varelsetyp och antal trupper, precis som om hjälten vore en del av ditt kungadöme.
 "	"{Mästerlig Visioner}
 
-Ger dig exakta siffror på kringvandrande monster och om de är villiga att gå med din hjälte. Låter dig även avläsa en närliggande hjältes primärförmågor, varelsetyp och antal trupper, precis som om hjälten vore en del av ditt kungadöme, liksom en närliggande stads statistik, garninsons varelser och kvantitet.
+Ger dig exakta siffror på kringvandrande monster och om de är villiga att gå med din hjälte.  Låter dig även avläsa en närliggande hjältes primärförmågor, varelsetyp och antal trupper, precis som om hjälten vore en del av ditt kungadöme. Du kan även läsa av en närliggande stads statistik, garninsons varelser och kvantitet.
 "	 ADV_SPELL
 Beskåda Jorden	Beskåda Jorden	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Jorden}
 
@@ -65,7 +65,7 @@ Avslöjar alla resursplatser för kastaren.
 Avslöjar alla resurs- och gruvplatser för kastaren.
 "	"{Mästerlig Beskåda Jorden}
 
-Avslöjar alla resurs- och gruvplatser, samt visar hela terrängkartan för kastaren.
+Avslöjar alla resurs- och gruvplatser samt avtäcker hela terrängkartan för kastaren.
 "	 ADV_SPELL
 Förklä	Förklä	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Förklä}
 
@@ -82,39 +82,39 @@ Gör så att alla enheter i din armé ser ut som den starkaste enheten förknipp
 "	 ADV_SPELL
 Beskåda Luften	Beskåda	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Beskåda Luften}
 
-Avslöjar platserna för alla tillgängliga artifakter för kastaren.
+Avslöjar alla tillgängliga artifakters platser för kastaren.
 "	"{Grundläggande Beskåda Luften}
 
-Avslöjar platserna för alla tillgängliga artifakter för kastaren.
+Avslöjar alla tillgängliga artifakters platser för kastaren.
 "	"{Avancerad Beskåda Luften}
 
-Avslöjar platserna för alla tillgängliga artifakter, plus fiendens hjältar, för kastaren.
+Avslöjar alla tillgängliga artifakter och fiendehjältars platser för kastaren.
 "	"{Mästerlig Beskåda Luften}
 
-Avslöjar platserna för alla tillgängliga artifakter, plus fiendens hjältar och städer, för kastaren.
+Avslöjar alla tillgängliga artifakters, fiendehjältars, och fiendestäders platser för kastaren.
 "	 ADV_SPELL
 Flyg	Flyg	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Flyg}
 
-Låter din armé använda delar av sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+Låter din armé använda delar av sin förflyttning till att flyga över hinder.  Du måste landa vid slutet av rundan.
 "	"{Grundläggande Flyg}
 
-Låter din armé använda delar av sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+Låter din armé använda delar av sin förflyttning till att flyga över hinder.  Du måste landa vid slutet av rundan.
 "	"{Avancerad Flyg}
 
-Låter din armé använda merparten av sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+Låter din armé använda merparten av sin förflyttning till att flyga över hinder.  Du måste landa vid slutet av rundan.
 "	"{Mästerlig Flyg}
 
-Låter din armé använda hela sin förflyttning till att flyga över hinder. Du måste landa vid slutet av rundan.
+Låter din armé använda hela sin förflyttning till att flyga över hinder.  Du måste landa vid slutet av rundan.
 "	 ADV_SPELL
 Vattenpromenad	Vattenpromenad	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Vattenpromenad}
 
-Låter din armé använda delar av sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
+Låter din armé använda delar av sin förflyttning till att korsa vattendrag. Du måste avsluta din färd på torra land.
 "	"{Grundläggande Vattenpromenad}
 
-Låter din armé använda delar av sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
+Låter din armé använda delar av sin förflyttning till att korsa vattendrag. Du måste avsluta din färd på torra land.
 "	"{Avancerad Vattenpromenad}
 
-Låter din armé använda merparten av sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.
+Låter din armé använda merparten av sin förflyttning till att korsa vattendrag. Du måste avsluta färd förflyttning på torra land.
 "	"{Mästerlig Vattenpromenad}
 
 Låter din armé använda hela sin förflyttning till att korsa vattendrag. Du måste avsluta din förflyttning på torra land.

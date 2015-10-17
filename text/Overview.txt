@@ -10,7 +10,7 @@ Se hjältarna som för närvarande är under ditt befäl."
 "{Granska Städer}
 
 Se städerna som du kontrollerar."
-"{Burna}
+"{Rustade}
 
 Visar artefakterna som din hjälte bär."
 "{Diverse}
@@ -21,6 +21,6 @@ Visar föremålen som påverkar, men ej behöver vara del av din hjältes utrust
 Visar föremål som för närvarande är i hjältens ryggsäck."
 Granska Hjältar
 Granska Städer
-Granska Burna Artefakter
+Granska Rustningsrtefakter
 Granska Diverse Föremål
 Granska Hjältes Ryggsäck

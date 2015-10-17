@@ -4,7 +4,7 @@ Orren	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Valeska	4	7	LightCrossbowman	4	7	LightCrossbowman	4	7	LightCrossbowman
 Erik	10	20	Pikeman	2	3	Griffin	2	3	Griffin
 Silvia	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
-Härskare Haart	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Lord Hård	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Sorsha	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Kristian	10	20	Pikeman	1	1	Ballista	2	3	Griffin
 Tyris	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
@@ -14,7 +14,7 @@ Kurt-Bert	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Adelaide	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Ingham	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Sonja	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
-Loynis	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+Lojnis	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Katrin	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
 Mefala	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
 Ufretin	3	5	Dwarf	3	5	Dwarf	3	5	Dwarf
@@ -28,14 +28,14 @@ Coronius	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
 U-land	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
 Elleshar	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
 Gem	12	24	Centaur	1	1	FirstAidTent	3	6	WoodElf
-Malcom	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+Malkom	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
 Melodia	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
 Alagar	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
 Iris	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
 Piquedram	3	5	StoneGargoyle	3	5	StoneGargoyle	3	5	StoneGargoyle
 Thane	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
 Josefin	30	40	ApprenticeGremlin	2	2	IronGolem	2	3	IronGolem
-Neela	30	40	ApprenticeGremlin	4	4	StoneGargoyle	2	3	IronGolem
+Nilla	30	40	ApprenticeGremlin	4	4	StoneGargoyle	2	3	IronGolem
 Torosar 	30	40	ApprenticeGremlin	1	1	Ballista	2	3	IronGolem
 Fafner	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
 Rissa	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
@@ -47,7 +47,7 @@ Daremyth	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
 Theodorus	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
 Solmyr	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
 Syra	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
-Aine	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+Ajne	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
 Fiona	15	25	Imp	3	4	HellHound	3	4	HellHound
 Rashka	15	25	Imp	4	7	Gog	3	4	HellHound
 Marius	15	25	Imp	4	7	Gog	3	4	HellHound
@@ -150,7 +150,7 @@ Katarina	10	20	Pikeman	4	7	Archer	2	3	Griffin
 Drakon	6	6	Enchanters	3	3	Enchanters	1	1	Enchanters
 Gelu	6	6	Sharpshooters	3	3	Sharpshooters	1	1	Sharpshooters
 Kilgor	15	25	Goblins	5	7	Goblin Wolf Rider	4	6	Orc
-Härskare Haart	20	30	Skeleton	4	6	Zombie	4	6	Wight
+Lord Hård	20	30	Skeleton	4	6	Zombie	4	6	Wight
 Mutare	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
 Yamaha	10	20	Pikeman	4	7	Archer	2	3	Griffin
 Mutare Drake	10	20	Pikeman	4	7	Archer	2	3	Griffin

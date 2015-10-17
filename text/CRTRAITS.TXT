@@ -42,9 +42,9 @@ Obsidianfilur	Obsidianfilurer	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25
 Stengolem	Stengolemer	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Skada från Trollformler reduceras 50%.	0
 Järngolem	Järngolemer	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Skada från Trollformler reduceras 75%.	0
 Magiker	Magiker	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	"Inget närstridsavdrag.
-Hero spells cost less."	SHOOTING_ARMY | const_no_melee_penalty
+Hjältens trollformler kostar mindre."	SHOOTING_ARMY | const_no_melee_penalty
 Ärkemagiker	Ärkemagiker	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	"Inget närstridsavdrag.
-Hero spells cost less."	SHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty
+Hjältens trollformler kostar mindre."	SHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty
 Djinn	Djinner	0	0	0	0	0	0	550	680	884	3	0	40	7	12	12	13	16	0	0	8	16	Hatar Ifriter.	FLYING_ARMY
 Mästardjinn	Mästardjinner	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	"Trollformelkastare: Slumpvald fördelaktig.
 Hatar Ifriter."	FLYING_ARMY
@@ -86,7 +86,7 @@ Vampyr	Vampyrer	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	"Odöd.
 Inget fiendeåterslag."	FLYING_ARMY | IS_UNDEAD
 Vampyrherre	Vampyrherrar	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	"Odöd.  Dränerar fiendeliv.
 Inget fiendeåterslag."	FLYING_ARMY | IS_UNDEAD
-Likmästare	Likmästare	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Odöd.  Dödsmolnsattack.	SHOOTING_ARMY | IS_UNDEAD
+Lich	Lichar	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Odöd.  Dödsmolnsattack.	SHOOTING_ARMY | IS_UNDEAD
 Häxmästare	Häxmästare	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Odöd.  Dödsmolnsattack.	SHOOTING_ARMY | IS_UNDEAD
 Svartriddare	Svartriddare	0	0	0	0	0	0	1200	1753	2087	2	0	120	7	16	16	15	30	0	0	5	12	Odöd.  Förbannar fiender.	DOUBLE_WIDE | IS_UNDEAD
 Skräckriddare	Skräckriddare	0	0	0	0	0	0	1500	2029	2382	2	0	120	9	18	18	15	30	0	0	5	10	"Odöd.  Förbannar fiender.  
@@ -110,7 +110,7 @@ Förstenande blick."	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
 Minotaur	Minotaurer	0	0	0	0	0	0	500	835	835	3	0	50	6	14	12	12	20	0	0	8	16	Bra moral.	0
 Minotaurkung	Minotaurkungar	0	0	0	0	0	0	575	890	1068	3	0	50	8	15	15	12	20	0	0	8	12	Bra moral.	0
 Mantikora	Mantikoror	0	0	0	0	0	0	850	1215	1547	2	0	80	7	15	13	14	20	0	0	5	12		DOUBLE_WIDE | FLYING_ARMY
-Skorpionsvansmantikora	Skorpionsvansmantikoror	0	0	0	0	0	0	1050	1248	1589	2	0	80	11	16	14	14	20	0	0	5	10	Paralyserande gift.	DOUBLE_WIDE | FLYING_ARMY
+Skorpikora	Skorpikoror	0	0	0	0	0	0	1050	1248	1589	2	0	80	11	16	14	14	20	0	0	5	10	Paralyserande gift.	DOUBLE_WIDE | FLYING_ARMY
 Röddrake	Röddrakar	0	0	0	1	0	0	2500	3762	4702	1	0	180	11	19	19	40	50	0	0	4	10	Immun mot trollformler nivå 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 Svartdrake	Svartdrakar	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	0	0	3	8	Immun mot alla trollformler.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 																								
@@ -138,7 +138,7 @@ Krokutaurmarodör	Krokutaurmarodörer	0	0	0	0	0	0	70	90	90	12	6	6	5	4	6	2	3	0	0	
 Ödleman	Ödlemän	0	0	0	0	0	0	110	115	126	9	0	14	4	5	6	2	3	12	0	16	30		SHOOTING_ARMY
 Ödlekrigare	Ödlekrigare	0	0	0	0	0	0	140	130	156	9	0	15	5	6	8	2	5	24	0	16	25		SHOOTING_ARMY
 Gorgon	Gorgoner	0	0	0	0	0	0	525	890	890	3	0	70	5	10	14	12	16	0	0	12	25		DOUBLE_WIDE
-Mäktig Gorgon	Mäktiga Gorgoner	0	0	0	0	0	0	600	1028	1028	3	0	70	6	11	16	12	16	0	0	12	20	Dödande blick.	DOUBLE_WIDE
+Mäktig Gorgon	Mäktiga Gorgoner	0	0	0	0	0	0	600	1028	1028	3	0	70	6	11	16	12	16	0	0	12	20	Mördande blick.	DOUBLE_WIDE
 Dagsslända	Dagssländor	0	0	0	0	0	0	220	215	268	8	0	20	9	7	9	2	5	0	0	10	20	Bryter fördelaktiga trollformler.	FLYING_ARMY
 Trollslända	Trollsländor	0	0	0	0	0	0	240	250	312	8	0	20	13	8	10	2	5	0	0	10	16	Bryter fördelaktiga trollformler.  Försvagar fiender.	FLYING_ARMY
 Basilisk	Basilisker	0	0	0	0	0	0	325	506	552	4	0	35	5	11	11	6	10	0	0	8	16	Förstenande anfall.	DOUBLE_WIDE
@@ -184,7 +184,7 @@ Fedrake	Fedrakar	0	0	0	0	0	8	10000	16317	19580	1	0	500	15	20	20	20	30	0	5	1	3	Of
 Rostdrake	Rostdrakar	0	0	0	14	0	0	15000	24030	26433	1	0	750	17	30	30	50	50	0	0	1	3	Spottar syra.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 Förtrollare	Förtrollare	0	0	0	0	0	0	750	805	1210	2	0	30	9	17	12	14	14	32	0	5	12	"Inget närstridsavdrag.
 Grupptrollformelskastare."	SHOOTING_ARMY | const_no_melee_penalty
-Skarpskjutare	Skarpskjyttar	0	0	0	0	0	0	400	415	585	4	0	15	9	12	10	8	10	32	0	5	12	Inga avstånds- eller hinderförsämringar.	SHOOTING_ARMY
+Skarpskytt	Skarpskyttar	0	0	0	0	0	0	400	415	585	4	0	15	9	12	10	8	10	32	0	5	12	Inga avstånds- eller hinderförsämringar.	SHOOTING_ARMY
 Halvling	Halvlingar	0	0	0	0	0	0	40	60	75	15	0	4	5	4	2	1	3	24	0	20	50	Positiv tur.	SHOOTING_ARMY
 Bonde	Bönder	0	0	0	0	0	0	10	15	15	25	0	1	3	1	1	1	1	0	0	20	50		
 Vildsvin	Vildsvin	0	0	0	0	0	0	150	145	145	8	0	15	6	6	5	2	3	0	0	16	30		
@@ -199,4 +199,4 @@ Katapult	Katapulter	0	0	0	0	0	0	1	10	500	0	0	1000	0	10	10	0	0	24	0	0	0	Anfaller 
 Ballista	Ballistor	0	0	0	0	0	0	2500	650	600	0	0	250	0	10	10	2	3	24	0	0	0		DOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON
 Första Hjälpen-Tält	Första Hjälpen-Tält	0	0	0	0	0	0	750	10	300	0	0	75	0	0	0	0	0	0	0	0	0	Helar trupper.	DOUBLE_WIDE | SIEGE_WEAPON
 Ammunitionskärra	Ammunitionskärror	0	0	0	0	0	0	1000	5	400	0	0	100	0	0	5	0	0	0	0	0	0	Obegränsad ammunition.	SIEGE_WEAPON
-Piltorn	Piltorn	0	0	0	0	0	0	1000	5	400	0	0	100	0	10	5	2	4	99	0	0	0	Unlimited ammunition.	SIEGE_WEAPON
+Piltorn	Piltorn	0	0	0	0	0	0	1000	5	400	0	0	100	0	10	5	2	4	99	0	0	0	Obegränsad ammunition.	SIEGE_WEAPON

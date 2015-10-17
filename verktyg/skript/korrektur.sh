@@ -7,14 +7,20 @@ sedcmd=sed
 # use gsed if available (OS X)
 which gsed > /dev/null && sedcmd=gsed
 
-svdir=../../text/
-[ $1 ] && svdir=$1
-endir=../../text/original/
-[ $2 ] && endir=$2
 
-for f in $svdir*.txt $svdir*.TXT
+grepstring="."
+[ $1 ] && grepstring=$1
+svdir=../../text/
+[ $2 ] && svdir=$2
+endir=../../text/original/
+[ $3 ] && endir=$3
+
+corrfiles=$(grep -l $grepstring $endir*.txt $endir*.TXT)
+
+for f in $corrfiles
 do
   fname=$($sedcmd -e 's&.*\/&&g' <<< $f)
+  [ -e $svdir$fname ] || continue
   echo "$fname? (y/n/b)"
   read -n 1 check
   [ $check != "y" ] || {

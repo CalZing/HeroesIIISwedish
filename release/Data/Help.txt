@@ -7,7 +7,7 @@ Starta ett nytt spel."
 	"{Ladda Spel}
 
 Ladda ett sparat spel."																						
-	"{Höga Poäng}
+	"{Topplista}
 
 Se de legendariska Makten och Magins Hjältar."																						
 	"{Medverkandelista}
@@ -40,24 +40,24 @@ SCENARIO_BACKGROUND 	Välj ett scenario
 ADVANCED_BACKGROUND 	Sätt avancerade alternativ																						
 Bakgrund för slumpkartmeny	Anpassa och skapa en slumpgenererad karta																						
 SCENARIO_NAME 	Scenarionamn																						
-Förklaringsrubrik	Visar svenariogenomgång																						
+Förklaringsrubrik	Visar scenariogenomgång																						
 Förklaringstext	Visar scenariogenomgång																						
 EASY 	"{Lätt Svårighetsgrad}
 
 Spelaren startar med ett stort övertag i resurser, och datorn presterar dåligt."																						
 NORMAL 	"{Normal Svårighetsgrad}
 
-Spelaren startar med ett hyfsat övertag i resurser, och datorn presterar relativt väl."																						
+Spelaren startar med ett måttligt övertag i resurser, och datorn presterar relativt väl."																						
 HARD 	"{Svår Svårighetsgrad}
 
 Spelaren och datorn startar med samma resurser, och datorn spelar efter sin bästa förmåga."																						
-EXPERT 	"{Professionell Svårighetsgrad}
+EXPERT 	"{Mästerlig Svårighetsgrad}
 
 Spelaren startar med ett underläge i resurser, och datorn spelar efter sin bästa förmåga."																						
 IMPOSSIBLE 	"{Omöjlig Svårighetsgrad}
 
 Spelaren startar utan resurser, och datorn spelar efter sin bästa förmåga."																						
-ALLY_FLAG1 	Det här är din färg																						
+ALLY_FLAG1 	Detta är din färg																						
 ALLY_FLAG2 	Den här färgen är din allierade																						
 ALLY_FLAG3 	Den här färgen är din allierade																						
 ALLY_FLAG4 	Den här färgen är din allierade
@@ -78,10 +78,10 @@ ADVANCED_OPTIONS 	Visa/dölj avancerade alternativ
 slumpkarteknapp	Spela en slumpgenererad karta
 CHAT_DESC 	Växla mellan Scenarioförklaring och Chattfönster
 MAP_DIFFICULTY 	Dessa låter dig modifiera den övergripande Svårighetsgraden på scenariot
-RATING 	Visar övergripande Svårighetsgrad baserat på Karta och Spelarsvårighetsgradinställningar
-MAP_SIZE 	"Kartans Svårighetsgrad kan vara Lätt, Normal, Svår, Professionell eller omöjlig"
-VICTORY_CONDITION 	Segerförutsättningar för nuvarande scenario
-LOSS_CONDITION 	Förlusförutsättningar för nuvarande scenario
+RATING 	Visar övergripande svårighetsgrad baserat på Karta och Spelarsvårighetsgradinställningar
+MAP_SIZE 	"Kartans svårighetsgrad kan vara Lätt, Normal, Svår, Mästerlig eller omöjlig"
+VICTORY_CONDITION 	Segervillkor för nuvarande scenario
+LOSS_CONDITION 	Förlustvillkor för nuvarande scenario
 SMALL_FILTER 	Visa alla små kartor
 MEDIUM_FILTER 	Visa alla mellanstora kartor
 LARGE_FILTER 	Visa alla stora kartor
@@ -123,7 +123,7 @@ ENTRY_SCENARIO_NAME_15 	ENTRY_SCENARIO_NAME_15
 ENTRY_SCENARIO_NAME_16 	ENTRY_SCENARIO_NAME_16 
 ENTRY_SCENARIO_NAME_17 	ENTRY_SCENARIO_NAME_17 
 ENTRY_SCENARIO_NAME_18 	ENTRY_SCENARIO_NAME_18 
-TURN_DURATION 	Dragens Varaktighet
+TURN_DURATION 	Dragtid
 CHAT_TEXT 	Chattmeddelanden						
 CHAT_ENTRY 	CHAT_ENTRY 						
 CHAT_PLUG 	CHAT_PLUG 						
@@ -134,15 +134,15 @@ NEXT 	Spara det nuvarande valda spelet
 BEGIN 	Starta det valda scenariot						
 BACK 	BACK 						
 SSEXIT 	"Stäng detta fönster
-(ingen handling gjord)"						
+(ingen handling utförs)"						
 WHICHMAP 	"Nuvarande Kartstorlek
 (Liten, Mellan, Stor, Extra Stor)"						
 SORT_NUMBER 	Sorterar kartor efter antal spelare						
 SORT_SIZE 	Sorterar kartor efter kartstorlek						
 k_sort_version	Sorterar kartor efter kartversion						
 SORT_ALPHA 	Sorterar kartor alfabetiskt efter namn						
-SORT_VICTORY 	Sorterar kartor efter segerförutsättningar						
-SORT_LOSS 	Sorterar kartor efter förlustförutsättningar
+SORT_VICTORY 	Sorterar kartor efter segervillkor						
+SORT_LOSS 	Sorterar kartor efter förlustvillkor
 BRIEFING 	BRIEFING 
 SSHERO 	SSHERO 
 GOLDPIC 	GOLDPIC 
@@ -154,62 +154,62 @@ HUMAN_CPU5 	Människa eller Dator betyder att denna färg kan spelas av en människ
 HUMAN_CPU6 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
 HUMAN_CPU7 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
 HUMAN_CPU8 	Människa eller Dator betyder att denna färg kan spelas av en människa eller av datorn.  Dator endast betyder att endast datorn kan kontrollera denna färg.
-HANDICAP1 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
-HANDICAP2 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
-HANDICAP3 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
-HANDICAP4 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
-HANDICAP5 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
-HANDICAP6 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
-HANDICAP7 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
-HANDICAP8 	Låter dig ge denna spelare ett handicap genom att minska dennes startresurser
-TOWN_LEFT1 	Låter dig välja en typ på din startstad
-TOWN_LEFT2 	Låter dig välja en typ på din startstad
-TOWN_LEFT3 	Låter dig välja en typ på din startstad
-TOWN_LEFT4 	Låter dig välja en typ på din startstad
-TOWN_LEFT5 	Låter dig välja en typ på din startstad
-TOWN_LEFT6 	Låter dig välja en typ på din startstad
-TOWN_LEFT7 	Låter dig välja en typ på din startstad
-TOWN_LEFT8 	Låter dig välja en typ på din startstad
-TOWN_RITE1 	Låter dig välja en typ på din startstad
-TOWN_RITE2 	Låter dig välja en typ på din startstad
-TOWN_RITE3 	Låter dig välja en typ på din startstad
-TOWN_RITE4 	Låter dig välja en typ på din startstad
-TOWN_RITE5 	Låter dig välja en typ på din startstad
-TOWN_RITE6 	Låter dig välja en typ på din startstad
-TOWN_RITE7 	Låter dig välja en typ på din startstad
-TOWN_RITE8 	Låter dig välja en typ på din startstad
-HERO_LEFT1 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_LEFT2 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_LEFT3 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_LEFT4 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_LEFT5 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_LEFT6 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_LEFT7 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_LEFT8 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_RITE1 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_RITE2 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_RITE3 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_RITE4 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_RITE5 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_RITE6 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_RITE7 	Låter dig välja en starthjälte baserat på din stadstyp
-HERO_RITE8 	Låter dig välja en starthjälte baserat på din stadstyp
-RES_LEFT1 	Låter dig välja en startbonus för din hjälte
-RES_LEFT2 	Låter dig välja en startbonus för din hjälte
-RES_LEFT3 	Låter dig välja en startbonus för din hjälte
-RES_LEFT4 	Låter dig välja en startbonus för din hjälte
-RES_LEFT5 	Låter dig välja en startbonus för din hjälte
-RES_LEFT6 	Låter dig välja en startbonus för din hjälte
-RES_LEFT7 	Låter dig välja en startbonus för din hjälte
-RES_LEFT8 	Låter dig välja en startbonus för din hjälte
-RES_RITE1 	Låter dig välja en startbonus för din hjälte
-RES_RITE2 	Låter dig välja en startbonus för din hjälte
-RES_RITE3 	Låter dig välja en startbonus för din hjälte
-RES_RITE4 	Låter dig välja en startbonus för din hjälte
-RES_RITE5 	Låter dig välja en startbonus för din hjälte
-RES_RITE6 	Låter dig välja en startbonus för din hjälte
-RES_RITE7 	Låter dig välja en startbonus för din hjälte
-RES_RITE8 	Låter dig välja en startbonus för din hjälte
+HANDICAP1 	Låter dig ge denna spelare ett handikapp genom att minska dennes startresurser
+HANDICAP2 	Låter dig ge denna spelare ett handikapp genom att minska dennes startresurser
+HANDICAP3 	Låter dig ge denna spelare ett handikapp genom att minska dennes startresurser
+HANDICAP4 	Låter dig ge denna spelare ett handikapp genom att minska dennes startresurser
+HANDICAP5 	Låter dig ge denna spelare ett handikapp genom att minska dennes startresurser
+HANDICAP6 	Låter dig ge denna spelare ett handikapp genom att minska dennes startresurser
+HANDICAP7 	Låter dig ge denna spelare ett handikapp genom att minska dennes startresurser
+HANDICAP8 	Låter dig ge denna spelare ett handikapp genom att minska dennes startresurser
+TOWN_LEFT1 	Låter dig välja typ på din startstad
+TOWN_LEFT2 	Låter dig välja typ på din startstad
+TOWN_LEFT3 	Låter dig välja typ på din startstad
+TOWN_LEFT4 	Låter dig välja typ på din startstad
+TOWN_LEFT5 	Låter dig välja typ på din startstad
+TOWN_LEFT6 	Låter dig välja typ på din startstad
+TOWN_LEFT7 	Låter dig välja typ på din startstad
+TOWN_LEFT8 	Låter dig välja typ på din startstad
+TOWN_RITE1 	Låter dig välja typ på din startstad
+TOWN_RITE2 	Låter dig välja typ på din startstad
+TOWN_RITE3 	Låter dig välja typ på din startstad
+TOWN_RITE4 	Låter dig välja typ på din startstad
+TOWN_RITE5 	Låter dig välja typ på din startstad
+TOWN_RITE6 	Låter dig välja typ på din startstad
+TOWN_RITE7 	Låter dig välja typ på din startstad
+TOWN_RITE8 	Låter dig välja typ på din startstad
+HERO_LEFT1 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_LEFT2 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_LEFT3 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_LEFT4 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_LEFT5 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_LEFT6 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_LEFT7 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_LEFT8 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_RITE1 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_RITE2 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_RITE3 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_RITE4 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_RITE5 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_RITE6 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_RITE7 	Låter dig välja starthjälte baserat på din stadstyp
+HERO_RITE8 	Låter dig välja starthjälte baserat på din stadstyp
+RES_LEFT1 	Låter dig välja startbonus för din hjälte
+RES_LEFT2 	Låter dig välja startbonus för din hjälte
+RES_LEFT3 	Låter dig välja startbonus för din hjälte
+RES_LEFT4 	Låter dig välja startbonus för din hjälte
+RES_LEFT5 	Låter dig välja startbonus för din hjälte
+RES_LEFT6 	Låter dig välja startbonus för din hjälte
+RES_LEFT7 	Låter dig välja startbonus för din hjälte
+RES_LEFT8 	Låter dig välja startbonus för din hjälte
+RES_RITE1 	Låter dig välja startbonus för din hjälte
+RES_RITE2 	Låter dig välja startbonus för din hjälte
+RES_RITE3 	Låter dig välja startbonus för din hjälte
+RES_RITE4 	Låter dig välja startbonus för din hjälte
+RES_RITE5 	Låter dig välja startbonus för din hjälte
+RES_RITE6 	Låter dig välja startbonus för din hjälte
+RES_RITE7 	Låter dig välja startbonus för din hjälte
+RES_RITE8 	Låter dig välja startbonus för din hjälte
 HERO_SETTING_1 	Klicka här för att spela denna färg
 HERO_SETTING_2 	Klicka här för att spela denna färg
 HERO_SETTING_3 	Klicka här för att spela denna färg
@@ -231,8 +231,8 @@ TOWN_SETTING_8 	TOWN_SETTING_8
 "const_small_map,"	Skapa en liten karta	
 "const_medium_map,"	Skapa en mellanstor karta	
 "const_large_map,"	Skapa en stor karta	
-"const_huge_map,"	Skapa en jättestor karta	
-"const_map_levels,"	Välj 1- eller 2-nivåkarta	
+"const_huge_map,"	Skapa en jättelik karta	
+"const_map_levels,"	Välj enkel- eller tvånivåskarta	
 "const_human_positions_label,"	Välj antal människospelbara positioner	
 "const_1_human,"	Skapa 1 människospelare	
 "const_2_humans,"	Skapa 2 människospelare	
@@ -272,54 +272,54 @@ TOWN_SETTING_8 	TOWN_SETTING_8
 "const_5_computer_teams,"	Skapa 5 datorlag	
 "const_6_computer_teams,"	Skapa 6 datorlag	
 "const_random_computer_teams,"	Skapa ett slumpvis antal datorlag	
-"const_water_label,"	Select the amount of water on the map	
-"const_no_water,"	Minimalta eller inget vatten	
+"const_water_label,"	Välj mängden vatten på kartan	
+"const_no_water,"	Minimalt eller inget vatten	
 "const_normal_water,"	Skapa en liten kontinent omgärdad av vatten	
 "const_islands,"	Skapa många små landmassor omgivna av vatten	
-"const_random_water,"	Inkludera en slumvis mängd vatten	
+"const_random_water,"	Inkludera en slumpmässig mängd vatten	
 "const_monster_strength_label,"	Välj den relativa styrkan på väktarmonster	
 "const_weak_monsters,"	Gör monster svagare än vanligt	
 "const_normal_monsters,"	Normal väktarstyrka	
 "const_strong_monsters,"	Skapa starka väktare	
-"const_random_monsters,"	Väljt en slumpvis övergripande styrka för väktarmonstrena	
+"const_random_monsters,"	Välj en slumpmässig övergripande styrka för väktarmonstrena	
 "const_show_saved_random_maps,"	Visa nyligen genererade kartor	
 SLIDER_CHATWINDOW 	Bläddra igenom chatt-text	
-SLIDER_FILEMENU 	Bläddra igenom scnario- eller sparade spel-lista	
-SLIDER_DURATION 	Låter dig ändra dragens varaktighet	
+SLIDER_FILEMENU 	Bläddra igenom scenario- eller sparade spel-lista	
+SLIDER_DURATION 	Låter dig ändra dragtid	
 "PLAYER_HANDICAP_HEADER_ID,"	"{Spelarnamn / Handikapp-Typ}
 
-Varje möjlig plats en människospelare kan uppta är markerad med en intilliggande flagga.  Klicka på flaggan för att ändra position.  Du kan också klocka inuti namnfältet för att ändra spelarnamn.
+Varje möjlig plats en människospelare kan uppta är markerad med en intilliggande flagga.  Klicka på flaggan för att ändra position.  Du kan också klicka inuti namnfältet för att ändra spelarnamn.
 
-Varje spelare kan få ett 'handikap' genom att klicka på handikapp-knappen.  Det finns tre inställningar: Inget Handikapp, Milt Handikapp och Allvarligt Handikapp.  Milt och Allvarligt minskar en spelares startresurser.
+Varje spelare kan få ett 'handikapp' genom att klicka på handikapp-knappen.  Det finns tre inställningar: Inget Handikapp, Milt Handikapp och Gravt Handikapp.  Milt och Gravt minskar en spelares startresurser.
 "																						
-"TURN_DURATION_HEADER_ID,"	"{Dragens Varaktighet}
+"TURN_DURATION_HEADER_ID,"	"{Dragtid}
 
-Genom att använda reglaget kan du sätta 'mjuka' spelardragsvaraktigheter.  Med 'mjuka' menas att den klockar räknar ned en spelares tid då denne inte är i strid.  När spelaren är i strid pausas klockan.
+Genom att använda reglaget kan du sätta 'mjuka' dragtider.  Med 'mjuka' menas att en klocka räknar ned en spelares tid då denne inte är i strid.  När spelaren är i strid pausas klockan.
 
-Dragvaraktigheterna är 1, 2, 4, 6, 8, 10, 15, 20, 25 och 30 minuter.
+Dragtiderna är 1, 2, 4, 6, 8, 10, 15, 20, 25 och 30 minuter.
 'Obegränsad' är standardinställningen.
 "																						
 "STARTING_TOWN_HEADER_ID,"	"{Startstad}
 
-Varje spelare kan, eller inte, starta med en stad.  Möjliga val är Slumpvalt, Borg, Fästingvall, Torn, Inferno, Nekroborg, Håla, Fäste och Fästning.
+Varje spelare kan, eller inte, starta med en stad.  Möjliga val är Slumpvalt, Borg, Vall, Torn, Inferno, Nekroborg, Håla, Fäste och Fästning.
 
-När du inte startar med en stad kan dessa inställningar användas för att välja inriktning på en potintiell starthjälte.
+När du inte startar med en stad kan dessa inställningar användas för att välja inriktning på en potentiell starthjälte.
 "																						
 "STARTING_TOWN_HEADER_W_CONFLUX_ID,"	"{Startstad}
 
-Varje spelare kan, eller inte, starta med en stad.  Möjliga val är Slumpvalt, Borg, Fästingvall, Torn, Inferno, Nekroborg, Håla, Fäste, Fästning och Sammankomsten.
+Varje spelare kan, eller inte, starta med en stad.  Möjliga val är Slumpvalt, Borg, Vall, Torn, Inferno, Nekroborg, Håla, Fäste, Fästning och Sammankomsten.
 
-När du inte startar med en stad kan dessa inställningar användas för att välja inriktning på en potintiell starthjälte.
+När du inte startar med en stad kan dessa inställningar användas för att välja inriktning på en potentiell starthjälte.
 "																						
 "STARTING_HERO_HEADER_ID,"	"{Starthjälte}
 
-Varje spelar kan, eller inte, starta med en Hjälte.  Ibland kan detta val vara låst eller otillgänglig.  I andra fall kan du bläddra igenom upp till sexton olika hjälteval.  Om startstadsval är påslaget så kan du ändra hjälteklasser för att få en annan uppsättning hjälteval.
+Varje spelar kan starta med eller utan en Hjälte.  Ibland kan detta val vara låst eller otillgängligt.  I andra fall kan du bläddra igenom upp till sexton olika hjälteval.  Om startstadsval är påslaget så kan du ändra hjälteklasser för att få en annan uppsättning hjälteval.
 
 För att se en hjältes namn, klass och specialitet: högreklicka på hjältens porträtt.
 "																						
 "STARTING_BONUS_HEADER_ID,"	"{Startbonus}
 
-Med en startbonus kan du välja mellan en slumpvald artefakt, 500-1000 guld eller 5-10 skog och sten.
+Med en startbonus kan du välja mellan en slumpvald artefakt, 500-1000 guld eller 5-10 trä och malm.
 "																						
 																							
 Flerspelarval	Flerspelarval																						
@@ -332,25 +332,25 @@ Heta Stolen	"{Heta Stolen}
 Låter flera människor spela olika spelare på samma dator"																						
 IPX	"{IPX}
 
-Låter flera människor spela på deras egna datorer över ett localt nätverk (LAN)"																						
+Låter flera människor spela på deras egna datorer över ett lokalt nätverk (LAN)"																						
 TCP/IP	"{TCP/IP}
 
-Låter flera människor spela på deras egna datorer över ett localt nätverk (LAN) eller via internet"																						
+Låter flera människor spela på deras egna datorer över ett lokalt nätverk (LAN) eller via internet"																						
 Modem	"{Modem}
 
 Låter två spelare ansluta via modem"																						
 Direktanslutning	"{Direktanslutning}
 
-Låter två spelare ansluta via en direkt seriellkommunikation"																						
+Låter två spelare ansluta via en direkt seriell anslutning"																						
 Var värd för ett spel	"{Var värd för ett spel}
 
 Låter dig sätta upp och skapa spelet som andra går med i"																						
-Gå med i Spel	"{Gå med i Spel}
+Gå in i Spel	"{Gå in i Spel}
 
-Visar en lista över tillgängliga spela du kan gå med i"
+Visar en lista över tillgängliga spela du kan gå in i"
 Sök efter ett spel	"{Sök efter Spel}
 
-Låter gid skriva en specifik IP-adress att ansluta till"
+Låter dig skriva en specifik IP-adress att ansluta till"
 GAMENAME 1	GAMENAME 1
 GAMENAME 2	GAMENAME 2
 GAMENAME 3	GAMENAME 3
@@ -368,7 +368,7 @@ Bläddra igenom tillgängliga spel	Bläddra igenom tillgängliga spel
 Avbryt	Återgå till föregående meny																						
 																							
 Äventyrskartefönster																							
-Världskarta	"Detta är en utzoomad vy av världen.  Att klicka någonstans i detta fönster kommer centrera äventyrskartan på den platsen, eller så kan du dra i konturboxen för att rulla äventyrskartan."																						
+Världskarta	"Detta är en utzoomad vy av världen.  Att klicka någonstans i detta fönster kommer centrera äventyrskartan på denna plats, eller så kan du dra i konturboxen för att förflytta äventyrskartan."																						
 Statusfönster	SELECTION WINDOW																						
 Kungadömesöverblick	"{Kungadömesöverblick}
 
@@ -492,7 +492,7 @@ Avsluta Heroes of Might and Magic III"
 När detta är valt visas en hjältes förflyttningsrutt utan att förflytta hjälten."
 "MOVE_REMINDER_ID,"	"{Visa Hjältespåminnelse}
 
-När en spelare har hjältar med kvarvarande förflyttningspoäng, kommer denne ombedes att bekräfta Turavslutningen."
+När en spelare har hjältar med kvarvarande förflyttningspoäng, kommer denne ombedes att bekräfta Avsluta drag-kommandot."
 "QUICK_COMBAT_ID,"	"{Snabbstrid}
 
 Detta alternativ låter datorn hantera all stridskalkyl och spelaren kommer endast se Stridsresultatsskärmen."
@@ -504,7 +504,7 @@ VIDEO_QUALITY_LOW	"{Lågkvalitetsvideo}
 Detta alternativ rekommenderas för långsammare datorer som har svårt att köra videos i fullskärmsläge."
 VIDEO_QUALITY_HIGH	"{Högkvalitetsvideo}
 
-Snabbare maskinder kan hantera mer data. och detta alternativ låter dessa maskiner visa filmerna på deras högsta kvalitet. "
+Snabbare maskiner kan hantera mer data. och detta alternativ låter dessa maskiner visa filmerna i deras högsta kvalitet. "
 "TOWN_OUTLINES_ID,"	"{Stadskonturer}
 
 På stadsskärmen kommer varje tillgänglig byggnad att visa en kontur när muspekaren placeras över den."
@@ -518,10 +518,10 @@ Se Världen	"{Se Världen}
 Visar ett fågelperspektiv över välden"																						
 Se Pussel	"{Se Pussel}
 
-Visar kartan över det nedgrävda objektet"																						
+Visar kartan över det begravda objektet"																						
 Se Scenarioinformation	"{Se Scenarioinformation}
 
-View information about the current scenario"																						
+Se information om det nuvarande scenariot"																						
 Gräv	"{Gräv}
 
 Genomsök området efter den begravda Gralen"																						
@@ -536,7 +536,7 @@ Okej	"{Okej}
 Stridsfönster	Stridsfönster																						
 Ge Upp	"{Ge Upp}
 
-Erbjud att ge upp för din fiende.  Din hjälte måste betala för att lämna striden, men kan omedelbart rekryteras på en taverna tillsammans med återstående trupper och artifakter i dess ägo."																						
+Erbjud att ge upp för din fiende.  Din hjälte måste betala för att lämna striden, men kan omedelbart rekryteras på en taverna tillsammans med återstående trupper och artefakter i dess ägo."																						
 Fly	"{Fly}
 
 Din hjälte flyr från striden, men kan omedelbart rekryteras på en taverna tillsammans med återstående artefakter i dess ägo."																						
@@ -553,11 +553,11 @@ Kasta trollformel	"{Kasta trollformel}
 Öppnar din hjältes trollformelsbok, vilket låter dig kasta en trollformel"																						
 Vänta	"{Vänta}
 
-Fördröjer denna enhetens drag tills efter alla trupper har fått möjligheten att förflytta sig"																						
+Fördröjer denna enhetens drag tills dess att alla trupper har fått möjligheten att förflytta sig"																						
 Försvara	"{Försvara}
 
 Ökar denna enhets försvarsvärde genom att avstå dess förflyttning denna tur"																						
-Väntefas	Väntefas																						
+Vänta Fasen	Vänta Fasen																						
 Avsluta Strategifas	"{Avsluta Strategifas}
 
 Avslutar Strategifasen och påbörjar striden."																						
@@ -566,9 +566,9 @@ Stridsalternativ	Stridsalternativ
 Återgå till spelet	"{Återgå till spelet}
 
 Avsluta Stridsalternativ"																						
-Återställ Grundvärden	"{Grundvärden}
+Återställ till Grundvärden	"{Grundvärden}
 
-Återställer Stridsalternativens grundvärden"																						
+Återställer till Stridsalternativens grundvärden"																						
 "MUSIC_VOLUME_0_ID,"	Stäng av musik																						
 "MUSIC_VOLUME_1_ID,"	Sätt musikvolym till 1																						
 "MUSIC_VOLUME_2_ID,"	Sätt musikvolym till 2																						
@@ -600,7 +600,7 @@ Ger kontroll över dina enheter i strid"
 Under autostrid kommer din hjälte kasta trollformler"
 "AUTO_CATAPULT_ID,"	"{Katapult}
 
-När du belägrar ett fiendestlott kommer dina katapultstrupper bestämma vilken del av fortifikationen som beskjuts.  Om din Ballistiksförmåga är tillräckligt hög kommer du kunna rikta katapultens skott själv.
+När du belägrar ett fiendestlott kommer dina katapultstrupper bestämma vilken del av fortifikationen som beskjuts.  Om din Ballistikförmåga är tillräckligt hög kommer du att kunna rikta katapultens skott själv.
 
 Om din hjälte har Ballistikförmågan kommer denna kontroll ges till datorn under autostrid."
 "AUTO_BALLISTA_ID,"	"{Ballista}
@@ -618,13 +618,13 @@ Om din hjälte har Första Hjälpen-förmågan kommer detta alternativ ge datorn kont
 "ANIMATION_SPEED_2_ID,"	Sätt animeringshastighet till snabb
 "CREATURE_INFO_STATS_ID,"	"{All Statistik}
 
-Att Högerklicka på en enhet visar all statistik om enheten, inkluderat trollformler som påverkar för tillfället."
+Att Högerklicka på en enhet visar all statistik om enheten, inklusive nuvarande, påverkande trollformler."
 "CREATURE_INFO_SPELLS_ID,"	"{Endast Trollformler}
 
-Att Högerklicka på en enhete kommer endast visa trollformler som påverkar enheten för tillfället."
-"VIEW_HEX_ID,"	"{View Hex Grid}
+Att Högerklicka på en enhet kommer endast visa trollformler som påverkar enheten för tillfället."
+"VIEW_HEX_ID,"	"{Visa Rutnät}
 
-Visar hexahonmönster över slagfältet."
+Visar hexagonmönster över slagfältet."
 "MOVEMENT_SHADOW_ID,"	"{Förflyttningsskugga}
 
 Visar en skugga över slagfältet som visar vart en enhet för tillfället kan förflytta sig."
@@ -637,14 +637,14 @@ Visar bläddringsanimation i trollformelsboken."
 	
 Granska Armé	Granska Armé																						
 Varelsenamn	Varelsenamn																						
-Antal varelser	Antalet varelse i enheten																						
+Antal varelser	Antalet varelser i enheten																						
 Anfallsförmåga	Anfallsförmåga																						
 Försvarsförmåga	Försvarsförmåga																						
 Återstående Skott	Antal återstående skott																						
 Skada per anfall	Skada per anfall																						
 Hälsopoäng	Hälsopoäng																						
 Återstående Hälsopoäng	Återstående Hälsopoäng																						
-Hastighet	Hastighet																						
+Snabbhet	Snabbhet																						
 Moral	Moral																						
 Tur	Tur																						
 Trollformler som påverkar armén	Trollformler som påverkar armén																						
@@ -653,18 +653,18 @@ Avfärda Enhet	"{Avfärda Enhet}
 Avfärdar den nuvarande enheten från din armé"																						
 Uppgradera Enhet	"{Uppgradera Enhet}
 
-Uppgradera den nuvarande enheten"																						
-Okay	"{Okej}
+Uppgraderar den nuvarande enheten"																						
+Okej	"{Okej}
 
 Återgå till föregående fönster"																						
 																							
 Trollformelsbok	Trollformelsbok																						
-Föregående Sida	Bläddra till den föregående sidan																						
-Next Page	Turn to the next page																						
+Föregående Sida	Bläddra till föregående sida																						
+Next Page	Bläddra till nästa sida																						
 Äventyrskartstrollformler	Bläddra för att se äventyrskartstrollformler																						
 Stridstrollformler	Bläddra för att se stridstrollformler																						
 Lufttrollformler	Bläddra för att se Lufttrollformler																						
-Eldtrollformler	Bläddra för att se Eldtrollformler																						
+Eldtrollformler	Bläddra för att se Eldstrollformler																						
 Vattentrollformler	Bläddra för att se Vattentrollformler																						
 Jordtrollformler	Bläddra för att se Jordtrollformler																						
 Alla Trollformler	Visa alla magiskolor																						
@@ -678,18 +678,18 @@ CAMPAIGN_DESCRIPTION	CAMPAIGN_DESCRIPTION
 MAP_NAME	MAP_NAME
 MAP_DESCRIPTION	MAP_DESCRIPTION
 HERO_FACE	HERO_FACE
-Change Hero	Click to change your starting hero
-Change Hero	Click to change your starting hero
-Artifact Bonus	Choose to start with an artifact
-Gold Bonus	Choose to start with extra gold
-Resource Bonus	Choose to start with extra resources
-Restart	"{Restart}
+Change Hero	Klicka för att ändra din starthjälte
+Change Hero	Klicka för att ändra din starthjälte
+Artifact Bonus	Välj att starta med en artefakt
+Gold Bonus	Välj att starta med extra guld
+Resource Bonus	Välj att starta med extra resurser
+Restart	"{Starta Om}
 
-Restart the current campaign"
-View Campaign Intro	"{View Campaign Intro}
+Starta om nuvarande kampanj"
+View Campaign Intro	"{Se Kampanjintro}
 
-Show the intro movie for this campaign"
-ALLY_FLAG1_ID	This is your color
+Visa introfilmen för denna kampanjen"
+ALLY_FLAG1_ID	Detta är din färg
 ALLY_FLAG2_ID	Den här färgen är din allierade
 ALLY_FLAG3_ID	Den här färgen är din allierade
 ALLY_FLAG4_ID	Den här färgen är din allierade
@@ -705,7 +705,7 @@ ENEMY_FLAG5_ID	Den här färgen är din fiende
 ENEMY_FLAG6_ID	Den här färgen är din fiende
 ENEMY_FLAG7_ID	Den här färgen är din fiende
 ENEMY_FLAG8_ID	Den här färgen är din fiende
-WHICHMAP_ID	This is the size of the Map you're about to play
+WHICHMAP_ID	Detta är storleken på kartan du kommer att spela
 MAP_AREA_1	MAP_AREA_1
 MAP_AREA_2	MAP_AREA_2
 MAP_AREA_3	MAP_AREA_3
@@ -741,26 +741,26 @@ MAP_AREA_32	MAP_AREA_32
 																							
 CampaignWindow	CampaignWindow																						
 																							
-Long Live the Queen	Long Live the Queen		
-Liberation	Liberation		
-Spoils of War	Spoils of War		
-Song for the Father	Song for the Father		
-Dungeons and Devils	Dungeons and Devils		
-Long Live the King	Long Live the King		
-Seeds of Discontent	Seeds of Discontent		
-Armageddon's Blade	Armageddon's Blade		
-Dragon's Blood	Dragon's Blood		
-Dragon Slayer	Dragon Slayer		
-Festival of Life	Festival of Life		
-Foolhardy Waywardness	Foolhardy Waywardness		
-Playing With Fire	Playing With Fire		
-Hack and Slash	Hack and Slash		
-Birth of a Barbarian	Birth of a Barbarian		
-New Beginning	New Beginning		
-Elixir of Life	Elixir of Life																						
-Rise of the Necromancer	Rise of the Necromancer																						
-Unholy Alliance	Unholy Alliance																						
-Spectre of Power	Spectre of Power																						
+Long Live the Queen	Länge Leve Drottningen		
+Liberation	Frigörelse		
+Spoils of War	Krigsbyten		
+Song for the Father	Sång till Fadern		
+Dungeons and Devils	Hålor och Djävlar		
+Long Live the King	Länge Leve Kungen		
+Seeds of Discontent	Frön av Missnöje		
+Armageddon's Blade	Ragnaröksklingan		
+Dragon's Blood	Drakens Blod		
+Dragon Slayer	Drakdräparen		
+Festival of Life	Livets Festival		
+Foolhardy Waywardness	iDumdristig Oberäknelighet		
+Playing With Fire	Leker Med Elden		
+Hack and Slash	Hacka och Slå		
+Birth of a Barbarian	En Barbars Födelse		
+New Beginning	Ny Morgon		
+Elixir of Life	Livets Elixir																						
+Rise of the Necromancer	Nekromantens Uppgång																						
+Unholy Alliance	Ohelig Allians																						
+Spectre of Power	Kraftens Spöke																						
 																							
 																							
 ROLLOVER	ROLLOVER																						
@@ -781,9 +781,9 @@ Sessionsnamn
 Ange IP-Adress																							
 																							
 Offerfönster	Offerfönster																						
-Avsluta (inget kommer att offras).	Lämna Altaret.  Alla föremål som för tillfället är på altaret kommer återlämnas till dig.																						
+Avsluta (inget kommer att offras).	Lämna Altaret.  Alla föremål som för tillfället är på altaret kommer att återlämnas till dig.																						
 Nuvarande hållen artefakt																							
-Placera alla artefakter i ryggsäcken på altare	Flytta föremål i den hjältes ryggsäck till altaret.																						
+Placera alla artefakter i ryggsäcken på altare	Flytta föremål i din hjältes ryggsäck till altaret.																						
 Placera alla artefakter på altaret	"Flytta alla artefakter, både burna och i din hjältes ryggsäck, på altaret."																						
 Offra Varelser	Växla till Offra Varelser.  Endast tillgängligt för Onda eller Neutrala hjältar.																						
 Antal varelser / Erfarenhetsvärde																							
@@ -805,7 +805,7 @@ Offra varelser som för tillfället är på altaret	"Offra allt som för tillfället ä
 Skelettomvandlare	Skelettomvandlare																						
 Placera alla varelser i omvandlaren	Flytta alla varelser till omvandlaren																						
 Förändra varelser i omvandlaren till odöda	Förändrar varelser i Omvandlaren till odöda																						
-Avsluta Omvandlare	Lämnar omvandlaren.  Inga fler varelser kommer bli odöda																						
+Avsluta Omvandlare	Lämnar omvandlaren.  Inga fler varelser kommer att bli odöda																						
 																							
 Handelsfönster	Handelsfönster																						
 Byt																							
@@ -836,7 +836,7 @@ Ge resurser till en annan spelare
 Köp artefakter																							
 Avsluta																							
 																							
-Sell Creature Window	Sell Creature Window																						
+Sälj Varelse-fönster	Sälj Varelse-fönster																						
 Byt																							
 Maximalt																							
 Byt resurser																							

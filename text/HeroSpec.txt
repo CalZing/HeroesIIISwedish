@@ -1,159 +1,159 @@
 Bonus	Bonus	
 (short)	(long)	Right Click Text
-Bågskytte	Sekundärförmåga: Bågskytte	Får en 5% bonus till Bågskytte-förmågan för varje nivå.
-Bågskyttar	Varelsebonus: Bågskyttar	Ökar Anfall- och Försvars-förmågan hos Bågskyttar eller Prickskyttar för varje nivå efter nummer 2.
-Gripar	Varelsebonus: Gripar	Ökar Anfall- och Försvars-förmågan hos Gripar eller Kungagripar för varje nivå efter nummer 3.
-Navigation	Sekundärförmåga: Navigation	Får en 5% bonus till Navigation-förmågan för varje nivå.
-Egendomar	Sekundärförmåga: Egendomar	Får en 5% bonus till Egendomar-förmågan för varje nivå.
-Fäktare	Varelsebonus: Fäktare	Ökar Anfall- och Försvars-förmågan hos Fäkare eller Korsriddare för varje nivå efter nummer 4.
-Ballista	Artilleribonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
-Ryttare	Varelsebonus: Ryttare	Ökar Anfall- och Försvars-förmågan hos Ryttare eller Tornerare för varje nivå efter nummer 6.
-Första hjälpen	Sekundärförmåga: Första hjälpen	Får en 5% bonus till Första hjälpen-förmågan för varje nivå.
+Bågskytte	Sekundärförmågebonus Bågskytte	Får en 5% bonus till Bågskytteförmågan för varje nivå.
+Bågskyttar	Varelsebonus: Bågskyttar	Ökar Anfalls- och Försvarsförmågan hos Bågskyttar eller Prickskyttar för varje nivå efter nummer 2.
+Gripar	Varelsebonus: Gripar	Ökar Anfalls- och Försvarsförmågan hos Gripar eller Kungagripar för varje nivå efter nummer 3.
+Navigation	Sekundärförmågebonus Navigation	Får en 5% bonus till Navigationsförmågan för varje nivå.
+Egendomar	Sekundärförmågebonus Egendomar	Får en 5% bonus till Egendomarförmågan för varje nivå.
+Fäktare	Varelsebonus: Fäktare	Ökar Anfalls- och Försvarsförmågan hos Fäkare eller Korsriddare för varje nivå efter nummer 4.
+Ballista	Artilleribonus: Ballista	Ökar Anfalls- och Försvarsförmågan hos Ballistan för varje nivå efter nummer 4.
+Ryttare	Varelsebonus: Ryttare	Ökar Anfalls- och Försvarsförmågan hos Ryttare eller Tornerare för varje nivå efter nummer 6.
+Första hjälpen	Sekundärförmågebonus Första hjälpen	Får en 5% bonus till Första hjälpenförmågan för varje nivå.
 Välsigna	Trollformelsbonus: Välsigna	"Kasta Välsigna med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Svaghet	Trollformelsbonus: Svaghet	"Kasta Svaghet med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Frostring	Trollformelsbonus: Frostring	"Kasta Frostring med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Munkar	Varelsebonus: Munkar	Ökar Anfall- och Försvars-förmågan hos Munkar eller Zeloter för varje nivå efter nummer 5.
-Skarpögdhet	Sekundärförmåga: Skarpögdhet	Får en 5% bonus till Skarpögdhet-förmågan för varje nivå.
+Munkar	Varelsebonus: Munkar	Ökar Anfalls- och Försvarsförmågan hos Munkar eller Zeloter för varje nivå efter nummer 5.
+Skarpsynthet	Sekundärförmågebonus Skarpsynthet	Får en 5% bonus till Skarpsynthetsförmågan för varje nivå.
 Bön	Trollformelsbonus: Bön	"Kasta Bön med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-+350 Guld	+350 Guld varje dag	Ökar kungadömmets intäkter med 350 guld om dagen.
-Rustningsmed	Sekundärförmåga: Rustningsmed	Får en 5% bonus till Rustningsmed-förmågan för varje nivå.
-Dvärgar	Varelsebonus: Dvärgar	Ökar Anfall- och Försvars-förmågan hos Dvärgar eller Stridsdvärgar för varje nivå efter nummer 2.
-+350 Gold	+350 Gold each day	Ökar kungadömets inkomster med 350 guld per dag.
-Dendroider	Varelsebonus: Dendroider	Ökar Anfall- och Försvars-förmågan hos Dendroidervakter eller Dendroidsoldater för varje nivå efter nummer 5.
-Motståndskraft	Sekundärförmåga Bonus: Motståndskraft	Får en 5% bonus till Motståndskraft-förmågan för varje nivå.
-Alver	Varelsebonus: Alver	Ökar Anfall- och Försvars-förmågan hos Skogsalver eller Storalver för varje nivå efter nummer 3.
-Enhörningar	Varelsebonus: Enhörningar	Ökar Anfall- och Försvars-förmågan hos Enhörningar eller Stridsenhörningar för varje nivå efter nummer 6.
-Logistik	Sekundärförmåga Bonus: Logistik	Får en 5% bonus till Logistik-förmågan för varje nivå.
++350 Guld	+350 Guld varje dag	Höjer kungadömmets inkomster med 350 guld om dagen.
+Rustningssmide	Sekundärförmågebonus Rustningssmide	Får en 5% bonus till Rustningssmidesförmågan för varje nivå.
+Dvärgar	Varelsebonus: Dvärgar	Ökar Anfalls- och Försvarsförmågan hos Dvärgar eller Stridsdvärgar för varje nivå efter nummer 2.
++350 Gold	+350 Guld varje dag	Höjer kungadömets inkomster med 350 guld per dag.
+Dendroider	Varelsebonus: Dendroider	Ökar Anfalls- och Försvarsförmågan hos Dendroidervakter eller Dendroidsoldater för varje nivå efter nummer 5.
+Motståndskraft	Sekundärförmågebonus Motståndskraft	Får en 5% bonus till Motståndskraftsförmågan för varje nivå.
+Alver	Varelsebonus: Alver	Ökar Anfalls- och Försvarsförmågan hos Skogsalver eller Storalver för varje nivå efter nummer 3.
+Enhörningar	Varelsebonus: Enhörningar	Ökar Anfalls- och Försvarsförmågan hos Enhörningar eller Stridsenhörningar för varje nivå efter nummer 6.
+Logistik	Sekundärförmåga Bonus: Logistik	Får en 5% bonus till Logistikförmågan för varje nivå.
 Dräpare	Spell Bonus: Dräpare	"Kasta Dräpare med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Kurera	Spell Bonus: Kurera	"Kasta Kurera med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Intelligens	Sekundärförmåga: Intelligens	Får en 5% bonus till Intelligens-förmågan för varje nivå.
-Första hjälpen	Sekundärförmåga: Första hjälpen	Får en 5% bonus till Första hjälpen-förmågan för varje nivå.
-Skarpögdhet	Sekundärförmåga: Skarpögdhet	Får en 5% bonus till Skarpögdhet-förmågan för varje nivå.
+Intelligens	Sekundärförmågebonus Intelligens	Får en 5% bonus till Intelligensförmågan för varje nivå.
+Första hjälpen	Sekundärförmågebonus Första hjälpen	Får en 5% bonus till Första hjälpenförmågan för varje nivå.
+Skarpsynthet	Sekundärförmågebonus Skarpsynthet	Får en 5% bonus till Skarpsynthetsförmågan för varje nivå.
 Flax	Trollformelsbonus: Flax	"Kasta Flax med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Ispil	Trollformelsbonus: Ispil	"Kasta Ispil med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Pegaser	Varelsebonus: Pegaser	Ökar Anfall- och Försvars-förmågan hos Pegaser eller Silverpegaser för varje nivå efter nummer 4.
-Filurer	Varelsebonus: Filurer	Ökar Anfall- och Försvars-förmågan hos Stenfilurer eller Obsidianfilurer för varje nivå efter nummer 2.
-Djinn	Varelsebonus: Djinn	 Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 5.
-Golemer	Varelsebonus: Golemer	Ökar Anfall- och Försvars-förmågan hos Stengolemer eller Järngolemer för varje nivå efter nummer 3.
-Rustningsmed	Sekundärförmåga: Rustningsmed	Får en 5% bonus till Rustningsmed-förmågan för varje nivå.
-Ballista	Artillery Bonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
-Naga	Varelsebonus: Naga	Ökar Anfall- och Försvars-förmågan hos Nagar eller Nagadrottningar för varje nivå efter nummer 6.
+Pegaser	Varelsebonus: Pegaser	Ökar Anfalls- och Försvarsförmågan hos Pegaser eller Silverpegaser för varje nivå efter nummer 4.
+Filurer	Varelsebonus: Filurer	Ökar Anfalls- och Försvarsförmågan hos Stenfilurer eller Obsidianfilurer för varje nivå efter nummer 2.
+Djinner	Varelsebonus: Djinner	 Ökar Anfalls- och Försvarsförmågan hos Djinner eller Mästardjinner för varje nivå efter nummer 5.
+Golemer	Varelsebonus: Golemer	Ökar Anfalls- och Försvarsförmågan hos Stengolemer eller Järngolemer för varje nivå efter nummer 3.
+Rustningssmide	Sekundärförmågebonus Rustningssmide	Får en 5% bonus till Rustningssmidesförmågan för varje nivå.
+Ballista	Artillerbonus: Ballista	Ökar Anfalls- och Försvarsförmågan hos Ballistan för varje nivå efter nummer 4.
+Naga	Varelsebonus: Naga	Ökar Anfalls- och Försvarsförmågan hos Nagar eller Nagadrottningar för varje nivå efter nummer 6.
 +1 Kvicksilver	+1 Kvicksilver varje dag.	Ökar kungadömets kvicksilverproduktion med 1 per dag.
-Djinn	Varelsebonus: Djinn	Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 5.
+Djinn	Varelsebonus: Djinn	Ökar Anfalls- och Försvarsförmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 5.
 Hypnotisera	Trollformelsbonus: Hypnotisera	"Kasta Hypnotisera med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Mystik	Sekundärförmåga: Mystik	Får en 5% bonus till Mystik-förmågan för varje nivå.
-Skarpögdhet	Sekundärförmåga: Skarpögdhet	Får en 5% bonus till Skarpögdhet-förmågan för varje nivå.
+Mystik	Sekundärförmågebonus Mystik	Får en 5% bonus till Mystikförmågan för varje nivå.
+Skarpsynthet	Sekundärförmågebonus Skarpsynthet	Får en 5% bonus till Skarpsynthetsförmågan för varje nivå.
 Flax	Trollformelsbonus: Flax	"Kasta Flax med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Magiker	Varelsebonus: Magiker	Ökar Anfall- och Försvars-förmågan hos Magiker eller Ärkemagiker för varje nivå efter nummer 4.
+Magiker	Varelsebonus: Magiker	Ökar Anfalls- och Försvarsförmågan hos Magiker eller Ärkemagiker för varje nivå efter nummer 4.
 Kedjeblixt	Trollformelsbonus: Kedjeblixt	"Kasta Kedjeblixt med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Skynda	Trollformelsbonus: Skynda	"Kasta Skynda med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-+350 Guld	+350 Guld varje dag	Öka kundadömets inkomst med 350 guld per dag.
-Helveteshundar	Varelsebonus: Helveteshundar	Ökar Anfall- och Försvars-förmågan hos Helveteshundar eller Cerberii för varje nivå efter nummer 3.
-Ifrit	Varelsebonus: Ifrit	Ökar Anfall- och Försvars-förmågan hos Ifrit eller Mästarifrit för varje nivå efter nummer 5.
-Demoner	Varelsebonus: Demoner	Ökar Anfall- och Försvars-förmågan hos Demoner eller Horndemoner för varje nivå efter nummer 4.
-Pukar	Varelsebonus: Pukar	Ökar Anfall- och Försvars-förmågan hos Pukar eller Bjäror för varje nivå efter nummer 1.
-+350 Guld	+350 Guld varje dag	Öka kundadömets inkomst med 350 guld per dag.
-Gogar	Varelsebonus: Gogar	Ökar Anfall- och Försvars-förmågan hos Gogar eller Magoger för varje nivå efter nummer 2.
-Ballista	Artillery Bonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
-Avgrundsbövlar	Varelsebonus: Avgrundsbövlar	Ökar Anfall- och Försvars-förmågan hos Avgrundsbövlar eller Avgrundsmästare för varje nivå efter nummer 5.
-Intelligens	Sekundärförmåga: Intelligens	Får en 5% bonus till Intelligens-förmågan för varje nivå.
++350 Guld	+350 Guld varje dag	Höjer kundadömets inkomster med 350 guld per dag.
+Helveteshundar	Varelsebonus: Helveteshundar	Ökar Anfalls- och Försvarsförmågan hos Helveteshundar eller Cerberii för varje nivå efter nummer 3.
+Ifriter	Varelsebonus: Ifriter	Ökar Anfalls- och Försvarsförmågan hos Ifriter eller Mästarifriter för varje nivå efter nummer 5.
+Demoner	Varelsebonus: Demoner	Ökar Anfalls- och Försvarsförmågan hos Demoner eller Behornade Demoner för varje nivå efter nummer 4.
+Pukar	Varelsebonus: Pukar	Ökar Anfalls- och Försvarsförmågan hos Pukar eller Bjäror för varje nivå efter nummer 1.
++350 Guld	+350 Guld varje dag	Höjer kundadömets inkomster med 350 guld per dag.
+Gogar	Varelsebonus: Gogar	Ökar Anfalls- och Försvarsförmågan hos Gogar eller Magoger för varje nivå efter nummer 2.
+Ballista	Artillerbonus: Ballista	Ökar Anfalls- och Försvarsförmågan hos Ballistan för varje nivå efter nummer 4.
+Avgrundsbövlar	Varelsebonus: Avgrundsbövlar	Ökar Anfalls- och Försvarsförmågan hos Avgrundsbövlar eller Avgrundsmästare för varje nivå efter nummer 5.
+Intelligens	Sekundärförmågebonus Intelligens	Får en 5% bonus till Intelligensförmågan för varje nivå.
 Inferno	Trollformelsbonus: Inferno	"Kasta Inferno med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Mystik	Sekundärförmåga: Mystik	Får en 5% bonus till Mystik-förmågan för varje nivå.
+Mystik	Sekundärförmågebonus Mystik	Får en 5% bonus till Mystikförmågan för varje nivå.
 Svaghet	Trollformelsbonus: Svaghet	"Kasta Svaghet med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 +1 Svavel	+1 Svavel varje dag.	Ökar kungadömets svavelproduktion med 1 om dagen.
 Blodtörst	Trollformelsbonus: Blodtörst	"Kasta Blodtörst med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Trolldom	Sekundärförmåga: Trolldom	Får en 5% bonus till Trolldoms-förmågan för varje nivå.
+Trolldom	Sekundärförmågebonus Trolldom	Får en 5% bonus till Trolldomsförmågan för varje nivå.
 Eldklot	Trollformelsbonus: Eldklot	"Kasta Eldklot med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Dödgångare	Varelsebonus: Dödgångare	Ökar Anfall- och Försvars-förmågan hos Dödgångare eller Draugar för varje nivå efter nummer 2.
-Vampyrer	Varelsebonus: Vampyrer	Ökar Anfall- och Försvars-förmågan hos Vampyrer eller Vampyrherrar för varje nivå efter nummer 4.
-Likmästare	Varelsebonus: Likmästare	Ökar Anfall- och Försvars-förmågan hos Likmästare eller Häxmästare för varje nivå efter nummer 5.
-Gastar	Varelsebonus: Gastar	Ökar Anfall- och Försvars-förmågan hos Gastar eller Vålnader för varje nivå efter nummer 3.
-Svartriddare	Varelsebonus: Svartriddare	Ökar Anfall- och Försvars-förmågan hos Svartriddare eller Skräckriddare för varje nivå efter nummer 6.
-Nekromanti	Sekundärförmåga: Nekromanti	Får en 5% bonus till Nekromanti-förmågan för varje nivå.
-+350 Guld	+350 Guld varje dag	Öka kundadömets inkomst med 350 guld per dag.
-Skelett	Varelsebonus: Skelett	Ökar Anfall- och Försvars-förmågan hos Skelett eller Skelettkrigare för varje nivå efter nummer 1.
+Dödgångare	Varelsebonus: Dödgångare	Ökar Anfalls- och Försvarsförmågan hos Dödgångare eller Draugar för varje nivå efter nummer 2.
+Vampyrer	Varelsebonus: Vampyrer	Ökar Anfalls- och Försvarsförmågan hos Vampyrer eller Vampyrherrar för varje nivå efter nummer 4.
+Lichar	Varelsebonus: Lichar	Ökar Anfalls- och Försvarsförmågan hos Lichar eller Häxmästare för varje nivå efter nummer 5.
+Gastar	Varelsebonus: Gastar	Ökar Anfalls- och Försvarsförmågan hos Gastar eller Vålnader för varje nivå efter nummer 3.
+Svartriddare	Varelsebonus: Svartriddare	Ökar Anfalls- och Försvarsförmågan hos Svartriddare eller Skräckriddare för varje nivå efter nummer 6.
+Nekromanti	Sekundärförmågebonus Nekromanti	Får en 5% bonus till Nekromantiförmågan för varje nivå.
++350 Guld	+350 Guld varje dag	Höjer kundadömets inkomster med 350 guld per dag.
+Skelett	Varelsebonus: Skelett	Ökar Anfalls- och Försvarsförmågan hos Skelett eller Skelettkrigare för varje nivå efter nummer 1.
 Dödsstöt	Trollformelsbonus: Dödsstöt	"Kasta Dödsstöt med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Meteorregn	Trollformelsbonus: Meteorregn	"Kasta Meteorregn med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Trolldom	Sekundärförmåga: Trolldom	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
-Örnögdhet	Sekundärförmåga: Örnögdhet	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
+Trolldom	Sekundärförmågebonus Trolldom	Får en 5% bonus till Trolldomsförmågan för varje nivå.
+Skarpsynthet	Sekundärförmågebonus Skarpsynthet	Får en 5% bonus till Skarpsynthetsförmågan för varje nivå.
 Besjäla döda	Trollformelsbonus: Besjäla döda	"Kasta Besjäla döda med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Stenskinn	Trollformelsbonus: Stenskinn	"Kasta Stenskinn med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Nekromanti	Sekundärförmåga: Nekromanti	Får en 5% bonus till Nekromanti-förmågan för varje nivå.
-+350 Guld	+350 Guld varje dag	Öka kundadömets inkomst med 350 guld per dag.
-Harpyor	Varelsebonus: Harpyor	Ökar Anfall- och Försvars-förmågan hos Harpyor eller Vildvittror för varje nivå efter nummer 2.
-Ballista	Artilleribonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 4.
-Minotaurer	Varelsebonus: Minotaurer	Ökar Anfall- och Försvars-förmågan hos Minotaurer eller Minotaurkungar för varje nivå efter nummer 5.
-Åskådare	Varelsebonus: Åskådare	Ökar Anfall- och Försvars-förmågan hos Åskådare eller Onda ögon för varje nivå efter nummer 2.
-+350 Guld	+350 Guld each day	Öka kungadömets inkomst med 350 guld per dag.
-Logistik	Sekundärförmåga: Logistik	Får en 5% bonus till Logistik-förmågan för varje nivå.
-Mantikoror	Varelsebonus: Mantikoror	Ökar Anfall- och Försvars-förmågan hos Manikoror eller Skorpikoror för varje nivå efter nummer 6.
-Troglodyter	Varelsebonus: Troglodyter	Ökar Anfall- och Försvars-förmågan hos Troglodyter eller Infernaliska Troglodyter för varje nivå efter nummer 1.
+Nekromanti	Sekundärförmågebonus Nekromanti	Får en 5% bonus till Nekromantiförmågan för varje nivå.
++350 Guld	+350 Guld varje dag	Höjer kundadömets inkomster med 350 guld per dag.
+Harpyor	Varelsebonus: Harpyor	Ökar Anfalls- och Försvarsförmågan hos Harpyor eller Vildvittror för varje nivå efter nummer 2.
+Ballista	Artilleribonus: Ballista	Ökar Anfalls- och Försvarsförmågan hos Djinn eller Mästardjinn för varje nivå efter nummer 4.
+Minotaurer	Varelsebonus: Minotaurer	Ökar Anfalls- och Försvarsförmågan hos Minotaurer eller Minotaurkungar för varje nivå efter nummer 5.
+Åskådare	Varelsebonus: Åskådare	Ökar Anfalls- och Försvarsförmågan hos Åskådare eller Onda ögon för varje nivå efter nummer 2.
++350 Guld	+350 Guld varje dag	Öka kungadömets inkomster med 350 guld per dag.
+Logistik	Sekundärförmågebonus Logistik	Får en 5% bonus till Logistikförmågan för varje nivå.
+Mantikoror	Varelsebonus: Mantikoror	Ökar Anfalls- och Försvarsförmågan hos Manikoror eller Skorpikoror för varje nivå efter nummer 6.
+Troglodyter	Varelsebonus: Troglodyter	Ökar Anfalls- och Försvarsförmågan hos Troglodyter eller Infernaliska Troglodyter för varje nivå efter nummer 1.
 Återuppliva	Trollformelsbonus: Återuppliva	"Kasta Återuppliva med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Mystik	Sekundärförmåga: Mystik	Får en 5% bonus till Mystik-förmågan för varje nivå.
-Trolldom	Sekundärförmåga: Trolldom	Får en 5% bonus till Trolldom-förmågan för varje nivå.
+Mystik	Sekundärförmågebonus Mystik	Får en 5% bonus till Mystikförmågan för varje nivå.
+Trolldom	Sekundärförmågebonus Trolldom	Får en 5% bonus till Trolldomförmågan för varje nivå.
 Återuppliva	Trollformelsbonus: Återuppliva	"Kasta Återuppliva med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Skarpögdhet	Sekundärförmåga: Skarpögdhet	Får en 5% bonus till Skarpögdhet-förmågan för varje nivå.
+Skarpsynthet	Sekundärförmågebonus Skarpsynthet	Får en 5% bonus till Skarpsynthetsförmågan för varje nivå.
 Meteorregn	Trollformelsbonus: Meteorregn	"Kasta Meteorregn med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 +1 Kristall	+1 Kristall varje dag.	Kungadömets inkomst av kristall ökar med 1 per dag.
 Stenskinn	Trollformelsbonus: Stenskinn	"Kasta Stenskinn med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Cykloper	Varelsebonus: Cykloper	Ökar Anfall- och Försvars-förmågan hos Cykloper eller Cyklopkungar för varje nivå efter nummer 6.
-Ballista	Artilleribonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
-Orcher	Varelsebonus: Orcher	Ökar Anfall- och Försvars-förmågan hos Orcher eller Chefsorcher för varje nivå efter nummer 3.
-Rockar	Varelsebonus: Rockar	Ökar Anfall- och Försvars-förmågan hos Rockar eller Åskfåglar för varje nivå efter nummer 5.
-Kobolder	Varelsebonus: Kobolder	Ökar Anfall- och Försvars-förmågan hos Kobold eller Hobkobold för varje nivå efter nummer 1.
-Resar	Varelsebonus: Resar	Ökar Anfall- och Försvars-förmågan hos Resar eller Bergsresar för varje nivå efter nummer 4.
-Offensiv	Sekundärförmåga: Offensiv	Får en 5% bonus till Offensiv-förmågan för varje nivå.
-Vargryttare	Varelsebonus: Vargryttare	Ökar Anfall- och Försvars-förmågan hos Vargryttare eller Vargplundrare för varje nivå efter nummer 2.
-Trolldom	Sekundärförmåga: Trolldom	Får en 5% bonus till Trolldom-förmågan för varje nivå.
-Resar	Varelsebonus: Resar	Ökar Anfall- och Försvars-förmågan hos Resar eller Bergsresar för varje nivå efter nummer 4.
-Logistik	Sekundärförmåga: Logistik	Får en 5% bonus till Logistik-förmågan för varje nivå.
+Cykloper	Varelsebonus: Cykloper	Ökar Anfalls- och Försvarsförmågan hos Cykloper eller Cyklopkungar för varje nivå efter nummer 6.
+Ballista	Artilleribonus: Ballista	Ökar Anfalls- och Försvarsförmågan hos Ballistan för varje nivå efter nummer 4.
+Orcher	Varelsebonus: Orcher	Ökar Anfalls- och Försvarsförmågan hos Orcher eller Chefsorcher för varje nivå efter nummer 3.
+Rockar	Varelsebonus: Rockar	Ökar Anfalls- och Försvarsförmågan hos Rockar eller Åskfåglar för varje nivå efter nummer 5.
+Kobolder	Varelsebonus: Kobolder	Ökar Anfalls- och Försvarsförmågan hos Kobold eller Hobkobold för varje nivå efter nummer 1.
+Resar	Varelsebonus: Resar	Ökar Anfalls- och Försvarsförmågan hos Resar eller Bergsresar för varje nivå efter nummer 4.
+Offensiv	Sekundärförmågebonus Offensiv	Får en 5% bonus till Offensivförmågan för varje nivå.
+Vargryttare	Varelsebonus: Vargryttare	Ökar Anfalls- och Försvarsförmågan hos Vargryttare eller Vargplundrare för varje nivå efter nummer 2.
+Trolldom	Sekundärförmågebonus Trolldom	Får en 5% bonus till Trolldomsförmågan för varje nivå.
+Resar	Varelsebonus: Resar	Ökar Anfalls- och Försvarsförmågan hos Resar eller Bergsresar för varje nivå efter nummer 4.
+Logistik	Sekundärförmågebonus Logistik	Får en 5% bonus till Logistikförmågan för varje nivå.
 Skynda	Trollformelsbonus: Skynda	"Kasta Skynda med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Precision	Trollformelsbonus: Precision	"Kasta Precision med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Offensiv	Sekundärförmåga: Offensiv	Får en 5% bonus till Offensiv-förmågan för varje nivå.
-Skarpögdhet	Sekundärförmåga: Skarpögdhet	Får en 5% bonus till Skarpögdhet-förmågan för varje nivå.
+Offensiv	Sekundärförmågebonus Offensiv	Får en 5% bonus till Offensivförmågan för varje nivå.
+Skarpsynthet	Sekundärförmågebonus Skarpsynthet	Får en 5% bonus till Skarpsynthetsförmågan för varje nivå.
 +1 Ädelstenar	+1 Ädelstenar varje dag.	Kungadömets inkomst av ädelstenar ökar med 1 per dag.
-Basilisker	Varelsebonus: Basilisks	Ökar Anfall- och Försvars-förmågan hos Basilisker och Bättre Basilisker för varje nivå efter nummer 4.
-Krokotaurer	Varelsebonus: Gnolls	Ökar Anfall- och Försvars-förmågan hos Krokotaur eller Krokotaurmarodörer för varje nivå efter nummer 1.
-Ödlemän	Varelsebonus: Lizardmen	Ökar Anfall- och Försvars-förmågan hos Ödlemän eller Ödlemänkrigare för varje nivå efter nummer 2.
-Rustningsmed	Sekundärförmåga: Röstningsmed	Tazar får en 5% bonus till Rustningsmed-förmågan för varje nivå.
-Gorgoner	Varelsebonus: Gorgoner	Ökar Anfall- och Försvars-förmågan hos Gorgoner eller Mäktiga Gorgoner för varje nivå efter nummer 5.
-Dagsländor	Varelsebonus: Dagsländor	Ökar Anfall- och Försvars-förmågan hos Dagsländor eller Trollsländor för varje nivå efter nummer 3.
-Ballista	Artilleribonus: Ballista	Ökar Anfall- och Försvars-förmågan hos Ballistan för varje nivå efter nummer 4.
-Lindormar	Varelsebonus: Lindormar	Ökar Anfall- och Försvars-förmågan hos Lindormar eller Lindormsmonarker för varje nivå efter nummer 6.
+Basilisker	Varelsebonus: Basilisks	Ökar Anfalls- och Försvarsförmågan hos Basilisker och Bättre Basilisker för varje nivå efter nummer 4.
+Krokotaurer	Varelsebonus: Gnolls	Ökar Anfalls- och Försvarsförmågan hos Krokotaur eller Krokotaurmarodörer för varje nivå efter nummer 1.
+Ödlemän	Varelsebonus: Lizardmen	Ökar Anfalls- och Försvarsförmågan hos Ödlemän eller Ödlemänkrigare för varje nivå efter nummer 2.
+Rustningssmide	Sekundärförmågebonus Röstningsmed	Tazar får en 5% bonus till Rustningssmidesförmågan för varje nivå.
+Gorgoner	Varelsebonus: Gorgoner	Ökar Anfalls- och Försvarsförmågan hos Gorgoner eller Mäktiga Gorgoner för varje nivå efter nummer 5.
+Dagsländor	Varelsebonus: Dagsländor	Ökar Anfalls- och Försvarsförmågan hos Dagsländor eller Trollsländor för varje nivå efter nummer 3.
+Ballista	Artilleribonus: Ballista	Ökar Anfalls- och Försvarsförmågan hos Ballistan för varje nivå efter nummer 4.
+Lindormar	Varelsebonus: Lindormar	Ökar Anfalls- och Försvarsförmågan hos Lindormar eller Lindormsmonarker för varje nivå efter nummer 6.
 Svaghet	Trollformelsbonus: Svaghet	"Kasta Svaghet med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Mystik	Sekundärförmåga: Mystik	Får en 5% bonus till Mystik-förmågan för varje nivå.
-Navigation	Sekundärförmåga: Navigation	Får en 5% bonus till Navigation-förmågan för varje nivå.
-Första hjälpen	Sekundärförmåga: Första hjälpen	Får en 5% bonus till Första hjälpen-förmågan för varje nivå.
+Mystik	Sekundärförmågebonus Mystik	Får en 5% bonus till Mystikförmågan för varje nivå.
+Navigation	Sekundärförmågebonus Navigation	Får en 5% bonus till Navigationsförmågan för varje nivå.
+Första hjälpen	Sekundärförmågebonus Första hjälpen	Får en 5% bonus till Första hjälpenförmågan för varje nivå.
 Stenskinn	Trollformelsbonus: Stenskinn	"Kasta Stenskinn med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Trolldom	Sekundärförmåga: Trolldom	Får en 5% bonus till Trolldom-förmågan för varje nivå.
-Intelligens	Sekundärförmåga: Intelligens	Får en 5% bonus till Intelligens-förmågan för varje nivå.
-Örnögdhet	Sekundärförmåga: Örnögdhet	Får en 5% bonus till Örnögdhet-förmågan för varje nivå.
+Trolldom	Sekundärförmågebonus Trolldom	Får en 5% bonus till Trolldomsförmågan för varje nivå.
+Intelligens	Sekundärförmågebonus Intelligens	Får en 5% bonus till Intelligensförmågan för varje nivå.
+Skarpsynthet	Sekundärförmågebonus Skarpsynthet	Får en 5% bonus till Skarpsynthetsförmågan för varje nivå.
 Övernaturliga Ele.	Varelsebonus: Övernaturliga Elementärer	Övernaturliga/Magiska elementärer får +3 Anf och +3 För.
 Jordele.	Varelsebonus: Jordelementärer	"Jord/Magma elementärer får +2 Anf, +1 För och +5 Ska."
-Eldele	Varelsebonus: Eldelementärer	"Eld/Energu elementärer får +1 Anf, +2 För och +2 Ska."
+Eldele	Varelsebonus: Eldelementärer	"Eld/Energi-elementärer får +1 Anf, +2 För och +2 Ska."
 Vattenele.	Varelsebonus: Vattenelementärer	Vatten/Is elementärer får +2 Anf.
 Öv. Ele.	Varelsebonus: Övernaturliga Elementärer	Övernaturliga/Magiska elementärer får +3 Anf och +3 För.
 Jordele.	Varelsebonus: Jordelementärer	"Jord/Magma elementärer får +2 Anf, +1 För och +5 Ska."
-Eldele.	Varelsebonus: Eldelementärer	"Eld/Energi elementärer får +1 Anf, +2 För och +2 Ska."
+Eldele.	Varelsebonus: Eldelementärer	"Eld/Energi-elementärer får +1 Anf, +2 För och +2 Ska."
 Vattenele.	Varelsebonus: Vattenelementärer	Vatten/Is elementärer får +2 Anf.
 Eldvägg	Trollformelsbonus: Eldvägg	Skadan ifrån Eldväggen fördubblas.
 Skynda	Trollformelsbonus: Skynda	"Kasta Skynda med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 Magisk pil	Trollformelsbonus: Magisk pil	"Skadan ifrån Magisk pil ökas med 50%."
 Stenskinn	Trollformelsbonus: Stenskinn	"Braheten i Stenskinn ökar med +3."
 Blodtörst	Trollformelsbonus: Blodtörst	"Kasta Blodtörst med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
-Störande stråle	Trollformelsbonus: Störande stråle	"Braheten i Störande stråle ökar med +2."
-+350 Guld	+350 Guld varje dag	Kungadömets inkomst inkomst ökar med +350 guld per dag.
-+350 Guld	+350 Guld varje dag	Kungadömets inkomst inkomst ökar med +350 guld per dag.
-Hastighet	Varelsebonus: Hastighet	Alla varelser får sjukt nog +2 i Hastighet!
-Eldmagi	Sekundärförmåga: Mäs. Eldmagi	Börjar med Mästerlig Eldmagi.
-Fäktare	Varelsebonus: Fäktare	Ökar Anfall- och Försvars-förmågan hos Fäktare eller Korsfarare för varje nivå efter nummer 4.
+Störande stråle	Trollformelsbonus: Störande stråle	"Störande strålens effekt ökar med +2 när den kastas."
++350 Guld	+350 Guld varje dag	Höjer Kungadömets inkomster med +350 guld per dag.
++350 Guld	+350 Guld varje dag	Höjer Kungadömets inkomster med +350 guld per dag.
+Hastighet	Varelsebonus: Hastighet	Alla varelser får +2 i Snabbhet.
+Eldmagi	Sekundärförmågebonus Mäs. Eldmagi	Börjar med Mästerlig Eldmagi.
+Fäktare	Varelsebonus: Fäktare	Ökar Anfalls- och Försvarsförmågan hos Fäktare eller Korsfarare för varje nivå efter nummer 4.
 Förtrollare	Varelsebonus: Förtrollare	Kan uppgradera Munkar och Seloter till Förtrollare.
 Skarpskyttar	Varelsebonus: Skarpskyttar	Kan uppgradera Bågskyttar och Prickskyttar till Skarpskyttar.
 Behemoter	Varelsebonus: Behemoter	"Behemoter eller Urrtida Behemoter får +5 Anf +5 För och +10 För."
 Svartriddare	Varelsebonus: Svartriddare	"Svartriddare och Skräckriddare får +5 Anf +5 För och +10 Ska."
 Drakar	Bonus: Drakar	"Alla Drakar får +5 Anf och +5 För."
-Fäktare	Varelsebonus: Swordsmen	Ökar Anfall- och Försvars-förmågan hos Fäktare eller Korsfarare för varje nivå efter nummer 4.
+Fäktare	Varelsebonus: Swordsmen	Ökar Anfalls- och Försvarsförmågan hos Fäktare eller Korsfarare för varje nivå efter nummer 4.
 Drakar	Varelsebonus: Drakar	"Alla Drakar får +5 Anf och +5 För."
-Resar	Varelsebonus: Resar	Ökar Anfall- och Försvars-förmågan hos Resar eller Bergsresar för varje nivå efter nummer 4.
+Resar	Varelsebonus: Resar	Ökar Anfalls- och Försvarsförmågan hos Resar eller Bergsresar för varje nivå efter nummer 4.
 Djävlar	Varelsebonus: Djävlar	"Djävlar och Ärkedjävlar får +4 Anf +2 För och +1 Hast."
 		 

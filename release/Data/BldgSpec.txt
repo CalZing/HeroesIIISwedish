@@ -1,110 +1,110 @@
-Fyr	Fyren ger ökad förflyttning till de fartyg som du kontrollerar.	
+Fyr	Fyren ger ökad mobilitet till de skepp som du kontrollerar.	
 Gripbastion	Gripbastionen ökar produktionen av gripar med 3 per vecka.	
 Gripbastion	Gripbastionen ökar produktionen av kungagripar med 3 per vecka.	
-Varv	Varvet låter dig köpa fartyg.	
-Stall	Stallet ökar förflyttningspoängen för besökande hjältar.	
-Svärdets Brödrarskap	"Under en belägring så ökar Svärdets Brödrarskap dina truppers moral med +2"	
+Varv	Med Varvet kan du köpa skepp.	
+Stall	Stallet höjer förflyttningstakten på land för besökande hjältar.	
+Svärdets Brödraskap	"Svärdets Brödraskap höjer truppmoralen med +2 under en belägring."	
 		
 		
 		
-Kolossen	"Kolossens närvaro ökar den veckoliga tillväxten av varelser med 50%, ökar din dagliga inkomst av guld med 5000, och ökar alla allierade hjältars moral med +2."	
-Resurssilo	Resurssilon förser dig med +ytterligare 1 trä och +1 malm varje dag.	
-Mystisk Damm	Den Mystiska Dammen producerar en liten mängd slumpade resurser varje vecka.	
-Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar produktionen av Dvärgar med 4 per vecka.	
-Gruvarbetarnas Riksförbund	Gruvarbetarnas Riksförbund ökar produktionen av Stridsdvärgar med 4 per vecka.	
+Kolossen	"Kolossens närvaro höjer den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och höjer alla allierade hjältars moral med +2."	
+Resurssilo	Resurssilon förser dig med ytterligare +1 trä och +1 malm varje dag.	
+Mystisk Damm	Den Mystiska Dammen producerar en slumpvis liten mängd resurser varje vecka.	
+Gruvarbetarförbundet	Gruvarbetarförbundet ökar produktionen av Dvärgar med 4 per vecka.	
+Gruvarbetarförbundet	Gruvarbetarförbundet ökar produktionen av Stridsdvärgar med 4 per vecka.	
 		
-Välgångens Fontän	Välgångens fontän ökar turen hos garnisonshjälten med +2 när den försvarar sig mot en belägring.	
-Skattkammare	Skattkammaren ger dig 10% ränta på det guld du har i början av varje vecka.	
+Välgångens Fontän	Välgångens fontän höjer turen hos garnisonshjälten med +2 vid försvar mot en belägring.	
+Skattkammare	Skattkammaren ger dig 10% ränta på det guld du har vid början av varje vecka.	
 		
 Dendroidstickling	Dendroidsticklingarna ökar produktionen av Dendroid Guard med 2 per vecka.	
 Dendroidstickling	Dendroidsticklingarna ökar produktionen av Dendroid Soldier med 2 per vecka.	
-Andeväktaren	"Närvaron av Andeväktaren ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och ökar alla allierade hjältars tur med +2."	
+Andeväktaren	"Andeväktarens närvaro höjer den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och höjer alla allierade hjältars tur med +2."	
 Resurssilo	Resurssilon förser dig med ytterligare +1 kristall varje dag.	
-Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
-Skulptörsvingar	Skulptörsvingar ökar produktionen av Stenfilurer med 4 per vecka.	
-Skulptörsvingar	Skulptörsvingar ökar produktionen av Obisdianfilurer med 4 per vecka.	
+Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter av Artefakthandlarna."	
+Skulptörsvingar	Skulptörsvingarna ökar produktionen av Stenfilurer med 4 per vecka.	
+Skulptörsvingar	Skulptörsvingarna ökar produktionen av Obisdianfilurer med 4 per vecka.	
 		
 Utsiktstorn	Utsiktstornet förlänger det synliga avståndet runt din stad.	
-Bibliotek	Biblioteket förser ditt magiskrå med ytterligare trollformler.	
-Kunskapens Vägg	Kunskapens vägg ökar Kunskapsnivån hos varje besökande hjälte med +1.	
+Bibliotek	Biblioteket förser ditt magikerskrå med ytterligare trollformler.	
+Kunskapens Vägg	Kunskapens vägg höjer Kunskapsnivån hos varje besökande hjälte med +1.	
 		
 		
-Luftskepp	"Luftskeppets närvaro ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag, avtäcker hela världskartan och ökar kunskapen hos en försvarande hjälte med +15 (Dessa trollformelspoäng följer inte med hjälten som lämnar staden)."	
+Luftskepp	"Luftskeppets närvaro höjer den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag, avtäcker hela världskartan och höjer kunskapen hos en försvarande hjälte med +15 (Dessa trollformelspoäng följer inte med hjälten som lämnar staden)."	
 Resurssilo	Resurssilon förser dig med ytterligare +1 ädelstenar varje dag.	
 		
-Födelsepöler	Födelsepoolerna ökar produktionen av Pukar med 8 per vecka.	
-Födelsepöler	Födelsepoolerna ökar produktionen av Bjäror med 8 per vecka.	
+Födelsepölar	Födelsepölarna ökar produktionen av Pukar med 8 per vecka.	
+Födelsepölar	Födelsepölerna ökar produktionen av Bjäror med 8 per vecka.	
 		
-Svavelstormsmoln	Svavelstormsmolnen höjer en ganrisonshjältes kraft med +2 vid belägringsförsvar.	
-Slottsport	Tillåter resor mellan Infernostäder som innehåller Slottsportar. Destinationsstaden måste vara oupptagen.	
-Eldsorden	Eldsorden ökar trollformelskaften hos varje besökande hjälte med +1.	
+Svavelstormsmoln	Svavelstormsmolnen höjer en garnisonshjältes styrka med +2 vid belägringsförsvar.	
+Slottsport	Tillåter resor mellan Infernostäder som innehåller Slottsportar. Destinationsstaden måste vara obesatt.	
+Eldsorden	Eldsorden höjer styrkeförmågan hos varje besökande hjälte med +1.	
 Burar	Burarna ökar produktionen av Helvetshundar Hound med 3 per vecka.	
 Burar	Burarna ökar produktionen av Cerberi med 3 per vecka.	
-Eldens Gudom	Närvaron av Eldens Gudom ökar den veckoliga varelsegenereringen med 50% och tillgodoser ditt imperie med ytterligare 5000 guld varje dag. Varje vecka kommer hädanefter att vara Pukens vecka.	
+Eldens Gudom	Närvaron av Eldens Gudom höjger den veckoliga varelsegenereringen med 50% och tillgodoser ditt imperie med ytterligare 5000 guld varje dag. Varje vecka kommer hädanefter att vara Pukens vecka.	
 Resurssilo	Resurssilon förser dig med ytterligare +1 kvicksilver varje dag.	
 Mörkertäcke	Mörkertäcket täcker din stad i ett permanent hölje för alla andra spelare.	
 Skändade Gravar	De Skändade Gravarna ökar produktionen av Skelett med 6 per vecka.	
 Skändade Gravar	De Skändade Gravarna ökar produktionen av Skelettkrigare med 6 per vecka.	
-Varv	Varvet låter dig köpa fartyg.	
-Nekromantiförstärkare	Nekromantiförstärkaren ökar Nekromantiförmågan hos alla de hjältar du kontrollerar (med Nekromantiförmågan) med 10%.	
+Varv	Med Varvet kan du köpa skepp.	
+Nekromantiförstärkare	Nekromantiförstärkaren höjer Nekromantiförmågan hos alla de hjältar du kontrollerar (med Nekromantiförmågan) med 10%.	
 Skelettransformator	Skelettransformatorn låter dig konvertera vilken varelse som helst till ett skelett.	
 		
 		
 		
-Själafängelse	"Närvaron av Själafängelset ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt imperie med ytterligare 5000 guld varje dag och höjer nekromantiförmågan hos alla allierade hjältar (som innehar förmågan) med 20%."	
+Själafängelse	"Närvaron av Själafängelset höjer den veckoliga varelsegenereringen med 50%, tillgodoser ditt imperie med ytterligare 5000 guld varje dag och höjer nekromantiförmågan hos alla allierade hjältar (som innehar förmågan) med 20%."	
 Resurssilo	Resurssilon förser dig med ytterligare +1 trä och +1 malm varje dag.	
-Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
+Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter av Artefakthandlarna."	
 Svampringar	Svampringarna ökar produktionen av Troglodyter med 7 per vecka.	
 Svampringar	Svampringarna ökar produktionen av Infernaliska Troglodyter med 7 per vecka.	
 		
-Manavirvel	Manavirveln dubblar temporärt trollformelspoängen hos en garnisons- eller besökarhjälte.	
+Manavirvel	Manavirveln dubblerar temporärt trollformelspoängen hos en garnisons- eller besökarhjälte.	
 Åkallandeportal	"Med åkallandeportalen kan du rekrytera varelse från ett utomstående flaggat bo."	
-Stridsmästarakademien	Stridsamästarakademien lär nya förmågor till varje hjälte (+1000 erfarenhet) en gång.	
+Stridsmästarakademien	Stridsamästarakademien lär ut nya förmågor till varje hjälte (+1000 erfarenhet) en gång.	
 		
 		
-Jordens Väktare	"Närvaron av Jordens Väktare ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt imperie med ytterligare 5000 guld varje dag och ökar Kraftförmågan hos en garnisonshjälte med +12 vid försvar mot en belägring."	
-Resurssilo	Resurssilon förser dig med ytterligare +1 kvicksilver varje dag.	
+Jordens Väktare	"Närvaron av Jordens Väktare ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt imperie med ytterligare 5000 guld varje dag och höjer Styrkeförmågan hos en garnisonshjälte med +12 vid försvar mot en belägring."	
+Resurssilo	Resurssilon förser dig med ytterligare +1 svavel varje dag.	
 Flykttunnel	Flykttunneln låter en garnisonshjälte fly från försvarandet av en belägring.	
 Skräphall	Skräphallen ökar produktionen av Kobolder med 8 per vecka.	
 Skräphall	Skräphallen ökar produktionen av Hobkobolder med 8 per vecka.	
 		
 Frilansarskrå	Frilansarskrået låter dig byta varelser mot resurser.	
 Ballistagård	Denna smedjeuppgradering förser dina arméer med ballistor.	
-Valhallahallen	Valhallahallen ökar Anfallsförmågan hos en besökande hjälte med +1.	
+Valhallahallen	Valhallahallen höjer Anfallsförmågan hos en besökande hjälte med +1.	
 		
 		
-Krigsherrarnas Monument	"Närvaron av Krigsherrarnas Monument ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och ökar Anfallsförmågan hos en garnisonsjälte med +20 vid försvar mot en belägring."	
+Krigsherrarnas Monument	"Närvaron av Krigsherrarnas Monument höjer den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och höjer Anfallsförmågan hos en garnisonsjälte med +20 vid försvar mot en belägring."	
 Resurssilo	Resurssilon förser dig med ytterligare +1 trä och +1 malm varje dag.	
-Krigsherrarnas Bur	Krigsherrarnas Bur ökar försvarsförmågan hos varje besökande hjälte med +1.	
-Kaptenskvarteren	Kaptenskarteren ökar produktionen av Krokutaurer med 6 per vecka.	
-Kaptenskvarteren	Kaptenskarteren ökar produktionen av Krokutaurmarodörer med 6 per vecka.	
-Varv	Varvet låter dig köpa fartyg.	
+Krigsherrarnas Bur	Krigsherrarnas Bur höjer försvarsförmågan hos varje besökande hjälte med +1.	
+Kaptenskvarteren	Kaptenskvarteren ökar produktionen av Krokutaurer med 6 per vecka.	
+Kaptenskvarteren	Kaptenskvarteren ökar produktionen av Krokutaurmarodörer med 6 per vecka.	
+Varv	Med Varvet kan du köpa skepp.	
 Skräckskåran	Skräckskåran adderar +2 till en garnisonshjältes försvarsförmåga vid försvar mot en belägring.	
 Blodobelisk	Närvaron av en Blodobelisk adderar +2 till en garnisonshjältes anfallsförmåga vid försvar mot en belägring.	
 		
 		
 		
-Köttätande Växt	"Närvaron av den Köttändande Växten ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och ökar Anfalls- och Försvarsstyrkan hos en garnisonshäjlte med +10 vardera vid försvar mot en belägring."	
+Köttätande Växt	"Närvaron av den Köttändande Växten höjer den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och höjer Anfalls- och Försvarsstyrkan hos en garnisonshäjlte med +10 vardera vid försvar mot en belägring."	
 Resurssilo	Resurssilon förser dig med +1 trä och +1 malm varje dag.	
-Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
+Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlarna."	
 Livets Trädgård	Denna byggnad ökar den veckoliga produktionen av Älvor med 10 per vecka.	
 Livets Trädgård	Denna byggnad ökar den veckoliga produktionen av Diser med 10 per vecka.	
-Varv	Varvet låter dig köpa fartyg.	
+Varv	Med Varvet kan du köpa skepp.	
 Magiuniversitet	"På Magiuniversitet kan man betala för att lära sig någon, eller alla, av de fyra magiskolorna."	
 		
 		
 		
 		
-Norrsken	"Norrskenets närvaro ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och placerar alla trollformler i ditt magiskrå."	
+Norrsken	"Norrskenets närvaro höjer den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag och placerar alla trollformler i ditt magiskrå."	
 Resurssilo	Resurssilon förser dig med ytterligare +1 kvicksilver varje dag.	
-Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren"	
+Artefakthandlare	"Mot en nominell avgift kan du köpa artefakter från Artefakthandlaren."	
 Level 1 Creature Horde	This structure increases weekly production of Level 1 Creatures.	
 Level 2 Creature Horde	This structure increases weekly production of Level 2 Creatures.	
-Varv	Varvet låter dig köpa fartyg.	
+Varv	Med Varvet kan du köpa skepp.	
 		
 		
 Level 3 Creature Horde	This structure increases weekly production of Level 3 Creatures.	
 Level 4 Creature Horde	This structure increases weekly production of Level 4 Creatures.	
 Level 5 Creature Horde	This structure increases weekly production of Level 5 Creatures.	
-Grail	"The presence of the Grail ökar den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag, and provides an additional bonus unique to each town type."	
+Gral	"Gralens närvaro höjer den veckoliga varelsegenereringen med 50%, tillgodoser ditt kungadöme med ytterligare 5000 guld varje dag, coh ger en ytterligare unik bonus veroende på stadstyp."	
 Resource Silo	The Resource Silo provides you with an additional resource ore each day.	
