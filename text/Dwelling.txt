@@ -60,7 +60,7 @@ Själarnas Grav	Själarnas Grav låter dig rekrytera Gastar.
 Gods	Med Godset kan du rekrytera Vampyrer.
 Mausoleum	Med Mausoléet kan du rekrytera Lichar.
 Mörkrets Sal	Mörkrets Sal låter dig rekrytera Svartriddare.
-Darkvalv	Med Drakvalvet kan du rekrytera Bendrakar.
+Drakvalv	Med Drakvalvet kan du rekrytera Bendrakar.
 Uppg. Förbannat Tempel	Med det Förbannade Templet kan du rekrytera Skelettkrigare.
 Uppg. Kyrkogård	Med Kyrkogården kan du rekrytera Draugar.
 Uppg. Själarnas Grav	Med Själsgraven kan du rekrytera Vålnader.
@@ -68,14 +68,14 @@ Uppg. Gods	Med Godset kan du rekrytera Vampyrherrar.
 Uppg. Mausoleum	Med Mausoléet kan du rekrytera Häxmästare.
 Uppg. Mörkrets sal	Mörkrets Sal låter dig rekrytera Skräckriddare.
 Uppg. Drakvalv	Med Drakvalvet kan du rekrytera Spökdrakar.
-Grottstad	Med Grottastaden kan du rekrytera Troglodyter.
+Grottstad	Med Grottstaden kan du rekrytera Troglodyter.
 Fågelbo	Med Fågelboet kan du rekrytera Harpyor.
 Ögonpelare	Med Ögonpelaren kan du rekrytera Åskådare.
 Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusor.
 Labyrint	Med Labyrinten kan du rekrytera Minotaurer.
 Mantikornäste	Med Mantikornästet kan du rekrytera Mantikoror.
 Drakgrotta	Med Drakgrottan kan du rekrytera Röddrakar.
-Uppg. Grottstaa	Med Grottastadenn kan du rekrytera Infernaliska Troglodyter.
+Uppg. Grottstad	Med Grottstaden kan du rekrytera Infernaliska Troglodyter.
 Uppg. Fågelbo	Med Fågelboet kan du rekrytera Vildvittror.
 Uppg. Ögonpelare	Med Ögonpelaren kan du rekrytera Onda Ögon.
 Uppg. Tysta Rösternas Kapell	Tysta Rösternas Kapell låter dig rekrytera Medusadrottningar.
@@ -92,7 +92,7 @@ Behemotklippa	Med Behemotklippann kan du rekrytera Behemoter.
 Uppg. Koboldbarack	Med Koboldbaracken kan du rekrytera Hobkobolder.
 Uppg. Vargfålla	Med Vargfållan kan du rekrytera Vargplundrare.
 Uppg. Orchtorn	Med Orchtornet kan du rekrytera Orchöverhuvuden.
-Uppg. Resecentrum	Med Resecentret kan du rekrytera Bergsresar.
+Uppg. Resecentrum	Med Resecentret kan du rekrytera Reseledare.
 Uppg. Klippnäste	Med Klippnästet kan du rekrytera Åskfåglar.
 Uppg. Cyklopgrotta	Med Cyklopgrottan kan du rekrytera Cyklopkungar.
 Uppg. Behemotklippa	Med Behemotklippan kan du rekrytera Urtida Behemoter.

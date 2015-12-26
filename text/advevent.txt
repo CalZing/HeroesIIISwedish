@@ -138,10 +138,10 @@ Du har hittat en gammal vindpinad stenstod.  Att kyssa den sägs ge tur och lyck
 Du har hittat en gammal vindpinad stenstod. Den ska visst ge tur och lycka till sina besökare, men eftersom stjärnorna redan lyser över dig händer ingenting."
 "{Vindskydd}
 
-Du hittar ett gammalt vindskydd. När du letar runt så hittar du en liten skatt gömd bakom."
+Du hittar ett gammalt vindskydd.  När du letar runt så upptäcker du några resurser i närområdet."
 "{Vindskydd}
 
-Det här vindskyddet har varit övergivet länge. Här finns inget att hämta."
+Det här vindskyddet har varit övergivet länge.  Här finns inget att hämta."
 "{Upplysningens Bibliotek}
 
 Vaktmästaren släpper in dig till Upplysningens bibliotek. Du får lära dig mycket under den korta tid du spenderar här."
@@ -316,7 +316,7 @@ Ett besök i templet gör att moralen ökar bland dina trupper."
 Det hjälper faktiskt inte att be två gånger innan en strid.  Kom tillbaka en annan dag."
 "{Tjuvtillhåll}
 
-När du letar igenom undervegetationen finner du en hemlig ingång till ett tjuvtillhåll.  En gammal ""vänn"" berättar allt han lärt sig sedan ert senaste möte."
+När du letar igenom undervegetationen finner du en hemlig ingång till ett tjuvtillhåll.  En gammal ""vän"" berättar allt han lärt sig sedan ert senaste möte."
 "{Lärandesten}
 
 En flat sten på denna pelaren börjar lysa och bete sig konstigt när du närmar dig.  När du ser på den förbluffas du över svar på frågor som har gäckat dig i flera år.  Stenen slutar lysa, men du inser att du lärt dig mycket."

@@ -161,13 +161,13 @@ Grundläggande Offensiv ökar dina truppers slagkraft med 10%."	"{Avancerad Offe
 Avancerad Offensiv ökar dina truppers slagkraft med 20%."	"{Mästerlig Offense}
 
 Mästerlig Offensiv ökar dina truppers slagkraft med 30%."
-Rustningsmide	"{Grundläggande Rustningsmide}
+Rustningssmide	"{Grundläggande Rustningssmide}
 
-Grundläggande Rustningsmide reducerar all skada som vållas dina trupper med 5%."	"{Avancerat Rustningsmide}
+Grundläggande Rustningssmide reducerar all skada som vållas dina trupper med 5%."	"{Avancerat Rustningsmide}
 
-Avancerat Rustningsmide reducerar all skada som vållas dina trupper med 10%."	"{Mästerligt Rustningsmide}
+Avancerat Rustningssmide reducerar all skada som vållas dina trupper med 10%."	"{Mästerligt Rustningsmide}
 
-Mästerligt Rustningsmide reducerar all skada som vållas dina trupper med 15%."
+Mästerligt Rustningssmide reducerar all skada som vållas dina trupper med 15%."
 Intelligens	"{Grundläggande Intelligens}
 
 Grundläggande Intelligens ökar din hjältes maximala mängd trollformelspoäng med 25%."	"{Avancerad Intelligens}

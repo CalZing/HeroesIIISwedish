@@ -229,13 +229,13 @@ Alla populationer halveras."
 Alla bons populationer ökar."
 "Astrologer utlyser %sveckan.
 
-bon med %s växer +5.
+Bon med %s växer +5.
 
 Alla bons populationer ökar."
 "Astrologer utlyser %sveckan.
 
-%s växer med %+d.
-%s växer med %+d.
+Bon med %s växer %+d.
+Bon med %s växer %+d.
 
 Alla bons populationer ökar."
 cMapSize

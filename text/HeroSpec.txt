@@ -16,7 +16,7 @@ Munkar	Varelsebonus: Munkar	Ökar Anfalls- och Försvarsförmågan hos Munkar el
 Skarpsynthet	Sekundärförmågebonus Skarpsynthet	Får en 5% bonus till Skarpsynthetsförmågan för varje nivå.
 Bön	Trollformelsbonus: Bön	"Kasta Bön med ökad effekt, baserat på hjältens nivå jämfört med nivån på varelsen den kastas på (bonusen är alltså större på svagare enheter)."
 +350 Guld	+350 Guld varje dag	Höjer kungadömmets inkomster med 350 guld om dagen.
-Rustningssmide	Sekundärförmågebonus Rustningssmide	Får en 5% bonus till Rustningssmidesförmågan för varje nivå.
+Rustningsssmide	Sekundärförmågebonus Rustningssmide	Får en 5% bonus till Rustningssmidesförmågan för varje nivå.
 Dvärgar	Varelsebonus: Dvärgar	Ökar Anfalls- och Försvarsförmågan hos Dvärgar eller Stridsdvärgar för varje nivå efter nummer 2.
 +350 Gold	+350 Guld varje dag	Höjer kungadömets inkomster med 350 guld per dag.
 Dendroider	Varelsebonus: Dendroider	Ökar Anfalls- och Försvarsförmågan hos Dendroidervakter eller Dendroidsoldater för varje nivå efter nummer 5.
@@ -144,7 +144,7 @@ Blodtörst	Trollformelsbonus: Blodtörst	"Kasta Blodtörst med ökad effekt, bas
 Störande stråle	Trollformelsbonus: Störande stråle	"Störande strålens effekt ökar med +2 när den kastas."
 +350 Guld	+350 Guld varje dag	Höjer Kungadömets inkomster med +350 guld per dag.
 +350 Guld	+350 Guld varje dag	Höjer Kungadömets inkomster med +350 guld per dag.
-Hastighet	Varelsebonus: Hastighet	Alla varelser får +2 i Snabbhet.
+Snabbhet	Varelsebonus: Hastighet	Alla varelser får +2 i Snabbhet.
 Eldmagi	Sekundärförmågebonus Mäs. Eldmagi	Börjar med Mästerlig Eldmagi.
 Fäktare	Varelsebonus: Fäktare	Ökar Anfalls- och Försvarsförmågan hos Fäktare eller Korsfarare för varje nivå efter nummer 4.
 Förtrollare	Varelsebonus: Förtrollare	Kan uppgradera Munkar och Seloter till Förtrollare.
