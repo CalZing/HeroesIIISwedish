@@ -9,7 +9,7 @@ Text:
 
 | Engelsk       | Påbörjad      | Klar         |
 | ------------- |:-------------:| ------------:|
-|               | artevent.txt (Alexander) |               |
+|               | artevent.txt (Alexander), (Påbörjades igen 2024 av Maurycy) |               |
 | HeroBios.txt  |               |              |
 
 Grafik:
