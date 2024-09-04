@@ -35,7 +35,7 @@ Town          | Stad
 Cause         | Förmå/Låta/Orsaka/Vålla
 Inflict       | Åsamka/Vålla/Tillfoga
 Friendly      | Vänskapliga
-Ranged        | Skotthåll
+Ranged        | Skotthåll/Skjuta på distans
 
 Redigering
 ----------
