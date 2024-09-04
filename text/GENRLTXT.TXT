@@ -3,7 +3,7 @@ Can't add manager!
 %s kan ej erhålla mer erfarenhet i detta scenario.
 "{Nivå %d}
 
-{Nästa nivå} %d
+{Nästa nivå:} %d
 {Nuvarande Erfarenhet:} %d"
 %d/dag
 eller
